@@ -1,0 +1,1961 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-15T14:44:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 272380798,
+  "lat": 31.5418845,
+  "lon": 74.3505965,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2406886867,
+  "lat": 31.5717696,
+  "lon": 74.4745342,
+  "tags": {
+    "name": "Jallo Park",
+    "tourism": "zoo",
+    "wikidata": "Q6126895",
+    "wikimedia_commons": "Category:Botanical Garden Jallo",
+    "wikipedia": "en:Jallo Park",
+    "zoo": "wildlife_park"
+  }
+},
+{
+  "type": "node",
+  "id": 2944220275,
+  "lat": 31.5566749,
+  "lon": 74.3256959,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Mall Road",
+    "name": "Lahore Zoo",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 2953015786,
+  "lat": 31.5721495,
+  "lon": 74.3188112,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Gawal Mandi Food Street",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3260928499,
+  "lat": 31.5681162,
+  "lon": 74.3094235,
+  "tags": {
+    "name": "Lahore City Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3536372103,
+  "lat": 31.5061218,
+  "lon": 74.3329834,
+  "tags": {
+    "name": "Mini Joy Land",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 3823155131,
+  "lat": 31.6066751,
+  "lon": 74.2933514,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Kamran Bara Dari",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4107858591,
+  "lat": 31.4503723,
+  "lon": 74.2952193,
+  "tags": {
+    "name": "Owais Qarni Park",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4170047791,
+  "lat": 31.5727912,
+  "lon": 74.3067963,
+  "tags": {
+    "name": "Oval",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4170047989,
+  "lat": 31.5744199,
+  "lon": 74.3071203,
+  "tags": {
+    "name": "Old Building Erected 1858",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4282247691,
+  "lat": 31.4671849,
+  "lon": 74.3071579,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "College Road",
+    "name": "Railway Reservation Office",
+    "opening_hours": "Mo-Fr 08:00-22:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4282268703,
+  "lat": 31.4676215,
+  "lon": 74.3069107,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Maulana Shaukat Ali Road",
+    "name": "Jalal-ud-Din Akbar Chowk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4282462889,
+  "lat": 31.4698149,
+  "lon": 74.2728273,
+  "tags": {
+    "addr:street": "Johar Town",
+    "name": "Khokhar Chowk",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4303477589,
+  "lat": 31.4747336,
+  "lon": 74.3457313,
+  "tags": {
+    "name": "Nabin Home",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4340777290,
+  "lat": 31.5734530,
+  "lon": 74.3062943,
+  "tags": {
+    "name": "Love Garden ❤",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4387255591,
+  "lat": 31.4867732,
+  "lon": 74.2930936,
+  "tags": {
+    "name:en": "Underpass 2",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4492363091,
+  "lat": 31.4602270,
+  "lon": 74.3718193,
+  "tags": {
+    "addr:housenumber": "33-E",
+    "addr:postcode": "54000",
+    "addr:street": "Punjab Socity",
+    "name": "Warraich House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4503685692,
+  "lat": 31.5488266,
+  "lon": 74.3150147,
+  "tags": {
+    "name": "Mazang",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503712890,
+  "lat": 31.5230195,
+  "lon": 74.3481659,
+  "tags": {
+    "name": "CITY TOWER",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503721190,
+  "lat": 31.5380964,
+  "lon": 74.2634106,
+  "tags": {
+    "name": "Sheera Kot",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503730190,
+  "lat": 31.4692335,
+  "lon": 74.2986728,
+  "tags": {
+    "name": "ALLAH HOO",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503730191,
+  "lat": 31.4480304,
+  "lon": 74.2699560,
+  "tags": {
+    "name": "SHAUKAT KHANUM",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503730192,
+  "lat": 31.5316461,
+  "lon": 74.3656879,
+  "tags": {
+    "name": "FORTRESS",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503730194,
+  "lat": 31.4502329,
+  "lon": 74.2428263,
+  "tags": {
+    "direction": "320",
+    "name": "To M2",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503751089,
+  "lat": 31.4665530,
+  "lon": 74.2857230,
+  "tags": {
+    "name": "ISES",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503751090,
+  "lat": 31.4621530,
+  "lon": 74.2678470,
+  "tags": {
+    "name": "HR",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503751489,
+  "lat": 31.4720219,
+  "lon": 74.2404280,
+  "tags": {
+    "name": "Thokar",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503795189,
+  "lat": 31.6084863,
+  "lon": 74.2959979,
+  "tags": {
+    "name": "RAVI PULL",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503795390,
+  "lat": 31.4955749,
+  "lon": 74.2640142,
+  "tags": {
+    "name": "M Chungi",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503795489,
+  "lat": 31.4853224,
+  "lon": 74.2975517,
+  "tags": {
+    "name": "JINNAH",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503795595,
+  "lat": 31.4782817,
+  "lon": 74.3080576,
+  "tags": {
+    "name": "KOTHA PIND",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503795790,
+  "lat": 31.5955330,
+  "lon": 74.2404800,
+  "tags": {
+    "name": "Power Plant",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503795889,
+  "lat": 31.5926610,
+  "lon": 74.2267860,
+  "tags": {
+    "name": "F-713",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503796497,
+  "lat": 31.5925123,
+  "lon": 74.3032005,
+  "tags": {
+    "name": "Kasur pura",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503796498,
+  "lat": 31.5206506,
+  "lon": 74.3262095,
+  "tags": {
+    "name": "Fairoz pur",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503796503,
+  "lat": 31.5291985,
+  "lon": 74.3596785,
+  "tags": {
+    "name": "شیرپاؤ",
+    "name:en": "Sheerpao",
+    "name:ur": "شیرپاؤ",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503809992,
+  "lat": 31.6087404,
+  "lon": 74.3956802,
+  "tags": {
+    "name": "Mahmood Booti",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503809993,
+  "lat": 31.5443385,
+  "lon": 74.2952272,
+  "tags": {
+    "name": "Samanabad",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503810000,
+  "lat": 31.4511450,
+  "lon": 74.3097970,
+  "tags": {
+    "name": "XEN Wapda",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503810097,
+  "lat": 31.5451798,
+  "lon": 74.3495004,
+  "tags": {
+    "name": "MALL",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503810197,
+  "lat": 31.5002903,
+  "lon": 74.3177221,
+  "tags": {
+    "name": "BARKAT M",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503810198,
+  "lat": 31.5716231,
+  "lon": 74.2849599,
+  "tags": {
+    "name": "Sagian interchange",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503810290,
+  "lat": 31.5872535,
+  "lon": 74.4045413,
+  "tags": {
+    "name": "Daroghawala",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4503820890,
+  "lat": 31.6083199,
+  "lon": 74.2497387,
+  "tags": {
+    "name": "Phool Mandi",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4539426790,
+  "lat": 31.4795075,
+  "lon": 74.3902629,
+  "tags": {
+    "name": "Baby Baji Home",
+    "name:en": "Baby Baji Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4591192489,
+  "lat": 31.5014351,
+  "lon": 74.3779050,
+  "tags": {
+    "name": "Ghora Chowk",
+    "name:en": "Ghora Chowk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4659500092,
+  "lat": 31.4431500,
+  "lon": 74.2943434,
+  "tags": {
+    "name": "Butt Chowk",
+    "name:en": "Butt Chowk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4704670265,
+  "lat": 31.4862600,
+  "lon": 74.3835580,
+  "tags": {
+    "name:en": "DHA Office ph1",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4704694321,
+  "lat": 31.4875210,
+  "lon": 74.4120820,
+  "tags": {
+    "name:en": "Bhatta chowk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4830902823,
+  "lat": 31.5632014,
+  "lon": 74.3202466,
+  "tags": {
+    "name": "Laxmi Mansion",
+    "name:en": "Laxmi Mansion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4880181621,
+  "lat": 31.4697469,
+  "lon": 74.2966420,
+  "tags": {
+    "name": "home taya abu",
+    "name:en": "home taya abu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4916640090,
+  "lat": 31.5057811,
+  "lon": 74.3304671,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ferozepur Road",
+    "name": "Abdul Rehman Chughtai Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4933931922,
+  "lat": 31.5854032,
+  "lon": 74.3844357,
+  "tags": {
+    "name": "Entrance",
+    "name:en": "Entrance",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4933932121,
+  "lat": 31.5869385,
+  "lon": 74.3835573,
+  "tags": {
+    "name": "East Entrance",
+    "name:en": "unofficial entrance",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4933932122,
+  "lat": 31.6226135,
+  "lon": 74.2932509,
+  "tags": {
+    "name": "Entry gate",
+    "name:en": "Entry gate",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4945580524,
+  "lat": 31.5525147,
+  "lon": 74.3625327,
+  "tags": {
+    "name": "Ahle Hadees Masjid",
+    "name:en": "Ahle Hadees Masjid",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5001452727,
+  "lat": 31.5702242,
+  "lon": 74.3111817,
+  "tags": {
+    "name": "Bashir p/s",
+    "name:en": "Bashir p/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5001453228,
+  "lat": 31.5702717,
+  "lon": 74.3110440,
+  "tags": {
+    "name": "Molvi jameel k/s",
+    "name:en": "Molvi jameel k/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5001453229,
+  "lat": 31.5708060,
+  "lon": 74.3096428,
+  "tags": {
+    "name": "Arbaz g/s",
+    "name:en": "Arbaz g/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5013337825,
+  "lat": 31.5736426,
+  "lon": 74.3152075,
+  "tags": {
+    "name": "Islam g/s",
+    "name:en": "Islam g/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5013338021,
+  "lat": 31.5798834,
+  "lon": 74.3261464,
+  "tags": {
+    "addr:city": "لاہور",
+    "addr:street": "سرکلر روڈ",
+    "name": "ناصر پی/ایس",
+    "name:en": "Nasir P/S",
+    "name:ur": "ناصر پی/ایس",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027798123,
+  "lat": 31.5795684,
+  "lon": 74.3180018,
+  "tags": {
+    "name": "Hajvary h/w",
+    "name:en": "Hajvary h/w",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027798124,
+  "lat": 31.5796075,
+  "lon": 74.3178061,
+  "tags": {
+    "name": "Acha p/s",
+    "name:en": "Acha p/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027808026,
+  "lat": 31.5703470,
+  "lon": 74.3254205,
+  "tags": {
+    "name": "Shoaib p/s",
+    "name:en": "Shoaib p/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027815028,
+  "lat": 31.5710715,
+  "lon": 74.3276773,
+  "tags": {
+    "name": "Majid k/s",
+    "name:en": "Majid k/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027815029,
+  "lat": 31.5710884,
+  "lon": 74.3185554,
+  "tags": {
+    "name": "Qasim p/s",
+    "name:en": "Qasim p/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027816825,
+  "lat": 31.5788351,
+  "lon": 74.3196285,
+  "tags": {
+    "name": "Tayya Majeed",
+    "name:en": "Tayya Majeed",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027822023,
+  "lat": 31.5720849,
+  "lon": 74.3266927,
+  "tags": {
+    "name": "Baba Sadiq p/s",
+    "name:en": "Baba Sadiq p/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027822024,
+  "lat": 31.5698902,
+  "lon": 74.3184209,
+  "tags": {
+    "name": "Malik Barkat",
+    "name:en": "Malik Barkat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5027823521,
+  "lat": 31.5714969,
+  "lon": 74.3219970,
+  "tags": {
+    "name": "kashif p/s",
+    "name:en": "kashif p/s",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5102442992,
+  "lat": 31.5823395,
+  "lon": 74.3176742,
+  "tags": {
+    "addr:housenumber": "535",
+    "addr:postcode": "54000",
+    "addr:street": "Gai Arayan",
+    "name": "Mehar Das Qulcha",
+    "opening_hours": "Mo-Su 05:00-11:00",
+    "phone": "03224442101",
+    "restaurant": "yes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5102502706,
+  "lat": 31.5857218,
+  "lon": 74.3033505,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5131381021,
+  "lat": 31.5633086,
+  "lon": 74.4223417,
+  "tags": {
+    "name": "Taj Bagh housing scheme Gulfishar Street checkpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5167082026,
+  "lat": 31.5746415,
+  "lon": 74.4754935,
+  "tags": {
+    "name": "Jallo Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5190390724,
+  "lat": 31.5221746,
+  "lon": 74.3790477,
+  "tags": {
+    "addr:postcode": "54000",
+    "addr:street": "Abid Majeed Road",
+    "name": "Girja Chowk",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5252199609,
+  "lat": 31.5139662,
+  "lon": 74.3524385,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ghalib Road",
+    "name": "Ejaz Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5323556322,
+  "lat": 31.5906013,
+  "lon": 74.3386489,
+  "tags": {
+    "name": "asad tobecco atif sm",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5370539821,
+  "lat": 31.4128328,
+  "lon": 74.2640573,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5735656290,
+  "lat": 31.5897466,
+  "lon": 74.3131164,
+  "tags": {
+    "name": "شاہ برج چوکور",
+    "name:en": "Shah Burj Quadrangle",
+    "name:hi": "शाह बुर्ज चतुर्भुज",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5735656296,
+  "lat": 31.5874916,
+  "lon": 74.3151782,
+  "tags": {
+    "name": "Diwan-i-Aam Quadrangle",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5737713722,
+  "lat": 31.5313327,
+  "lon": 74.3984409,
+  "tags": {
+    "fee": "yes",
+    "name": "Army Museum Lahore",
+    "tourism": "museum",
+    "website": "https://armymuseumlahore.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5738447691,
+  "lat": 31.5892883,
+  "lon": 74.3146202,
+  "tags": {
+    "name": "Shah Jahan Quadrangle",
+    "name:hi": "शाहजहाँ चतुर्भुज",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5738493233,
+  "lat": 31.5888848,
+  "lon": 74.3155787,
+  "tags": {
+    "name": "جہانگیر بارہ دری",
+    "name:en": "Jehangir Quadrangle",
+    "name:hi": "जहांगीर चतुर्भुज",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5744984258,
+  "lat": 31.5896578,
+  "lon": 74.3135741,
+  "tags": {
+    "name": "Ranjit Singh Court",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5799456653,
+  "lat": 31.4631755,
+  "lon": 74.4289028,
+  "tags": {
+    "name": "Askari XI  Flats",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5801832253,
+  "lat": 31.4482871,
+  "lon": 74.2912168,
+  "tags": {
+    "name": "رحمة للعٰلمین پارک",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5835322544,
+  "lat": 31.5750713,
+  "lon": 74.3132456,
+  "tags": {
+    "name": "Old Bansi Temple",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6221318686,
+  "lat": 31.4648663,
+  "lon": 74.2611479,
+  "tags": {
+    "name": "Expo Center",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6322967386,
+  "lat": 31.4713992,
+  "lon": 74.3448718,
+  "tags": {
+    "name": "Pico Road",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6322967387,
+  "lat": 31.4662096,
+  "lon": 74.2468083,
+  "tags": {
+    "name": "KSS Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6322967388,
+  "lat": 31.4565381,
+  "lon": 74.2537153,
+  "tags": {
+    "name": "Rana Waseem WH",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6322972788,
+  "lat": 31.5402021,
+  "lon": 74.2635120,
+  "tags": {
+    "name": "Sheera kote",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6322973285,
+  "lat": 31.5358029,
+  "lon": 74.3410218,
+  "tags": {
+    "name": "جیل روڈ",
+    "name:ar": "طريق السجن",
+    "name:en": "Jail Road",
+    "name:ur": "جیل روڈ",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6322973286,
+  "lat": 31.4767073,
+  "lon": 74.3817557,
+  "tags": {
+    "name": "DHA security Office Z Block ph3",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6322973485,
+  "lat": 31.4610604,
+  "lon": 74.2472722,
+  "tags": {
+    "name": "TT Regar House",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390375487,
+  "lat": 31.4435681,
+  "lon": 74.3277949,
+  "tags": {
+    "name": "Expeditors Ufone WH",
+    "tourism": "viewpoint",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6390375488,
+  "lat": 31.4585474,
+  "lon": 74.2750060,
+  "tags": {
+    "name": "Farukh bhai",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377987,
+  "lat": 31.5354590,
+  "lon": 74.3410413,
+  "tags": {
+    "name": "جیل روڈ",
+    "name:ar": "طريق السجن",
+    "name:en": "Jail Road",
+    "name:ur": "جیل روڈ",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377988,
+  "lat": 31.5171308,
+  "lon": 74.3479259,
+  "tags": {
+    "name": "Ufone MSC New",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377989,
+  "lat": 31.5339211,
+  "lon": 74.3343122,
+  "tags": {
+    "name": "Netkom Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377990,
+  "lat": 31.4780527,
+  "lon": 74.2862396,
+  "tags": {
+    "name": "TT Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377991,
+  "lat": 31.4610104,
+  "lon": 74.2472018,
+  "tags": {
+    "name": "TT Regar House",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377992,
+  "lat": 31.4470395,
+  "lon": 74.3204326,
+  "tags": {
+    "name": "Hamdard Chowk",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377993,
+  "lat": 31.4565346,
+  "lon": 74.2531602,
+  "tags": {
+    "name": "Rana Waseem WH",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377994,
+  "lat": 31.4696718,
+  "lon": 74.2920884,
+  "tags": {
+    "name": "Spine Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390378685,
+  "lat": 31.4628152,
+  "lon": 74.3043052,
+  "tags": {
+    "name": "CME Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6390378686,
+  "lat": 31.4620229,
+  "lon": 74.2228130,
+  "tags": {
+    "name": "Etimad visa center",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6562819185,
+  "lat": 31.4760928,
+  "lon": 74.3204609,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Lane 55",
+    "name": "24-F",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6808341786,
+  "lat": 31.5702106,
+  "lon": 74.3111428,
+  "tags": {
+    "name": "Anarkali Street Market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6810917885,
+  "lat": 31.4410480,
+  "lon": 74.3249721,
+  "tags": {
+    "name": "Ishaq Sons Factory",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6865999286,
+  "lat": 31.4846940,
+  "lon": 74.3021859,
+  "tags": {
+    "name": "PT Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6965313985,
+  "lat": 31.4618987,
+  "lon": 74.2457911,
+  "tags": {
+    "name": "IES Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6969821788,
+  "lat": 31.4607635,
+  "lon": 74.2486981,
+  "tags": {
+    "name": "Safaa Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7116277007,
+  "lat": 31.5870311,
+  "lon": 74.3821182,
+  "tags": {
+    "alt_name": "شالامار گارڈن",
+    "alt_name:ur": "شالامار گارڈن",
+    "name": "شالامار باغ",
+    "name:ar": "حدائق شاليمار",
+    "name:be": "Сады Шалімара",
+    "name:de": "Shalimar-Gärten",
+    "name:en": "Shalimar Gardens",
+    "name:es": "Jardines de Shalimar",
+    "name:fa": "باغ شالیمار",
+    "name:pa": "ਸ਼ਾਲਾਮਾਰ ਬਾਗ਼",
+    "name:pnb": "شالامار باغ",
+    "name:ru": "Сады Шалимар",
+    "name:sd": "شالامار باغ",
+    "name:uk": "Сади Шалімара",
+    "name:ur": "شالامار باغ",
+    "tourism": "attraction",
+    "wikidata": "Q499527",
+    "wikimedia_commons": "Category:Shalimar Gardens (Lahore)",
+    "wikipedia": "ur:شالامار باغ"
+  }
+},
+{
+  "type": "node",
+  "id": 7118262236,
+  "lat": 31.5740951,
+  "lon": 74.3166315,
+  "tags": {
+    "name": "Rattan Chand Temple (abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7262804585,
+  "lat": 31.5312647,
+  "lon": 74.3532758,
+  "tags": {
+    "name": "Tricon",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262886785,
+  "lat": 31.4662064,
+  "lon": 74.2468277,
+  "tags": {
+    "name": "KSS",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262886786,
+  "lat": 31.4610316,
+  "lon": 74.2471834,
+  "tags": {
+    "name": "TT Regar House",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262886787,
+  "lat": 31.4565631,
+  "lon": 74.2536591,
+  "tags": {
+    "name": "Rana Waseem WH",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262886885,
+  "lat": 31.4619307,
+  "lon": 74.2456890,
+  "tags": {
+    "name": "IES Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262886985,
+  "lat": 31.4608371,
+  "lon": 74.2487350,
+  "tags": {
+    "name": "Safaa Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262893785,
+  "lat": 31.4585380,
+  "lon": 74.2749190,
+  "tags": {
+    "name": "Farrukh bhai",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262894085,
+  "lat": 31.4697261,
+  "lon": 74.2918907,
+  "tags": {
+    "name": "Spine Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7262894185,
+  "lat": 31.4627631,
+  "lon": 74.3044751,
+  "tags": {
+    "name": "CME Office",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7733223887,
+  "lat": 31.5448874,
+  "lon": 74.4065667,
+  "tags": {
+    "name": "Ch. Wazir Ali",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8366441217,
+  "lat": 31.5901106,
+  "lon": 74.3062222,
+  "tags": {
+    "name": "Nazim Banquet Hall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8366441517,
+  "lat": 31.4628368,
+  "lon": 74.3647888,
+  "tags": {
+    "name": "Sadabahar Pearl Marquee",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8389095476,
+  "lat": 31.5820691,
+  "lon": 74.3189435,
+  "tags": {
+    "name": "Rang Mahal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8389730158,
+  "lat": 31.5792801,
+  "lon": 74.3136792,
+  "tags": {
+    "name": "Nihal Chand Temple (abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8389964102,
+  "lat": 31.5862771,
+  "lon": 74.3188485,
+  "tags": {
+    "name": "Chuna Mandi Havelis",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8393323857,
+  "lat": 31.5853541,
+  "lon": 74.3174065,
+  "tags": {
+    "name": "Hanuman Temple (abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8393323858,
+  "lat": 31.5870593,
+  "lon": 74.3182720,
+  "tags": {
+    "name": "Mai Temple (abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8398685380,
+  "lat": 31.5883989,
+  "lon": 74.3147658,
+  "tags": {
+    "name": "Sikh Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8400212940,
+  "lat": 31.5866820,
+  "lon": 74.3224144,
+  "tags": {
+    "name": "Remnants of Lahore City Wall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8406860263,
+  "lat": 31.5691499,
+  "lon": 74.3403239,
+  "tags": {
+    "name": "Iqbal Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 8406860270,
+  "lat": 31.5668661,
+  "lon": 74.3307195,
+  "tags": {
+    "name": "Arya Samaj Temple (abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8955079676,
+  "lat": 31.5534650,
+  "lon": 74.3442311,
+  "tags": {
+    "name": "Old Jain Temple",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9378565463,
+  "lat": 31.5826732,
+  "lon": 74.3259592,
+  "tags": {
+    "name": "پتلی گلی",
+    "name:en": "Patli Gali",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9378565464,
+  "lat": 31.5827404,
+  "lon": 74.3258062,
+  "tags": {
+    "name": "گلی سورجن سنگھ",
+    "name:en": "Gali Surjan Singh",
+    "tourism": "attraction",
+    "wikimedia_commons": "Category:Gali Surjan Singh, Lahore"
+  }
+},
+{
+  "type": "node",
+  "id": 9738903417,
+  "lat": 31.6226121,
+  "lon": 74.3057308,
+  "tags": {
+    "name": "Wall of tomb complex (not an entrance)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9862943805,
+  "lat": 31.5808194,
+  "lon": 74.3114374,
+  "tags": {
+    "name": "Colonial Haveli",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9922988888,
+  "lat": 31.5315853,
+  "lon": 74.3983147,
+  "tags": {
+    "description": "AA gun",
+    "name": "S-60",
+    "tourism": "attraction",
+    "wikidata": "Q682874",
+    "wikipedia": "en:AZP S-60"
+  }
+},
+{
+  "type": "node",
+  "id": 9922988889,
+  "lat": 31.5315947,
+  "lon": 74.3980955,
+  "tags": {
+    "historic": "cannon",
+    "name": "155 mm gun M1",
+    "tourism": "attraction",
+    "wikidata": "Q2297239",
+    "wikipedia": "en:155 mm gun M1"
+  }
+},
+{
+  "type": "node",
+  "id": 9922988890,
+  "lat": 31.5313935,
+  "lon": 74.3982397,
+  "tags": {
+    "historic": "tank",
+    "name": "M3",
+    "tourism": "attraction",
+    "wikidata": "Q223184",
+    "wikipedia": "en:M3 Lee"
+  }
+},
+{
+  "type": "node",
+  "id": 9922988901,
+  "lat": 31.5324936,
+  "lon": 74.3985979,
+  "tags": {
+    "historic": "aircraft",
+    "name": "Bell AH-1 Cobra",
+    "tourism": "attraction",
+    "wikidata": "Q219629",
+    "wikipedia": "en:Bell AH-1 Cobra"
+  }
+},
+{
+  "type": "node",
+  "id": 10069755250,
+  "lat": 31.4656612,
+  "lon": 74.3590028,
+  "tags": {
+    "name": "Old Gurdwara Patshahi Chhevi",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10813932709,
+  "lat": 31.5816345,
+  "lon": 74.3167952,
+  "tags": {
+    "building": "temple",
+    "name:en": "Former Hindu Temple",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11079068405,
+  "lat": 31.5655532,
+  "lon": 74.3152266,
+  "tags": {
+    "name": "Kazakhstan House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11079068406,
+  "lat": 31.5578313,
+  "lon": 74.3057893,
+  "tags": {
+    "name": "Airplane",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11851329699,
+  "lat": 31.4529883,
+  "lon": 74.2354516,
+  "tags": {
+    "addr:city": "Lahore Canal Bank Co-Operative Housing Society Phase 1 (Gulbahar Park)",
+    "addr:housenumber": "122",
+    "addr:place": "Lahore Canal Bank Co-Operative Housing Society Phase 1 (Gulbahar Park)",
+    "name": "Haveli hanjra",
+    "opening_hours": "Mo-Sa 08:00-18:00",
+    "operator": "litty",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 26528361,
+  "center": {
+    "lat": 31.6212684,
+    "lon": 74.2944488
+  },
+  "tags": {
+    "access": "yes",
+    "fee": "yes",
+    "garden:type": "public",
+    "leisure": "garden",
+    "name": "Bagh-e-Dilkhusha",
+    "operator": "Walled City of Lahore Authority",
+    "operator:type": "government",
+    "tourism": "attraction",
+    "wall": "brick"
+  }
+},
+{
+  "type": "way",
+  "id": 105841051,
+  "center": {
+    "lat": 31.5881965,
+    "lon": 74.3148044
+  },
+  "tags": {
+    "castle_type": "fortress",
+    "historic": "castle",
+    "name": "شاہی قلعہ",
+    "name:ar": "حصن لاهور",
+    "name:en": "Lahore Fort",
+    "name:fa": "ارگ شاهی",
+    "name:hi": "लाहौर का किला",
+    "name:ml": "ലാഹോർ കോട്ട",
+    "name:ur": "شاہی قلعہ",
+    "tourism": "attraction",
+    "wikidata": "Q613720",
+    "wikimedia_commons": "Category:Lahore Fort",
+    "wikipedia": "en:Lahore Fort"
+  }
+},
+{
+  "type": "way",
+  "id": 232401426,
+  "center": {
+    "lat": 31.5925130,
+    "lon": 74.3094848
+  },
+  "tags": {
+    "historic": "monument",
+    "name": "مینارِ پاکستان",
+    "name:en": "Minar-e-Pakistan",
+    "name:hi": "मीनार-ए-पाकिस्तान",
+    "name:ml": "മിനാരി പാക്കിസ്ഥാൻ",
+    "tourism": "attraction",
+    "wikidata": "Q996962",
+    "wikimedia_commons": "Category:Minar-e-Pakistan",
+    "wikipedia": "en:Minar-e-Pakistan"
+  }
+},
+{
+  "type": "way",
+  "id": 232401428,
+  "center": {
+    "lat": 31.5921951,
+    "lon": 74.3121556
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "اقبال پارک",
+    "name:en": "Iqbal Park",
+    "name:fa": "بوستان اقبال لاهوری",
+    "name:hi": "इकबाल पार्क",
+    "name:ml": "ഇഖ്ബാൽ പാർക്ക്",
+    "tourism": "attraction",
+    "wikidata": "Q3249622"
+  }
+},
+{
+  "type": "way",
+  "id": 235253176,
+  "center": {
+    "lat": 31.6209176,
+    "lon": 74.2947594
+  },
+  "tags": {
+    "addr:city": "Shahdara",
+    "addr:street": "Grand Trunk Road",
+    "building": "yes",
+    "historic": "tomb",
+    "name": "مقبرہ نورجہاں",
+    "name:en": "Tomb of Noor Jahan",
+    "name:hi": "नूरजहाँ का मकबरा",
+    "name:ur": "مقبرہ نورجہاں",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 235253177,
+  "center": {
+    "lat": 31.6225752,
+    "lon": 74.3031439
+  },
+  "tags": {
+    "addr:city": "Shahdara",
+    "building": "yes",
+    "historic": "tomb",
+    "name": "مقبرۂ جہانگیر",
+    "name:en": "Tomb of Jahangir",
+    "name:hi": "जहांगीर का मकबरा",
+    "name:ur": "مقبرۂ جہانگیر",
+    "tomb": "mausoleum",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 291782545,
+  "center": {
+    "lat": 31.5878915,
+    "lon": 74.3113345
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Shahi Mohallah Street",
+    "historic": "monument",
+    "name": "مقبرہ علامہ اقبال",
+    "name:en": "Tomb of Allama Iqbal",
+    "name:hi": "अल्लामा इकबाल का मकबरा",
+    "tourism": "attraction",
+    "wikipedia": "en:Tomb of Muhammad Iqbal"
+  }
+},
+{
+  "type": "way",
+  "id": 316561668,
+  "center": {
+    "lat": 31.5325552,
+    "lon": 74.3637150
+  },
+  "tags": {
+    "addr:city": "لاہور",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 319650864,
+  "center": {
+    "lat": 31.5578596,
+    "lon": 74.3059657
+  },
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 610899650,
+  "center": {
+    "lat": 31.5808977,
+    "lon": 74.3640555
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "tomb",
+    "name": "Cypress Tomb",
+    "tourism": "attraction",
+    "wikipedia:en": "Cypress Tomb"
+  }
+},
+{
+  "type": "way",
+  "id": 611960627,
+  "center": {
+    "lat": 31.5691865,
+    "lon": 74.3404210
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Javed Manzil",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 611963744,
+  "center": {
+    "lat": 31.5674584,
+    "lon": 74.3245393
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Lakshmi Building",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 618664592,
+  "center": {
+    "lat": 31.5926957,
+    "lon": 74.3547353
+  },
+  "tags": {
+    "building": "yes",
+    "description": "Tomb dedicated to the daughter of the Sufi saint Khwaja Saeed.",
+    "name": "Tomb of Mai Dai",
+    "tomb": "yes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 691541836,
+  "center": {
+    "lat": 31.5783359,
+    "lon": 74.3326582
+  },
+  "tags": {
+    "area": "yes",
+    "building": "yes",
+    "description": "Abandoned Hindu temple, previously part of a caravanserai complex.",
+    "name": "Lala Moolchand Temple (Abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 695750372,
+  "center": {
+    "lat": 31.4898915,
+    "lon": 74.3187525
+  },
+  "tags": {
+    "area": "yes",
+    "building": "yes",
+    "name": "Block D Temple (Abandoned)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 792447292,
+  "center": {
+    "lat": 31.5681810,
+    "lon": 74.3082243
+  },
+  "tags": {
+    "building": "yes",
+    "name": "لاہور عجائب خانه",
+    "name:en": "Lahore Museum",
+    "name:hi": "लाहौर संग्रहालय",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 800044451,
+  "center": {
+    "lat": 31.5946386,
+    "lon": 74.3119222
+  },
+  "tags": {
+    "building": "yes",
+    "museum": "history",
+    "name": "قومی تاریخ کا میوزیم",
+    "name:en": "National History Museum",
+    "name:hi": "राष्ट्रीय इतिहास संग्रहालय",
+    "name:ur": "قومی تاریخ کا میوزیم",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 903297251,
+  "center": {
+    "lat": 31.5829824,
+    "lon": 74.3098196
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "manor",
+    "name": "حویلی واجد علی شاہ",
+    "name:en": "Haveli Wajid Ali Shah",
+    "name:ur": "حویلی واجد علی شاہ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1000032160,
+  "center": {
+    "lat": 31.5832099,
+    "lon": 74.3097364
+  },
+  "tags": {
+    "building": "yes",
+    "name": "فقیر خانہ میوزیم",
+    "name:en": "Faqir Khana Museum",
+    "name:ur": "فقیر خانہ عجائب گھر",
+    "tourism": "museum",
+    "wikidata": "Q125589"
+  }
+},
+{
+  "type": "relation",
+  "id": 8447249,
+  "center": {
+    "lat": 31.5794614,
+    "lon": 74.3115043
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "manor",
+    "name": "حویلی نو نہال سنگھ",
+    "name:en": "Haveli of Nau Nihal Singh",
+    "name:ur": "حویلی نحویلی نو نہال سنگھو نہال سنگھ",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wikidata": "Q42376569",
+    "wikipedia": "en:Haveli of Nau Nihal Singh"
+  }
+},
+{
+  "type": "relation",
+  "id": 8623057,
+  "center": {
+    "lat": 31.5563776,
+    "lon": 74.3257944
+  },
+  "tags": {
+    "tourism": "zoo",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

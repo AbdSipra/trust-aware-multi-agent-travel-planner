@@ -1,0 +1,74 @@
+[
+  {
+    "city_id": "KHI",
+    "city_name": "Karachi",
+    "country": "Pakistan",
+    "airport_code": "KHI",
+    "timezone": "Asia/Karachi",
+    "center_lat": 24.8607,
+    "center_lon": 67.0011
+  },
+  {
+    "city_id": "LHE",
+    "city_name": "Lahore",
+    "country": "Pakistan",
+    "airport_code": "LHE",
+    "timezone": "Asia/Karachi",
+    "center_lat": 31.5204,
+    "center_lon": 74.3587
+  },
+  {
+    "city_id": "ISB",
+    "city_name": "Islamabad",
+    "country": "Pakistan",
+    "airport_code": "ISB",
+    "timezone": "\\N",
+    "center_lat": 33.6844,
+    "center_lon": 73.0479
+  },
+  {
+    "city_id": "DXB",
+    "city_name": "Dubai",
+    "country": "United Arab Emirates",
+    "airport_code": "DXB",
+    "timezone": "Asia/Dubai",
+    "center_lat": 25.2048,
+    "center_lon": 55.2708
+  },
+  {
+    "city_id": "IST",
+    "city_name": "Istanbul",
+    "country": "Turkey",
+    "airport_code": "IST",
+    "timezone": "\\N",
+    "center_lat": 41.0082,
+    "center_lon": 28.9784
+  },
+  {
+    "city_id": "BKK",
+    "city_name": "Bangkok",
+    "country": "Thailand",
+    "airport_code": "BKK",
+    "timezone": "Asia/Bangkok",
+    "center_lat": 13.7563,
+    "center_lon": 100.5018
+  },
+  {
+    "city_id": "KUL",
+    "city_name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "airport_code": "KUL",
+    "timezone": "Asia/Kuala_Lumpur",
+    "center_lat": 3.139,
+    "center_lon": 101.6869
+  },
+  {
+    "city_id": "SIN",
+    "city_name": "Singapore",
+    "country": "Singapore",
+    "airport_code": "SIN",
+    "timezone": "Asia/Singapore",
+    "center_lat": 1.3521,
+    "center_lon": 103.8198
+  }
+]

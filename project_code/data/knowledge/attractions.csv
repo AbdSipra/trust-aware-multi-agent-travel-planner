@@ -1,0 +1,97 @@
+attraction_id,city_id,name,category,ticket_price_usd,open_time,close_time,closed_days,recommended_duration_min,indoor_outdoor,popularity_score,source_name,last_updated,record_version
+AT-KHI-01,KHI,Port Grand,cultural,11.04,09:00,21:00,none,90,outdoor,0.88,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-02,KHI,Reptile House,cultural,11.04,09:00,21:00,none,90,outdoor,0.86,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-03,KHI,"Old ""Bank of India"" building",cultural,11.04,09:00,21:00,none,90,outdoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-04,KHI,Karachi Zoo,family,16.56,09:00,21:00,none,150,outdoor,0.79,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-05,KHI,Zoo Safari Train,family,16.56,09:00,21:00,none,150,outdoor,0.79,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-06,KHI,Park Towers,family,16.56,09:00,21:00,none,150,outdoor,0.76,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-07,KHI,TDF MagnifiScience Centre,museum,13.80,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-08,KHI,National Museum of Pakistan,museum,13.80,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-09,KHI,Wazir Mansion,museum,13.80,09:00,21:00,none,120,indoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-10,KHI,Frere Hall View Point,nature,7.36,09:00,21:00,none,120,outdoor,0.77,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-11,KHI,جزیرہ شمس پیر,nature,7.36,09:00,21:00,none,120,outdoor,0.74,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KHI-12,KHI,Mirage Aircraft,nature,7.36,09:00,21:00,none,120,outdoor,0.68,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-01,LHE,155 mm gun M1,cultural,10.56,09:00,21:00,none,90,outdoor,0.89,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-02,LHE,M3,cultural,10.56,09:00,21:00,none,90,outdoor,0.89,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-03,LHE,S-60,cultural,10.56,09:00,21:00,none,90,outdoor,0.88,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-04,LHE,Mini Joy Land,family,15.84,09:00,21:00,none,150,outdoor,0.79,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-05,LHE,Lahore Zoo,family,15.84,09:00,21:00,none,150,outdoor,0.71,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-06,LHE,Jallo Park,family,15.84,09:00,21:00,none,150,outdoor,0.60,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-07,LHE,Gawal Mandi Food Street,food,8.80,09:00,21:00,none,90,outdoor,0.65,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-08,LHE,Ejaz Art Gallery,museum,13.20,09:00,21:00,none,120,indoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-09,LHE,Army Museum Lahore,museum,13.20,09:00,21:00,none,120,indoor,0.82,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-10,LHE,Abdul Rehman Chughtai Museum,museum,13.20,09:00,21:00,none,120,indoor,0.78,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-11,LHE,شیرپاؤ,nature,7.04,09:00,21:00,none,120,outdoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-LHE-12,LHE,CITY TOWER,nature,7.04,09:00,21:00,none,120,outdoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-01,ISB,فاطمہ جناح پارک,cultural,10.80,09:00,21:00,none,90,outdoor,0.91,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-02,ISB,Hamza APS,cultural,10.80,09:00,21:00,none,90,outdoor,0.88,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-03,ISB,Institute of Engineers Pakistan,cultural,10.80,09:00,21:00,none,90,outdoor,0.86,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-04,ISB,Marghazar Zoo,family,16.20,09:00,21:00,none,150,outdoor,0.83,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-05,ISB,ASAB Animal House,family,16.20,09:00,21:00,none,150,outdoor,0.65,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-06,ISB,Jungle Kingdom,family,16.20,09:00,21:00,none,150,outdoor,0.56,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-07,ISB,لوک ورثہ;لوک ورثہ عجائب گھر,museum,13.50,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-08,ISB,Pakistan Museum of Natural History,museum,13.50,09:00,21:00,none,120,indoor,0.93,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-09,ISB,Pakistan Monument Museum,museum,13.50,09:00,21:00,none,120,indoor,0.88,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-10,ISB,"Mian Asghar ali, H#227, St 32, G8-2",nature,7.20,09:00,21:00,none,120,outdoor,0.83,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-11,ISB,Islamabad view point,nature,7.20,09:00,21:00,none,120,outdoor,0.81,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-ISB-12,ISB,Saudi pak Tower,nature,7.20,09:00,21:00,none,120,outdoor,0.76,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-01,DXB,دبي مول,cultural,18.00,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-02,DXB,برج خليفة,cultural,18.00,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-03,DXB,Jumeirah Mosque,cultural,18.00,09:00,21:00,none,90,outdoor,0.97,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-04,DXB,The Green Planet,family,27.00,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-05,DXB,KidZania,family,27.00,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-06,DXB,Dinosaur Park Dubai Zabeel,family,27.00,09:00,21:00,none,150,outdoor,0.96,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-07,DXB,متحف المستقبل,museum,22.50,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-08,DXB,متحف الاتحاد,museum,22.50,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-09,DXB,متاجر NFT,museum,22.50,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-10,DXB,Sky Views Dubai,nature,12.00,09:00,21:00,none,120,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-11,DXB,Fountain Watching Hill,nature,12.00,09:00,21:00,none,120,outdoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-DXB-12,DXB,Wildlife Sanctuary (Flamingo Lagoon),nature,12.00,09:00,21:00,none,120,outdoor,0.80,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-01,IST,Türk ve İslam Eserleri Müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-02,IST,Eski Şark Eserleri Müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-03,IST,İstanbul Arkeoloji Müzeleri,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-04,IST,Terrace,nature,9.28,09:00,21:00,none,120,outdoor,0.87,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-05,IST,Cesme,nature,9.28,09:00,21:00,none,120,outdoor,0.86,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-06,IST,Harmony hotel teras,nature,9.28,09:00,21:00,none,120,outdoor,0.86,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-07,IST,Topkapi Sarayı,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-08,IST,İslam bilim ve teknoloji tarihi müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-09,IST,İstanbul Modern Sanat Müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-10,IST,500. Yıl Vakfı Türk Musevileri Müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-11,IST,Galata Mevlevihanesi Müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-IST-12,IST,Büyük Saray Mozaikleri Müzesi,museum,17.40,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-01,BKK,วัดพระศรีรัตนศาสดาราม,cultural,12.00,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-02,BKK,วัดราชนัดดารามวรวิหาร,cultural,12.00,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-03,BKK,บรมบรรพต,cultural,12.00,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-04,BKK,สวนงู สถานเสาวภา,family,18.00,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-05,BKK,fun space,family,18.00,09:00,21:00,none,150,outdoor,0.66,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-06,BKK,มิวเซียมสยาม,museum,15.00,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-07,BKK,หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร,museum,15.00,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-08,BKK,พิพิธภัณฑ์ธนาคารแห่งประเทศไทย,museum,15.00,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-09,BKK,สะพานมัฆวานรังสรรค์,nature,8.00,09:00,21:00,none,120,outdoor,0.84,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-10,BKK,จุดชมวิวท่าเตียน,nature,8.00,09:00,21:00,none,120,outdoor,0.83,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-11,BKK,จุดชมวิวท่าวัดโพธิ์,nature,8.00,09:00,21:00,none,120,outdoor,0.83,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-BKK-12,BKK,Sampeng Lane Market,shopping,5.00,09:00,21:00,none,90,indoor,0.84,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-01,KUL,Menara Kuala Lumpur,cultural,11.76,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-02,KUL,Taman Orkid,cultural,11.76,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-03,KUL,Kwai Chai Hong,cultural,11.76,09:00,21:00,none,90,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-04,KUL,Taman Burung Kuala Lumpur,family,17.64,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-05,KUL,Taman Rama Rama Kuala Lumpur,family,17.64,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-06,KUL,Taman Kancil dan Rusa,family,17.64,09:00,21:00,none,150,outdoor,0.93,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-07,KUL,Muzium Negara,museum,14.70,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-08,KUL,Muzium Etnologi Dunia Melayu,museum,14.70,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-09,KUL,Planetarium Negara,museum,14.70,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-10,KUL,SkyDeck,nature,7.84,09:00,21:00,none,120,outdoor,0.90,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-11,KUL,River of Life,nature,7.84,09:00,21:00,none,120,outdoor,0.84,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-KUL-12,KUL,View on Merdeka Tower 118,nature,7.84,09:00,21:00,none,120,outdoor,0.84,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-01,SIN,Singapore Flyer,cultural,17.04,09:00,21:00,none,90,outdoor,0.87,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-02,SIN,Former Malay Film Productions,cultural,17.04,09:00,21:00,none,90,outdoor,0.87,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-03,SIN,Sim Kwong Ho shophouses,cultural,17.04,09:00,21:00,none,90,outdoor,0.85,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-04,SIN,River Wonders,family,25.56,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-05,SIN,Night Safari,family,25.56,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-06,SIN,Singapore Zoo,family,25.56,09:00,21:00,none,150,outdoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-07,SIN,Bugis Street Back Lane,food,14.20,09:00,21:00,none,90,outdoor,0.65,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-08,SIN,Arab Street,food,14.20,09:00,21:00,none,90,outdoor,0.65,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-09,SIN,Arab street shops,food,14.20,09:00,21:00,none,90,outdoor,0.64,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-10,SIN,Objectifs - Centre for Photography and Film,museum,21.30,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-11,SIN,Battlebox Visitor Centre,museum,21.30,09:00,21:00,none,120,indoor,0.99,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1
+AT-SIN-12,SIN,Malay Heritage Centre,museum,21.30,09:00,21:00,none,120,indoor,0.98,osm_overpass+derived_fields,2026-04-01T00:00:00Z,source-grounded-v1

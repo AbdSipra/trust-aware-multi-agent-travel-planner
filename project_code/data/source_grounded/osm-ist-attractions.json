@@ -1,0 +1,3024 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:43:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1346157990,
+  "lat": 41.0488755,
+  "lon": 28.9882427,
+  "tags": {
+    "addr:postcode": "34367",
+    "name": "Askerî Müze",
+    "name:en": "Military Museum",
+    "name:ru": "Военный музей Стамбула",
+    "name:tr": "Askeri Müze",
+    "opening_hours": "We-Su 9:00-17:00",
+    "phone": "+90 212 233 27 20",
+    "tourism": "museum",
+    "website": "http://www.askerimuze.tsk.tr/INGILIZCE/military_museum.htm",
+    "wikidata": "Q12808583",
+    "wikimedia_commons": "Category:Istanbul Military Museum",
+    "wikipedia": "en:Istanbul Military Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1770612643,
+  "lat": 41.0238356,
+  "lon": 28.9736169,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Karaköy",
+    "addr:housenumber": "11",
+    "addr:postcode": "34420",
+    "addr:street": "Bankalar Caddesi",
+    "name": "Osmanlı Bankası Müzesi",
+    "name:en": "Ottoman Bank Museum",
+    "phone": "+90 212 334 22 00",
+    "tourism": "museum",
+    "website": "http://www.obmuze.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1807703751,
+  "lat": 41.0046397,
+  "lon": 28.9677540,
+  "tags": {
+    "name": "Istanbul Photography Museum",
+    "name:ar": "متحف اسطنبول فوتوغرافي",
+    "name:tr": "İstanbul Fotoğraf Müzesi",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2472730735,
+  "lat": 41.0076060,
+  "lon": 28.9744173,
+  "tags": {
+    "check_date": "2025-04-06",
+    "name": "Binbirdirek Sarnıcı",
+    "name:ar": "متحف بنبيرديريك سارنيجي",
+    "name:de": "Zisterne des Philoxenos",
+    "name:el": "Κινστέρνα Φιλοξένου",
+    "name:en": "Cistern of Philoxenos",
+    "name:it": "Cisterna di Filosseno",
+    "name:ru": "Цистерна Филоксена",
+    "tourism": "museum",
+    "wikidata": "Q2728644",
+    "wikimedia_commons": "Category:Cistern of Philoxenos",
+    "wikipedia": "en:Cistern of Philoxenos"
+  }
+},
+{
+  "type": "node",
+  "id": 3075189265,
+  "lat": 41.0042147,
+  "lon": 28.9733340,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3195027800,
+  "lat": 41.0362806,
+  "lon": 28.9841655,
+  "tags": {
+    "email": "danisma.istanbul@ifturquie.org",
+    "fee": "no",
+    "name": "Fransız Kültür Merkezi",
+    "name:en": "French Institute in Istanbul",
+    "name:fr": "Institut français à Istanbul",
+    "phone": "08507556800",
+    "tourism": "museum",
+    "website": "https://ifturquie.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3254396169,
+  "lat": 41.0482849,
+  "lon": 29.0188194,
+  "tags": {
+    "fee": "yes",
+    "name": "Yıldız Seramik Fabrikası",
+    "name:tr": "Yıldız Seramik Fabrikası",
+    "tourism": "museum",
+    "website": "https://www.millisaraylar.gov.tr/Lokasyon/18/Yildiz-Cini-ve-Porselen-Fabrikasi"
+  }
+},
+{
+  "type": "node",
+  "id": 3254468506,
+  "lat": 41.0387821,
+  "lon": 28.9771474,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Tatlı Badem Sokak",
+    "email": "contact@muze.gen.tr",
+    "name": "Adam Mickiewicz Müzesi",
+    "name:en": "Adam Mickiewicz Museum",
+    "name:ru": "музей Адама Мицкевича",
+    "name:tr": "Adam Mickiewicz Müzesi",
+    "opening_hours": "Tu-Su 09:00-16:30",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/muze-detay/adam",
+    "wikidata": "Q4679495",
+    "wikimedia_commons": "Category:Adam Mickiewicz Museum, Istanbul",
+    "wikipedia": "en:Adam Mickiewicz Museum, Istanbul"
+  }
+},
+{
+  "type": "node",
+  "id": 3279398393,
+  "lat": 41.0308716,
+  "lon": 28.9797952,
+  "tags": {
+    "addr:postcode": "34425",
+    "fee": "yes",
+    "name": "Masumiyet Müzesi",
+    "name:en": "The Museum of Innocence",
+    "name:ru": "Музей невинности",
+    "name:tr": "Masumiyet Müzesi",
+    "note": "Turkish Nobel laureate Orhan Pamuk created the muse Turkish Nobel laureate Orhan Pamuk created the museum in conjunction with his novel.um in conjunction with his novel of the same name. 1000 of every object 1950-1980.",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "museum",
+    "website": "https://www.masumiyetmuzesi.org/",
+    "website:en": "http://www.masumiyetmuzesi.org/?Language=ENG",
+    "website:tr": "http://www.masumiyetmuzesi.org/?Language=TUR",
+    "wheelchair": "no",
+    "wikidata": "Q15961492",
+    "wikimedia_commons": "Category:The Museum of Innocence",
+    "wikipedia": "en:The Museum of Innocence (museum)"
+  }
+},
+{
+  "type": "node",
+  "id": 3373094254,
+  "lat": 41.0056817,
+  "lon": 28.9786693,
+  "tags": {
+    "name": "Halı Müzesi",
+    "name:en": "Carpet Museum",
+    "name:ru": "Музей ковров и килимов",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3386270532,
+  "lat": 41.0334816,
+  "lon": 28.9769398,
+  "tags": {
+    "fee": "no",
+    "name": "Galatasaray Müzesi",
+    "name:de": "Galatasaray-Museum",
+    "name:en": "Galatasaray Museum",
+    "name:fr": "Musée de Galatasaray",
+    "name:hy": "Գալաթասարայի թանգարան",
+    "name:mk": "Музеј Галатасарај",
+    "name:sr": "Музеј Галатасарај",
+    "name:ur": "غلطہ سرائے عجائب گھر",
+    "tourism": "museum",
+    "wheelchair": "no",
+    "wikidata": "Q3329724",
+    "wikimedia_commons": "Category:Galatasaray Museum",
+    "wikipedia": "en:Galatasaray Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3400112453,
+  "lat": 40.9935689,
+  "lon": 28.9239308,
+  "tags": {
+    "addr:postcode": "34107",
+    "name": "Yedi Kule Hisarı Müzesi",
+    "opening_hours": "Mo-Su 08:30-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3580821812,
+  "lat": 41.0387821,
+  "lon": 28.9771474,
+  "tags": {
+    "name": "Muzeum Adama Mickiewicza",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3658718390,
+  "lat": 41.0298935,
+  "lon": 28.9870463,
+  "tags": {
+    "name": "View of the Bosphorus",
+    "name:uk": "Оглядний майданчик тільки на території мечеті",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3811143694,
+  "lat": 41.0295810,
+  "lon": 28.9789875,
+  "tags": {
+    "name": "Kartonpiyer Müzesi",
+    "name:de": "Stuck Museum",
+    "name:en": "Stucco Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4502928789,
+  "lat": 41.0271614,
+  "lon": 28.9517600,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4516765191,
+  "lat": 41.0085148,
+  "lon": 28.9677376,
+  "tags": {
+    "name:ru": "Музей Яхья Кемаля Беятлы",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4591192493,
+  "lat": 41.0162809,
+  "lon": 28.9712566,
+  "tags": {
+    "name:ar": "محل بيع فضه نسايي السوق المصري",
+    "name:ru": "Египетский базар",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4721808990,
+  "lat": 41.0101095,
+  "lon": 28.9699630,
+  "tags": {
+    "name": "Kapali Carsi",
+    "name:de": "Großer Bazar",
+    "name:en": "Grand Bazaar",
+    "name:fa": "بازار بزرگ",
+    "name:it": "Gran Bazar",
+    "name:ru": "Большой базар",
+    "name:tr": "Kapalı Carşı",
+    "name:zh": "2-1大巴扎",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4868553761,
+  "lat": 41.0413327,
+  "lon": 28.9600568,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4889905032,
+  "lat": 41.0238724,
+  "lon": 28.9734736,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Karaköy",
+    "addr:housenumber": "11",
+    "addr:postcode": "34420",
+    "addr:street": "Bankalar Caddesi",
+    "name": "SALT Galata",
+    "name:en": "SALT Galata",
+    "name:tr": "SALT Galata",
+    "opening_hours": "Tu-Sa 11:00-19:00; Su 11:00-18:00",
+    "phone": "+90 212 334 22 00",
+    "tourism": "museum",
+    "website": "https://saltonline.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 4889958232,
+  "lat": 41.0303466,
+  "lon": 28.9754498,
+  "tags": {
+    "addr:housenumber": "160A",
+    "addr:postcode": "34433",
+    "addr:street": "İstiklal Caddesi",
+    "fee": "no",
+    "name": "Borusan Sanat",
+    "name:en": "Borusan Art",
+    "name:tr": "Borusan Sanat",
+    "opening_hours": "Mo-Fr 09:30-18:00",
+    "phone": "+902127058700",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4889958234,
+  "lat": 41.0332891,
+  "lon": 28.9795904,
+  "tags": {
+    "name": "ISTANBUL'74",
+    "name:en": "ISTANBUL'74",
+    "name:tr": "ISTANBUL'74",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4889959431,
+  "lat": 41.0304385,
+  "lon": 28.9757547,
+  "tags": {
+    "addr:housenumber": "211",
+    "addr:postcode": "34433",
+    "addr:street": "İstiklal Caddesi",
+    "email": "info@mesher.org",
+    "fee": "yes",
+    "name": "Meşher",
+    "name:en": "ARTER contemporary art museum",
+    "name:ru": "ARTER музей современного искусства",
+    "name:tr": "ARTER",
+    "opening_hours": "Tu-Su 11:00-19:00",
+    "phone": "+902127085900",
+    "tourism": "museum",
+    "website": "https://www.mesher.org",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4889959432,
+  "lat": 41.0359382,
+  "lon": 28.9831097,
+  "tags": {
+    "fee": "no",
+    "name": "AK Bank Sanat Galerisi",
+    "name:en": "AK Bank Sanat Galerisi",
+    "name:tr": "AK Bank Sanat Galerisi",
+    "opening_hours": "Tu-Sa 14:00-19:00; Su,Mo off",
+    "tourism": "museum",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4889959434,
+  "lat": 41.0357703,
+  "lon": 28.9783705,
+  "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "Balo Sokağı",
+    "check_date": "2024-11-21",
+    "fee": "no",
+    "name": "Dogançay Müzesi",
+    "name:en": "Dogançay Müzesi",
+    "name:tr": "Dogançay Müzesi",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "museum",
+    "wikidata": "Q5303887",
+    "wikipedia": "en:Doğançay Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4889959435,
+  "lat": 41.0326418,
+  "lon": 28.9777224,
+  "tags": {
+    "fee": "yes",
+    "name": "Türvak Türker Inanoglu Vakfi",
+    "name:en": "Cinema Museum",
+    "name:tr": "Türvak Türker Inanoglu Vakfi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4990028128,
+  "lat": 41.0087318,
+  "lon": 28.9809561,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:housenumber": "14",
+    "addr:neighbourhood": "Cankurtaran Mahallesi",
+    "addr:postcode": "34122",
+    "addr:street": "Soğukçeşme Sokak",
+    "email": "info@halimuzesi.com",
+    "name": "Halı Müzesi",
+    "name:de": "Teppichmuseum",
+    "name:en": "Carpet Museum",
+    "name:es": "Museo de las alfombras",
+    "name:it": "Museo del tappeto",
+    "name:ru": "Музей Ковров",
+    "name:tr": "Halı Müzesi",
+    "phone": "+90 212 512 69 93",
+    "tourism": "museum",
+    "website": "http://www.halimuzesi.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4999068057,
+  "lat": 41.0159910,
+  "lon": 28.9652799,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5081442512,
+  "lat": 41.0252799,
+  "lon": 28.9584325,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:postcode": "34083",
+    "addr:street": "Nalıncı Kasım Sokağı",
+    "name": "Rezan Has Museum",
+    "name:ar": "متحف ريزان هاس",
+    "name:tr": "Rezan Has Müzesi",
+    "tourism": "museum",
+    "website": "https://www.rhm.org.tr/",
+    "wikidata": "Q7319839",
+    "wikimedia_commons": "Category:Rezan Has Museum",
+    "wikipedia": "en:Rezan Has Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5103810789,
+  "lat": 41.0196249,
+  "lon": 28.9277844,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Topkapı Caddesi",
+    "name": "Hamidiye Kültür Ve Eğitim Vakfı Topkapı Nusret",
+    "name:ar": "متحف حامدية الثقافي و التعليمي",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5108828006,
+  "lat": 41.0128714,
+  "lon": 28.9778917,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Hüdavendigar Caddesi",
+    "name": "Lions Rug and kilims Art Gallery",
+    "phone": "+90 212 512 71 23",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5108828680,
+  "lat": 41.0151993,
+  "lon": 28.9766829,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:postcode": "34110",
+    "addr:street": "Sirkeci İstasyon Caddesi",
+    "air_conditioning": "no",
+    "check_date": "2024-06-08",
+    "fee": "no",
+    "museum": "railway",
+    "name": "İstanbul Demiryolu Müzesi",
+    "name:en": "İstanbul Railway Museum",
+    "name:ru": "Стамбульский железнодорожный музей",
+    "opening_hours": "Mo,PH off; Tu-Su 09:30-17:00",
+    "phone": "+90 212 520 65 75",
+    "tourism": "museum",
+    "wheelchair": "yes",
+    "wikidata": "Q15228897",
+    "wikimedia_commons": "Category:Istanbul Railway Museum",
+    "wikipedia": "en:Istanbul Railway Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5108828689,
+  "lat": 41.0175429,
+  "lon": 28.9857457,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "kennedy Cd",
+    "name": "Sarayburnu Manzarası",
+    "name:ar": "معلم سياحي سارايبورنو",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5108837436,
+  "lat": 41.0142713,
+  "lon": 28.9756894,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Hocapaşa Hamamı Sokağı",
+    "name": "Hodjapasta",
+    "name:ru": "Ходжапаша",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5108837438,
+  "lat": 41.0140444,
+  "lon": 28.9756133,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Hoca Paşa Sokak",
+    "name": "Tasciri Spettacolo",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5110966960,
+  "lat": 41.0138905,
+  "lon": 28.9860012,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5111212264,
+  "lat": 41.0116571,
+  "lon": 28.9719397,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Bezciler Sokağı",
+    "name": "Cesme",
+    "name:ar": "جيشمى",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5112732265,
+  "lat": 41.0099458,
+  "lon": 28.9615545,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:housenumber": "02124400000",
+    "addr:street": "Ordu Caddesi",
+    "email": "muzeyum@istanbul.edu.tr",
+    "name": "Beyazıt Türk Hamam Kültürü Müzesi",
+    "name:ar": "متحف ثقافة الحمام التركي",
+    "name:de": "Türkisches Bad-Kulturmuseum des Bayezid II.",
+    "name:en": "II. Bayezid Turkish Bath Culture Museum",
+    "name:fr": "Musée de la culture des bains turcs de Bayezid II",
+    "name:tr": "II. Bayezid Türk Hamam Kültürü Müzesi",
+    "tourism": "museum",
+    "website": "https://muzeyum.istanbul.edu.tr/",
+    "wikidata": "Q68217803",
+    "wikimedia_commons": "Category:Bayezit Hamamı",
+    "wikipedia": "en:Bayezid II Hamam",
+    "wikipedia:fr": "Hammam de Bayezid II"
+  }
+},
+{
+  "type": "node",
+  "id": 5113500256,
+  "lat": 41.0062801,
+  "lon": 28.9749150,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Atmeydanı Caddesi",
+    "email": "contact@muze.gen.tr",
+    "internet_access": "wlan",
+    "name": "Türk ve İslam Eserleri Müzesi",
+    "name:ar": "متحف الآثار التركية والإسلامية",
+    "name:de": "Museum für türkische und islamische Kunst",
+    "name:en": "Turkish and Islamic Arts Museum",
+    "name:es": "Museo de Arte Turco e Islámico",
+    "name:fa": "موزه هنر و هنر اسلامی ترکیه",
+    "name:he": "‏מוזיאון האומנות הטורקית והאסלאמית",
+    "name:hi": "तुर्क और इस्लामी कला संग्रहालय",
+    "name:pt": "Museu de Arte Turca e Islámica",
+    "name:pt-BR": "Museu de Arte Turca e Islâmica",
+    "name:ru": "Музей турецкого и исламского искусства",
+    "name:tr": "Türk ve İslam Eserleri Müzesi",
+    "name:uk": "Музей турецкого и исламского искусства",
+    "name:zh": "1-12艺术博物馆",
+    "opening_hours": "Mo-Su 09:00-18:30",
+    "phone": "+90 212 518 18 05",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/",
+    "wheelchair": "limited",
+    "wikidata": "Q525939",
+    "wikimedia_commons": "Category:Turkish and Islamic Arts Museum",
+    "wikipedia": "en:Turkish and Islamic Arts Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5113620695,
+  "lat": 41.0132188,
+  "lon": 28.9789678,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:postcode": "34122",
+    "addr:street": "cankurtaran mahallesi",
+    "email": "contact@muze.gen.tr",
+    "fee": "yes",
+    "name": "İslam bilim ve teknoloji tarihi müzesi",
+    "name:en": "Museum of The History of Science and Technology in Islam",
+    "name:ru": "Музей истории исламских науки и техники",
+    "opening_hours": "Mo-Su 09:00-16:00",
+    "phone": "+90 212 528 80 65",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr",
+    "wikidata": "Q16850295",
+    "wikimedia_commons": "Category:İslam Bilim ve Teknoloji Tarihi Müzesi",
+    "wikipedia": "en:Istanbul Museum of the History of Science and Technology in Islam"
+  }
+},
+{
+  "type": "node",
+  "id": 5120269825,
+  "lat": 41.0105435,
+  "lon": 28.9761932,
+  "tags": {
+    "name:en": "Agora hotel terrace",
+    "name:ru": "Бесплатная обзорная площадка",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5209904925,
+  "lat": 41.0282408,
+  "lon": 29.0415462,
+  "tags": {
+    "fee": "yes",
+    "name": "Abdulmecit Efendi Köşkü",
+    "tourism": "museum",
+    "wikidata": "Q20474003",
+    "wikimedia_commons": "Category:Abdülmecid Efendi Köşkü",
+    "wikipedia": "tr:Abdülmecid Efendi Köşkü"
+  }
+},
+{
+  "type": "node",
+  "id": 5244801843,
+  "lat": 41.0051858,
+  "lon": 28.9743891,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Şehit Mehmet Paşa Yokuşu",
+    "fee": "no",
+    "name": "Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi",
+    "name:ar": "مرمرة يونيفيرستي موزيسي في سانات جوزال",
+    "opening_hours": "Tu-Su 10:00-16:00",
+    "operator": "Govermental",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5244801844,
+  "lat": 41.0049596,
+  "lon": 28.9739331,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Şehit Mehmet Paşa Yokuşu",
+    "name": "İstanbul Cumhuriyet Eğitim Müzesi",
+    "name:ar": "استنبول جمهوريات اييتم موزيسي",
+    "operator": "Govermental",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5244807623,
+  "lat": 41.0085619,
+  "lon": 28.9722162,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:neighbourhood": "Molla Fenari Mahallesi",
+    "addr:postcode": "34120",
+    "addr:street": "Boyacı Ahmet Sokak",
+    "alt_name": "TGC Basın Müzesi",
+    "name": "Türkiye Gazeteciler Cemiyeti Basın Müzesi",
+    "name:ar": "توركيا إازيتيجيلير جمعياتي باسن موزيسي",
+    "name:en": "TGC Press Media Museum",
+    "name:ru": "Музей прессы",
+    "tourism": "museum",
+    "wikidata": "Q6087315",
+    "wikimedia_commons": "Category:Basın Müzesi",
+    "wikipedia": "en:TGC Press Media Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5244807883,
+  "lat": 41.0087410,
+  "lon": 28.9676140,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Yeniçeriler Caddesi",
+    "name": "Yahya Kemal Museum",
+    "operator": "Govermental",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5450459406,
+  "lat": 40.9952479,
+  "lon": 29.0283998,
+  "tags": {
+    "name": "Galleria Mavist",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5506396363,
+  "lat": 41.0267866,
+  "lon": 28.9727283,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Beyoğlu",
+    "addr:housenumber": "39",
+    "addr:postcode": "34421",
+    "addr:street": "Bereketzade Mahallesi Büyük Hendek Cadessi",
+    "name": "500. Yıl Vakfı Türk Musevileri Müzesi",
+    "name:en": "The Jewish Museum of Turkey",
+    "opening_hours": "10:00-16:00; Fr 10:00-13:00; Su 10:00-14:00",
+    "phone": "+90 212 292 63 33",
+    "tourism": "museum",
+    "website": "https://www.muze500.com/",
+    "wheelchair": "no",
+    "wikidata": "Q1059699",
+    "wikimedia_commons": "Category:500. Yıl Vakfı Türk Musevileri Müzesi (İstanbul)",
+    "wikipedia": "en:Jewish Museum of Turkey"
+  }
+},
+{
+  "type": "node",
+  "id": 5579253723,
+  "lat": 41.0274154,
+  "lon": 28.9728089,
+  "tags": {
+    "name:ru": "Вид на султанахмет через босфор",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5640069827,
+  "lat": 41.0259110,
+  "lon": 28.9828120,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Beyoğlu",
+    "addr:housenumber": "1/1",
+    "addr:neighbourhood": "Kılıç Ali Paşa Mahallesi",
+    "addr:postcode": "34433",
+    "addr:street": "Tophane İskele Caddesi",
+    "check_date": "2023-11-30",
+    "email": "info@istanbulmodern.org",
+    "fee": "yes",
+    "museum": "art",
+    "name": "İstanbul Modern Sanat Müzesi",
+    "name:en": "Istanbul Museum of Modern Art",
+    "name:fa": "موزه هنرهای مدرن استانبول",
+    "name:ru": "Стамбульский музей современного искусства",
+    "name:tr": "İstanbul Modern Sanat Müzesi",
+    "opening_hours": "Tu-Th, Sa-Su 10:00-18:00; Fr 10:00-20:00",
+    "phone": "+902123347300",
+    "tourism": "museum",
+    "website": "https://www.istanbulmodern.org/",
+    "wheelchair": "designated",
+    "wikidata": "Q1463961",
+    "wikimedia_commons": "Category:İstanbul Modern",
+    "wikipedia": "tr:İstanbul Modern"
+  }
+},
+{
+  "type": "node",
+  "id": 5663534138,
+  "lat": 41.0197989,
+  "lon": 28.9725249,
+  "tags": {
+    "description": "great view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5663541441,
+  "lat": 41.0194960,
+  "lon": 28.9732748,
+  "tags": {
+    "description": "great view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5678948221,
+  "lat": 41.0290514,
+  "lon": 28.9830699,
+  "tags": {
+    "name:en": "City Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5818857554,
+  "lat": 41.0073531,
+  "lon": 28.9527623,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5953007770,
+  "lat": 41.0145068,
+  "lon": 28.9685011,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5989714589,
+  "lat": 41.0332291,
+  "lon": 29.0264600,
+  "tags": {
+    "name:en": "good view on the Bosphorus",
+    "name:ru": "хороший вид на Босфор",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5989714590,
+  "lat": 41.0339726,
+  "lon": 29.0287628,
+  "tags": {
+    "name:ru": "хороший вид на Босфор",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6180706492,
+  "lat": 41.0412100,
+  "lon": 29.0041190,
+  "tags": {
+    "fee": "yes",
+    "museum": "history",
+    "name": "Saray Koleksiyonları Müzesi",
+    "name:en": "Palace Collections Museum",
+    "name:ru": "Музей дворцовых коллекций",
+    "name:tr": "Saray Koleksiyonları Müzesi",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "operator": "Millî Saraylar Başkanlığı",
+    "tourism": "museum",
+    "website": "https://www.millisaraylar.gov.tr/Lokasyon/15/Saray-Koleksiyonlari-Museum",
+    "wikidata": "Q112585751",
+    "wikimedia_commons": "Category:Istanbul Palace Collections Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6185844109,
+  "lat": 41.0265217,
+  "lon": 28.9746896,
+  "tags": {
+    "building": "yes",
+    "name": "GalataArt",
+    "tourism": "gallery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6185937305,
+  "lat": 41.0238431,
+  "lon": 28.9750813,
+  "tags": {
+    "addr:postcode": "34420",
+    "addr:street": "Bankalar Caddesi",
+    "check_date:opening_hours": "2022-12-10",
+    "fee": "yes",
+    "name": "Sabanci Universitesi Kasa Galerisi",
+    "name:en": "Sabancı University Vault Gallery",
+    "name:tr": "Sabancı Üniversitesi Kasa Galerisi",
+    "opening_hours:signed": "no",
+    "phone": "02122924939",
+    "shop": "art",
+    "tourism": "museum",
+    "website": "http://kasagaleri.sabanciuniv.edu",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6394095590,
+  "lat": 41.0332868,
+  "lon": 29.0284256,
+  "tags": {
+    "name:ru": "Вид с обзорного моста",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6394095591,
+  "lat": 41.0333711,
+  "lon": 29.0286883,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6394104285,
+  "lat": 41.0331152,
+  "lon": 29.0281353,
+  "tags": {
+    "name:ru": "Обзорный мост",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6439176686,
+  "lat": 41.0026752,
+  "lon": 28.9813968,
+  "tags": {
+    "name:en": "Dolphins",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6531889028,
+  "lat": 40.9871819,
+  "lon": 29.0270039,
+  "tags": {
+    "name": "Bahariye Sanat",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6559241038,
+  "lat": 41.0561477,
+  "lon": 28.9937295,
+  "tags": {
+    "name": "Eylül Sanat Galerisi",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6783390887,
+  "lat": 41.0041339,
+  "lon": 28.9751882,
+  "tags": {
+    "name:en": "The Hippodrome Exhibition",
+    "operator": "nakkas",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6879045345,
+  "lat": 41.0351745,
+  "lon": 29.0302142,
+  "tags": {
+    "name": "Harmony",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6915418404,
+  "lat": 41.0257391,
+  "lon": 28.9804665,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Karaköy",
+    "addr:housenumber": "50",
+    "addr:neighbourhood": "Kemankeş Karamustafa Paşa",
+    "addr:postcode": "34425",
+    "addr:street": "Mumhane Caddesi",
+    "name": "x-ist",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6919643985,
+  "lat": 41.0233579,
+  "lon": 28.9688749,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6919643986,
+  "lat": 41.0408243,
+  "lon": 29.0064939,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6919657685,
+  "lat": 41.0283708,
+  "lon": 28.9829732,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6919835285,
+  "lat": 41.0310727,
+  "lon": 28.9523061,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6920140585,
+  "lat": 41.0458103,
+  "lon": 29.0133738,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6968819062,
+  "lat": 41.0320737,
+  "lon": 28.9760955,
+  "tags": {
+    "addr:postcode": "34430",
+    "fee": "no",
+    "name": "SALT Beyoğlu",
+    "opening_hours": "Tu-Sa 11:00-19:00; Su 11:00-18:00",
+    "phone": "+90 212 334 22 00",
+    "tourism": "gallery",
+    "website": "https://saltonline.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 7737183091,
+  "lat": 41.0089808,
+  "lon": 28.9821434,
+  "tags": {
+    "name:en": "Overlook over the East",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8050489585,
+  "lat": 41.0274396,
+  "lon": 28.9842810,
+  "tags": {
+    "addr:postcode": "34433",
+    "name": "MSGSÜ Istanbul Resim ve Heykel Müzesi",
+    "name:en": "Museum Of Painting And Sculpture",
+    "name:ru": "Стамбульский музей живописи и скульптуры",
+    "tourism": "museum",
+    "website": "https://irhm.msgsu.edu.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 8088572819,
+  "lat": 41.0158209,
+  "lon": 28.9662933,
+  "tags": {
+    "fee": "yes",
+    "name:en": "Taht Istanbul",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8205092817,
+  "lat": 41.0154482,
+  "lon": 28.9851066,
+  "tags": {
+    "addr:postcode": "34122",
+    "fee": "no",
+    "name:en": "Tombs Museum",
+    "name:ru": "Музей гробниц",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 8277311717,
+  "lat": 41.0026409,
+  "lon": 28.9735712,
+  "tags": {
+    "description": "Terrace on the tap floor of \"Harmony\" hotel with a beatiful view on the Marmara sea. You can also order some drinks from the terrace menu and enjoy beatiful sunsets or sunrises above the sea surface.",
+    "image": "https://images.app.goo.gl/T32RGXoYWbcyvwst6",
+    "level": "3",
+    "name": "Harmony hotel teras",
+    "name:en": "Harmony hotel terrace",
+    "name:ru": "Тeрасса при отеле \"Harmony\"",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8497548817,
+  "lat": 41.0341101,
+  "lon": 29.0297053,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8602632017,
+  "lat": 41.0318970,
+  "lon": 29.0292057,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8615391417,
+  "lat": 41.0276210,
+  "lon": 28.9720062,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8699169212,
+  "lat": 41.0147153,
+  "lon": 28.9738991,
+  "tags": {
+    "fee": "no",
+    "name": "PTT Müzesi",
+    "name:en": "Post Museum",
+    "opening_hours": "Mo-Fr 09:00-12:00,12:30-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 8829465517,
+  "lat": 41.0218714,
+  "lon": 29.0064402,
+  "tags": {
+    "name:ar": "جلسة امام برج الفتاة (m&h)",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9217070484,
+  "lat": 41.0108493,
+  "lon": 28.9631157,
+  "tags": {
+    "description": "Türkiye’nin ilk Eczacılık Tarihi Müzesi olan müzemiz 1960 yılında Prof. Dr. Turhan Baytop tarafından kurulmuştur. Müzenin çekirdeğini T. Baytop’un kişisel koleksiyonu oluşturmuş, daha sonra eczacıların ve hekimlerin bağışladığı eşyalar ile müze zenginleşm",
+    "email": "eczaciliktarihi@istanbul.edu.tr",
+    "fee": "no",
+    "image": "https://sivilalanarastirmalari.org.tr/wp-content/uploads/2020/06/eczac%C4%B1l%C4%B1k.jpg",
+    "museum": "history",
+    "name": "Türk Eczacılık Tarihi İhtisas Müzesi",
+    "operator": "İstanbul Üniversitesi",
+    "phone": "+90 212 440 00 00",
+    "tourism": "museum",
+    "website": "https://muzeyum.istanbul.edu.tr/tr/content/muzeler/istanbul-universitesi-turk-eczacilik-tarihi-ihtisas-muzesi",
+    "wikidata": "Q77780889",
+    "wikipedia": "tr:İstanbul Üniversitesi Türk Eczacılık Tarihi İhtisas Müzesi"
+  }
+},
+{
+  "type": "node",
+  "id": 9217099231,
+  "lat": 41.0098561,
+  "lon": 28.9601156,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Ordu Caddesi",
+    "email": "arkeolojimuzesi@istanbul.edu.tr",
+    "fee": "no",
+    "image": "https://bilimveaydinlanma.org/content/images/2019/09/haber0.jpg",
+    "museum": "history",
+    "name": "İstanbul Üniversitesi Rıdvan Çelikel Arkeoloji Müzesi",
+    "operator": "İstanbul Üniversitesi",
+    "phone": "+90 212 440 00 00",
+    "tourism": "museum",
+    "website": "https://arkeolojimuzesi.istanbul.edu.tr/",
+    "wikidata": "Q68219486",
+    "wikimedia_commons": "Category:İstanbul Üniversitesi Rıdvan Çelikel Arkeoloji Müzesi",
+    "wikipedia": "tr:İstanbul Üniversitesi Rıdvan Çelikel Arkeoloji Müzesi"
+  }
+},
+{
+  "type": "node",
+  "id": 9352904817,
+  "lat": 41.0113846,
+  "lon": 28.9690155,
+  "tags": {
+    "name:ru": "милый дворик",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9360777017,
+  "lat": 41.0134211,
+  "lon": 28.9687230,
+  "tags": {
+    "name:ru": "проход к секретному кафе",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9363903317,
+  "lat": 41.0239852,
+  "lon": 28.9723371,
+  "tags": {
+    "addr:postcode": "34421",
+    "name:ru": "Граффити Дали и Ван Гог",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9365481817,
+  "lat": 41.0353324,
+  "lon": 29.0302891,
+  "tags": {
+    "addr:postcode": "34674",
+    "name:ru": "Цветные домики",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9365481917,
+  "lat": 41.0338553,
+  "lon": 29.0299561,
+  "tags": {
+    "name:ru": "красивый вид с лестницы на мост",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9394967118,
+  "lat": 41.0100905,
+  "lon": 28.9779230,
+  "tags": {
+    "name:ru": "вид на aya Sofia",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9396688117,
+  "lat": 41.0146448,
+  "lon": 28.9785918,
+  "tags": {
+    "name:ru": "стена для фото",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9396964217,
+  "lat": 41.0122053,
+  "lon": 28.9809347,
+  "tags": {
+    "name:ru": "окна с узорами",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9420269017,
+  "lat": 41.0315557,
+  "lon": 28.9798948,
+  "tags": {
+    "name:ru": "дома фотогеничные",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9434218617,
+  "lat": 41.0342217,
+  "lon": 28.9801757,
+  "tags": {
+    "name:ru": "деревья для фото",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9597969110,
+  "lat": 41.0291700,
+  "lon": 28.9749298,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Beyoğlu",
+    "addr:housenumber": "180",
+    "addr:neighbourhood": "Asmalı Mescit Mahallesi",
+    "addr:postcode": "34430",
+    "addr:street": "İstiklal Caddesi",
+    "email": "info@museumofillusions.com.tr",
+    "fee": "yes",
+    "name": "Illusion Museum",
+    "name:tr": "İllüzyon Müzesi",
+    "phone": "+90 212 244 06 64",
+    "tourism": "museum",
+    "website": "https://museumofillusions.com.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 9698150917,
+  "lat": 41.0408994,
+  "lon": 28.9787641,
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Beyoğlu",
+    "addr:housenumber": "13",
+    "addr:neighbourhood": "Yenişehir Mahallesi",
+    "addr:postcode": "34435",
+    "addr:street": "Irmak Caddesi",
+    "name": "ARTER",
+    "tourism": "museum",
+    "website": "https://www.arter.org.tr",
+    "wikidata": "Q25338955",
+    "wikimedia_commons": "Category:Arter (art center)",
+    "wikipedia": "tr:Arter (sanat mekanı)"
+  }
+},
+{
+  "type": "node",
+  "id": 9782157317,
+  "lat": 41.0144306,
+  "lon": 28.9678594,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9909824529,
+  "lat": 41.0305186,
+  "lon": 28.9836008,
+  "tags": {
+    "fee": "no",
+    "name": "Orhan Kemal Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10135518970,
+  "lat": 41.0371960,
+  "lon": 29.0326425,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10135546727,
+  "lat": 41.0187472,
+  "lon": 29.0085153,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10284696709,
+  "lat": 41.0113440,
+  "lon": 28.9832034,
+  "tags": {
+    "addr:postcode": "34122",
+    "check_date": "2023-09-03",
+    "description": "The quintessential [[Ottoman Empire|Ottoman]] palace was built over centuries starting from the Fall of Constantinople in 1453, and includes many mansions tastefully decorated with delicate tiles. It is on the Seraglio Point, ancient Byzantium's Acropolis",
+    "email": "info@millisaraylar.gov.tr",
+    "fee": "yes",
+    "museum": "history",
+    "name": "Topkapi Sarayı",
+    "name:ar": "قصر طوب قابي",
+    "name:el": "Τοπ Καπί",
+    "name:en": "Topkapi Palace",
+    "name:fa": "کاخ توپکاپی",
+    "name:ru": "Дворец Топкапы",
+    "opening_hours": "Mo, We-Su 09:00-18:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+902125285991",
+    "price": "2400 TL for Topkapi-Palace, Harem and Hagia Irene (no separate tickets)",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/muze-detay/topkapi",
+    "wikidata": "Q170495",
+    "wikimedia_commons": "Category:Topkapı Palace",
+    "wikipedia": "en:Topkapı Palace"
+  }
+},
+{
+  "type": "node",
+  "id": 10543470929,
+  "lat": 41.0136158,
+  "lon": 29.0419533,
+  "tags": {
+    "historic": "building",
+    "name": "Hababam Sınıfı Müzesi",
+    "name:en": "Hababam School Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10585980354,
+  "lat": 40.9901716,
+  "lon": 29.0282267,
+  "tags": {
+    "check_date:currency:XBT": "2023-04-11",
+    "currency:XBT": "yes",
+    "email": "admin@wearetheartmakers.com",
+    "name": "watam",
+    "payment:lightning": "no",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "yes",
+    "tourism": "gallery",
+    "website": "https://wearetheartmakers.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10649534706,
+  "lat": 41.0254397,
+  "lon": 28.9749828,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10822345528,
+  "lat": 41.0490956,
+  "lon": 29.0154803,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10914406407,
+  "lat": 41.0316887,
+  "lon": 29.0288988,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11007651644,
+  "lat": 40.9875595,
+  "lon": 29.0252700,
+  "tags": {
+    "name": "Hobby Galeri",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11008622106,
+  "lat": 41.0287566,
+  "lon": 28.9831844,
+  "tags": {
+    "name:en": "Best view point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11057463275,
+  "lat": 41.0205406,
+  "lon": 28.9730139,
+  "tags": {
+    "description": "great view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11057463276,
+  "lat": 41.0202239,
+  "lon": 28.9738333,
+  "tags": {
+    "description": "great view",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11108374405,
+  "lat": 41.0244477,
+  "lon": 28.9740733,
+  "tags": {
+    "name:en": "Nice wiew",
+    "name:ru": "Красивый вид",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11135095205,
+  "lat": 41.0296788,
+  "lon": 28.9745252,
+  "tags": {
+    "name:ru": "Nice building",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11143992097,
+  "lat": 41.0099888,
+  "lon": 28.9765320,
+  "tags": {
+    "name": "Terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11144622105,
+  "lat": 41.0169652,
+  "lon": 28.9866448,
+  "tags": {
+    "name:ru": "Вид на Девичью башню",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11366737594,
+  "lat": 40.9830013,
+  "lon": 29.0330422,
+  "tags": {
+    "check_date": "2023-11-21",
+    "name": "Tasarim parki",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11477161769,
+  "lat": 41.0072529,
+  "lon": 28.9457942,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11521917350,
+  "lat": 41.0247780,
+  "lon": 29.0108427,
+  "tags": {
+    "direction": "25",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11794180669,
+  "lat": 41.0145102,
+  "lon": 28.9686969,
+  "tags": {
+    "name": "Eirene Tower Sanat Galerisi",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11828695667,
+  "lat": 41.0070136,
+  "lon": 28.9439206,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11867279469,
+  "lat": 41.0064549,
+  "lon": 28.9753667,
+  "tags": {
+    "addr:postcode": "34122",
+    "fee": "yes",
+    "name": "Ayasofya Tarih ve Deneyim Müzesi",
+    "name:en": "Hagia Sophia History and Experience Museum",
+    "name:pt": "Museu de História e Experiência da Santa Sofia",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "phone": "+90 212 227 30 35-36",
+    "price": "25 €",
+    "tourism": "museum",
+    "website": "https://www.demmuseums.com/museums/hagia-sophia-museum/"
+  }
+},
+{
+  "type": "node",
+  "id": 11895862570,
+  "lat": 41.0152862,
+  "lon": 28.9725665,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11918534069,
+  "lat": 41.0427601,
+  "lon": 28.9327098,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11985288314,
+  "lat": 41.0583124,
+  "lon": 28.9803794,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Birahane Sokak",
+    "check_date": "2024-06-16",
+    "level": "0",
+    "museum": "art",
+    "name": "Ara Güler Müzesi",
+    "name:tr": "Ara Güler Müzesi",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-18:00",
+    "tourism": "museum",
+    "wheelchair": "limited",
+    "wikidata": "Q96756361",
+    "wikipedia": "en:Ara Güler Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12003591869,
+  "lat": 41.0336129,
+  "lon": 28.9438752,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12243524937,
+  "lat": 41.0292105,
+  "lon": 28.9465180,
+  "tags": {
+    "email": "contact@muze.gen.tr",
+    "name": "Fethiye Müzesi",
+    "name:en": "Fethiye Museum",
+    "name:ru": "Музей Фетхие (закрыто)",
+    "name:zh": "3-2费特希耶博物馆",
+    "old_name:en": "Pammakaristos Church",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/"
+  }
+},
+{
+  "type": "node",
+  "id": 12248507560,
+  "lat": 41.0376899,
+  "lon": 28.9963411,
+  "tags": {
+    "fee": "yes",
+    "museum": "clock",
+    "name": "Dolmabahçe Saat Müzesi",
+    "name:en": "Dolmabahçe Clock Museum",
+    "name:fa": "موزه ساعت دلماباغچه",
+    "name:ru": "Музей часов Долмабахче",
+    "name:tr": "Dolmabahçe Saat Müzesi",
+    "operator": "Millî Saraylar Başkanlığı",
+    "tourism": "museum",
+    "website": "https://www.millisaraylar.gov.tr/Lokasyon/16/Dolmabahce-Clock-Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12304769413,
+  "lat": 41.0377933,
+  "lon": 29.0376102,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12347693517,
+  "lat": 41.0315115,
+  "lon": 28.9759016,
+  "tags": {
+    "addr:housenumber": "144",
+    "addr:street": "İstiklal Caddesi",
+    "check_date": "2024-11-15",
+    "level": "0",
+    "name": "Türkiye İş Bankası Resim Heykel Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12352223552,
+  "lat": 41.0331552,
+  "lon": 28.9741935,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12352268639,
+  "lat": 41.0216966,
+  "lon": 28.9748769,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12356495063,
+  "lat": 41.0169780,
+  "lon": 28.9659580,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12356559314,
+  "lat": 41.0336039,
+  "lon": 28.9401981,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12356559315,
+  "lat": 41.0336646,
+  "lon": 28.9401377,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12770077501,
+  "lat": 41.0292735,
+  "lon": 28.9752816,
+  "tags": {
+    "name": "Casa Botter - Sanat ve Tasarim Merkezi",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12840972659,
+  "lat": 41.0201401,
+  "lon": 28.9586189,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12841015307,
+  "lat": 41.0197875,
+  "lon": 28.9580926,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12968683072,
+  "lat": 41.0332275,
+  "lon": 28.9935462,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13167206101,
+  "lat": 41.0303890,
+  "lon": 28.9863503,
+  "tags": {
+    "name": "Fotografevi",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 24533505,
+  "center": {
+    "lat": 41.0305795,
+    "lon": 28.9836082
+  },
+  "tags": {
+    "name": "Orhan Kemal Müzesi",
+    "name:en": "Orhan Kemal Museum",
+    "note": "A transférer à côté et transformer en building #for-me",
+    "opening_hours": "10:00-18:00; Su off",
+    "phone": "+90 212 2929245",
+    "tourism": "museum",
+    "website": "http://www.orhankemal.org/",
+    "wikidata": "Q20949672",
+    "wikimedia_commons": "Category:Orhan Kemal Museum",
+    "wikipedia": "en:Orhan Kemal Literature Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 103339339,
+  "center": {
+    "lat": 41.0120223,
+    "lon": 28.9812383
+  },
+  "tags": {
+    "addr:postcode": "34122",
+    "building": "yes",
+    "fee": "yes",
+    "historic": "building",
+    "name": "Çinili Köşk",
+    "name:br": "Mirdi ar Pavilhon Amailhet",
+    "name:en": "Tiled Kiosk",
+    "name:fr": "Musée du Pavillon émaillé",
+    "name:ru": "Изразцовый павильон",
+    "opening_hours": "Tu-Su 09:00-19:00",
+    "source": "Bing",
+    "start_date": "1472",
+    "tourism": "museum",
+    "wikidata": "Q3294735",
+    "wikimedia_commons": "Category:Çinili Köşk",
+    "wikipedia": "tr:Çinili Köşk"
+  }
+},
+{
+  "type": "way",
+  "id": 103339340,
+  "center": {
+    "lat": 41.0113930,
+    "lon": 28.9804023
+  },
+  "tags": {
+    "addr:postcode": "34122",
+    "building": "yes",
+    "check_date": "2025-04-06",
+    "email": "info@istanbularkeoloji.gov.tr",
+    "fax": "+90 212 527 43 00",
+    "fee": "yes",
+    "name": "Eski Şark Eserleri Müzesi",
+    "name:ar": "متحف أثار الشرق القديمة",
+    "name:br": "Mirdi Oberennoù ar Reter Kozh",
+    "name:en": "Museum Of Ancient Orient",
+    "name:fa": "موزه شرق باستان",
+    "name:fr": "Musée des Œuvres de l'Orient Ancien",
+    "name:tr": "Eski Şark Eserleri Müzesi",
+    "opening_hours": "Tu-Su 09:00-19:00",
+    "phone": "+90 212 520 77 40",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "http://www.istanbularkeoloji.gov.tr/",
+    "wheelchair": "yes",
+    "wikidata": "Q99397898",
+    "wikimedia_commons": "Category:Ancient Orient Museum, Istanbul",
+    "wikipedia": "en:Museum of the Ancient Orient"
+  }
+},
+{
+  "type": "way",
+  "id": 110234148,
+  "center": {
+    "lat": 41.0099999,
+    "lon": 28.9632173
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:country": "TR",
+    "addr:district": "Fatih",
+    "addr:province": "İstanbul",
+    "addr:street": "Ordu Caddesi",
+    "building": "yes",
+    "name": "Türk Vakıf Hat Sanatları Müzesi",
+    "name:ar": "متحف الخط التركي",
+    "name:de": "Museum für türkische kalligraphische Kunst",
+    "name:en": "The Museum of Turkish Calligraphic Art",
+    "name:fa": "موزه خوشنویسی بنیاد ترکیه",
+    "name:fr": "Musée d'art calligraphique turc",
+    "name:ru": "Музей турецкого каллиграфического искусства",
+    "opening_hours": "closed",
+    "phone": "02125275851",
+    "source": "bing",
+    "tourism": "museum",
+    "wikidata": "Q6549659",
+    "wikimedia_commons": "Category:Museum of Turkish Calligraphy Art",
+    "wikipedia": "en:Museum of Turkish Calligraphy Art"
+  }
+},
+{
+  "type": "way",
+  "id": 111862615,
+  "center": {
+    "lat": 41.0092573,
+    "lon": 28.9720052
+  },
+  "tags": {
+    "name": "Vezir Hanı",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 112174319,
+  "center": {
+    "lat": 41.0163283,
+    "lon": 28.9816446
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:neighbourhood": "Cankurtaran Mahallesi",
+    "addr:street": "Kennedy Cd",
+    "building": "yes",
+    "museum": "history",
+    "name": "Sepetçiler Kasrı",
+    "name:ar": "قصر سباتشيلار",
+    "name:en": "Sepetçiler Pavilion",
+    "source": "Bing",
+    "tourism": "museum",
+    "wikidata": "Q4867763",
+    "wikimedia_commons": "Category:Basketmakers' Kiosk",
+    "wikipedia": "tr:Sepetçiler Kasrı"
+  }
+},
+{
+  "type": "way",
+  "id": 112676117,
+  "center": {
+    "lat": 41.0318037,
+    "lon": 28.9752040
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:full": "Meşrutiyet Caddesi No.65Taksim Istanbul",
+    "addr:housenumber": "141",
+    "addr:postcode": "34443",
+    "addr:street": "Meşrutiyet Caddesi",
+    "building": "yes",
+    "check_date": "2023-12-01",
+    "fee": "yes",
+    "name": "Pera Müzesi",
+    "name:ar": "متحف بيرا",
+    "name:en": "Pera Museum",
+    "name:fa": "موزه پرا",
+    "name:ru": "Музей Пера",
+    "name:tr": "Pera Müzesi",
+    "name:zh": "佩拉博物馆",
+    "note": "https://www.geziyerler.com/pera-muzesi",
+    "opening_hours": "Tu-Su 10:00-19:00, Su 12:00-18:00",
+    "phone": "212 334 9900",
+    "tourism": "museum",
+    "website": "https://www.peramuzesi.org.tr",
+    "wheelchair": "no",
+    "wheelchair:description": "Tekerlekli sandalye için %100 uygundur. Engelli tuvaleti vardır.",
+    "wikidata": "Q1662392",
+    "wikimedia_commons": "Category:Pera Museum",
+    "wikipedia": "en:Pera Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 165718178,
+  "center": {
+    "lat": 41.0280128,
+    "lon": 28.9751142
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Beyoğlu",
+    "addr:neighbourhood": "Müeyyedzade Mahallesi",
+    "addr:street": "Galip Dede Caddesi",
+    "alt_name": "Galata Convent of Whirling Dervishes",
+    "alt_name:en": "Galata Mevlevi House Museum",
+    "building": "yes",
+    "email": "contact@muze.gen.tr",
+    "fee": "yes",
+    "name": "Galata Mevlevihanesi Müzesi",
+    "name:en": "Galata Dervish House Museum",
+    "name:ru": "Обитель кружащихся дервишей",
+    "name:tr": "Galata Mevlevihanesi Müzesi",
+    "name:zh": "加拉塔梅夫拉维博物馆",
+    "opening_hours": "Tu-Su 09:00-16:30",
+    "phone": "+90 0 212 245 41 41",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/",
+    "wheelchair": "limited",
+    "wikidata": "Q6090478",
+    "wikimedia_commons": "Category:Galata Mevlevihanesi",
+    "wikipedia": "tr:Galata Mevlevihanesi"
+  }
+},
+{
+  "type": "way",
+  "id": 175516451,
+  "center": {
+    "lat": 41.0387836,
+    "lon": 28.9995191
+  },
+  "tags": {
+    "addr:postcode": "34357",
+    "building": "palace",
+    "fee": "yes",
+    "image": "https://photos.app.goo.gl/wgwmbJkCY4ytJERR8",
+    "name": "Dolmabahçe Sarayı Selamlık Bölümü",
+    "name:en": "Dolmabahce Palace",
+    "name:es": "Palacio Dolmabahçe",
+    "name:fa": "کاخ دلمه‌باغچه",
+    "name:hi": "डोल्माबाषे महल",
+    "name:ru": "дворец Долмабахче",
+    "name:uk": "Долмабахче",
+    "name:zh": "多玛巴赫切宫",
+    "opening_hours": "Tu-We, Fr-Su 09:00-16:00",
+    "operator": "Millî Saraylar Başkanlığı",
+    "tourism": "museum",
+    "website": "https://www.millisaraylar.gov.tr/Lokasyon/3/Dolmabahce-Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 175523076,
+  "center": {
+    "lat": 41.0396619,
+    "lon": 29.0027225
+  },
+  "tags": {
+    "building": "palace",
+    "fee": "yes",
+    "image": "https://photos.app.goo.gl/d1wincrbcg2tjvsP6",
+    "museum": "art",
+    "name": "Milli Saraylar Resim Müzesi;Resim Müzesi",
+    "name:en": "National Palaces Painting Museum;Painting Museum",
+    "name:es": "Museo de Pinturas Nacionales de Palacio",
+    "name:ru": "Музей живописи",
+    "name:tr": "Resim Müzesi",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "operator": "Millî Saraylar Başkanlığı",
+    "tourism": "museum",
+    "website": "https://www.millisaraylar.gov.tr/Lokasyon/11/Painting-Museum",
+    "wikidata": "Q20051041",
+    "wikimedia_commons": "Category:Milli Saraylar Resim Müzesi",
+    "wikipedia": "en:National Palaces Painting Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 227308545,
+  "center": {
+    "lat": 41.0415744,
+    "lon": 28.9493406
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 227308549,
+  "center": {
+    "lat": 41.0420387,
+    "lon": 28.9489474
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 227308558,
+  "center": {
+    "lat": 41.0421917,
+    "lon": 28.9484994
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 235271667,
+  "center": {
+    "lat": 40.9817446,
+    "lon": 29.0249322
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Kadıköy",
+    "addr:housenumber": "5",
+    "addr:neighbourhood": "Caferağa",
+    "addr:postcode": "34710",
+    "addr:street": "Yusuf Kamil Paşa Sokağı",
+    "alt_name": "Whittall Mansion",
+    "building": "yes",
+    "description": "House of a Turkish - International rock music legend tuned into an exhibit about his life and his work after his death",
+    "fee": "yes",
+    "museum": "person",
+    "name": "Barış Manço Evi",
+    "opening_hours": "Tu-Su 09:00-16:00",
+    "phone": "+902163379413",
+    "tourism": "museum",
+    "website": "https://barismanco.kadikoy.bel.tr/",
+    "wikimedia_commons": "Category:Barış Manço Museum",
+    "wikipedia": "en:Whittall Mansion, Moda"
+  }
+},
+{
+  "type": "way",
+  "id": 240079129,
+  "center": {
+    "lat": 41.0440651,
+    "lon": 28.9375302
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "museum": "art",
+    "roof:colour": "#889a8e",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 247442912,
+  "center": {
+    "lat": 41.0308530,
+    "lon": 28.9798332
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Masumiyet Müzesi",
+    "tourism": "museum",
+    "wikidata": "Q15961492",
+    "wikimedia_commons": "Category:The Museum of Innocence",
+    "wikipedia": "tr:Masumiyet Müzesi (müze)"
+  }
+},
+{
+  "type": "way",
+  "id": 260976707,
+  "center": {
+    "lat": 41.0160939,
+    "lon": 28.9726009
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:neighbourhood": "Hobyar Mahallesi",
+    "addr:postcode": "34112",
+    "building": "yes",
+    "name": "Türkiye İş Bankası Müzesi",
+    "name:en": "İşbank Museum",
+    "name:ru": "Музей банка Турции",
+    "name:tr": "Türkiye İş Bankası Müzesi",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "operator": "Türkiye İş Bankası",
+    "tourism": "museum",
+    "website": "https://muze.isbank.com.tr/",
+    "wikidata": "Q6053818",
+    "wikimedia_commons": "Category:Türkiye İş Bankası Museum",
+    "wikipedia": "en:İşbank Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 263949137,
+  "center": {
+    "lat": 41.0397895,
+    "lon": 29.0015991
+  },
+  "tags": {
+    "building": "palace",
+    "fee": "yes",
+    "name": "Dolmabahçe Sarayı Harem Bölümü",
+    "name:en": "Dolmabahce Palace",
+    "name:fa": "کاخ دلمه‌باغچه",
+    "name:ru": "Дворец Долмабахче",
+    "operator": "Millî Saraylar Başkanlığı",
+    "tourism": "museum",
+    "website": "https://www.millisaraylar.gov.tr/Lokasyon/3/Dolmabahce-Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 263949162,
+  "center": {
+    "lat": 41.0391296,
+    "lon": 29.0005456
+  },
+  "tags": {
+    "building": "palace",
+    "fee": "yes",
+    "image": "https://photos.app.goo.gl/YUA2SMALTAdW6deXA",
+    "name": "Dolmabahçe Sarayı Muayede Salonu",
+    "name:en": "Dolmabahce Palace",
+    "name:fa": "کاخ دلمه‌باغچه",
+    "name:ko": "돌마바흐체궁전",
+    "operator": "Millî Saraylar Başkanlığı",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 286321642,
+  "center": {
+    "lat": 40.9967248,
+    "lon": 29.0429089
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Kadiköy",
+    "addr:neighbourhood": "Hasanpaşa Mahallesi",
+    "alt_name": "Gazhane Müzesi;Hasanpaşa Gazhanesi",
+    "name": "Müze Gazhane",
+    "name:tr": "Gazhane Müzesi",
+    "tourism": "museum",
+    "website": "https://muzegazhane.istanbul/",
+    "wikidata": "Q107475211",
+    "wikimedia_commons": "Category:Hasanpaşa Gasworks",
+    "wikipedia": "tr:Müze Gazhane"
+  }
+},
+{
+  "type": "way",
+  "id": 303491953,
+  "center": {
+    "lat": 41.0110425,
+    "lon": 28.9783910
+  },
+  "tags": {
+    "building": "government",
+    "height": "13",
+    "name": "Alay Köşkü",
+    "name:ru": "Павильон парадов",
+    "roof:height": "2",
+    "roof:material": "copper",
+    "roof:shape": "gabled",
+    "tourism": "museum",
+    "wikidata": "Q7247329",
+    "wikimedia_commons": "Category:Procession Kiosk",
+    "wikipedia": "tr:Alay Köşkü"
+  }
+},
+{
+  "type": "way",
+  "id": 311681431,
+  "center": {
+    "lat": 41.0083138,
+    "lon": 28.9752897
+  },
+  "tags": {
+    "addr:street": "Divanyolu Caddesi",
+    "building": "yes",
+    "name": "Sağlık Müzesi",
+    "name:ru": "Музей здоровья",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 312484207,
+  "center": {
+    "lat": 41.0507255,
+    "lon": 29.0011953
+  },
+  "tags": {
+    "building": "yes",
+    "image": "https://www.millisaraylar.gov.tr/Content/kasirlar/ihlamur-kasirlari/images/kasr-galeri-9.jpg",
+    "museum": "history",
+    "name": "Ihlamur Kasrı (Merasim Köşkü)",
+    "name:en": "Ceremony Pavilion",
+    "operator": "Milli Saraylar",
+    "tourism": "museum",
+    "wikidata": "Q2330055",
+    "wikimedia_commons": "Category:Ihlamur Palace",
+    "wikipedia": "tr:Ihlamur Kasrı"
+  }
+},
+{
+  "type": "way",
+  "id": 319020883,
+  "center": {
+    "lat": 41.0116433,
+    "lon": 28.9813725
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:neighbourhood": "Cankurtaran Mahallesi",
+    "addr:postcode": "34122",
+    "building": "yes",
+    "fee": "yes",
+    "historic": "building",
+    "name": "İstanbul Arkeoloji Müzesi",
+    "name:br": "Mirdi Arkeologiezh Istanbul",
+    "name:en": "Istanbul Archaeological Museum",
+    "name:es": "Museo arqueológico de Estambul",
+    "name:fa": "موزه‌های باستان‌شناسی استانبول",
+    "name:fr": "Musée archéologique d’Istanbul",
+    "name:hi": "इस्तांबुल पुरातात्विक संग्रहालय",
+    "name:ru": "Археологический музей",
+    "opening_hours": "Tu-Su 09:00-19:00",
+    "start_date": "1891",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/",
+    "wikidata": "Q136402588",
+    "wikimedia_commons": "Category:Istanbul Archaeological Museums (main building)"
+  }
+},
+{
+  "type": "way",
+  "id": 321515438,
+  "center": {
+    "lat": 41.0427903,
+    "lon": 28.9493459
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 324022454,
+  "center": {
+    "lat": 41.0502671,
+    "lon": 29.0109260
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Büyük Mabeyn Köşkü",
+    "roof:material": "copper",
+    "roof:shape": "hipped",
+    "tourism": "museum",
+    "wikidata": "Q31191094",
+    "wikimedia_commons": "File:İstanbul 5717.jpg",
+    "wikipedia": "tr:Büyük Mabeyn Köşkü"
+  }
+},
+{
+  "type": "way",
+  "id": 324173876,
+  "center": {
+    "lat": 41.0501024,
+    "lon": 29.0106360
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Set Köşkü",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 326354955,
+  "center": {
+    "lat": 41.0514836,
+    "lon": 29.0131585
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Şehir Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 326370631,
+  "center": {
+    "lat": 41.0514006,
+    "lon": 29.0120193
+  },
+  "tags": {
+    "name": "Saray Tiyatrosu ve Sahne Sanatları Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 326372295,
+  "center": {
+    "lat": 41.0499954,
+    "lon": 29.0115888
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Yıldız Sarayı Müze Müdürlüğü",
+    "tourism": "museum",
+    "wikidata": "Q108564974"
+  }
+},
+{
+  "type": "way",
+  "id": 327560146,
+  "center": {
+    "lat": 41.0520986,
+    "lon": 29.0126133
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Şale Kasrı",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "tourism": "museum",
+    "wikimedia_commons": "Category:Şale Kiosk"
+  }
+},
+{
+  "type": "way",
+  "id": 329089871,
+  "center": {
+    "lat": 41.0163484,
+    "lon": 28.9554386
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Aziz Mahmud Hüdayi Vakfı Gazanfer Ağa Medresesi Eğitim ve Kültür Merkezi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 329094469,
+  "center": {
+    "lat": 41.0152743,
+    "lon": 28.9520598
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Amcazade Külliyesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 335374188,
+  "center": {
+    "lat": 41.0116941,
+    "lon": 28.9812131
+  },
+  "tags": {
+    "check_date": "2025-04-06",
+    "fax": "+90 212 527 4300",
+    "fee": "yes",
+    "museum": "history",
+    "name": "İstanbul Arkeoloji Müzeleri",
+    "name:br": "Mirdioù Arkeologiezh Istanbul",
+    "name:fa": "موزه‌های باستان‌شناسی استانبول",
+    "name:fr": "Musées archéologiques d'Istanbul",
+    "name:ru": "Стамбульский археологический музей",
+    "name:tr": "İstanbul Arkeoloji Müzeleri",
+    "opening_hours": "09:00-21:00",
+    "operator:type": "public",
+    "phone": "+90 212 520 7740",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/",
+    "wikidata": "Q636978",
+    "wikimedia_commons": "Category:Istanbul Archaeological Museums",
+    "wikipedia": "en:Istanbul Archaeology Museums"
+  }
+},
+{
+  "type": "way",
+  "id": 349521414,
+  "center": {
+    "lat": 41.0488041,
+    "lon": 29.0111404
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Edebiyat Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 489743779,
+  "center": {
+    "lat": 41.0385496,
+    "lon": 28.9953909
+  },
+  "tags": {
+    "building": "yes",
+    "commercial": "sports",
+    "name": "Eski Açık Tribün",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 498861869,
+  "center": {
+    "lat": 41.0410687,
+    "lon": 29.0056763
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "yes",
+    "museum": "military",
+    "name": "Deniz Müzesi",
+    "name:en": "Naval Museum",
+    "name:ru": "Морской музей Стамбула",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa-Su 09:00-18:00",
+    "phone": "+90 212 327 43 45",
+    "tourism": "museum",
+    "website": "https://denizmuzesi.dzkk.tsk.tr/tr",
+    "wikidata": "Q11787082",
+    "wikimedia_commons": "Category:Istanbul Naval Museum",
+    "wikipedia": "en:Istanbul Naval Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 498861884,
+  "center": {
+    "lat": 41.0276465,
+    "lon": 28.9815954
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:housenumber": "2",
+    "addr:street": "Defterdar Yokuşu Sokağı",
+    "alt_name": "Tophane",
+    "building": "university",
+    "name": "MSGSÜ Kültür ve Sanat Merkezi",
+    "name:ru": "Топхане",
+    "religion": "muslim",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 530509576,
+  "center": {
+    "lat": 41.0336999,
+    "lon": 28.9404772
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Fatih",
+    "addr:street": "Şişhane Caddesi",
+    "building": "yes",
+    "historic": "building",
+    "name:ar": "قصر تكفور ساراي",
+    "name:de": "Porphyrogennetos-Palast",
+    "name:en": "Palace of the Porphyrogenitus",
+    "name:ru": "Малый Влахернский дворец",
+    "name:tr": "Tekfur Sarayı",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "start_date": "late C13",
+    "tourism": "museum",
+    "wikidata": "Q1472490",
+    "wikimedia_commons": "Category:Palace of the Porphyrogenitus",
+    "wikipedia": "en:Palace of the Porphyrogenitus",
+    "wikipedia:ru": "Малый Влахернский дворец",
+    "wikipedia:tr": "Tekfur Sarayı"
+  }
+},
+{
+  "type": "way",
+  "id": 569707977,
+  "center": {
+    "lat": 41.0265284,
+    "lon": 28.9749954
+  },
+  "tags": {
+    "building": "yes",
+    "museum": "living_history",
+    "name": "Cat Museum",
+    "operator": "App is",
+    "tourism": "museum",
+    "website": "https://catmuseum.co"
+  }
+},
+{
+  "type": "way",
+  "id": 698165879,
+  "center": {
+    "lat": 41.0564045,
+    "lon": 28.9872127
+  },
+  "tags": {
+    "addr:housenumber": "250",
+    "addr:street": "Halaskargazi Caddesi",
+    "building": "yes",
+    "fee": "no",
+    "name": "Atatürk Museum, Şişli",
+    "name:en": "Atatürk Museum, Şişli",
+    "name:tr": "Atatürk Müzesi",
+    "note": "The museum houses personal belongings of Atatürk like clothes and collections, other than historical documents, photographs and paintings of his lifetime.",
+    "opening_hours": "Mo-We,Fr-Sa 09:00-16:00",
+    "tourism": "museum",
+    "wikidata": "Q3701681",
+    "wikimedia_commons": "Category:Atatürk Museum, Şişli",
+    "wikipedia": "en:Atatürk Museum, Şişli"
+  }
+},
+{
+  "type": "way",
+  "id": 880807812,
+  "center": {
+    "lat": 40.9963286,
+    "lon": 29.0418136
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Kadiköy",
+    "addr:neighbourhood": "Hasanpaşa Mahallesi",
+    "building": "industrial",
+    "building:material": "plaster",
+    "check_date": "2024-09-22",
+    "museum": "science",
+    "name": "İklim Müzesi",
+    "name:en": "Climate Museum",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su 10:00-18:00",
+    "roof:shape": "gabled",
+    "tourism": "museum",
+    "website": "https://muzegazhane.istanbul/mekanlar/iklim-muzesi/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 914394417,
+  "center": {
+    "lat": 41.0404788,
+    "lon": 29.0004493
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "fee": "yes",
+    "level": "0",
+    "museum": "art",
+    "name": "Dolmabahçe Sarayı İç Hazine Dairesi",
+    "name:en": "Clock Museum",
+    "name:ru": "Музей часов",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 988346544,
+  "center": {
+    "lat": 41.0416506,
+    "lon": 28.9492884
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Rahmi M. Koç Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1087432624,
+  "center": {
+    "lat": 40.9864836,
+    "lon": 29.0326796
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "addr:district": "Kadıköy",
+    "addr:housenumber": "16",
+    "addr:neighbourhood": "Osmanağa Mahallesi",
+    "addr:postcode": "34710",
+    "addr:street": "Hasırcı Sokağı",
+    "alt_name": "Sinema Evi",
+    "amenity": "cinema",
+    "area": "yes",
+    "name": "Sinematek",
+    "operator": "Kadıköy Belediyesi",
+    "tourism": "museum",
+    "website": "https://sinematek.kadikoy.bel.tr/",
+    "wikidata": "Q111525180",
+    "wikimedia_commons": "Category:Sinematek/Sinemaevi",
+    "wikipedia": "tr:Sinematek/Sinema Evi"
+  }
+},
+{
+  "type": "way",
+  "id": 1095429806,
+  "center": {
+    "lat": 40.9966249,
+    "lon": 29.0423783
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1153649968,
+  "center": {
+    "lat": 41.0181549,
+    "lon": 28.9204100
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "building": "yes",
+    "fee": "yes",
+    "image": "https://i.panoramikmuze.com/storage/files/images/2022/08/04/0l6a0958-min-LcX5.jpg",
+    "name": "Panorama 1453 Tarih Müzesi",
+    "name:en": "Panorama 1453 History Museum",
+    "name:fr": "Musée Panorama 1453",
+    "name:ru": "Музей панорама 1453",
+    "opening_hours": "08:00 - 18:30",
+    "tourism": "museum",
+    "website": "https://www.panoramikmuze.com/",
+    "wikidata": "Q6090202",
+    "wikimedia_commons": "Category:Panorama 1453 History Museum",
+    "wikipedia": "tr:Panorama 1453 Tarih Müzesi"
+  }
+},
+{
+  "type": "way",
+  "id": 1153966162,
+  "center": {
+    "lat": 41.0042947,
+    "lon": 28.9774330
+  },
+  "tags": {
+    "building": "yes",
+    "description": "המוזיאון מכיל פסיפסים מהתקופה הביזנטית שהתגלו במקור בארמון הגדול של קונסטנטינופול אשר השתרע מההיפודרום וד לחוף ים מרמרה. Phone: +90 212 518-1205 Working hours: פתוח בין השעות 9:00 עד 19:00 (בין ה-15 באפריל עד ה-25 באוקטובר). פתוח בין השעות 9:00 עד 17:00 ב",
+    "name": "Büyük Saray Mozaikleri Müzesi",
+    "name:ar": "متحف بيوك ساراي ميوزاييك",
+    "name:de": "Großer Palast (Mosaikenmuseum)",
+    "name:en": "Great Palace Mosaic Museum",
+    "name:fr": "Musée de la mosaïque du grand palais",
+    "name:ru": "Музей мозаик",
+    "name:zh": "大皇宫镶嵌画博物馆",
+    "opening_hours": "closed",
+    "tourism": "museum",
+    "website": "https://muze.gen.tr/",
+    "wikidata": "Q2719230",
+    "wikimedia_commons": "Category:Great Palace Mosaic Museum",
+    "wikipedia": "tr:Büyük Saray Mozaikleri Müzesi"
+  }
+},
+{
+  "type": "way",
+  "id": 1154702450,
+  "center": {
+    "lat": 41.0074148,
+    "lon": 28.9723954
+  },
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "34122",
+    "addr:street": "Piyer Loti Caddesi",
+    "building": "yes",
+    "building:levels": "3",
+    "building:material": "glass",
+    "charge": "650TRY",
+    "check_date": "2024-10-30",
+    "fee": "yes",
+    "museum": "history",
+    "name": "Şerefiye Sarnıcı",
+    "name:de": "Theodosius Zisterne",
+    "name:en": "Theodosia Cistern",
+    "name:ru": "Цистерна Феодосия",
+    "name:tr": "Şerefiye Sarnıcı",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "operator:type": "public",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/serefiyesarnici/",
+    "wikidata": "Q3150393",
+    "wikimedia_commons": "Category:Theodosius Cistern",
+    "wikipedia": "en:Theodosius Cistern"
+  }
+},
+{
+  "type": "way",
+  "id": 1335767641,
+  "center": {
+    "lat": 41.0339273,
+    "lon": 28.9406735
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Tekfur Sarayı Müzesi",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1384642205,
+  "center": {
+    "lat": 41.0301020,
+    "lon": 29.0422894
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1423624917,
+  "center": {
+    "lat": 41.0401269,
+    "lon": 28.9995100
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "museum": "history",
+    "name": "Camlı Köşk",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 1555271,
+  "center": {
+    "lat": 41.0084634,
+    "lon": 28.9798633
+  },
+  "tags": {
+    "alt_name:br": "Moskeenn Veur Santez-Sofia",
+    "int_name": "Hagia Sophia Grand Mosque",
+    "name": "Ayasofya-i Kebir Câmi-i Şerifi",
+    "name:ar": "آيا صوفيا",
+    "name:br": "Santez-Sofia",
+    "name:fr": "Sainte-Sophie",
+    "name:hr": "Aja Sofija",
+    "tourism": "museum",
+    "type": "site",
+    "website": "https://www.geziyerler.com/ayasofya-muzesi",
+    "wikipedia": "tr:Ayasofya"
+  }
+},
+{
+  "type": "relation",
+  "id": 4297527,
+  "center": {
+    "lat": 41.0420763,
+    "lon": 28.9484777
+  },
+  "tags": {
+    "fax": "+90 212 369 66 06",
+    "name": "Rahmi M. Koç Müzesi",
+    "phone": "+90 212 369 66 00",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "http://www.rmk-museum.org.tr/default.aspx",
+    "website:en": "http://www.rmk-museum.org.tr/en/index.htm",
+    "website:tr": "http://www.rmk-museum.org.tr/default.aspx",
+    "wheelchair": "yes",
+    "wheelchair:description": "Tekerlekli sandalye için %100 uygunluk gösteren Müze'de, kapı geçişleri, rampalar, asansörler, engelli tuvaletleri gibi her türlü olanaklar bulunmaktadır.",
+    "wheelchair:description:tr": "Tekerlekli sandalye için %100 uygunluk gösteren Müze'de, kapı geçişleri, rampalar, asansörler, engelli tuvaletleri gibi her türlü olanaklar bulunmaktadır.",
+    "wikidata": "Q3404565",
+    "wikimedia_commons": "Category:Rahmi M. Koç Museum",
+    "wikipedia": "tr:Rahmi M. Koç Müzesi"
+  }
+},
+{
+  "type": "relation",
+  "id": 4742207,
+  "center": {
+    "lat": 41.0048417,
+    "lon": 28.9741300
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Marmara Üniversitesi Cumhuriyet Müzesi",
+    "name:ar": "المتحف الجمهوري لجامعة مرمرة",
+    "name:en": "Marmara University Republic Museum",
+    "name:fa": "موزه جمهوری دانشگاه مرمره",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://cumhuriyetmuzesi.marmara.edu.tr/"
+  }
+},
+{
+  "type": "relation",
+  "id": 4742554,
+  "center": {
+    "lat": 41.0098292,
+    "lon": 28.9809477
+  },
+  "tags": {
+    "addr:city": "İstanbul",
+    "building": "church",
+    "disused:amenity": "place_of_worship",
+    "historic": "yes",
+    "image": "https://photos.app.goo.gl/wytzK87m6kBnU2kQA",
+    "name": "Aya İrini Kilisesi",
+    "name:ar": "آيا إيريني",
+    "name:bg": "Света Ирина",
+    "name:de": "Hagia Irene",
+    "name:el": "Ναός της Αγίας Ειρήνης",
+    "name:en": "Hagia Irene",
+    "name:es": "Iglesia de Santa Irene",
+    "name:fa": "ایا ایرنه",
+    "name:fr": "Sainte-Irène",
+    "name:hi": "हागिया आइरीन",
+    "name:ru": "Церковь Св. Ирины в Стамбуле",
+    "name:tr": "Aya İrini Kilisesi",
+    "name:uk": "Церковь Св. Ирины в Стамбуле",
+    "start_date": "740",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://muze.gen.tr/",
+    "wikidata": "Q736676",
+    "wikimedia_commons": "Category:Hagia Irene",
+    "wikipedia": "tr:Aya İrini"
+  }
+}
+
+  ]
+}

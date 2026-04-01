@@ -1,0 +1,134 @@
+
+
+===== PAGE 1 =====
+
+Agentic AI – Final Semester Project
+FAST National University of Computer & Emerging Sciences
+Deadline: 24th Novermber, 2025
+1. Project Overview
+This semester, you are required to identify a real and practical problem that genuinely
+requires an Agentic AI solution. You will design, implement, and evaluate a complete
+autonomous system that solves the selected problem.
+You must submit two compulsory deliverables:
+•A fully functionalAgentic AI system(complete code submission)
+•A completeIEEE conference-style research paper
+Using Generative AI tools to write or generate any part of your research
+paper is strictly prohibited and will result in a zero.You may only use LLMs
+inside the Agentic AI system itself (as part of your code), not for the writing of the paper.
+2. Complex Computing Requirements
+Your project must satisfy NCEAC’s definition of a Complex Computing Problem. You
+must ensure that your work demonstrates:
+2.1 Depth of Knowledge and Abstract Thinking
+You must investigate an open-ended, real-world problem requiring knowledge of multi-
+agent systems, LLM reasoning, autonomous planning, tool-use agents, and orchestration
+frameworks.
+2.2 Multiple Possible Solutions
+Your problem must not have a single correct solution. You must justify your design
+choices.
+2.3 Complex System Development
+Your system must involve:
+•autonomous agent(s),
+•decision-making under uncertainty,
+•tool usage and/or API integration,
+•communication or coordination (if multi-agent),
+•dynamic or unpredictable operation.
+1
+25 April 2026
+
+===== PAGE 2 =====
+
+2.4 Research and Experimentation
+You must conduct research, run experiments, choose evaluation metrics, and analyze your
+results.
+2.5 Ethics and Professional Responsibility
+You must discuss risks, limitations, fairness, security, and responsible AI usage in your
+paper.
+3. Choosing Your Project
+You may choose any real-world problem, including but not limited to:
+•autonomous planning agents,
+•multi-agent coordination,
+•workflow automation,
+•reasoning and tool-use agents,
+•ABM simulations (Mesa),
+•security and monitoring agents,
+•intelligent tutoring agents,
+•research support agents (non-writing),
+•scheduling, routing, or orchestration systems.
+You must clearly justify why an Agentic AI solution is necessary for your chosen
+problem.
+4. Deliverables
+4.1 Complete Code Submission
+You must submit a full working codebase, including:
+•agent architecture and planning logic,
+•tools, APIs, memory, scratchpads,
+•multi-agent communication (if applicable),
+•evaluation scripts and tests,
+You may use LangChain, LangGraph, CrewAI, Mesa, or a custom framework.
+2
+
+===== PAGE 3 =====
+
+4.2 IEEE-Style Research Paper
+You must write a 6–8 page paper following IEEE conference formatting. Your paper must
+include:
+1. Title and Abstract
+2. Introduction
+3. Problem Identification and Motivation
+4. Related Work
+5. Methodology and System Architecture
+6. Dataset, Tools, or APIs Used
+7. Experimental Setup and Metrics
+8. Results and Discussion
+9. Ethical Considerations and Limitations
+10. Conclusion and Future Work
+11. References (IEEE Format)
+You must write every line yourself. No AI writing tools are allowed.
+5. Submission Requirements
+You must submit the following:
+1. A/project codefolder containing all runnable code.
+2. Aresearch paper.pdfin IEEE format.
+6. Presentation Phase
+After submission, you will take part in a research-style poster presentation session.
+3
+
+===== PAGE 4 =====
+
+6.1 FCFS Grading Advantage
+Presentation grading follows a First-Come-First-Serve (FCFS) policy:
+•If the presentation is worth 10 marks, the first group to present will be graded out
+of 12.
+•The second group will be graded out of 11.
+•All remaining groups will be graded out of 10.
+This encourages early readiness, discipline, and confidence.
+6.2 Research Poster Presentation
+You must prepare and present asingle research-style poster. You may design it using
+PowerPoint, Canva, Figma, Illustrator, or LaTeX.
+Your poster must include:
+•Title, authors, affiliation
+•Abstract or summary
+•Problem statement and motivation
+•Why your problem requires an Agentic AI solution
+•System architecture diagram
+•Methodology and workflow
+•Experiments and evaluation metrics
+•Visual results and findings
+•Limitations, ethics, and societal considerations
+•Conclusion and future improvements
+7. Academic Integrity
+•You can not use AI tools to generate text for your report.
+•All content must be fully original.
+•Violations will result in a zero for the entire project.
+8. Selecting a Strong Problem
+You must ensure that your selected problem demonstrates:
+•real-world significance,
+•clear necessity for Agentic AI,
+4
+
+===== PAGE 5 =====
+
+•multi-step reasoning or planning,
+•tool usage or API integration,
+•autonomy beyond simple prompting,
+•a measurable evaluation strategy,
+•ethical and societal considerations.
+5

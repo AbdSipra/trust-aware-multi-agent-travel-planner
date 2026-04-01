@@ -1,0 +1,2109 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:30:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 275772610,
+  "lat": 33.6822331,
+  "lon": 73.0362653,
+  "tags": {
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Rohtas Road",
+    "name": "Laraib Inn",
+    "source": "Yahoo + Local Knowledge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 977852301,
+  "lat": 33.7211151,
+  "lon": 73.0565451,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "F 7 Markaz",
+    "email": "info@hotelhillview.net",
+    "fax": "+92-51-2608520",
+    "internet_access": "yes",
+    "name": "Hill View Hotel",
+    "phone": "+92-51-8319000",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://hotelhillview.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 1042607910,
+  "lat": 33.5980169,
+  "lon": 73.0522799,
+  "tags": {
+    "name": "Hotel Avanti",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1793997465,
+  "lat": 33.6544362,
+  "lon": 73.0698615,
+  "tags": {
+    "name": "twin city hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2142192669,
+  "lat": 33.7285610,
+  "lon": 73.0682710,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "18",
+    "addr:street": "26, F-6/2",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "name": "Fortalice Koshar",
+    "note": "kohsar@fortalice.com.pk",
+    "phone": "+92 51 2820304",
+    "smoking": "separated",
+    "tourism": "hotel",
+    "website": "www.fortalice.com.pk",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2169733225,
+  "lat": 33.7195965,
+  "lon": 73.0520807,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:housenumber": "47",
+    "addr:province": "Punjab",
+    "addr:street": "College Road, Street 16, F-7/2",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Comfort Residency",
+    "note": "Very good accomondation in Islamabad close the shops and restaurants.",
+    "phone": "+92 51 2609301",
+    "smoking": "separated",
+    "source": "local_knowledge",
+    "tourism": "hotel",
+    "website": "www.comfortresidencyisb.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2242716068,
+  "lat": 33.5809237,
+  "lon": 73.0705087,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "National Park Road",
+    "name": "Gatmel Motel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2247086882,
+  "lat": 33.5919994,
+  "lon": 73.0538254,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "name": "فلیش مینز ہوٹل",
+    "name:en": "Flashmans Hotel",
+    "name:ur": "فلیش مینز ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2247154027,
+  "lat": 33.7107225,
+  "lon": 73.0596301,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "name": "ایلچی کانٹی نینٹل ہوٹل",
+    "name:en": "Envoy Continental Hotel",
+    "name:ur": "ایلچی کانٹی نینٹل ہوٹل",
+    "tourism": "hotel",
+    "wikidata": "Q112002432"
+  }
+},
+{
+  "type": "node",
+  "id": 3517205624,
+  "lat": 33.7326104,
+  "lon": 73.0861695,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West G5;Service Road West F5",
+    "name": "Marriott Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3810190427,
+  "lat": 33.7051387,
+  "lon": 73.0690439,
+  "tags": {
+    "name": "Heaven Heights Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4222280108,
+  "lat": 33.6457622,
+  "lon": 73.0355800,
+  "tags": {
+    "addr:housenumber": "I-10 Markaz",
+    "addr:street": "Kurang Road",
+    "name": "Kabana Restaurant ",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4338385491,
+  "lat": 33.7034880,
+  "lon": 73.0714023,
+  "tags": {
+    "addr:street": "Muhammad Buksh Road",
+    "air_conditioning": "yes",
+    "check_date": "2023-03-26",
+    "internet_access": "wlan",
+    "name": "Hotel Al-Habib",
+    "opening_hours": "24/7",
+    "phone": "923004137171",
+    "reservation": "yes",
+    "stars": "2",
+    "tourism": "hotel",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4427390889,
+  "lat": 33.7246898,
+  "lon": 73.0677445,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Avari",
+    "name:cs": "Avari",
+    "name:en": "Avari",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4503826800,
+  "lat": 33.6886350,
+  "lon": 73.0507661,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 12",
+    "name": "Bolan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4503826802,
+  "lat": 33.6893182,
+  "lon": 73.0518730,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 12",
+    "name": "Al Feroz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4528315589,
+  "lat": 33.6904610,
+  "lon": 73.1097160,
+  "tags": {
+    "addr:street": "Murree Road",
+    "name": "DreamLand hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4534837695,
+  "lat": 33.6514404,
+  "lon": 73.0825913,
+  "tags": {
+    "name": "Lahori nashta center",
+    "name:en": "Lahori nashta center",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4548145789,
+  "lat": 33.6868444,
+  "lon": 73.1070966,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "Best Western",
+    "brand:wikidata": "Q830334",
+    "name": "Best Western",
+    "name:en": "Best Western",
+    "name:ko": "한인마트",
+    "phone": "+9251111297111",
+    "tourism": "hotel",
+    "website": "https://www.bestwesternpremierisb.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4564000425,
+  "lat": 33.6600399,
+  "lon": 73.0675022,
+  "tags": {
+    "name": "Chintoo's House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4564047959,
+  "lat": 33.6596110,
+  "lon": 73.0703295,
+  "tags": {
+    "name": "Latko House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4618843589,
+  "lat": 33.6586646,
+  "lon": 73.0602228,
+  "tags": {
+    "name": "Hotel Move n Pick",
+    "name:en": "Hotel Move n Pick",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4687064290,
+  "lat": 33.6543381,
+  "lon": 73.0688670,
+  "tags": {
+    "name": "hotel travel inn",
+    "name:en": "hotel travel inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4691693289,
+  "lat": 33.6544778,
+  "lon": 73.0693095,
+  "tags": {
+    "name": "hotel best view",
+    "name:en": "hotel best view",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4718634890,
+  "lat": 33.7034369,
+  "lon": 73.0718996,
+  "tags": {
+    "addr:street": "Muhammad Buksh Road",
+    "internet_access": "wlan",
+    "name": "Islamabad Premiere Inn",
+    "opening_hours": "24/7",
+    "operator": "Private Residence",
+    "phone": "+92512204800",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4728011095,
+  "lat": 33.7146191,
+  "lon": 73.0334995,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 21",
+    "name": "Bismillah Tikka & Charga House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4863342521,
+  "lat": 33.6129980,
+  "lon": 73.0683709,
+  "tags": {
+    "name": "Al-baddar hotel",
+    "name:en": "Al-baddar hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4880262576,
+  "lat": 33.6622887,
+  "lon": 72.9919737,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "سروس روڈ ویسٹ جی-11",
+    "name": "نیا عباسی ہوٹل",
+    "name:en": "New Abbasi Hotel",
+    "name:ur": "نیا عباسی ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4880297946,
+  "lat": 33.6712029,
+  "lon": 72.9852148,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West G-11",
+    "name": "Bismillah Hazara Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4880297947,
+  "lat": 33.6705340,
+  "lon": 72.9857647,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West G-11",
+    "name": "Bismillah Naan Centre",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4880297949,
+  "lat": 33.6685496,
+  "lon": 72.9874218,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West G-11",
+    "name": "Usman's Hostel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4880332835,
+  "lat": 33.6826538,
+  "lon": 72.9795044,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 20",
+    "name": "Dhabba Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4889712016,
+  "lat": 33.6854221,
+  "lon": 73.0435474,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 55",
+    "name": "Hotel Royal Green",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4889743707,
+  "lat": 33.6844931,
+  "lon": 73.0304115,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 49",
+    "name": "Haji Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4889767113,
+  "lat": 33.6876136,
+  "lon": 73.0341371,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Mangla Road",
+    "name": "Hotel Al-Hira",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4889767114,
+  "lat": 33.6881612,
+  "lon": 73.0340974,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Mangla Road",
+    "name": "Hotel Al-Subhania",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4889767115,
+  "lat": 33.6883560,
+  "lon": 73.0339264,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Mangla Road",
+    "name": "Hotel City International",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250473,
+  "lat": 33.6623472,
+  "lon": 73.0842589,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "IJP Road",
+    "name": "AL Waqqas Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250474,
+  "lat": 33.6621016,
+  "lon": 73.0844332,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "Hotel Travel Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250475,
+  "lat": 33.6619453,
+  "lon": 73.0842052,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "Pearl Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250476,
+  "lat": 33.6615636,
+  "lon": 73.0845405,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "City View Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250479,
+  "lat": 33.6616247,
+  "lon": 73.0828662,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "skyways",
+    "name": "Babri Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250480,
+  "lat": 33.6619120,
+  "lon": 73.0834463,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "skyways",
+    "name": "Shahenshah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250495,
+  "lat": 33.6589537,
+  "lon": 73.0838657,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "Hotel Crown City",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4899250506,
+  "lat": 33.6552694,
+  "lon": 73.0825223,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "Royal City Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901403874,
+  "lat": 33.6305460,
+  "lon": 73.0745599,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:street": "ایران روڈ",
+    "name": "نئی ہزارہ ہوٹل",
+    "name:en": "New Hazara Hotel",
+    "name:ur": "نئی ہزارہ ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901403887,
+  "lat": 33.6264805,
+  "lon": 73.0685446,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Asghar Mall Road",
+    "name": "Mashallah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901469592,
+  "lat": 33.6195827,
+  "lon": 73.0657654,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "Potohar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901469611,
+  "lat": 33.6159074,
+  "lon": 73.0651646,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murre Road",
+    "name": "Ishaq Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901469614,
+  "lat": 33.6146006,
+  "lon": 73.0653011,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murre Road",
+    "name": "Quetta Zam Zam Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901469616,
+  "lat": 33.6139481,
+  "lon": 73.0653793,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murre Road",
+    "name": "Grace Continental Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901469617,
+  "lat": 33.6142847,
+  "lon": 73.0647630,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murre Road",
+    "name": "Babar Gul Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901472644,
+  "lat": 33.6113653,
+  "lon": 73.0649888,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murre Road",
+    "name": "Hotel Neelam Valley",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901472657,
+  "lat": 33.6078020,
+  "lon": 73.0657862,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Murree Road",
+    "name": "Burj Al-hateem Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4901633331,
+  "lat": 33.6028345,
+  "lon": 73.0660523,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Tipu Road",
+    "name": "Gulf Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4940060821,
+  "lat": 33.6350496,
+  "lon": 73.0624586,
+  "tags": {
+    "addr:street": "Saidpur Road",
+    "name": "Al Hameed shadi hall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4942253023,
+  "lat": 33.6392471,
+  "lon": 73.0629668,
+  "tags": {
+    "name": "Bless shadi hall",
+    "name:en": "Bless shadi hall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4942273021,
+  "lat": 33.6284269,
+  "lon": 73.0616573,
+  "tags": {
+    "name": "Grand avenue",
+    "name:en": "Grand avenue",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4945411878,
+  "lat": 33.7238401,
+  "lon": 73.0964268,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Constitution Avenue",
+    "name": "Legend Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4954657327,
+  "lat": 33.7209133,
+  "lon": 73.0790253,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "AKM Fazul Haq Road",
+    "name": "Hotel de Papáe (Intl)",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4954968372,
+  "lat": 33.7161398,
+  "lon": 73.0852089,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 92",
+    "name": "Taste & Taste",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4956663344,
+  "lat": 33.7179819,
+  "lon": 73.0953816,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Ataturk Avenue (Embassy Road);Ataturk Avenue",
+    "name": "Khan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4956663355,
+  "lat": 33.7110583,
+  "lon": 73.0942517,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 67",
+    "name": "Marina Residency",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4956758368,
+  "lat": 33.7072331,
+  "lon": 73.0872113,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 44",
+    "name": "Country Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4956758380,
+  "lat": 33.7061375,
+  "lon": 73.0853365,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 33",
+    "name": "Hotel Royal City",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4956981550,
+  "lat": 33.7303710,
+  "lon": 73.0797661,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Agha Khan Road",
+    "name": "Hotel One",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4958021434,
+  "lat": 33.7212250,
+  "lon": 73.0701592,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West F-6",
+    "name": "Hotel One 7th Avenue",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4958021435,
+  "lat": 33.7211201,
+  "lon": 73.0702611,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West F-6",
+    "name": "Hotel One Street 33",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4958021437,
+  "lat": 33.7228915,
+  "lon": 73.0689522,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West F-6",
+    "name": "New King Mun",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4958148409,
+  "lat": 33.6723263,
+  "lon": 72.9843179,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West F11",
+    "name": "Al Madinah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4958492933,
+  "lat": 33.6729724,
+  "lon": 73.0207691,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 36",
+    "name": "Hotel Faran",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4961746371,
+  "lat": 33.6946754,
+  "lon": 73.0125135,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sumbal Road",
+    "name": "Naan Stop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4965273744,
+  "lat": 33.7156412,
+  "lon": 73.0609168,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 42",
+    "name": "CHN hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4965273748,
+  "lat": 33.7185054,
+  "lon": 73.0611870,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 51",
+    "name": "Savoy Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360746,
+  "lat": 33.7067469,
+  "lon": 73.0678205,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sultan Bahu Road",
+    "name": "Star Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360748,
+  "lat": 33.7069403,
+  "lon": 73.0682376,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sultan Bahu Road",
+    "name": "Sitara Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360751,
+  "lat": 33.7067151,
+  "lon": 73.0690003,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sultan Bahu Road",
+    "name": "Simara Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360752,
+  "lat": 33.7066179,
+  "lon": 73.0690799,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sultan Bahu Road",
+    "name": "Hotel Green City",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360753,
+  "lat": 33.7063449,
+  "lon": 73.0691584,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sultan Bahu Road",
+    "name": "Dynasty Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360754,
+  "lat": 33.7061771,
+  "lon": 73.0692681,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Rehman Baba Road",
+    "name": "Green Palace Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360755,
+  "lat": 33.7053929,
+  "lon": 73.0675727,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sachal Sarmast Road (G7)",
+    "name": "Al-Markaz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360757,
+  "lat": 33.7060237,
+  "lon": 73.0678443,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sachal Sarmast Road (G7)",
+    "name": "Diplomat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4966360760,
+  "lat": 33.7055964,
+  "lon": 73.0677579,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Sachal Sarmast Road (G7)",
+    "name": "Hotel Heaven Heights",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4967673494,
+  "lat": 33.6982912,
+  "lon": 73.0492096,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Gali 1",
+    "name": "Hotel Shalimar Islamabad",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4967695201,
+  "lat": 33.6882780,
+  "lon": 73.0500877,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 12",
+    "name": "Hotel Paradise",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5119179721,
+  "lat": 33.6894959,
+  "lon": 73.0114549,
+  "tags": {
+    "addr:housenumber": "176B",
+    "addr:street": "Street 48",
+    "name": "Coral Lodge 2",
+    "name:en": "Coral Lodge 2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5251807402,
+  "lat": 33.6202892,
+  "lon": 72.9801287,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Service Road",
+    "name": "Khyber Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5252227078,
+  "lat": 33.6195154,
+  "lon": 72.9811456,
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Service Road",
+    "name": "Driver Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5350813822,
+  "lat": 33.7045849,
+  "lon": 73.1427882,
+  "tags": {
+    "name": "Rawal Marque",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5512054623,
+  "lat": 33.6848707,
+  "lon": 73.1050560,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Club Road",
+    "email": "emblodge@comsats.net.pk",
+    "name": "Embassy Lodge",
+    "phone": "+92-51-8314914-6",
+    "tourism": "hotel",
+    "website": "https://www.embassylodge.com/contact.php"
+  }
+},
+{
+  "type": "node",
+  "id": 5584257122,
+  "lat": 33.5955343,
+  "lon": 73.0053657,
+  "tags": {
+    "name": "Askari khan wedding",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5761119723,
+  "lat": 33.7195279,
+  "lon": 73.0535885,
+  "tags": {
+    "name": "Rakaposhi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5818061753,
+  "lat": 33.6508411,
+  "lon": 73.0624420,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "DestInn Hotel & Suites",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5963324285,
+  "lat": 33.6858998,
+  "lon": 73.0446457,
+  "tags": {
+    "name": "Mövenstay",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6185597685,
+  "lat": 33.6495930,
+  "lon": 72.9550626,
+  "tags": {
+    "name": "Islamabad Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6198982386,
+  "lat": 33.6832663,
+  "lon": 73.0352841,
+  "tags": {
+    "addr:street": "Rohtas Road",
+    "name": "Check Inn",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6208198896,
+  "lat": 33.6764634,
+  "lon": 73.0147567,
+  "tags": {
+    "name": "Marriage Point",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6208220787,
+  "lat": 33.6767582,
+  "lon": 73.0159554,
+  "tags": {
+    "name": "Al-Sheikh Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6681783787,
+  "lat": 33.6369143,
+  "lon": 73.1323326,
+  "tags": {
+    "name": "Chappar hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6920000185,
+  "lat": 33.6903035,
+  "lon": 72.9786618,
+  "tags": {
+    "name": "Maidi Backpacker",
+    "name:zh": "麦迪青旅",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6920065186,
+  "lat": 33.6901362,
+  "lon": 72.9785913,
+  "tags": {
+    "addr:housenumber": "232",
+    "addr:postcode": "430000",
+    "addr:street": "Khudadad heights main margalla road",
+    "email": "Junhuama123@gmail.com",
+    "internet_access": "wlan",
+    "name": "Maidi Backpacker",
+    "name:zh": "麦迪民宿，微信mjhdyx",
+    "phone": "03335624880",
+    "tourism": "hotel",
+    "website": "http://Junhuama123@gmail.com"
+  }
+},
+{
+  "type": "node",
+  "id": 8423788517,
+  "lat": 33.6946963,
+  "lon": 72.9884178,
+  "tags": {
+    "addr:housenumber": "E-11/4",
+    "name": "Monal Marquee",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8437819317,
+  "lat": 33.6750557,
+  "lon": 73.0020924,
+  "tags": {
+    "name": "near Nescom G-11 Resthouse",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8507065417,
+  "lat": 33.6747233,
+  "lon": 73.0011067,
+  "tags": {
+    "name": "Nescom G-11 Guesthouse",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8527861817,
+  "lat": 33.7173172,
+  "lon": 73.0844228,
+  "tags": {
+    "addr:street": "Street 92",
+    "name": "Quita and Karachi Kaifai",
+    "opening_hours": "24/7",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9080514292,
+  "lat": 33.6246355,
+  "lon": 72.9726448,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:fr": "Islamabad",
+    "addr:city:pa": "ਇਸਲਾਮਾਬਾਦ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "سروس روڈ",
+    "name": "Nice Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9892483611,
+  "lat": 33.6495898,
+  "lon": 72.9768154,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:fr": "Islamabad",
+    "addr:city:pa": "ਇਸਲਾਮਾਬਾਦ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:postcode": "46000",
+    "addr:street": "سرینگر ہائی وے",
+    "air_conditioning": "yes",
+    "brand": "Noor",
+    "email": "noorlodgeofficial@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "Noor Lodge",
+    "name": "Noor Lodge",
+    "phone": "+923480481173",
+    "reservation": "recommended",
+    "rooms": "7",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10017462520,
+  "lat": 33.6950529,
+  "lon": 72.9699143,
+  "tags": {
+    "name": "Grand Islamabad Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10199243124,
+  "lat": 33.6091962,
+  "lon": 73.0600128,
+  "tags": {
+    "name": "CITY INN HOTEL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10774540125,
+  "lat": 33.7296220,
+  "lon": 73.0523591,
+  "tags": {
+    "name": "Hillside residence",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10828771945,
+  "lat": 33.7195043,
+  "lon": 73.0485668,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "F7/2 Street 20",
+    "name": "Hayat Grand Guest House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11065390292,
+  "lat": 33.7099137,
+  "lon": 73.0570943,
+  "tags": {
+    "name": "Hotel Crown Plaza",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12143585101,
+  "lat": 33.7185982,
+  "lon": 73.0542472,
+  "tags": {
+    "name": "Atlas",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12721882128,
+  "lat": 33.6503033,
+  "lon": 73.0612547,
+  "tags": {
+    "addr:city": "Islamabad",
+    "addr:street": "IJP Road",
+    "air_conditioning": "yes",
+    "brand": "Hotel Jan's Palace",
+    "email": "s.asadjan@gmail.com",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Jan's Palace",
+    "opening_hours": "24/7",
+    "phone": "0514848997",
+    "rooms": "20",
+    "smoking": "yes",
+    "source": "local knowledge;gps;streetlevel imagery;osm notes;survey",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://angelwingstourism.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13648886404,
+  "lat": 33.7081203,
+  "lon": 73.0501691,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "44220",
+    "addr:street": "Jinnah Avenue Secror F-8/4 Beside Centaurus Mall",
+    "name": "Movenpick Hotel Centaurus Islamabad",
+    "phone": "+92 51 111 227 667",
+    "tourism": "hotel",
+    "website": "https://all.accor.com/a/select-country.html"
+  }
+},
+{
+  "type": "way",
+  "id": 23381335,
+  "center": {
+    "lat": 33.7161300,
+    "lon": 73.0844125
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 92",
+    "building": "yes",
+    "name": "Islamabad Hotel",
+    "tourism": "hotel",
+    "wikidata": "Q112027268"
+  }
+},
+{
+  "type": "way",
+  "id": 23598090,
+  "center": {
+    "lat": 33.5885957,
+    "lon": 73.0561406
+  },
+  "tags": {
+    "building": "yes",
+    "is_in": "Rawalpindi, Rawalpindi Cantt.",
+    "name": "Pearl Continental Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 23647414,
+  "center": {
+    "lat": 33.7327125,
+    "lon": 73.0871207
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Agha Khan Road",
+    "building": "yes",
+    "name": "Islamabad Marriott Hotel",
+    "tourism": "hotel",
+    "wikidata": "Q111401627"
+  }
+},
+{
+  "type": "way",
+  "id": 158533811,
+  "center": {
+    "lat": 33.7035730,
+    "lon": 73.0718268
+  },
+  "tags": {
+    "name": "Al-Umer",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 167958011,
+  "center": {
+    "lat": 33.6548206,
+    "lon": 73.0702696
+  },
+  "tags": {
+    "name": "hotel capital view",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 215308162,
+  "center": {
+    "lat": 33.7218029,
+    "lon": 73.0699990
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West F-6",
+    "building": "yes",
+    "name": "New Cape Grace Guest House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 228885553,
+  "center": {
+    "lat": 33.7153470,
+    "lon": 73.1020448
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Serena Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 230580811,
+  "center": {
+    "lat": 33.5882363,
+    "lon": 73.0547633
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Blue Lagoon",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 231052044,
+  "center": {
+    "lat": 33.5879907,
+    "lon": 73.0583515
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Shalimar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 236166897,
+  "center": {
+    "lat": 33.5876550,
+    "lon": 73.0579034
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "6",
+    "name": "De-Mall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 303716651,
+  "center": {
+    "lat": 33.7171053,
+    "lon": 73.1005587
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Service Road West G5;Service Road West F5",
+    "name": "Serena Hotel - Business Complex",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 303716652,
+  "center": {
+    "lat": 33.7160408,
+    "lon": 73.1014004
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Serena Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 468394592,
+  "center": {
+    "lat": 33.6161605,
+    "lon": 72.9943227
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Midtown hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 788652961,
+  "center": {
+    "lat": 33.5926809,
+    "lon": 73.0533375
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "building": "no",
+    "name": "فلیش مینز ہوٹل",
+    "name:en": "Flashmans Hotel",
+    "name:ur": "فلیش مینز ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1003910175,
+  "center": {
+    "lat": 33.7084094,
+    "lon": 73.0988425
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:street": "M-2 Near Islamabad Convention Centre",
+    "air_conditioning": "yes",
+    "bar": "no",
+    "building": "no",
+    "email": "isb@hotelmargala.com",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "is_in": "شکر پڑیاں",
+    "name": "Hotel Margala",
+    "name:ur": "ہوٹل مارگلہ",
+    "phone": "+92-51-111901901",
+    "smoking": "isolated",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+}
+
+  ]
+}

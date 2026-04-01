@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.log
+project_code/data/runs/*.json
+project_code/data/runs/*.jsonl
+project_code/data/runs/*.csv
+project_code/data/runs/*.md
+

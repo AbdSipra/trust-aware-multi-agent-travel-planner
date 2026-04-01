@@ -1,0 +1,5647 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:34:31Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 373098282,
+  "lat": 13.7374778,
+  "lon": 100.5300846,
+  "tags": {
+    "level": "1",
+    "name": "พิพิธภัณฑสถานธรรมชาติวิทยาฯ",
+    "name:en": "Museum of Natural History",
+    "name:th": "พิพิธภัณฑสถานธรรมชาติวิทยาฯ",
+    "tourism": "museum",
+    "wikidata": "Q13018177",
+    "wikimedia_commons": "Category:Chulalongkorn University Museum of Natural History",
+    "wikipedia": "en:Chulalongkorn University Museum of Natural History"
+  }
+},
+{
+  "type": "node",
+  "id": 567014290,
+  "lat": 13.7555116,
+  "lon": 100.5064450,
+  "tags": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "ผ่านฟ้าลีลาศ",
+    "name:en": "Phanfa Leelard",
+    "name:fr": "Phanfa Leelard",
+    "name:ru": "Phanfa Leelard",
+    "name:th": "ผ่านฟ้าลีลาศ",
+    "network": "Golden Mount Line",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-19:30",
+    "public_transport": "stop_position",
+    "ref": "W5",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 891253823,
+  "lat": 13.8477123,
+  "lon": 100.5637517,
+  "tags": {
+    "name": "สำนักพิพิธภัณฑ์และวัฒนธรรมการเกษตร",
+    "name:en": "Office of Agricultural Museum and Culture",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 891272542,
+  "lat": 13.8550248,
+  "lon": 100.5676698,
+  "tags": {
+    "name": "พิพิธภัณฑ์สัตว์น้ำบางเขน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1374585057,
+  "lat": 13.8425450,
+  "lon": 100.5756015,
+  "tags": {
+    "name": "สถานแสดงพันธุ์สัตว์น้ำจืด เกษตรกลาง",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1524659674,
+  "lat": 13.8457725,
+  "lon": 100.5663888,
+  "tags": {
+    "name": "หอประวัติฯ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1641043367,
+  "lat": 13.6802705,
+  "lon": 100.5760550,
+  "tags": {
+    "name": "Bang Nam Phueng Floating Market",
+    "name:en": "Bang Nam Pheung Floating Market",
+    "opening_hours": "Sa-Su 08:00-17:00",
+    "shop": "farm",
+    "tourism": "attraction",
+    "wikidata": "Q18398194",
+    "wikimedia_commons": "Category:Bang Nam Phueng Floating Market",
+    "wikipedia": "en:Bang Nam Phueng Floating Market"
+  }
+},
+{
+  "type": "node",
+  "id": 1696984912,
+  "lat": 13.7464988,
+  "lon": 100.5317246,
+  "tags": {
+    "air_conditioning": "yes",
+    "level": "5",
+    "name": "มาดามทุสโซ กรุงเทพฯ",
+    "name:en": "Madame Tussaud's Bangkok",
+    "name:th": "มาดามทุสโซ กรุงเทพฯ",
+    "name:zh": "曼谷杜莎夫人蜡像馆",
+    "tourism": "museum",
+    "website": "https://www.madametussauds.com/bangkok"
+  }
+},
+{
+  "type": "node",
+  "id": 1799203298,
+  "lat": 13.6998906,
+  "lon": 100.5628500,
+  "tags": {
+    "contact:facebook": "siamesefighthingfishgalery",
+    "name": "พิพิธภัณฑ์ปลากัดสยาม",
+    "name:en": "Siam Fighting Fish Gallery",
+    "name:th": "พิพิธภัณฑ์ปลากัดสยาม",
+    "opening_hours": "Sa-Su 10:00-17:00",
+    "phone": "+66 89 4464155",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1872413363,
+  "lat": 13.7696454,
+  "lon": 100.4958557,
+  "tags": {
+    "man_made": "tower",
+    "name": "สะพานพระราม 8",
+    "name:en": "Rama VIII Bridge",
+    "name:th": "สะพานพระราม 8",
+    "tourism": "attraction",
+    "wikidata": "Q1092231",
+    "wikimedia_commons": "Category:Rama VIII Bridge",
+    "wikipedia": "en:Rama VIII Bridge"
+  }
+},
+{
+  "type": "node",
+  "id": 2114142445,
+  "lat": 13.7668953,
+  "lon": 100.4431886,
+  "tags": {
+    "description": "มีลักษณะเป็นกำเเพงน้ำตก มีบรยากาศร่มรื่น ใช้นัดพบ ถ่าบภาพ",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2114142446,
+  "lat": 13.7676012,
+  "lon": 100.4419682,
+  "tags": {
+    "designation": "take a photo point and resting place",
+    "name": "fun space",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2114142447,
+  "lat": 13.7675441,
+  "lon": 100.4427392,
+  "tags": {
+    "description": "เป็นน้ำพุ มีลักษณะเป็นรูปดอกไม้ตั้งอยู่ตรงทางเข้าด้านข้าง ถ่ายภาพ นัดพบกัน",
+    "name": "Circle of love (photo point)",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2114142448,
+  "lat": 13.7671533,
+  "lon": 100.4424736,
+  "tags": {
+    "name": "take a photo point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2114186625,
+  "lat": 13.7672809,
+  "lon": 100.4425985,
+  "tags": {
+    "designation": "take a photo point and resting place",
+    "name": "the circle center",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2397987931,
+  "lat": 13.7239301,
+  "lon": 100.5232949,
+  "tags": {
+    "fee": "no",
+    "name": "Kathmandu Photo Gallery",
+    "name:en": "Kathmandu Photo Gallery",
+    "name:fr": "Kathmandu Photo Gallery",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 2411920280,
+  "lat": 13.7371239,
+  "lon": 100.5298530,
+  "tags": {
+    "level": "2",
+    "name": "พิพิธภัณฑ์เทคโนโลยีทางภาพ",
+    "name:en": "Museum of Imaging Technology",
+    "tourism": "museum",
+    "wikidata": "Q6583138",
+    "wikipedia": "en:Museum of Imagery Technology"
+  }
+},
+{
+  "type": "node",
+  "id": 2447283108,
+  "lat": 13.7587143,
+  "lon": 100.4854995,
+  "tags": {
+    "addr:floor": "2",
+    "addr:housename": "Forensic Pathology",
+    "name": "พิพิธภัณฑ์การแพทย์ศิริราช",
+    "name:en": "Siriraj Medical Museum",
+    "name:fr": "Musée médicolégal de Songkran Niyosane et musée des Parasites",
+    "name:ru": "Музей медицины Сирирай",
+    "name:tr": "Songkran Niyosane Adli Tıp Müzesi ve Parazit Müzesi",
+    "tourism": "museum",
+    "wikidata": "Q7530338",
+    "wikipedia": "en:Siriraj Medical Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2512936178,
+  "lat": 13.7539288,
+  "lon": 100.5066298,
+  "tags": {
+    "image": "https://photos.app.goo.gl/boxsFTqYVKWNNHoK8",
+    "name:en": "Golden Mount",
+    "name:es": "Montaña Dorada",
+    "name:ru": "Храм Золотая гора",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2640789618,
+  "lat": 13.8271304,
+  "lon": 100.5647372,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:postcode": "10900",
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "พิพิธภัณฑ์ธนาคารไทย",
+    "name:en": "Thai Bank Museum",
+    "operator": "SCB",
+    "phone": "0 2544 4526",
+    "tourism": "museum",
+    "website": "www.thaibankmuseum.or.th/"
+  }
+},
+{
+  "type": "node",
+  "id": 2649275573,
+  "lat": 13.7305530,
+  "lon": 100.5416556,
+  "tags": {
+    "amenity": "clock",
+    "display": "sundial",
+    "inscription": "Swiss Tribute to H.M. the King's Sixth Cycle Birthday\n\nThis sundial, crafted by Türler Watches & Jewellery Zurich/Switzerland, was sponsored by the following contributors:\n\n[Table of sponsors]",
+    "name": "นาฬิกาแดด",
+    "name:en": "Sundial",
+    "name:th": "นาฬิกาแดด",
+    "start_date": "1999-12-05",
+    "support": "ground",
+    "tourism": "attraction",
+    "visibility": "house"
+  }
+},
+{
+  "type": "node",
+  "id": 2962447233,
+  "lat": 13.6830764,
+  "lon": 100.5472964,
+  "tags": {
+    "addr:floor": "26",
+    "addr:housenumber": "Supalai Grand Tower",
+    "addr:postcode": "10120",
+    "addr:street": "1011 Rama 3 Road",
+    "name:en": "Museum of Counterfeit Goods",
+    "name:fr": "Musée de la Contrefaçon",
+    "operator": "Tilleke & Gibbins",
+    "phone": "+66 02 653 5555",
+    "tourism": "museum",
+    "website": "https://www.tilleke.com/firm/community/museum",
+    "wikidata": "Q6940824",
+    "wikipedia": "en:Museum of Counterfeit Goods"
+  }
+},
+{
+  "type": "node",
+  "id": 2962478192,
+  "lat": 13.7435407,
+  "lon": 100.5344222,
+  "tags": {
+    "addr:floor": "9",
+    "addr:housename": "Dentistry Faculty",
+    "fee": "no",
+    "name": "พิพิธภัณฑ์ร่างกายมนุษย์",
+    "name:en": "Human Body Museum",
+    "name:ru": "Музей человеческого тела",
+    "operator": "Chulalongkorn University",
+    "phone": "+66 87 097 5481",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2962489061,
+  "lat": 13.7530368,
+  "lon": 100.5497571,
+  "tags": {
+    "addr:street": "Ratchathewi Road",
+    "name": "พิพิธภัณฑ์แรงงานไทย",
+    "name:en": "Thai Labour Museum",
+    "phone": "+66 02 251 3173",
+    "tourism": "museum",
+    "wikidata": "Q7709126",
+    "wikipedia": "en:Thai Labour Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2962507138,
+  "lat": 13.7968780,
+  "lon": 100.3916765,
+  "tags": {
+    "addr:postcode": "10170",
+    "addr:street": "Khlong Pho Land, 170/17 Moo 7, Soi 2, Khlong Pho Rd.",
+    "name": "บ้านพิพิธภัณฑ์",
+    "name:en": "House of Museums",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3096836185,
+  "lat": 13.7367162,
+  "lon": 100.5110977,
+  "tags": {
+    "name": "พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตสัมพันธวงศ์",
+    "name:en": "Samphanthawong Museum",
+    "name:th": "พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตสัมพันธวงศ์",
+    "tourism": "museum",
+    "wikidata": "Q7410108",
+    "wikipedia": "en:Samphanthawong Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3096838030,
+  "lat": 13.7349208,
+  "lon": 100.5108267,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3102016366,
+  "lat": 13.8114109,
+  "lon": 100.4704248,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3327935041,
+  "lat": 13.6652220,
+  "lon": 100.5653790,
+  "tags": {
+    "name": "ลำพู บางกระสอบ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3542061032,
+  "lat": 13.7682842,
+  "lon": 100.4995365,
+  "tags": {
+    "name": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+    "name:en": "Bank of Thailand Museum",
+    "name:th": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+    "opening_hours": "Sat-Sun 09:30-16:30",
+    "tourism": "museum",
+    "website": "https://www.botlc.or.th/museum",
+    "wheelchair": "yes",
+    "wikidata": "Q4856189",
+    "wikipedia": "en:Bank of Thailand Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3544881175,
+  "lat": 13.7266180,
+  "lon": 100.5761862,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "10110",
+    "addr:street": "สุขุมวิท 51",
+    "name": "WTF Gallery",
+    "opening_hours": "Tu-Su 17:00-02:00",
+    "phone": "026626246",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3548636595,
+  "lat": 13.7557905,
+  "lon": 100.5192997,
+  "tags": {
+    "name": "หอเกียรติภูมินายกรัฐมนตรีไทย",
+    "name:en": "Thailand Prime Ministers Museum",
+    "name:pl": "Muzeum Premierów Tajlandii",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3568027060,
+  "lat": 13.7532340,
+  "lon": 100.4908389,
+  "tags": {
+    "alt_name": "PSG Gallery",
+    "name": "หอศิลป์คณะจิตรกรรมประติมากรรมและภาพพิมพ์",
+    "name:en": "Faculty of Painting Sculpture and Graphic Arts Art Gallery",
+    "name:th": "หอศิลป์คณะจิตรกรรมประติมากรรมและภาพพิมพ์",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 3568027498,
+  "lat": 13.7526660,
+  "lon": 100.4908979,
+  "tags": {
+    "name": "พิพิธภัณฑสถานแห่งชาติศิลป์พีระศรี",
+    "name:en": "Silp Bhirasri National Museum",
+    "name:th": "พิพิธภัณฑสถานแห่งชาติศิลป์พีระศรี",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3805457408,
+  "lat": 13.8415556,
+  "lon": 100.4918477,
+  "tags": {
+    "name": "พิพิธภัณฑ์จังหวัดนนทบุรี",
+    "name:en": "Museum of Nonthaburi",
+    "name:th": "พิพิธภัณฑ์จังหวัดนนทบุรี",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4130721589,
+  "lat": 13.7469747,
+  "lon": 100.5351985,
+  "tags": {
+    "addr:housenumber": "991",
+    "addr:street": "Rama 1 Rd",
+    "email": "marketing.bangkok@merlinentertainments.biz",
+    "name": "Sea Life Bangkok Ocean World",
+    "name:ru": "Океанариум Бангкока Морская жизнь",
+    "name:zh": "暹羅海洋世界",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+6626872000",
+    "tourism": "attraction",
+    "website": "https://sealifebangkok.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4157428192,
+  "lat": 13.7438179,
+  "lon": 100.5029948,
+  "tags": {
+    "name": "Sampeng Lane Market",
+    "name:en": "Sampeng Lane Market",
+    "name:he": "שוק סמטת סמפנג",
+    "name:zh": "萨彭巷市场",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4257127190,
+  "lat": 13.7274865,
+  "lon": 100.4990793,
+  "tags": {
+    "addr:postcode": "100600",
+    "addr:street": "Soi Lat Ya 6, Khlong San, Bangkok",
+    "name": "Thai Bamboo Tattoo",
+    "phone": "+66895056689",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4258084889,
+  "lat": 13.7661825,
+  "lon": 100.5693774,
+  "tags": {
+    "addr:street": "ถนนรัชดาภิเษก",
+    "name": "Art in Paradise (Esplanade Mall)",
+    "name:pl": "muzeum ze zdjęciami",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4294122090,
+  "lat": 13.8033784,
+  "lon": 100.5569663,
+  "tags": {
+    "alt_name": "สนามมวยช่อง 7;เวทีมวยไทย 7 สี",
+    "leisure": "stadium",
+    "name": "สนามมวยเวทีสถานีโทรทัศน์สีกองทัพบกช่อง 7",
+    "name:en": "Channel 7 Boxing Stadium",
+    "opening_hours": "Su 10:00-22:00",
+    "sport": "boxing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4319285389,
+  "lat": 13.7587665,
+  "lon": 100.4975792,
+  "tags": {
+    "addr:street": "ถนนข้าวสาร",
+    "alt_name": "Khao San Road",
+    "name": "Khao San Road",
+    "name:en": "Khaosan Road",
+    "name:ja": "カオサン通り",
+    "name:th": "ถนนข้าวสาร",
+    "name:zh": "考山路",
+    "tourism": "attraction",
+    "wikidata": "Q1203550",
+    "wikipedia": "en:Khaosan Road"
+  }
+},
+{
+  "type": "node",
+  "id": 4330802201,
+  "lat": 13.7679929,
+  "lon": 100.5329418,
+  "tags": {
+    "name": "Phyathai Palace",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4345431737,
+  "lat": 13.7325924,
+  "lon": 100.5607873,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "name": "Took Lae Dee",
+    "opening_hours": "24/7",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4353598389,
+  "lat": 13.7494442,
+  "lon": 100.4026563,
+  "tags": {
+    "name": "บ้านครูไก่",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4353601889,
+  "lat": 13.7492490,
+  "lon": 100.4026390,
+  "tags": {
+    "name": "บ้านครูไก่",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4354748097,
+  "lat": 13.7636150,
+  "lon": 100.6334181,
+  "tags": {
+    "addr:street": "ถนนลาดพร้าว",
+    "name:ja": "タラワディー",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4412727689,
+  "lat": 13.7424452,
+  "lon": 100.6344950,
+  "tags": {
+    "name": "UBER wasutha",
+    "name:th": "UBER wasutha",
+    "opening_hours": "Mo-Su 09:30-18:30",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4429110690,
+  "lat": 13.7196256,
+  "lon": 100.5107158,
+  "tags": {
+    "name:en": "TRC on Monday 3-10-2016",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4458832744,
+  "lat": 13.7370328,
+  "lon": 100.5318633,
+  "tags": {
+    "name": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+    "name:en": "Memorial Hall of Chulalongkorn University",
+    "name:th": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4482025893,
+  "lat": 13.7040445,
+  "lon": 100.5039568,
+  "tags": {
+    "name:de": "nightmarket asiatic",
+    "name:zh": "曼谷夜市摩天轮",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4528014490,
+  "lat": 13.7320564,
+  "lon": 100.5753840,
+  "tags": {
+    "name": "The pikture gallery",
+    "name:en": "The pikture gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4531813796,
+  "lat": 13.7400181,
+  "lon": 100.5105029,
+  "tags": {
+    "name": "เยาวราช",
+    "name:en": "China town",
+    "name:es": "China town",
+    "name:ja": "チャイナタウン",
+    "name:th": "เยาวราช",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4536966589,
+  "lat": 13.8008958,
+  "lon": 100.5500150,
+  "tags": {
+    "name:en": "Doggies",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4590299089,
+  "lat": 13.7391534,
+  "lon": 100.5613203,
+  "tags": {
+    "name": "พิพิธภัณฑ์เรือนคำเที่ยง",
+    "name:en": "Kamthieng House Museum",
+    "name:th": "พิพิธภัณฑ์เรือนคำเที่ยง",
+    "tourism": "museum",
+    "wikidata": "Q6359759",
+    "wikimedia_commons": "Category:Kamthieng House Museum",
+    "wikipedia": "en:Kamthieng House Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4594858490,
+  "lat": 13.7468313,
+  "lon": 100.5110795,
+  "tags": {
+    "name:en": "Flashlight Market",
+    "name:fr": "Marché à la torche",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4605868307,
+  "lat": 13.7380887,
+  "lon": 100.5076110,
+  "tags": {
+    "name": "ตึกเก่าบนถนนทรงวาด",
+    "name:en": "Old building at Thanon Song Wat",
+    "name:th": "ตึกเก่าบนถนนทรงวาด",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4658261590,
+  "lat": 13.7566058,
+  "lon": 100.5061827,
+  "tags": {
+    "name:en": "Junction",
+    "name:fr": "Carrefour",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4677450589,
+  "lat": 13.7051430,
+  "lon": 100.6025008,
+  "tags": {
+    "name:en": "New On Nut Night Market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4801754122,
+  "lat": 13.7782677,
+  "lon": 100.5731802,
+  "tags": {
+    "name:en": "Huai Kwang night market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4805059822,
+  "lat": 13.7854102,
+  "lon": 100.5773779,
+  "tags": {
+    "name:zh": "金东尼人妖秀",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4833662323,
+  "lat": 13.7376840,
+  "lon": 100.5134447,
+  "tags": {
+    "artwork_type": "sculpture",
+    "charge": "100 Baht",
+    "fee": "yes",
+    "image": "https://photos.app.goo.gl/fQCsT3CT15fnkG7L7",
+    "layer": "4",
+    "level": "5",
+    "mapillary": "526767082032126",
+    "material": "gold",
+    "name": "พระพุทธมหาสุวรรณปฏิมากร",
+    "name:en": "Golden Buddha",
+    "name:es": "Buda de Oro",
+    "name:pl": "Złoty Budda",
+    "name:th": "พระพุทธมหาสุวรรณปฏิมากร",
+    "name:vi": "chùa Phật vàng",
+    "name:zh": "金佛寺",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "tourism": "attraction;artwork",
+    "url": "https://youtu.be/fjWgJy46GHg?t=157",
+    "wikidata": "Q2529957",
+    "wikimedia_commons": "Category:Phra Sukhothai Traimit",
+    "wikipedia": "th:พระพุทธมหาสุวรรณปฏิมากร"
+  }
+},
+{
+  "type": "node",
+  "id": 4847218022,
+  "lat": 13.7010070,
+  "lon": 100.4901656,
+  "tags": {
+    "name:zh": "眉南河遊船餐廳",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4892016221,
+  "lat": 13.7630418,
+  "lon": 100.5376345,
+  "tags": {
+    "name:en": "Street market",
+    "name:ko": "스트릿마켓",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4903607928,
+  "lat": 13.7423869,
+  "lon": 100.5040999,
+  "tags": {
+    "name:en": "Crocodiles pond",
+    "name:es": "Estanque con cocodrilos",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4959541921,
+  "lat": 13.7978091,
+  "lon": 100.5486752,
+  "tags": {
+    "name:en": "flower martket",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4969530727,
+  "lat": 13.8197846,
+  "lon": 100.5758740,
+  "tags": {
+    "name": "ซุ้มเอกวิทยาศาสตร์ทั่วไป",
+    "name:en": "General Science",
+    "name:th": "ซุ้มเอกวิทยาศาสตร์ทั่วไป",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4973143821,
+  "lat": 13.7414838,
+  "lon": 100.5530342,
+  "tags": {
+    "addr:street": "ถนนสุขุมวิท ซอย4",
+    "description": "Go Go Bar Area",
+    "description:ja": "ゴーゴーバー密集地帯",
+    "name:ar": "نانا بلازا",
+    "name:en": "Nana Plaza",
+    "name:ja": "ナナ・プラザ",
+    "name:ko": "나나플라자",
+    "name:zh": "拿拿廣場",
+    "opening_hours": "24/7",
+    "tourism": "attraction",
+    "wikidata": "Q441839",
+    "wikimedia_commons": "Category:Nana Plaza",
+    "wikipedia": "en:Nana Plaza"
+  }
+},
+{
+  "type": "node",
+  "id": 5102832927,
+  "lat": 13.7275655,
+  "lon": 100.5857531,
+  "tags": {
+    "name:en": "House of Lucie Center for Photography",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5149654826,
+  "lat": 13.7048339,
+  "lon": 100.5030170,
+  "tags": {
+    "name:ja": "アジアティーク ザ リバーフロント",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5248196522,
+  "lat": 13.7803335,
+  "lon": 100.4259239,
+  "tags": {
+    "name": "Night market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5265310928,
+  "lat": 13.8241492,
+  "lon": 100.4191942,
+  "tags": {
+    "name": "วัดสิงห์",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5269645822,
+  "lat": 13.8173549,
+  "lon": 100.5793279,
+  "tags": {
+    "name": "Saule pleureur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5301599323,
+  "lat": 13.7447153,
+  "lon": 100.5001856,
+  "tags": {
+    "name:en": "Pahurat Market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5301599422,
+  "lat": 13.7412031,
+  "lon": 100.5139581,
+  "tags": {
+    "name:en": "Messy sky",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5303518224,
+  "lat": 13.7503398,
+  "lon": 100.4875237,
+  "tags": {
+    "name:en": "Chao Phraya River",
+    "name:ja": "チャオプラヤ川",
+    "name:zh": "湄南河",
+    "tourism": "attraction",
+    "url": "https://youtu.be/49l6iiRfDjY"
+  }
+},
+{
+  "type": "node",
+  "id": 5325181021,
+  "lat": 13.7467705,
+  "lon": 100.5351687,
+  "tags": {
+    "addr:street": "Siam Paragon 5th Floor, 991 Rama1 Road, Pathumwan, Bangkok 10330",
+    "name:en": "KidZania",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5325818120,
+  "lat": 13.7599993,
+  "lon": 100.4872795,
+  "tags": {
+    "historic": "locomotive",
+    "inscription": "Location of the old Bangkok Noi railway station closed in 2003",
+    "name": "หัวรถจักร ร.ฟ.ท. 950",
+    "name:en": "Mikado Steam Locomotive No. 950",
+    "name:th": "หัวรถจักร ร.ฟ.ท. 950",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5342565921,
+  "lat": 13.7302643,
+  "lon": 100.5150098,
+  "tags": {
+    "addr:housenumber": "672/63",
+    "addr:street": "ซอยเจริญกรุง 26",
+    "contact:facebook": "https://www.facebook.com/1PROJECTS/?locale=th_TH",
+    "description": "1PROJECTS organises Asian contemporary art projects. We seek to promote and support Asian emerging contemporary artists locally and internationally at art fairs, overseas galleries or 1PROJECTS’ own gallery space in Bangkok, Thailand.",
+    "email": "info@1projects.org",
+    "name": "1PROJECTS",
+    "phone": "+66 816995298",
+    "tourism": "gallery",
+    "website": "https://www.1projects.org"
+  }
+},
+{
+  "type": "node",
+  "id": 5342565922,
+  "lat": 13.7173225,
+  "lon": 100.5908092,
+  "tags": {
+    "addr:street": "ซอยสุขุมวิท 67",
+    "name": "TARS Gallery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5342566021,
+  "lat": 13.7269068,
+  "lon": 100.5631528,
+  "tags": {
+    "addr:street": "Soi Sai Nam Thip 2",
+    "name": "RMA Institute",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5350019821,
+  "lat": 13.6964504,
+  "lon": 100.5667233,
+  "tags": {
+    "name:en": "Bang Kachao",
+    "tourism": "attraction",
+    "wikidata": "Q15979254"
+  }
+},
+{
+  "type": "node",
+  "id": 5352272122,
+  "lat": 13.6962729,
+  "lon": 100.5683508,
+  "tags": {
+    "name": "หอดูนก",
+    "name:de": "Vogel Aussichtsturm",
+    "name:en": "Bird Observation Tower",
+    "name:th": "หอดูนก",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5362733473,
+  "lat": 13.8146853,
+  "lon": 100.4067541,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "วัดแพรก",
+    "name:en": "Praek Temple",
+    "religion": "buddhist",
+    "tourism": "attraction",
+    "wikidata": "Q99641763"
+  }
+},
+{
+  "type": "node",
+  "id": 5384897421,
+  "lat": 13.7110792,
+  "lon": 100.5035308,
+  "tags": {
+    "name": "Chaophraya Princess Cruise",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5438279815,
+  "lat": 13.7548719,
+  "lon": 100.4907574,
+  "tags": {
+    "historic": "memorial",
+    "indoor": "yes",
+    "memorial": "statue",
+    "name:en": "Golden Buddha statue",
+    "name:pl": "Złoty Budda",
+    "name:ru": "лежащий будда",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5511705342,
+  "lat": 13.7440020,
+  "lon": 100.5082793,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5588745222,
+  "lat": 13.7167035,
+  "lon": 100.5929644,
+  "tags": {
+    "name": "Stonegoat (S69)",
+    "name:en": "Trampoline park Amped",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+66632199933",
+    "tourism": "attraction",
+    "website": "https://www.stonegoatclimb.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5603128339,
+  "lat": 13.7547620,
+  "lon": 100.5761130,
+  "tags": {
+    "name:en": "Maxx Hotel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5671248221,
+  "lat": 13.7352934,
+  "lon": 100.5603908,
+  "tags": {
+    "name": "MIT Cpap my estimate",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5764199061,
+  "lat": 13.7390480,
+  "lon": 100.5444900,
+  "tags": {
+    "name": "100 tonson gallery",
+    "name:en": "100 tonson gallery",
+    "tourism": "gallery",
+    "wikidata": "Q11185055"
+  }
+},
+{
+  "type": "node",
+  "id": 5764210356,
+  "lat": 13.7387772,
+  "lon": 100.5408363,
+  "tags": {
+    "name:en": "nova contemporary art gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5814463453,
+  "lat": 13.7295874,
+  "lon": 100.5335026,
+  "tags": {
+    "name": "ลิตเติ้ลเจแปน",
+    "name:en": "Little Japan",
+    "name:th": "ลิตเติ้ลเจแปน",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5887764787,
+  "lat": 13.7306867,
+  "lon": 100.5150238,
+  "tags": {
+    "addr:street": "ถนนเจริญกรุง",
+    "name": "Speedy Grandma",
+    "name:en": "Speedy Grandma",
+    "opening_hours": "We-Su 13:00-18:00",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5899787685,
+  "lat": 13.7459507,
+  "lon": 100.5399313,
+  "tags": {
+    "name:en": "Cheeze POP-Up Market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5901823787,
+  "lat": 13.7566613,
+  "lon": 100.5181200,
+  "tags": {
+    "name:en": "Street market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5938466357,
+  "lat": 13.7474923,
+  "lon": 100.5156780,
+  "tags": {
+    "name": "พิพิธภัณฑ์เพื่อการศึกษาโรงเรียนเทพศิรินทร์",
+    "name:en": "Debsirin School Museum",
+    "name:th": "พิพิธภัณฑ์เพื่อการศึกษาโรงเรียนเทพศิรินทร์",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5940872851,
+  "lat": 13.7569975,
+  "lon": 100.4983457,
+  "tags": {
+    "name": "พิพิธภัณฑ์ธนาคารออมสิน",
+    "name:en": "Government Savings Bank Museum",
+    "name:th": "พิพิธภัณฑ์ธนาคารออมสิน",
+    "operator": "ธนาคารออมสิน",
+    "operator:wikidata": "Q6579041",
+    "short_name:th": "พิพิธภัณฑ์ออมสิน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5999761382,
+  "lat": 13.7183962,
+  "lon": 100.5777848,
+  "tags": {
+    "addr:housenumber": "25/14",
+    "addr:street": "ซอยแสงชัย ซอยสุขุมวิท 38",
+    "alt_name": "Kamavijitra",
+    "name": "กามาวิจิตรา",
+    "name:en": "Kama Vijitra Erotic Art Museum",
+    "name:th": "กามาวิจิตรา",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6069909589,
+  "lat": 13.7790745,
+  "lon": 100.4200165,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:postcode": "10170",
+    "addr:street": "ถนนบรมราชชนนี",
+    "name": "sai tai mai center night market",
+    "opening_hours": "Mo-Su 18:00-18:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6163744212,
+  "lat": 13.7378009,
+  "lon": 100.5665627,
+  "tags": {
+    "name:en": "La Lanta Fine Art (Gallery)",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6163747497,
+  "lat": 13.7287462,
+  "lon": 100.5149558,
+  "tags": {
+    "name:en": "Captain Bush Lane (House No. 1)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6163747800,
+  "lat": 13.7334842,
+  "lon": 100.5673238,
+  "tags": {
+    "name:en": "Soi Japan (soi 33)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6169968286,
+  "lat": 13.7504262,
+  "lon": 100.5391442,
+  "tags": {
+    "name:en": "Street Food & Shopping",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6170071285,
+  "lat": 13.7542427,
+  "lon": 100.5393078,
+  "tags": {
+    "name:en": "Street Food",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6170094486,
+  "lat": 13.7570543,
+  "lon": 100.5376513,
+  "tags": {
+    "addr:postcode": "10400",
+    "name:en": "Suan Pakkad Palace Museum",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6197723886,
+  "lat": 13.7813110,
+  "lon": 100.5443282,
+  "tags": {
+    "name:en": "Street Food",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6197828356,
+  "lat": 13.7809581,
+  "lon": 100.5444892,
+  "tags": {
+    "name:en": "Street Food",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6228818686,
+  "lat": 13.6412976,
+  "lon": 100.5202457,
+  "tags": {
+    "name": "ตลาดคลองขุดเจ้าเมือง",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6232721188,
+  "lat": 13.7444953,
+  "lon": 100.4912433,
+  "tags": {
+    "direction": "315-180",
+    "name": "จุดชมวิวท่าวัดโพธิ์",
+    "name:en": "Wat Arun Viewpoint (Wat Pho Pier)",
+    "name:ko": "해넘이 경승지",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6259620985,
+  "lat": 13.7231503,
+  "lon": 100.5280809,
+  "tags": {
+    "addr:housenumber": "114/1",
+    "addr:postcode": "10500",
+    "addr:street": "Naradhiwas Radjanagarindra rd.",
+    "name": "MAHANAKHON SKYWALK",
+    "name:en": "MAHANAKHON SKYWALK (king power)",
+    "name:nl": "SkyWalk Mahanakhon (king power)",
+    "phone": "026678721",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6261109087,
+  "lat": 13.7312738,
+  "lon": 100.5692171,
+  "tags": {
+    "name:de": "Aussichtsplattform mit Wasserspielen",
+    "toilets:wheelchair": "yes",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6274093085,
+  "lat": 13.7245223,
+  "lon": 100.5481405,
+  "tags": {
+    "name:en": "338 Oida Gallery Bangkok",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6274386197,
+  "lat": 13.7642056,
+  "lon": 100.4899152,
+  "tags": {
+    "name:en": "Jesada Technik",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6285636993,
+  "lat": 13.7278474,
+  "lon": 100.5145645,
+  "tags": {
+    "name": "พีที แกลเลอรี่",
+    "name:en": "PT Gallery",
+    "name:th": "พีที แกลเลอรี่",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6316673036,
+  "lat": 13.7332515,
+  "lon": 100.5404415,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6317939185,
+  "lat": 13.7592456,
+  "lon": 100.5468246,
+  "tags": {
+    "name:en": "Bangkok Dolls Museum",
+    "tourism": "museum",
+    "wikidata": "Q4855200",
+    "wikipedia": "en:Bangkok Doll Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6351870585,
+  "lat": 13.8203866,
+  "lon": 100.5648474,
+  "tags": {
+    "name": "ปราสาทเทพนิยายแดนเนรมิต",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6397692185,
+  "lat": 13.6830238,
+  "lon": 100.5749651,
+  "tags": {
+    "name:en": "Big Tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6724853326,
+  "lat": 13.7112773,
+  "lon": 100.5085358,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6743329188,
+  "lat": 13.8020438,
+  "lon": 100.5804202,
+  "tags": {
+    "name": "Sky",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6748802285,
+  "lat": 13.7340546,
+  "lon": 100.5121323,
+  "tags": {
+    "historic": "wayside_shrine",
+    "name:en": "Holy tree",
+    "natural": "tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6748802385,
+  "lat": 13.7338481,
+  "lon": 100.5120083,
+  "tags": {
+    "historic": "wayside_shrine",
+    "name:en": "Holy tree",
+    "natural": "tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6748836685,
+  "lat": 13.7378608,
+  "lon": 100.5116010,
+  "tags": {
+    "name:en": "Chinese mechanic shops",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6980108185,
+  "lat": 13.8159041,
+  "lon": 100.5447123,
+  "tags": {
+    "name:en": "Train cemetery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7055785586,
+  "lat": 13.8080374,
+  "lon": 100.6094369,
+  "tags": {
+    "addr:housenumber": "31/11",
+    "addr:postcode": "10230",
+    "addr:street": "ถนนนาคนิวาส",
+    "name": "บ้านกุสุมา",
+    "name:en": "Baan Kusuma",
+    "opening_hours": "Mo, We, Fr 17:00-20:00",
+    "phone": "0818071819",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7086006640,
+  "lat": 13.8192829,
+  "lon": 100.5778625,
+  "tags": {
+    "name": "พิพิธภัณฑ์จันทรเกษม",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7088196985,
+  "lat": 13.7395273,
+  "lon": 100.4976226,
+  "tags": {
+    "name:en": "Sunset viewpoint",
+    "name:es": "Atardecer",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7121670285,
+  "lat": 13.7454334,
+  "lon": 100.5400656,
+  "tags": {
+    "name:en": "Mettique",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7140353287,
+  "lat": 13.7593838,
+  "lon": 100.4981356,
+  "tags": {
+    "name": "Soi Rambuttri",
+    "tourism": "attraction",
+    "wheelchair": "limited",
+    "wikidata": "Q21531842",
+    "wikipedia": "en:Ram Buttri Road"
+  }
+},
+{
+  "type": "node",
+  "id": 7293864885,
+  "lat": 13.7891051,
+  "lon": 100.5185898,
+  "tags": {
+    "internet_access": "wlan",
+    "name:en": "The Museum of Floral Culture",
+    "name:fr": "Musée Floral de Bangkok",
+    "tourism": "museum",
+    "website": "http://www.floralmuseum.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7299066786,
+  "lat": 13.7611252,
+  "lon": 100.5652830,
+  "tags": {
+    "name:en": "Food street",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7320629386,
+  "lat": 13.7413616,
+  "lon": 100.4946518,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7330238846,
+  "lat": 13.7474055,
+  "lon": 100.5080158,
+  "tags": {
+    "description": "https://photos.app.goo.gl/bhF9hivWAV86Pfzz7",
+    "image": "https://images.mapillary.com/h9oxTIodcyx1zOhawvdiQw/thumb-2048.jpg",
+    "mapillary": "749984562652623",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7330357509,
+  "lat": 13.7539488,
+  "lon": 100.5067488,
+  "tags": {
+    "image": "https://photos.app.goo.gl/boxsFTqYVKWNNHoK8",
+    "name:en": "Golden Mount",
+    "name:es": "Montaña Dorada",
+    "name:ru": "Храм Золотая гора",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7330357510,
+  "lat": 13.7538252,
+  "lon": 100.5067867,
+  "tags": {
+    "image": "https://photos.app.goo.gl/boxsFTqYVKWNNHoK8",
+    "name:en": "Golden Mount",
+    "name:es": "Montaña Dorada",
+    "name:ru": "Храм Золотая гора",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7330357511,
+  "lat": 13.7537475,
+  "lon": 100.5066399,
+  "tags": {
+    "image": "https://photos.app.goo.gl/boxsFTqYVKWNNHoK8",
+    "name:en": "Golden Mount",
+    "name:es": "Montaña Dorada",
+    "name:ru": "Храм Золотая гора",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7638178086,
+  "lat": 13.8678701,
+  "lon": 100.5483527,
+  "tags": {
+    "name": "เจเจ กรีน",
+    "name:en": "JJ Green 2",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7677211685,
+  "lat": 13.7669172,
+  "lon": 100.5693260,
+  "tags": {
+    "name:ko": "딸랏 롯파이2 뷰포인트",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7737340673,
+  "lat": 13.7391046,
+  "lon": 100.4985819,
+  "tags": {
+    "name": "สวนลอยฟ้าเจ้าพระยา",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8081921495,
+  "lat": 13.7636617,
+  "lon": 100.5094075,
+  "tags": {
+    "name": "สะพานมัฆวานรังสรรค์",
+    "name:en": "Makkhawan Rangsan Bridge",
+    "name:th": "สะพานมัฆวานรังสรรค์",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8175742024,
+  "lat": 13.8057867,
+  "lon": 100.5537999,
+  "tags": {
+    "name:en": "Squirrel tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8430655680,
+  "lat": 13.7765974,
+  "lon": 100.6253360,
+  "tags": {
+    "addr:city": "แขวงพลับพลา",
+    "addr:housenumber": "2452-2456 ซอยลาดพร้าว 122-124",
+    "addr:postcode": "10310",
+    "addr:street": "ถนนลาดพร้าว",
+    "name": "ณ สยาม แกลเลอรี่",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8512420017,
+  "lat": 13.7461622,
+  "lon": 100.5037126,
+  "tags": {
+    "name:en": "Khlong Ong Ang Canal and Walking Street",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8644104817,
+  "lat": 13.7096210,
+  "lon": 100.5924339,
+  "tags": {
+    "addr:housenumber": "77/6",
+    "addr:postcode": "10110",
+    "addr:street": "Soi Phum Chit",
+    "name": "CTypeMag",
+    "tourism": "museum",
+    "website": "https://www.ctypemag.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8797708205,
+  "lat": 13.7545610,
+  "lon": 100.5403984,
+  "tags": {
+    "image": "https://photos.app.goo.gl/7ciLn6xpjgTAm6AG7",
+    "name": "ตึกใบหยก 2",
+    "name:en": "Baiyoke Tower II",
+    "name:th": "ตึกใบหยก 2",
+    "tourism": "viewpoint",
+    "url": "https://youtu.be/FXhNJphozNQ?t=131"
+  }
+},
+{
+  "type": "node",
+  "id": 9026269019,
+  "lat": 13.8415549,
+  "lon": 100.4918477,
+  "tags": {
+    "name": "พิพิธภัณฑ์จังหวัดนนทบุรี",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 9320435618,
+  "lat": 13.7339503,
+  "lon": 100.5121010,
+  "tags": {
+    "name": "รถเก่า",
+    "name:en": "Old Car",
+    "name:th": "รถเก่า",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9321020617,
+  "lat": 13.7336206,
+  "lon": 100.5121101,
+  "tags": {
+    "name": "บ้านโซวเฮงไถ่",
+    "name:en": "The So Heng Tai Mansion",
+    "name:th": "บ้านโซวเฮงไถ่",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9502088717,
+  "lat": 13.6915168,
+  "lon": 100.4664538,
+  "tags": {
+    "name": "Poomjai Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9570047617,
+  "lat": 13.7239695,
+  "lon": 100.5791683,
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:housenumber": "1057",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนสุขุมวิท",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "check_date": "2025-08-15",
+    "check_date:currency:XBT": "2025-08-15",
+    "contact:facebook": "palette.artspace",
+    "contact:instagram": "https://www.instagram.com/palette.artspace/",
+    "currency:XBT": "yes",
+    "description": "An art gallery and cafe offering coffee, beer, artwork and paintings.",
+    "email": "palette.artspace@gmail.com",
+    "name": "Palette Art Space",
+    "opening_hours": "Mo-Su 07:30-20:00",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+66 64 587 6788",
+    "survey:date": "2025-08-15",
+    "tourism": "gallery",
+    "website": "https://www.palettebkk.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9721084217,
+  "lat": 13.7984393,
+  "lon": 100.5959685,
+  "tags": {
+    "name:en": "Indy market Chokchai4",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9739291657,
+  "lat": 13.7287797,
+  "lon": 100.5321393,
+  "tags": {
+    "name": "Patpong Museum",
+    "opening_hours": "Mo-Tu 12:00-21:00; Th-Su 12:00-21:00",
+    "tourism": "museum",
+    "website": "https://www.patpongmuseum.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9950441117,
+  "lat": 13.7343375,
+  "lon": 100.5112456,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9950497920,
+  "lat": 13.7329225,
+  "lon": 100.5119077,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10072839713,
+  "lat": 13.7351853,
+  "lon": 100.5295838,
+  "tags": {
+    "name": "พิพิธภัณฑ์ธรณีวิทยา",
+    "name:en": "Museum of Geology",
+    "name:th": "พิพิธภัณฑ์ธรณีวิทยา",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10072839714,
+  "lat": 13.7350420,
+  "lon": 100.5305626,
+  "tags": {
+    "name": "พิพิธภัณฑ์พืช ศาสตราจารย์กสิน สุวตะพันธ์ุ",
+    "name:en": "Kasin Suvatabundhu Herbarium",
+    "name:th": "พิพิธภัณฑ์พืช ศาสตราจารย์กสิน สุวตะพันธ์",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10264793968,
+  "lat": 13.7422085,
+  "lon": 100.5536333,
+  "tags": {
+    "name": "CreativBKK Art Gallery",
+    "opening_hours": "Mo-Sa 10:00-19:00",
+    "tourism": "gallery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10316166094,
+  "lat": 13.6756864,
+  "lon": 100.6034154,
+  "tags": {
+    "name": "The Old Whiskey Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10316166095,
+  "lat": 13.6710807,
+  "lon": 100.5855026,
+  "tags": {
+    "addr:housenumber": "222",
+    "name": "พิพิธภัณฑ์อุทกศาสตร์",
+    "name:en": "Hydrographics Museum",
+    "name:th": "พิพิธภัณฑ์อุทกศาสตร์",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10316166096,
+  "lat": 13.6704821,
+  "lon": 100.6037296,
+  "tags": {
+    "name": "Bangkok Local Museum Bang Na District",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10316166097,
+  "lat": 13.6879433,
+  "lon": 100.6155596,
+  "tags": {
+    "name": "Museum of the Heart Lantern",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10537530628,
+  "lat": 13.6964601,
+  "lon": 100.5701386,
+  "tags": {
+    "name": "คลองสองวิถี",
+    "name:en": "Canal of changing salinity",
+    "name:th": "คลองสองวิถี",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10537530636,
+  "lat": 13.6966788,
+  "lon": 100.5678813,
+  "tags": {
+    "name": "วิถีชีวิตริมบึง",
+    "name:en": "Life at the pond",
+    "name:th": "วิถีชีวิตริมบึง",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10537530637,
+  "lat": 13.6949493,
+  "lon": 100.5693231,
+  "tags": {
+    "name": "วิถีชีวิตชาวสวนคุ้งบางกระเจ้า",
+    "name:en": "Orchard Tradition in Bangkachao",
+    "name:th": "วิถีชีวิตชาวสวนคุ้งบางกระเจ้า",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10693106205,
+  "lat": 13.7412201,
+  "lon": 100.5243187,
+  "tags": {
+    "addr:postcode": "10330",
+    "name:en": "Dragon town",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10693793825,
+  "lat": 13.7336619,
+  "lon": 100.5272063,
+  "tags": {
+    "name": "Art4C",
+    "opening_hours": "Mo-Sa 09:00-18:00",
+    "tourism": "gallery",
+    "website": "http://www.faa.chula.ac.th/art4c/?fbclid=IwAR1VSVSTmeytGFZZxSS54rYTeNJ7FRBmIza5yZnqDN1HL0RLPePqSJtiI2g"
+  }
+},
+{
+  "type": "node",
+  "id": 10729838705,
+  "lat": 13.7200882,
+  "lon": 100.4706770,
+  "tags": {
+    "name:en": "Bridge Between Temples",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10734166805,
+  "lat": 13.7271462,
+  "lon": 100.4468070,
+  "tags": {
+    "name:en": "Lovely Walk with Swamps and Banana Trees",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10747980805,
+  "lat": 13.8539913,
+  "lon": 100.4676845,
+  "tags": {
+    "name:en": "Durian Shrine",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10760950092,
+  "lat": 13.7332679,
+  "lon": 100.5130404,
+  "tags": {
+    "name:en": "Holy tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10792898504,
+  "lat": 13.7517945,
+  "lon": 100.5045967,
+  "tags": {
+    "addr:housenumber": "357-359",
+    "addr:street": "ถนนมหาไชย",
+    "email": "manager.joymangallery@gmail.com",
+    "name": "จอยแมน แกลลอรี่",
+    "name:en": "Joyman Gallery",
+    "name:th": "จอยแมน แกลลอรี่",
+    "opening_hours": "Tu-Su 11:00-18:00",
+    "phone": "+6665-124-1111",
+    "tourism": "gallery",
+    "website": "https://www.joymangallery.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10926034305,
+  "lat": 13.7721963,
+  "lon": 100.4884422,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11054393005,
+  "lat": 13.7573935,
+  "lon": 100.5090495,
+  "tags": {
+    "name:en": "Precious Plastic Bangkok",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11063201970,
+  "lat": 13.7371705,
+  "lon": 100.5126894,
+  "tags": {
+    "email": "bkk@overtheinfluence.com",
+    "name": "โอเวอร์ ดิอินฟลูเอนซ์",
+    "name:en": "Over the Influence",
+    "name:th": "โอเวอร์ ดิอินฟลูเอนซ์",
+    "opening_hours": "We-Su 11:00-20:00",
+    "tourism": "gallery",
+    "website": "https://overtheinfluence.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11155150566,
+  "lat": 13.7291302,
+  "lon": 100.5279168,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 11301593402,
+  "lat": 13.7355387,
+  "lon": 100.5305240,
+  "tags": {
+    "garden:type": "botanical",
+    "leisure": "garden",
+    "name": "พิพิธภัณฑ์พืชมีชีวิต",
+    "name:en": "Living Plant Museum",
+    "name:th": "พิพิธภัณฑ์พืชมีชีวิต",
+    "tourism": "museum",
+    "website": "https://www.chula.ac.th/clipping/134394/"
+  }
+},
+{
+  "type": "node",
+  "id": 11365882185,
+  "lat": 13.7417503,
+  "lon": 100.5249733,
+  "tags": {
+    "name": "JWD Art Space",
+    "name:en": "JWD Art Space",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11378645811,
+  "lat": 13.7200692,
+  "lon": 100.4709127,
+  "tags": {
+    "name:en": "Big Buddha",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11378645819,
+  "lat": 13.7208146,
+  "lon": 100.4708475,
+  "tags": {
+    "level": "5",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11422724270,
+  "lat": 13.7491801,
+  "lon": 100.5307951,
+  "tags": {
+    "name:en": "Khlong Sean Saep (Walking Street)",
+    "name:fr": "Khlong Sean Saep (Walking Street)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11431852656,
+  "lat": 13.7244797,
+  "lon": 100.5162403,
+  "tags": {
+    "name": "เซ็นทรัล สเปซ",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11463141290,
+  "lat": 13.7315109,
+  "lon": 100.5148196,
+  "tags": {
+    "addr:housenumber": "11/1",
+    "addr:street": "ซอยเจริญกรุง 24",
+    "email": "contact@supples.co",
+    "name": "Supples",
+    "name:en": "Supples",
+    "phone": "+66 6 1095 1905",
+    "tourism": "gallery",
+    "website": "https://www.supples.co/"
+  }
+},
+{
+  "type": "node",
+  "id": 11482846254,
+  "lat": 13.7271405,
+  "lon": 100.5570310,
+  "tags": {
+    "name": "แบบจำลองเมืองกรุงเทพมหานคร",
+    "name:en": "The Bangkok City Model",
+    "name:th": "แบบจำลองเมืองกรุงเทพมหานคร",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11497369669,
+  "lat": 13.7846292,
+  "lon": 100.3968842,
+  "tags": {
+    "name:en": "Thonburi market place",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11530773769,
+  "lat": 13.8078427,
+  "lon": 100.5595220,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11675957670,
+  "lat": 13.8208067,
+  "lon": 100.5976600,
+  "tags": {
+    "name": "สมยศ ข้าวต้ม",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11675957671,
+  "lat": 13.8208749,
+  "lon": 100.5976719,
+  "tags": {
+    "name": "ข้าวต้ม สมยศ กทม",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11675957870,
+  "lat": 13.8557542,
+  "lon": 100.4722062,
+  "tags": {
+    "name": "บ้าน อ.เอ.  129  นนทบุรี",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11675959470,
+  "lat": 13.6592144,
+  "lon": 100.5341498,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11675992069,
+  "lat": 13.6495962,
+  "lon": 100.5228043,
+  "tags": {
+    "name": "ปากซอย39",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11806216522,
+  "lat": 13.7457964,
+  "lon": 100.4902958,
+  "tags": {
+    "name": "จุดชมวิวท่าเตียน",
+    "name:en": "Tha Tien Viewpoint",
+    "name:th": "จุดชมวิวท่าเตียน",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11845914069,
+  "lat": 13.7138013,
+  "lon": 100.4778602,
+  "tags": {
+    "name:en": "tha phra open air market",
+    "name:ko": "딸랏든렌 야시장",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12011861808,
+  "lat": 13.7633704,
+  "lon": 100.4948587,
+  "tags": {
+    "fee": "no",
+    "name": "หอศิลป์ ณ บ้านเจ้าพระยา",
+    "name:th": "หอศิลป์ ณ บ้านเจ้าพระยา",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12118055070,
+  "lat": 13.6974329,
+  "lon": 100.5711404,
+  "tags": {
+    "name": "พิพิธภัณฑ์พื้นบ้านคลองบน",
+    "name:en": "Klong Boun Local Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12182702230,
+  "lat": 13.7582031,
+  "lon": 100.4862081,
+  "tags": {
+    "museum": "medical",
+    "name": "พิพิธภัณฑ์กายวิภาคศาสตร์คองดอน",
+    "name:en": "Congdon Anatomical Museum",
+    "name:th": "พิพิธภัณฑ์กายวิภาคศาสตร์คองดอน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12182702231,
+  "lat": 13.7582291,
+  "lon": 100.4860851,
+  "tags": {
+    "name": "พิพิธภัณฑ์ก่อนประวัติศาสตร์ สุด แสงวิเชียร",
+    "name:en": "Sood Sangvichien Prehistorie Museum & Labovatory",
+    "name:th": "พิพิธภัณฑ์ก่อนประวัติศาสตร์ สุด แสงวิเชียร",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12182702232,
+  "lat": 13.7587712,
+  "lon": 100.4851085,
+  "tags": {
+    "museum": "pathological",
+    "name": "พิพิธภัณฑ์พยาธิวิทยาเอลลิส",
+    "name:en": "Ellis Pathological Museum",
+    "name:th": "พิพิธภัณฑ์พยาธิวิทยาเอลลิส",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12182702233,
+  "lat": 13.7588636,
+  "lon": 100.4853071,
+  "tags": {
+    "museum": "medical",
+    "name": "พิพิธภัณฑ์นิติเวชศาสตร์ สงกรานต์ นิยมเสน",
+    "name:en": "Songkran Niyomsane Forensic Medical Museum",
+    "name:th": "พิพิธภัณฑ์นิติเวชศาสตร์ สงกรานต์ นิยมเสน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12182702234,
+  "lat": 13.7587685,
+  "lon": 100.4849183,
+  "tags": {
+    "museum": "history",
+    "name": "พิพิธภัณฑ์การแพทย์แผนไทย อวย เกตุสิงห์",
+    "name:en": "Ouay Katusingh Museum of History of Thai Medicine",
+    "name:th": "พิพิธภัณฑ์การแพทย์แผนไทย อวย เกตุสิงห์",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12182702235,
+  "lat": 13.7589152,
+  "lon": 100.4847728,
+  "tags": {
+    "museum": "parasitology",
+    "name": "พิพิธภัณฑ์ปรสิตวิทยา",
+    "name:en": "Parasitology Museum",
+    "name:th": "พิพิธภัณฑ์ปรสิตวิทยา",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12404838923,
+  "lat": 13.7462586,
+  "lon": 100.5307695,
+  "tags": {
+    "name": "ป้ายกรุงเทพ • Bangkok",
+    "name:th": "ป้ายกรุงเทพ • Bangkok",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12428810504,
+  "lat": 13.7495975,
+  "lon": 100.5147997,
+  "tags": {
+    "name": "Abandond building",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12428813819,
+  "lat": 13.8072177,
+  "lon": 100.5494823,
+  "tags": {
+    "name": "Nature information pathway",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12428813832,
+  "lat": 13.8117861,
+  "lon": 100.5556527,
+  "tags": {
+    "name": "Boule playground",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12428813842,
+  "lat": 13.8166694,
+  "lon": 100.5549366,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12428814621,
+  "lat": 13.8159621,
+  "lon": 100.5561218,
+  "tags": {
+    "name": "Pedal boat rental",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12531680502,
+  "lat": 13.7404881,
+  "lon": 100.5141859,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12606376001,
+  "lat": 13.7522907,
+  "lon": 100.5056059,
+  "tags": {
+    "name:en": "Yes Wood Moulding",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12606376002,
+  "lat": 13.7525624,
+  "lon": 100.5056435,
+  "tags": {
+    "name:en": "Proud Wood Doors and Screens",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12606376003,
+  "lat": 13.7527475,
+  "lon": 100.5056809,
+  "tags": {
+    "name:en": "Ornamental Wood",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12619471943,
+  "lat": 13.7350410,
+  "lon": 100.5112538,
+  "tags": {
+    "fee": "no",
+    "name": "พิพิธตลาดน้อย",
+    "name:en": "Talad Noi Museum",
+    "name:th": "พิพิธตลาดน้อย",
+    "name:zh": "噠叻仔博物館",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12691410977,
+  "lat": 13.7679769,
+  "lon": 100.4982932,
+  "tags": {
+    "name": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+    "name:th": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12710226400,
+  "lat": 13.7198267,
+  "lon": 100.4713308,
+  "tags": {
+    "name:en": "Reclining Buddha",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12710231554,
+  "lat": 13.7208475,
+  "lon": 100.4707653,
+  "tags": {
+    "level": "5",
+    "name:en": "Glass Pagoda",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12712706791,
+  "lat": 13.7376953,
+  "lon": 100.5137571,
+  "tags": {
+    "layer": "1",
+    "level": "2",
+    "name": "ศูนย์ประวัติศาสตร์เยาวราช",
+    "name:en": "Yaowarat Chinatown Heritage Center",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12712708926,
+  "lat": 13.7376690,
+  "lon": 100.5136741,
+  "tags": {
+    "name": "พิพิธภัณฑ์วัดไตรมิตร",
+    "name:en": "Wat Traimit Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12712708927,
+  "lat": 13.7377181,
+  "lon": 100.5136317,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12712708928,
+  "lat": 13.7378262,
+  "lon": 100.5134218,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12712708929,
+  "lat": 13.7375516,
+  "lon": 100.5134801,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12712708930,
+  "lat": 13.7376598,
+  "lon": 100.5133091,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12712926159,
+  "lat": 13.7331155,
+  "lon": 100.5328647,
+  "tags": {
+    "name:en": "Snake Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12841518298,
+  "lat": 13.7680314,
+  "lon": 100.5106851,
+  "tags": {
+    "name": "พิพิธภ้ณฑ์ตำรวจ",
+    "name:en": "Police Museum",
+    "name:th": "พิพิธภ้ณฑ์ตำรวจ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12865797301,
+  "lat": 13.7123724,
+  "lon": 100.4350126,
+  "tags": {
+    "name:en": "Space & Time Cube+",
+    "opening_hours": "Mo-Su 10:30-21:30",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13076284527,
+  "lat": 13.7439142,
+  "lon": 100.5306780,
+  "tags": {
+    "addr:floor": "3",
+    "museum": "nature",
+    "name": "พิพิธภัณฑ์สมุนไพร",
+    "name:en": "Herbs Museum",
+    "name:th": "พิพิธภัณฑ์สมุนไพร",
+    "opening_hours": "Th 09:00-12:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 13081424492,
+  "lat": 13.7653332,
+  "lon": 100.5247066,
+  "tags": {
+    "name": "พิพิธภัณฑ์สตางค์ มงคลสุข",
+    "name:th": "พิพิธภัณฑ์สตางค์ มงคลสุข",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 13081957326,
+  "lat": 13.7631705,
+  "lon": 100.5265347,
+  "tags": {
+    "name": "พิพิธภัณฑ์แร่-หิน",
+    "name:en": "Rock and mineral museum",
+    "name:pl": "Muzeum Minerałów",
+    "name:th": "พิพิธภัณฑ์แร่-หิน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 13149207491,
+  "lat": 13.7452169,
+  "lon": 100.5032828,
+  "tags": {
+    "name": "Legacy art gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 13298807701,
+  "lat": 13.7916005,
+  "lon": 100.5042160,
+  "tags": {
+    "name:en": "T Junction 1",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13298807801,
+  "lat": 13.7915707,
+  "lon": 100.5041505,
+  "tags": {
+    "name:en": "De LAPIS",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13397413401,
+  "lat": 13.7215739,
+  "lon": 100.4714970,
+  "tags": {
+    "name:en": "Fish Food",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13626552880,
+  "lat": 13.7461224,
+  "lon": 100.5473193,
+  "tags": {
+    "name": "รถนายเลิศ",
+    "name:en": "Nai Lert's Car",
+    "name:th": "รถนายเลิศ",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13630816737,
+  "lat": 13.7746413,
+  "lon": 100.5296289,
+  "tags": {
+    "name": "พิพิธภัณฑ์แห่งการเรียนรู้การประปาไทย",
+    "name:en": "Thai Waterworks Museum",
+    "name:th": "พิพิธภัณฑ์แห่งการเรียนรู้การประปาไทย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 23481741,
+  "center": {
+    "lat": 13.7438235,
+    "lon": 100.4884885
+  },
+  "tags": {
+    "addr:city": "กรุงเทพมหานคร",
+    "addr:country": "TH",
+    "addr:housenumber": "158",
+    "addr:postcode": "10600",
+    "addr:street": "Thanon Wang Doem",
+    "alt_name:de": "Tempel der Morgenröte",
+    "alt_name:en": "Temple of the Dawn",
+    "alt_name:ja": "ワット・アルンラーチャワラーラーム",
+    "alt_name:ko": "왓 아룬",
+    "alt_name:ru": "Храм утренней зари",
+    "alt_name:th": "วัดอรุณ;วัดแจ้ง",
+    "alt_name:zh": "黎明寺",
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "landuse": "religious",
+    "name": "วัดอรุณ",
+    "name:de": "Wat Arun",
+    "name:en": "Wat Arun",
+    "name:es": "Templo del Amanecer",
+    "name:he": "מקדש השחר",
+    "name:ja": "ワット･アルン",
+    "name:ko": "아룬 사원",
+    "name:nl": "Wat Arun",
+    "name:pt": "Wat Arun",
+    "name:ru": "Ват Арун",
+    "name:th": "วัดอรุณ",
+    "name:vi": "Chùa Bình Minh - Bangkok",
+    "name:zh": "鄭王廟",
+    "official_name": "วัดอรุณราชวรารามราชวรมหาวิหาร",
+    "official_name:en": "Wat Arun Ratchawararam Ratchaworamahawihan",
+    "official_name:ko": "아룬 랏차와라람 랏차워람아라위한 사원",
+    "official_name:th": "วัดอรุณราชวรารามราชวรมหาวิหาร",
+    "opening_hours": "Mo-Su 08:30-18:00",
+    "religion": "buddhist",
+    "short_name": "วัดอรุณราชวราราม",
+    "tourism": "attraction",
+    "website": "http://www.bangkok.com/attraction-temple/wat-arun.htm",
+    "wikidata": "Q724970",
+    "wikimedia_commons": "Category:Wat Arun",
+    "wikipedia": "th:วัดอรุณราชวรารามราชวรมหาวิหาร",
+    "wikipedia:en": "Wat Arun"
+  }
+},
+{
+  "type": "way",
+  "id": 23482754,
+  "center": {
+    "lat": 13.7495708,
+    "lon": 100.4917924
+  },
+  "tags": {
+    "alt_name:en": "Grand Royal Palace;The Grand Palace & Wat Phra Kaew",
+    "barrier": "city_wall",
+    "castle_type": "palace",
+    "email": "ticket@palaces.mail.go.th",
+    "fee": "yes",
+    "historic": "castle",
+    "image": "https://photos.app.goo.gl/ExPw1koPgsE2wo2UA",
+    "mapillary": "https://www.mapillary.com/map/im/_U0NFzApfUtjloIjLzDgYQ",
+    "name": "พระบรมมหาราชวัง",
+    "name:de": "Großer Palast",
+    "name:en": "Grand Palace",
+    "name:es": "Gran Palacio",
+    "name:it": "Grande palazzo reale",
+    "name:ja": "グランドパレス",
+    "name:ko": "방콕 왕궁",
+    "name:pt": "Grande Palácio",
+    "name:ru": "Королевский дворец",
+    "name:th": "พระบรมมหาราชวัง",
+    "name:tr": "Büyük Saray",
+    "name:zh": "曼谷大王宫",
+    "opening_hours": "Mo-Su 08:30-15:30",
+    "tourism": "attraction",
+    "website": "https://www.royalgrandpalace.th/en/home",
+    "wheelchair": "yes",
+    "wikidata": "Q873769",
+    "wikipedia": "th:พระบรมมหาราชวัง"
+  }
+},
+{
+  "type": "way",
+  "id": 23486019,
+  "center": {
+    "lat": 13.7483473,
+    "lon": 100.4952191
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนสนามไชย",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "contact:phone": "+66 2 221 0195",
+    "fee": "no",
+    "leisure": "park",
+    "name": "สวนสราญรมย์",
+    "name:en": "Saranrom Park",
+    "name:th": "สวนสราญรมย์",
+    "name:tr": "Saranrom Parkı",
+    "opening_hours": "Mo-Su 04:00-21:00",
+    "source": "Yahoo Aerial;OSM data;https://greener.bangkok.go.th/en/park/suan-saran-rom/",
+    "tourism": "attraction",
+    "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park03.asp",
+    "wikidata": "Q16304388",
+    "wikimedia_commons": "Category:Saranrom Park",
+    "wikipedia": "en:Saranrom Park"
+  }
+},
+{
+  "type": "way",
+  "id": 23610119,
+  "center": {
+    "lat": 13.7588844,
+    "lon": 100.4973170
+  },
+  "tags": {
+    "alt_name": "Khaosan Road",
+    "alt_name:ko": "카오산 로드",
+    "alt_name:th": "ตรอกข้าวสาร",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "ถนนข้าวสาร",
+    "name:de": "Khaosan Straße",
+    "name:en": "Khao San Road",
+    "name:es": "Calle Khaosan",
+    "name:he": "רחוב קאו-סאן",
+    "name:it": "Via Khaosan",
+    "name:ja": "カオサン通り",
+    "name:ko": "카오산 거리",
+    "name:lo": "ຖະໜົນເຂົ້າສານ",
+    "name:pt": "Rua Khao San",
+    "name:ru": "Као Сан",
+    "name:th": "ถนนข้าวสาร",
+    "name:th-Latn": "Thanon Khao San",
+    "name:tr": "Khao San Caddesi",
+    "name:ur": "کھاو سان روڈ",
+    "name:vi": "Đường Khaosan",
+    "old_name": "ถนนเข้าสาร",
+    "old_name:th": "ถนนเข้าสาร",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "tourism": "attraction",
+    "wikidata": "Q1203550",
+    "wikipedia": "en:Khaosan Road"
+  }
+},
+{
+  "type": "way",
+  "id": 31987718,
+  "center": {
+    "lat": 13.7661155,
+    "lon": 100.5137137
+  },
+  "tags": {
+    "addr:district": "Dusit",
+    "addr:housenumber": "69",
+    "addr:postcode": "10300",
+    "addr:province": "Bangkok",
+    "addr:street": "Rama V Rd",
+    "addr:subdistrict": "แขวงสวนจิตรลดา",
+    "alt_name:en": "Marble Temple",
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "historic": "yes",
+    "name": "วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร",
+    "name:en": "Wat Benchamabophit Dusit Wanaram Ratchaworawihan",
+    "name:es": "Wat Benchamabophit Dusit Wanaram Ratchaworawihan",
+    "name:km": "វត្តបញ្ចមបពិត្រ តុសិតវនារាម រាជវរវិហារ",
+    "name:ru": "Мраморный храм",
+    "name:th": "วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร",
+    "religion": "buddhist",
+    "short_name": "วัดเบญจมบพิตร",
+    "tourism": "attraction",
+    "website": "https://www.facebook.com/watbencham/",
+    "wikidata": "Q2165719",
+    "wikimedia_commons": "Category:Wat Benchamabophit",
+    "wikipedia": "th:วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 32011053,
+  "center": {
+    "lat": 13.7501169,
+    "lon": 100.5009642
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "fee": "20 THB",
+    "name": "วัดสุทัศนเทพวรารามราชวรมหาวิหาร",
+    "name:en": "Wat Suthat Thep Wararam Ratchaworamahawihan",
+    "name:th": "วัดสุทัศนเทพวรารามราชวรมหาวิหาร",
+    "name:tr": "Suthat Thep Wararam Tapınağı",
+    "opening_hours": "Mo-Su 08:30-21:00",
+    "religion": "buddhist",
+    "short_name": "วัดสุทัศนเทพวราราม",
+    "tourism": "attraction",
+    "wikidata": "Q2166761",
+    "wikimedia_commons": "Category:Wat Suthat",
+    "wikipedia": "th:วัดสุทัศนเทพวรารามราชวรมหาวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 37911198,
+  "center": {
+    "lat": 13.8003894,
+    "lon": 100.5503771
+  },
+  "tags": {
+    "alt_name": "จตุจักร",
+    "alt_name:en": "JJ Market;Chatuchak Weekend Market",
+    "alt_name:th": "จตุจักร",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "ตลาดนัดจตุจักร",
+    "name:en": "Chatuchak Market",
+    "name:es": "Mercado Chatuchak",
+    "name:fr": "Chatuchak Market",
+    "name:ja": "チャトチャック ウィークエンドマーケット",
+    "name:km": "ផ្សារចតុចក្រ",
+    "name:ko": "짜뚜짝 시장",
+    "name:pt": "Chatuchak",
+    "name:ru": "рынок Чатучак",
+    "name:th": "ตลาดนัดจตุจักร",
+    "name:zh": "恰圖恰假日市集",
+    "opening_hours": "Sa-Su 09:00-18:00; We-Th 07:00-18:00; Fr 18:00-00:00",
+    "tourism": "attraction",
+    "website": "https://www.chatuchakmarket.org",
+    "wikidata": "Q1068311",
+    "wikimedia_commons": "Category:Jatujak Market",
+    "wikipedia": "th:ตลาดนัดจตุจักร"
+  }
+},
+{
+  "type": "way",
+  "id": 48966995,
+  "center": {
+    "lat": 13.7467489,
+    "lon": 100.5302735
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:housenumber": "939",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระราม 1",
+    "addr:subdistrict": "วังใหม่",
+    "alt_name:th": "หอศิลป์กรุงเทพฯ",
+    "amenity": "arts_centre",
+    "building": "yes",
+    "building:colour": "white",
+    "building:levels": "9",
+    "building:levels:underground": "1",
+    "fax": "+66 2 214 6639",
+    "fee": "no",
+    "name": "หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร",
+    "name:en": "Bangkok Art and Culture Centre",
+    "name:ko": "방콕 예술 문화 센터",
+    "name:th": "หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร",
+    "name:zh": "曼谷艺术文化中心",
+    "opening_hours": "Tu-Su 10:00-20:00",
+    "phone": "+66 2 214 6630;+66 2 214 6631;+66 2 214 6632;+66 2 214 6633;+66 2 214 6634;+66 2 214 6635;+66 2 214 6636;+66 2 214 6637;+66 2 214 6638",
+    "short_name:en": "BACC",
+    "short_name:th": "หอศิลป์กรุงเทพ",
+    "smoking": "no",
+    "tourism": "gallery",
+    "website": "https://www.bacc.or.th/",
+    "wheelchair": "yes",
+    "wikidata": "Q1130188",
+    "wikimedia_commons": "Category:Bangkok Art and Culture Centre",
+    "wikipedia": "th:หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร"
+  }
+},
+{
+  "type": "way",
+  "id": 82078207,
+  "center": {
+    "lat": 13.7510087,
+    "lon": 100.4917303
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "yes",
+    "fee": "yes",
+    "name": "ศาลาเครื่องราชอิสริยยศ เครื่องราชอิสริยาภรณ์ และเหรียญกษาปณ์",
+    "name:en": "Pavilion of Regalia, Royal Decorations and Coins",
+    "name:th": "ศาลาเครื่องราชอิสริยยศ เครื่องราชอิสริยาภรณ์ และเหรียญกษาปณ์",
+    "name:zh": "国庫局",
+    "tourism": "museum",
+    "wikipedia": "en:Pavilion of Regalia, Royal Decorations and Coins"
+  }
+},
+{
+  "type": "way",
+  "id": 82542154,
+  "center": {
+    "lat": 13.7509949,
+    "lon": 100.4901325
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "yes",
+    "image": "https://images.mapillary.com/Av9eNk9letPXjLImZI_UbA/thumb-2048.jpg",
+    "mapillary": "372436770876709",
+    "name": "พิพิธภัณฑ์วัดพระศรีรัตนศาสดาราม",
+    "name:en": "Museum of the Emerald Buddha Temple",
+    "name:pl": "Szmaragdowy Budda",
+    "name:th": "พิพิธภัณฑ์วัดพระศรีรัตนศาสดาราม",
+    "opening_hours": "Mo-Su 09:00-15:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 82542417,
+  "center": {
+    "lat": 13.7520265,
+    "lon": 100.4907235
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "yes",
+    "name": "พิพิธภัณฑ์ผ้าในสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+    "name:en": "Queen Sirikit Museum of Textiles",
+    "name:th": "พิพิธภัณฑ์ผ้าในสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+    "opening_hours": "Mo-Su 09:00-16:30",
+    "tourism": "museum",
+    "wikidata": "Q110517188",
+    "wikipedia": "en:Queen_Sirikit_Museum_of_Textiles"
+  }
+},
+{
+  "type": "way",
+  "id": 83519055,
+  "center": {
+    "lat": 13.8034166,
+    "lon": 100.5507142
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์เด็กกรุงเทพมหานคร",
+    "name:en": "Children's Discovery Museum",
+    "short_name": "พิพิธภัณฑ์เด็ก กทม.",
+    "short_name:en": "Children's Museum",
+    "tourism": "museum",
+    "wikidata": "Q5098070",
+    "wikimedia_commons": "Category:Bangkok Children's Discovery Museum",
+    "wikipedia": "en:Children's Discovery Museum Bangkok 1"
+  }
+},
+{
+  "type": "way",
+  "id": 87995463,
+  "center": {
+    "lat": 13.7487944,
+    "lon": 100.5035347
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:housenumber": "463",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนมหาไชย",
+    "addr:subdistrict": "สำราญราษฎร์",
+    "building": "yes",
+    "image": "https://images.mapillary.com/y9957HdR-KhxV5f0M_gFVg/thumb-2048.jpg",
+    "mapillary": "498610144614456",
+    "name": "พิพิธภัณฑ์ราชทัณฑ์",
+    "name:en": "Corrections Museum",
+    "name:th": "พิพิธภัณฑ์ราชทัณฑ์",
+    "opening_hours": "closed",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 94728856,
+  "center": {
+    "lat": 13.8457734,
+    "lon": 100.5663605
+  },
+  "tags": {
+    "addr:postcode": "10900",
+    "building": "yes",
+    "museum": "history",
+    "name": "หอประวัติฯ",
+    "name:en": "Hall of History",
+    "tourism": "museum",
+    "website": "http://www.kuhistory.ku.ac.th"
+  }
+},
+{
+  "type": "way",
+  "id": 103022363,
+  "center": {
+    "lat": 13.7548368,
+    "lon": 100.5042538
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "10200",
+    "addr:street": "ถนนมหาไชย",
+    "alt_name:en": "Ratchanaddaram Temple;Ratchanadda Temple",
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "name": "วัดราชนัดดารามวรวิหาร",
+    "name:en": "Wat Ratchanatdaram Worawihan",
+    "name:es": "Wat Ratchanatdaram Worawihan",
+    "name:km": "វត្តរាជនត្តារាមវរវិហារ",
+    "name:ko": "왓 랏차낫다람",
+    "name:th": "วัดราชนัดดารามวรวิหาร",
+    "name:tr": "Ratchanaddaram Tapınağı",
+    "opening_hours": "Mo-Su 08:00-17:00",
+    "phone": "+66 2 224 8807",
+    "religion": "buddhist",
+    "short_name": "วัดราชนัดดาราม",
+    "short_name:en": "Wat Ratchanatdaram",
+    "short_name:th": "วัดราชนัดดาราม",
+    "source": "bing;sign",
+    "tourism": "attraction",
+    "wikidata": "Q1554856",
+    "wikimedia_commons": "Category:Wat Ratchanatdaram",
+    "wikipedia": "th:วัดราชนัดดารามวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 107936513,
+  "center": {
+    "lat": 13.7639992,
+    "lon": 100.4957529
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระอาทิตย์",
+    "addr:subdistrict": "ชนะสงคราม",
+    "building": "yes",
+    "building:levels": "2",
+    "height": "32",
+    "historic": "fort",
+    "layer": "-1",
+    "location": "surface",
+    "name": "ป้อมพระสุเมรุ",
+    "name:en": "Phra Sumen Fort",
+    "name:ru": "Форт Пра Сумен",
+    "name:th": "ป้อมพระสุเมรุ",
+    "name:tr": "Phra Sumen Kalesi",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "start_date": "1783",
+    "tourism": "attraction",
+    "wikidata": "Q13017018",
+    "wikimedia_commons": "Category:Fort Phra Sumen",
+    "wikipedia": "th:ป้อมพระสุเมรุ"
+  }
+},
+{
+  "type": "way",
+  "id": 118171998,
+  "center": {
+    "lat": 13.7547351,
+    "lon": 100.4993781
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนตะนาว",
+    "addr:subdistrict": "บวรนิเวศ",
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "name": "วัดมหรรณพารามวรวิหาร",
+    "name:en": "Wat Mahannapharam Worawihan",
+    "name:th": "วัดมหรรณพารามวรวิหาร",
+    "religion": "buddhist",
+    "short_name": "วัดมหรรณพาราม",
+    "tourism": "attraction",
+    "wikidata": "Q48729769",
+    "wikimedia_commons": "Category:Wat Mahannapharam",
+    "wikipedia": "th:วัดมหรรณพารามวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 121239921,
+  "center": {
+    "lat": 13.8008007,
+    "lon": 100.5494052
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "จตุจักรพลาซ่า",
+    "name:en": "JatuJak Plaza",
+    "name:es": "Plaza Chatuchak",
+    "name:km": "ចតុចក្រផ្លាហ្សា",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 123950254,
+  "center": {
+    "lat": 13.7535121,
+    "lon": 100.4984481
+  },
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "ถนนตะนาว",
+    "name:en": "Tanao Road",
+    "name:th": "ถนนตะนาว",
+    "oneway": "no",
+    "surface": "asphalt",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 138947464,
+  "center": {
+    "lat": 13.7490605,
+    "lon": 100.4971839
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "barrier": "wall",
+    "denomination": "thai_thammayut",
+    "image": "https://photos.app.goo.gl/K6Yk3qFZpkdjd9r36",
+    "name": "วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+    "name:en": "Wat Ratchabophit Sathit Maha Simaram Ratchaworawihan",
+    "name:th": "วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+    "opening_hours": "Mo-Su 06:00-18:00",
+    "religion": "buddhist",
+    "residential": "rural",
+    "short_name": "วัดราชบพิธสถิตมหาสีมาราม;วัดราชบพิธ",
+    "short_name:en": "Wat Ratchabophit",
+    "short_name:th": "วัดราชบพิธสถิตมหาสีมาราม;วัดราชบพิธ",
+    "tourism": "attraction",
+    "url": "https://youtu.be/Hb6r3xzdB1E",
+    "wikidata": "Q1513232",
+    "wikimedia_commons": "Category:Wat Ratchabopit",
+    "wikipedia": "th:วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 164588367,
+  "center": {
+    "lat": 13.8503412,
+    "lon": 100.4816757
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "อุทยานเฉลิมกาญจนาภิเษก",
+    "name:en": "Utthayan Chalerm Karnchanapisek",
+    "name:th": "อุทยานเฉลิมกาญจนาภิเษก",
+    "opening_hours": "Mo-Su 05:30-18:30",
+    "tourism": "attraction",
+    "website": "https://thailandtourismdirectory.go.th/th/info/attraction/detail/itemid/2194"
+  }
+},
+{
+  "type": "way",
+  "id": 168945966,
+  "center": {
+    "lat": 13.6776554,
+    "lon": 100.5784965
+  },
+  "tags": {
+    "bicycle": "yes",
+    "highway": "track",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 178329971,
+  "center": {
+    "lat": 13.7581460,
+    "lon": 100.4915316
+  },
+  "tags": {
+    "barrier": "wall",
+    "name": "พิพิธภัณฑสถานแห่งชาติ พระนคร",
+    "name:en": "Bangkok National Museum",
+    "name:ru": "Национальный музей Бангкока",
+    "name:th": "พิพิธภัณฑสถานแห่งชาติ พระนคร",
+    "name:tr": "Bangkok Milli Müzesi",
+    "opening_hours": "We-Su 09:00-16:00; PH off",
+    "tourism": "museum",
+    "wikidata": "Q1255815",
+    "wikimedia_commons": "Category:Bangkok National Museum",
+    "wikipedia": "th:พิพิธภัณฑสถานแห่งชาติ พระนคร"
+  }
+},
+{
+  "type": "way",
+  "id": 178329986,
+  "center": {
+    "lat": 13.7542803,
+    "lon": 100.4916052
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "alt_name": "ตึกแดง",
+    "alt_name:en": "Tuk Daeng",
+    "alt_name:th": "ตึกแดง",
+    "building": "yes",
+    "building:colour": "#db5b3b",
+    "image": "https://www.mapillary.com/app/?pKey=500020237869305",
+    "mapillary": "500020237869305",
+    "museum": "history",
+    "name": "ตึกถาวรวัตถุ",
+    "name:en": "Thavornwathu Building",
+    "name:th": "ตึกถาวรวัตถุ",
+    "roof:colour": "#4f3f37",
+    "roof:shape": "hipped-and-gabled",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 178329987,
+  "center": {
+    "lat": 13.7547697,
+    "lon": 100.4907979
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "name": "วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร",
+    "name:en": "Wat Maha That Yuwarat Rangsarit Ratchaworamahawihan",
+    "name:fr": "Temple Maha That Yuwarat Rangsarit",
+    "name:th": "วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร",
+    "name:tr": "Maha That Tapınağı",
+    "religion": "buddhist",
+    "short_name": "วัดมหาธาตุยุวราชรังสฤษฎิ์",
+    "tourism": "attraction",
+    "wikidata": "Q1477677",
+    "wikimedia_commons": "Category:Wat Mahathat (Bangkok)",
+    "wikipedia": "th:วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 178353988,
+  "center": {
+    "lat": 13.7518086,
+    "lon": 100.5012782
+  },
+  "tags": {
+    "alt_name:en": "Sao Ching Sa",
+    "historic": "memorial",
+    "name": "เสาชิงช้า",
+    "name:en": "Giant Swing",
+    "name:es": "Columpio Gigante",
+    "name:ko": "사오칭차",
+    "name:ru": "Гигантские качели",
+    "name:th": "เสาชิงช้า",
+    "name:tr": "Dev Salıncak",
+    "tourism": "attraction",
+    "wikidata": "Q1279344",
+    "wikipedia": "en:Giant Swing"
+  }
+},
+{
+  "type": "way",
+  "id": 178354005,
+  "center": {
+    "lat": 13.7497027,
+    "lon": 100.4963460
+  },
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "image": "https://images.mapillary.com/F8WrIGUXwZJYq1AaE2utgw/thumb-2048.jpg",
+    "layer": "1",
+    "mapillary": "1311303402598386",
+    "name": "สะพานปีกุน",
+    "name:en": "Pi Kun Bridge",
+    "name:th": "สะพานปีกุน",
+    "start_date": "1911",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 182520334,
+  "center": {
+    "lat": 13.7542234,
+    "lon": 100.6279938
+  },
+  "tags": {
+    "name": "Tower of David",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 198428496,
+  "center": {
+    "lat": 13.7328657,
+    "lon": 100.5328405
+  },
+  "tags": {
+    "email": "qsmi@webmail.redcross.or.th",
+    "name": "สวนงู สถานเสาวภา",
+    "name:de": "Schlangenfarm",
+    "name:en": "Snake Farm of Queen Saovabha Memorial Institute",
+    "opening_hours": "Mo-Fr 09:30-15:30; Sa-Su 09:30-13:00",
+    "phone": "02-2520161-4,7",
+    "tourism": "zoo",
+    "website": "https://saovabha.org/service_saovabha/Snake-Farm-Services",
+    "wikidata": "Q587434",
+    "wikimedia_commons": "Category:Queen Saovabha Memorial Institute",
+    "wikipedia": "en:Queen Saovabha Memorial Institute"
+  }
+},
+{
+  "type": "way",
+  "id": 198877011,
+  "center": {
+    "lat": 13.7218672,
+    "lon": 100.5302991
+  },
+  "tags": {
+    "area": "yes",
+    "bridge": "yes",
+    "highway": "pedestrian",
+    "layer": "1",
+    "name": "สกายวอล์กช่องนนทรี",
+    "name:en": "Chong Nonsi Skywalk",
+    "name:th": "สกายวอล์กช่องนนทรี",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 200670984,
+  "center": {
+    "lat": 13.7395981,
+    "lon": 100.5323683
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "alt_name:en": "Exhibition Hall",
+    "building": "university",
+    "building:levels": "4",
+    "name": "พิพิธภัณฑ์มหาวิทยาลัย",
+    "name:en": "Chulalongkorn University Museum",
+    "name:th": "พิพิธภัณฑ์มหาวิทยาลัย",
+    "old_name": "ตึกเคมี 3",
+    "tourism": "museum",
+    "wikidata": "Q29343840"
+  }
+},
+{
+  "type": "way",
+  "id": 202235947,
+  "center": {
+    "lat": 13.7619746,
+    "lon": 100.4845676
+  },
+  "tags": {
+    "building": "yes",
+    "image": "https://images.mapillary.com/M_yi4UQ6XOMBb6U2IgDA6g/thumb-2048.jpg",
+    "mapillary": "2570086683296617",
+    "name": "พิพิธภัณฑสถานแห่งชาติ เรือพระราชพิธี",
+    "name:en": "National Museum of Royal Barges",
+    "name:ru": "Национальный музей королевских лодок",
+    "tourism": "museum",
+    "wikidata": "Q4924562",
+    "wikimedia_commons": "Category:National Museum of Royal Barges",
+    "wikipedia": "th:พิพิธภัณฑสถานแห่งชาติ เรือพระราชพิธี"
+  }
+},
+{
+  "type": "way",
+  "id": 205637198,
+  "center": {
+    "lat": 13.7565471,
+    "lon": 100.5051315
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:housenumber": "101",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บวรนิเวศ",
+    "alt_name:en": "Queen Sikirit Gallery",
+    "building": "commercial",
+    "building:levels": "8",
+    "name": "หอศิลป์สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+    "name:en": "The Queen's Gallery",
+    "name:th": "หอศิลป์สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+    "tourism": "gallery",
+    "wikidata": "Q4921882",
+    "wikipedia": "th:หอศิลป์สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ"
+  }
+},
+{
+  "type": "way",
+  "id": 210306786,
+  "center": {
+    "lat": 13.7281119,
+    "lon": 100.5181068
+  },
+  "tags": {
+    "barrier": "wall",
+    "fee": "no",
+    "landuse": "grass",
+    "name": "พิพิธภัณฑ์ชาวบางกอก",
+    "name:en": "Bangkokian Museum",
+    "name:th": "พิพิธภัณฑ์ชาวบางกอก",
+    "opening_hours": "Tu-Su,PH 09:00-16:00; Mo closed",
+    "photography": "yes",
+    "tourism": "museum",
+    "wikidata": "Q4855203",
+    "wikipedia": "th:พิพิธภัณฑ์ชาวบางกอก"
+  }
+},
+{
+  "type": "way",
+  "id": 210310633,
+  "center": {
+    "lat": 13.7392397,
+    "lon": 100.5612743
+  },
+  "tags": {
+    "addr:district": "วัฒนา",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตยเหนือ",
+    "building": "cultural_centre",
+    "name": "สยามสมาคม",
+    "name:en": "The Siam Society",
+    "name:th": "สยามสมาคม",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 229964019,
+  "center": {
+    "lat": 13.7592096,
+    "lon": 100.4939646
+  },
+  "tags": {
+    "barrier": "wall",
+    "museum": "art",
+    "name": "พิพิธภัณฑสถานแห่งชาติ หอศิลป",
+    "name:en": "The National Gallery",
+    "name:th": "พิพิธภัณฑสถานแห่งชาติ หอศิลป",
+    "tourism": "museum",
+    "wikidata": "Q1968373",
+    "wikimedia_commons": "Category:National Gallery of Thailand",
+    "wikipedia": "th:พิพิธภัณฑสถานแห่งชาติ หอศิลป"
+  }
+},
+{
+  "type": "way",
+  "id": 229966092,
+  "center": {
+    "lat": 13.7560727,
+    "lon": 100.5064929
+  },
+  "tags": {
+    "addr:district": "ป้อมปราบศัตรูพ่าย",
+    "addr:postcode": "10100",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บ้านบาตร",
+    "building": "yes",
+    "name": "พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว",
+    "name:en": "King Prajadhipok Museum",
+    "name:th": "พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว",
+    "tourism": "museum",
+    "wikidata": "Q6411961",
+    "wikimedia_commons": "Category:King Prajadhipok Museum",
+    "wikipedia": "th:พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว"
+  }
+},
+{
+  "type": "way",
+  "id": 230010054,
+  "center": {
+    "lat": 13.7515102,
+    "lon": 100.4926905
+  },
+  "tags": {
+    "addr:postcode": "10200",
+    "addr:street": "Na Phra Lan Road",
+    "alt_name:de": "Tempel des Smaragd-Buddha",
+    "alt_name:en": "Temple of the Emerald Buddha",
+    "amenity": "place_of_worship",
+    "historic": "yes",
+    "image": "https://photos.app.goo.gl/XqMb2kuGpEWrCZD19;https://photos.app.goo.gl/BUzMeVvJE6V2tu8M9",
+    "loc_name": "วัดพระแก้ว",
+    "name": "วัดพระศรีรัตนศาสดาราม",
+    "name:de": "Wat Phra Kaeo",
+    "name:en": "Wat Phra Kaew",
+    "name:es": "Templo del Buda de Esmeralda",
+    "name:he": "מקדש בודהה האמרלד",
+    "name:ja": "ワット・プラケオ;エメラルド寺院",
+    "name:ko": "왓 프라깨우&왕궁",
+    "name:pl": "Świątynia Szmaragdowego Buddy",
+    "name:ru": "Храм Изумрудного Будды",
+    "name:th": "วัดพระศรีรัตนศาสดาราม",
+    "name:tr": "Phra Kaew Tapınağı",
+    "name:zh": "玉佛寺",
+    "opening_hours": "08:30-15:30; Mo-Su 08:30-16:30",
+    "phone": "026235500",
+    "religion": "buddhist",
+    "tourism": "attraction",
+    "url": "https://youtu.be/xSq_GYAmWdY",
+    "website": "https://www.palaces.thai.net/",
+    "wheelchair": "no",
+    "wikidata": "Q1045876",
+    "wikipedia": "th:วัดพระศรีรัตนศาสดาราม"
+  }
+},
+{
+  "type": "way",
+  "id": 230891857,
+  "center": {
+    "lat": 13.7567061,
+    "lon": 100.5372012
+  },
+  "tags": {
+    "barrier": "wall",
+    "name": "สวนผักกาด",
+    "name:en": "Wang Suan Phakkat",
+    "name:ja": "スアンパッカード宮殿",
+    "name:th": "สวนผักกาด",
+    "opening_hours": "Mo-Su 09:00-16:00",
+    "tourism": "museum",
+    "website": "http://www.suanpakkad.com/",
+    "wikidata": "Q493505",
+    "wikipedia": "en:Suan Pakkad Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 241865727,
+  "center": {
+    "lat": 13.7198439,
+    "lon": 100.5336920
+  },
+  "tags": {
+    "alt_name": "บ้านซอยสวนพลู",
+    "alt_name:en": "M.R. Kukrit's House",
+    "leisure": "garden",
+    "name": "บ้าน ม.ร.ว.คึกฤทธิ์ ปราโมช",
+    "name:en": "M.R. Kukrit's Heritage Home",
+    "phone": "+6622868185",
+    "tourism": "museum",
+    "wikidata": "Q6579813",
+    "wikimedia_commons": "Category:M.R. Kukrit's Heritage Home",
+    "wikipedia": "en:M.R. Kukrit's House"
+  }
+},
+{
+  "type": "way",
+  "id": 243936903,
+  "center": {
+    "lat": 13.7538610,
+    "lon": 100.5066911
+  },
+  "tags": {
+    "addr:district": "ป้อมปราบศัตรูพ่าย",
+    "addr:housenumber": "344",
+    "addr:postcode": "10100",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนบริพัตร",
+    "addr:subdistrict": "บ้านบาตร",
+    "alt_name": "ภูเขาทอง",
+    "alt_name:en": "Golden Mountain",
+    "alt_name:es": "Montaña Dorada;Monte Dorado",
+    "alt_name:th": "ภูเขาทอง",
+    "building": "temple",
+    "historic": "monument",
+    "image": "https://photos.app.goo.gl/QnwdVmJQBqHMtLSD9",
+    "layer": "1",
+    "mapillary": "816858482268267",
+    "name": "บรมบรรพต",
+    "name:en": "Golden Mount",
+    "name:fr": "La Montagne d'Or",
+    "name:he": "הר הזהב",
+    "name:ja": "ゴールデンマウンテン",
+    "name:th": "บรมบรรพต",
+    "name:tr": "Altın Dağ",
+    "name:zh": "金山寺",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "phone": "+66 2 621 2280",
+    "tourism": "attraction",
+    "wheelchair": "no",
+    "wikidata": "Q13017449",
+    "wikipedia": "th:พระบรมบรรพต"
+  }
+},
+{
+  "type": "way",
+  "id": 248978431,
+  "center": {
+    "lat": 13.8519103,
+    "lon": 100.5626494
+  },
+  "tags": {
+    "addr:postcode": "10900",
+    "addr:street": "ถนนกำแพงเพชร 6",
+    "alt_name:en": "Museum Of Contemporary Art",
+    "building": "yes",
+    "museum": "art",
+    "name": "พิพิธภัณฑ์ศิลปะไทยร่วมสมัย",
+    "name:en": "Museum of Contemporary Art",
+    "name:ko": "방콕 현대미술관",
+    "name:th": "พิพิธภัณฑ์ศิลปะไทยร่วมสมัย",
+    "short_name": "MOCA",
+    "tourism": "museum",
+    "wikidata": "Q1130188",
+    "wikimedia_commons": "Category:Bangkok Art and Culture Centre",
+    "wikipedia": "en:Bangkok Art and Culture Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 259496890,
+  "center": {
+    "lat": 13.8418576,
+    "lon": 100.5760217
+  },
+  "tags": {
+    "building": "yes",
+    "name": "ศาสาหกเหลี่ยม",
+    "name:en": "The Hexagonal Pavilion",
+    "name:th": "ศาลาหกเหลี่ยม",
+    "start_date": "1999-02-02",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 261080002,
+  "center": {
+    "lat": 13.7320850,
+    "lon": 100.5318649
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "building": "yes",
+    "museum": "history",
+    "name": "พิพิธภัณฑ์​สภากาชาดไทย",
+    "name:en": "Thai Red Cross Museum",
+    "name:th": "พิพิธภัณฑ์​สภากาชาดไทย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 283722626,
+  "center": {
+    "lat": 13.7195340,
+    "lon": 100.5429455
+  },
+  "tags": {
+    "addr:district": "สาทร",
+    "addr:housenumber": "99/8",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "Soi Ngam Duphli",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "alt_name": "สำนักงานกองทุนสนับสนุนการสร้างเสริมสุขภาพ",
+    "building": "office",
+    "name": "ศูนย์เรียนรู้สุขภาวะ",
+    "name:en": "Health Learning Center",
+    "name:th": "ศูนย์เรียนรู้สุขภาวะ",
+    "operator": "สำนักงานกองทุนสนับสนุนการสร้างเสริมสุขภาพ",
+    "phone": "+6623431551",
+    "tourism": "museum",
+    "website": "https://www.thaihealth.or.th/",
+    "wheelchair": "yes",
+    "wikidata": "Q36875286"
+  }
+},
+{
+  "type": "way",
+  "id": 283723388,
+  "center": {
+    "lat": 13.7191272,
+    "lon": 100.5432660
+  },
+  "tags": {
+    "addr:district": "สาทร",
+    "addr:housenumber": "99/9",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยงามดูพลี",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "building": "yes",
+    "email": ": kukritinstitute@gmail.com",
+    "fax": "+66 2 286 5387",
+    "name": "สถาบันคึกฤทธิ์",
+    "name:en": "Kukrit Institute",
+    "name:th": "สถาบันคึกฤทธิ์",
+    "phone": "+66 2 286 5385",
+    "tourism": "museum",
+    "website": "https://www.kukrit-pramoj.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 304838059,
+  "center": {
+    "lat": 13.7627046,
+    "lon": 100.4948308
+  },
+  "tags": {
+    "area": "yes",
+    "historic": "manor",
+    "name": "บ้านพระอาทิตย์",
+    "name:en": "Ban Phra Athit",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 317219713,
+  "center": {
+    "lat": 13.7199014,
+    "lon": 100.5829944
+  },
+  "tags": {
+    "area": "yes",
+    "name": "Science Centre for Education",
+    "name:th": "ศูนย์วิทยาศาสตร์เพื่อการศึกษา (ท้องฟ้าจำลองกรุงเทพ)",
+    "tourism": "museum",
+    "wikidata": "Q6632283",
+    "wikipedia": "en:Science Centre for Education"
+  }
+},
+{
+  "type": "way",
+  "id": 320273828,
+  "center": {
+    "lat": 13.7597609,
+    "lon": 100.4867852
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "yes",
+    "image": "https://images.mapillary.com/cRgZ8EWoTndDB-JplkKBrw/thumb-2048.jpg",
+    "mapillary": "486568439063538",
+    "name": "พิพิธภัณฑ์ศิริราชพิมุขสถาน",
+    "name:en": "Siriraj Bimuksthan Museum",
+    "name:th": "พิพิธภัณฑ์ศิริราชพิมุขสถาน",
+    "tourism": "museum",
+    "wikidata": "Q130198",
+    "wikimedia_commons": "Category:Old Thonburi Railway Station",
+    "wikipedia": "th:พิพิธภัณฑ์ศิริราชพิมุขสถาน"
+  }
+},
+{
+  "type": "way",
+  "id": 321722223,
+  "center": {
+    "lat": 13.7173182,
+    "lon": 100.5152203
+  },
+  "tags": {
+    "abandoned": "apartments",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ยานนาวา",
+    "building": "apartments",
+    "building:levels": "49",
+    "name": "Sathorn Unique Tower",
+    "tourism": "attraction",
+    "wikidata": "Q20011078",
+    "wikimedia_commons": "Category:Sathorn Unique Tower",
+    "wikipedia": "en:Sathorn Unique Tower"
+  }
+},
+{
+  "type": "way",
+  "id": 332674477,
+  "center": {
+    "lat": 13.7229547,
+    "lon": 100.5782649
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์เภสัชกรรมไทย",
+    "name:en": "Museum of Thai Pharmacy",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 333227704,
+  "center": {
+    "lat": 13.7525853,
+    "lon": 100.4855610
+  },
+  "tags": {
+    "addr:district": "Bangkok Noi",
+    "addr:housenumber": "250",
+    "addr:postcode": "10700",
+    "addr:province": "Bangkok",
+    "addr:street": "Arun Amarin Rd",
+    "addr:subdistrict": "Siriraj",
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "name": "วัดระฆังโฆสิตารามวรมหาวิหาร",
+    "name:en": "Wat Rakhang Kositaram Woramahawihan",
+    "name:th": "วัดระฆังโฆสิตารามวรมหาวิหาร",
+    "religion": "buddhist",
+    "short_name": "วัดระฆังโฆสิตาราม",
+    "short_name:en": "Wat Rakhang",
+    "tourism": "attraction",
+    "wikidata": "Q1395072",
+    "wikimedia_commons": "Category:Wat Rakhang",
+    "wikipedia": "th:วัดระฆังโฆสิตารามวรมหาวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 341577338,
+  "center": {
+    "lat": 13.7492247,
+    "lon": 100.5282818
+  },
+  "tags": {
+    "access": "customers",
+    "addr:housenumber": "6",
+    "addr:street": "Soi Kasemsan 2, Rama 1 Road",
+    "contact:phone": "+66 2 216 7368",
+    "fee": "yes",
+    "leisure": "garden",
+    "name": "พิพิธภัณฑ์บ้านจิม ทอมป์สัน",
+    "name:en": "Jim Thompson House",
+    "name:fr": "Maison de Jim Thompson",
+    "name:ko": "짐 톰슨 하우스",
+    "name:th": "พิพิธภัณฑ์บ้านจิม ทอมป์สัน",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "operator": "The James H. W. Thompson Foundation",
+    "tourism": "museum",
+    "website": "http://www.jimthompsonhouse.com/",
+    "wikidata": "Q2916351",
+    "wikimedia_commons": "Category:Jim Thompson House",
+    "wikipedia": "en:Jim Thompson House"
+  }
+},
+{
+  "type": "way",
+  "id": 341577340,
+  "center": {
+    "lat": 13.7493281,
+    "lon": 100.5281755
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Jim Thompson House Museum",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 342337807,
+  "center": {
+    "lat": 13.7495389,
+    "lon": 100.4956176
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "barrier": "wall",
+    "denomination": "thai_thammayut",
+    "image": "https://photos.app.goo.gl/nSADiUadSrKBFjFX6",
+    "name": "วัดราชประดิษฐสถิตมหาสีมารามราชวรวิหาร",
+    "name:en": "Wat Ratchapradit Sathit Maha Simaram Ratchaworawihan",
+    "name:th": "วัดราชประดิษฐสถิตมหาสีมารามราชวรวิหาร",
+    "religion": "buddhist",
+    "short_name": "วัดราชประดิษฐสถิตมหาสีมาราม",
+    "tourism": "attraction",
+    "url": "https://youtu.be/xykN9xaMzH8",
+    "wikidata": "Q2552382",
+    "wikimedia_commons": "Category:Wat Ratchapradit",
+    "wikipedia": "th:วัดราชประดิษฐสถิตมหาสีมารามราชวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 342352012,
+  "center": {
+    "lat": 13.7535450,
+    "lon": 100.5039659
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "thai_mahanikaya",
+    "name": "วัดเทพธิดารามวรวิหาร",
+    "name:en": "Wat Thep Thidaram Worawihan",
+    "name:th": "วัดเทพธิดารามวรวิหาร",
+    "religion": "buddhist",
+    "short_name": "วัดเทพธิดาราม",
+    "short_name:en": "Wat Thepthidaram",
+    "short_name:th": "วัดเทพธิดาราม",
+    "tourism": "attraction",
+    "wikidata": "Q2552410",
+    "wikimedia_commons": "Category:Wat Thepthidaram",
+    "wikipedia": "th:วัดเทพธิดารามวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 342522015,
+  "center": {
+    "lat": 13.7051192,
+    "lon": 100.5033698
+  },
+  "tags": {
+    "attraction": "big_wheel",
+    "building": "yes",
+    "building:condition": "Not Damaged",
+    "image": "http://image.ohozaa.com/i/597/ehFfRJ.jpg",
+    "name": "Asiatique Sky Ferris Wheel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 347928249,
+  "center": {
+    "lat": 13.7226412,
+    "lon": 100.5244196
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:district:en": "Bang Rak",
+    "addr:district:th": "บางรัก",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "Silom Soi 13, Silom Road Bangrak",
+    "addr:subdistrict": "สีลม",
+    "amenity": "school",
+    "building": "yes",
+    "email": "info@bangkokthaicooking.com",
+    "name:de": "Silom Thai Kochschule",
+    "name:en": "Silom Thai Cooking school",
+    "phone": "+66847265669",
+    "tourism": "attraction",
+    "website": "http://www.bangkokthaicooking.com"
+  }
+},
+{
+  "type": "way",
+  "id": 349609932,
+  "center": {
+    "lat": 13.7439588,
+    "lon": 100.4938495
+  },
+  "tags": {
+    "alt_name": "Museum of Siam",
+    "fax": "+66(0)-2225-2775",
+    "landuse": "commercial",
+    "name": "มิวเซียมสยาม",
+    "name:en": "Museum of Siam",
+    "name:th": "มิวเซียมสยาม",
+    "name:tr": "Siyam Müzesi",
+    "name:zh": "暹羅博物館",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+66(0)-2225-2777",
+    "tourism": "museum",
+    "website": "https://www.museumsiam.org/",
+    "wikidata": "Q6584164",
+    "wikimedia_commons": "Category:Museum Siam, Bangkok",
+    "wikipedia": "th:มิวเซียมสยาม"
+  }
+},
+{
+  "type": "way",
+  "id": 349650555,
+  "center": {
+    "lat": 13.7556848,
+    "lon": 100.5132625
+  },
+  "tags": {
+    "name": "พิพิธภัณฑ์วังวรดิศ",
+    "name:en": "Varadis Palace Museum",
+    "name:th": "พิพิธภัณฑ์วังวรดิศ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 350432315,
+  "center": {
+    "lat": 13.7589148,
+    "lon": 100.4945039
+  },
+  "tags": {
+    "barrier": "wall",
+    "name": "พิพิธภัณฑ์เหรียญกษาปณานุรักษ์",
+    "name:en": "The Coin Museum",
+    "name:th": "พิพิธภัณฑ์เหรียญกษาปณานุรักษ์",
+    "tourism": "museum",
+    "wikimedia_commons": "Category:Coin Museum (Thailand)"
+  }
+},
+{
+  "type": "way",
+  "id": 352117293,
+  "center": {
+    "lat": 13.7312785,
+    "lon": 100.4632472
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "museum": "art",
+    "name": "บ้านศิลปิน",
+    "name:en": "Artist House",
+    "name:th": "บ้านศิลปิน",
+    "name:th-Latn": "Ban Silapin",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 368158915,
+  "center": {
+    "lat": 13.7658865,
+    "lon": 100.5744001
+  },
+  "tags": {
+    "building": "yes",
+    "full_name": "อาคารนิทรรศการและบริการทางการศึกษา",
+    "name": "อาคารนิทรรศการและการศึกษา",
+    "name:th": "อาคารนิทรรศการและการศึกษา",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 389358682,
+  "center": {
+    "lat": 13.7938838,
+    "lon": 100.5487638
+  },
+  "tags": {
+    "building": "yes",
+    "designation": "Philatelic Museum",
+    "name": "Philatelic Museum",
+    "source": "local knowledge",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 462532630,
+  "center": {
+    "lat": 13.7386945,
+    "lon": 100.5122461
+  },
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "name": "ถนนเยาวราช",
+    "name:en": "Yaowarat Road",
+    "name:etymology:wikidata": "Q6636215",
+    "name:ja": "ヨーワラート通り",
+    "name:th": "ถนนเยาวราช",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "tourism": "attraction",
+    "wikidata": "Q1518029",
+    "wikipedia": "th:ถนนเยาวราช"
+  }
+},
+{
+  "type": "way",
+  "id": 491005386,
+  "center": {
+    "lat": 13.7431962,
+    "lon": 100.4855517
+  },
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "1",
+    "motor_vehicle": "yes",
+    "name": "ซอยอรุณอมรินทร์ 11",
+    "name:en": "Soi Arun Ammarin 11",
+    "name:th": "ซอยอรุณอมรินทร์ 11",
+    "surface": "asphalt",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 539017238,
+  "center": {
+    "lat": 13.7462649,
+    "lon": 100.5471762
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ลุมพินี",
+    "building": "detached",
+    "name": "บ้านปาร์คนายเลิศ",
+    "name:en": "Nai Lert Park Heritage Home",
+    "name:th": "บ้านปาร์คนายเลิศ",
+    "tourism": "museum",
+    "wikidata": "Q129811661",
+    "wikipedia": "th:บ้านปาร์คนายเลิศ"
+  }
+},
+{
+  "type": "way",
+  "id": 539268957,
+  "center": {
+    "lat": 13.7462558,
+    "lon": 100.5374064
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "air_conditioning": "yes",
+    "building": "temple",
+    "building:levels": "2",
+    "contact:facebook": "facebook.com/phraachanmanmuseumwatpathumwanaram",
+    "fee": "no",
+    "museum": "person",
+    "name": "พิพิธภัณฑ์พระอาจารย์มั่น ภูริทตฺโต วัดปทุมวนาราม",
+    "name:en": "The Venerable Phra Achan Man Bhuridatto Museum at Wat Pathum Wanaram",
+    "name:th": "พิพิธภัณฑ์พระอาจารย์มั่น ภูริทตฺโต วัดปทุมวนาราม",
+    "opening_hours": "We-Su 08:00-17:00",
+    "operator": "Wat Pathum Wanaram",
+    "operator:type": "religious",
+    "phone": "+66 98 095 3040",
+    "tourism": "museum",
+    "wikidata": "Q137947024"
+  }
+},
+{
+  "type": "way",
+  "id": 539977676,
+  "center": {
+    "lat": 13.7341217,
+    "lon": 100.5080476
+  },
+  "tags": {
+    "addr:housenumber": "248",
+    "addr:postcode": "10600",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "Chiang Mai Road;ถนนเชียงใหม่",
+    "landuse": "retail",
+    "name": "ล้ง 1919",
+    "name:en": "Lhong 1919",
+    "name:th": "ล้ง 1919",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "081 994 4597",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 541870311,
+  "center": {
+    "lat": 13.7505403,
+    "lon": 100.5441660
+  },
+  "tags": {
+    "description": "https://photos.app.goo.gl/7Nf5JQxeT2yKiyAP9",
+    "image": "https://images.mapillary.com/Qt_O6dsL3QqHeCKKtyBWow/thumb-2048.jpg",
+    "landuse": "brownfield",
+    "mapillary": "317493489891843",
+    "name:en": "Neon Market (Permanently Closed)",
+    "name:th": "ตลาดนีออน (Permanently Closed)",
+    "opening_hours": "16:00-23:59",
+    "phone": "+66 2 1218000",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 555888776,
+  "center": {
+    "lat": 13.8150986,
+    "lon": 100.4072597
+  },
+  "tags": {
+    "leisure": "playground",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 560610616,
+  "center": {
+    "lat": 13.8479190,
+    "lon": 100.5294155
+  },
+  "tags": {
+    "addr:city": "ตำบลบางเขน",
+    "addr:housenumber": "88/23",
+    "addr:postcode": "11000",
+    "building": "yes",
+    "name": "พิพิธภัณฑ์แพทย์แผนไทย",
+    "opening_hours": "Mo-Sa 08:00-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 562209094,
+  "center": {
+    "lat": 13.7490078,
+    "lon": 100.5297261
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:housenumber": "20/2",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยเกษมสันต์ 1",
+    "addr:subdistrict": "วังใหม่",
+    "amenity": "arts_centre",
+    "building": "yes",
+    "name": "บ้านแสนแสบ",
+    "name:th": "บ้านแสนแสบ",
+    "opening_hours": "We-Mo 11:00-20:00",
+    "shop": "craft",
+    "tourism": "gallery",
+    "website": "https://www.yelohouse.com"
+  }
+},
+{
+  "type": "way",
+  "id": 627049525,
+  "center": {
+    "lat": 13.7555900,
+    "lon": 100.4987139
+  },
+  "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "layer": "1",
+    "maxspeed": "30",
+    "name": "ถนนตะนาว",
+    "name:en": "Tanao Road",
+    "name:th": "ถนนตะนาว",
+    "oneway": "no",
+    "surface": "asphalt",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 627049526,
+  "center": {
+    "lat": 13.7564087,
+    "lon": 100.4988187
+  },
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "ถนนตะนาว",
+    "name:en": "Tanao Road",
+    "name:th": "ถนนตะนาว",
+    "surface": "asphalt",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 628951391,
+  "center": {
+    "lat": 13.7469247,
+    "lon": 100.5144823
+  },
+  "tags": {
+    "addr:district": "ป้อมปราบศัตรูพ่าย",
+    "addr:postcode": "10100",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วัดเทพศิรินทร์",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "พิพิธภัณฑ์พระพุทธศาสนาวัดเทพศิรินทร์",
+    "name:en": "Buddhism Museum",
+    "name:th": "พิพิธภัณฑ์พระพุทธศาสนาวัดเทพศิรินทร์",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 686092687,
+  "center": {
+    "lat": 13.7453398,
+    "lon": 100.5318388
+  },
+  "tags": {
+    "description": "Street food and street art",
+    "highway": "footway",
+    "name": "สยาม บี.",
+    "name:en": "Siam B.",
+    "name:th": "สยาม บี.",
+    "surface": "paving_stones",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 754824716,
+  "center": {
+    "lat": 13.7400179,
+    "lon": 100.5104430
+  },
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "name": "ถนนเยาวราช",
+    "name:en": "Yaowarat Road",
+    "name:etymology:wikidata": "Q6636215",
+    "name:ja": "ヨーワラート通り",
+    "name:th": "ถนนเยาวราช",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "tourism": "attraction",
+    "wikidata": "Q1518029",
+    "wikipedia": "th:ถนนเยาวราช"
+  }
+},
+{
+  "type": "way",
+  "id": 784424308,
+  "center": {
+    "lat": 13.7490837,
+    "lon": 100.4967295
+  },
+  "tags": {
+    "amenity": "grave_yard",
+    "image": "https://photos.app.goo.gl/hzrzgV9KHwGbijybA",
+    "name": "สุสานหลวง วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+    "name:en": "Wat Ratchabophit Royal Cemetery",
+    "name:th": "สุสานหลวง วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+    "religion": "buddhist",
+    "tourism": "attraction",
+    "wikidata": "Q6640527",
+    "wikimedia_commons": "Category:Wat_Ratchabophit_Royal_Cemetery",
+    "wikipedia": "th:สุสานหลวง วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร"
+  }
+},
+{
+  "type": "way",
+  "id": 832948770,
+  "center": {
+    "lat": 13.7412735,
+    "lon": 100.5083858
+  },
+  "tags": {
+    "alt_name": "Yaowarat Road Bangkok China Town",
+    "highway": "primary",
+    "lanes": "5",
+    "name": "ถนนเยาวราช",
+    "name:en": "Yaowarat Road",
+    "name:etymology:wikidata": "Q6636215",
+    "name:ja": "ヨーワラート通り",
+    "name:th": "ถนนเยาวราช",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "tourism": "attraction",
+    "wikidata": "Q1518029",
+    "wikipedia": "th:ถนนเยาวราช"
+  }
+},
+{
+  "type": "way",
+  "id": 854663911,
+  "center": {
+    "lat": 13.7435097,
+    "lon": 100.5273317
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "name": "สวนหินอ่อน วังวินด์เซอร์",
+    "name:th": "สวนหินอ่อน วังกลางทุ่งหรือวังใหม่",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 857824693,
+  "center": {
+    "lat": 13.6657673,
+    "lon": 100.5372436
+  },
+  "tags": {
+    "building": "yes",
+    "name:en": "Mon Cultural Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 863463383,
+  "center": {
+    "lat": 13.7687313,
+    "lon": 100.5330582
+  },
+  "tags": {
+    "access": "yes",
+    "area": "yes",
+    "museum": "history",
+    "name": "พระราชวังพญาไท",
+    "name:en": "Phaya Thai Palace",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 872380813,
+  "center": {
+    "lat": 13.7406158,
+    "lon": 100.5094124
+  },
+  "tags": {
+    "alt_name": "Yaowarat Road Bangkok China Town",
+    "highway": "primary",
+    "lanes": "5",
+    "name": "ถนนเยาวราช",
+    "name:en": "Yaowarat Road",
+    "name:ja": "ヨーワラート通り",
+    "name:th": "ถนนเยาวราช",
+    "oneway": "yes",
+    "tourism": "attraction",
+    "wikidata": "Q1518029",
+    "wikipedia": "th:ถนนเยาวราช"
+  }
+},
+{
+  "type": "way",
+  "id": 897441588,
+  "center": {
+    "lat": 13.7498431,
+    "lon": 100.5284520
+  },
+  "tags": {
+    "addr:district": "ราชเทวี",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ถนนเพชรบุรี",
+    "building": "yes",
+    "name": "ผ้าไหมบ้านครัว",
+    "name:en": "Ban Krua Silk Factory",
+    "name:th": "ผ้าไหมบ้านครัว",
+    "product": "silk",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 897909009,
+  "center": {
+    "lat": 13.7493134,
+    "lon": 100.5284842
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Jim Thompson House",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 993621177,
+  "center": {
+    "lat": 13.7290986,
+    "lon": 100.5151536
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:housenumber": "27;27/1;27/2;27/3",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยเจริญกรุง 30",
+    "addr:subdistrict": "บางรัก",
+    "building": "yes",
+    "building:levels": "4",
+    "layer": "1",
+    "name": "เล็กแกลเลอรี่อาร์ต",
+    "name:en": "Lek Gallery Art",
+    "name:th": "เล็กแกลเลอรี่อาร์ต",
+    "note": "House numbers are from the southern road-facing side, west to east.",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1004865076,
+  "center": {
+    "lat": 13.7514461,
+    "lon": 100.4998934
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วัดราชบพิธ",
+    "alt_name": "บ้านหมอหวาน",
+    "alt_name:en": "Baan Mowaan",
+    "alt_name:th": "บ้านหมอหวาน",
+    "building": "yes",
+    "museum": "history",
+    "name": "บำรุงชาติสาสนายาไทย",
+    "name:en": "Bamrungchat Satsana Yathai Pharmacy",
+    "name:th": "บำรุงชาติสาสนายาไทย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1104559611,
+  "center": {
+    "lat": 13.6684888,
+    "lon": 100.6052589
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์การเรียนรู้อุตุนิยมวิทยา",
+    "name:th": "พิพิธภัณฑ์การเรียนรู้อุตุนิยมวิทยา",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1128384545,
+  "center": {
+    "lat": 13.6756689,
+    "lon": 100.6034320
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์เหล้าโบราณ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1135386422,
+  "center": {
+    "lat": 13.7886811,
+    "lon": 100.4702080
+  },
+  "tags": {
+    "building": "yes",
+    "name": "ชุ่ยสโมสร",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1135386423,
+  "center": {
+    "lat": 13.7886748,
+    "lon": 100.4700641
+  },
+  "tags": {
+    "building": "yes",
+    "name": "KingxProp",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1147659014,
+  "center": {
+    "lat": 13.7487406,
+    "lon": 100.5284128
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "fee": "yes",
+    "name": "หอศิลป์บ้านจิมทอมป์สัน",
+    "name:en": "Jim Thompson Art Center",
+    "name:th": "หอศิลป์บ้านจิมทอมป์สัน",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "tourism": "gallery",
+    "website": "http://www.jimthompsonartcenter.org"
+  }
+},
+{
+  "type": "way",
+  "id": 1156196151,
+  "center": {
+    "lat": 13.7291959,
+    "lon": 100.5103015
+  },
+  "tags": {
+    "building": "yes",
+    "email": "gallery.thejamfactory@gmail.com",
+    "name": "เดอะแจมแฟคทอรี่แกลเลอรี่",
+    "name:en": "The Jam Factory Gallery",
+    "name:th": "เดอะแจมแฟคทอรี่แกลเลอรี่",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1190810492,
+  "center": {
+    "lat": 13.7268760,
+    "lon": 100.5156055
+  },
+  "tags": {
+    "access": "permissive",
+    "covered": "no",
+    "direction": "E",
+    "fee": "no",
+    "garden:type": "roof_garden",
+    "leisure": "garden",
+    "level": "4",
+    "name": "Public Rooftop Garden",
+    "name:en": "Public Rooftop Garden",
+    "operator": "ศูนย์สร้างสรรค์งานออกแบบ",
+    "operator:type": "public",
+    "operator:wikidata": "Q6632289",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 1194737958,
+  "center": {
+    "lat": 13.7667790,
+    "lon": 100.5083958
+  },
+  "tags": {
+    "building": "yes",
+    "name": "ศูนย์การเรียนรู้กระทรวงศึกษาธิการ",
+    "name:en": "Ministry of Education Learning Center",
+    "name:th": "ศูนย์การเรียนรู้กระทรวงศึกษาธิการ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1209280473,
+  "center": {
+    "lat": 13.7308432,
+    "lon": 100.4635089
+  },
+  "tags": {
+    "building": "yes",
+    "name": "บ้านพึ่งศิลป์คลองบางหลวง",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1210022607,
+  "center": {
+    "lat": 13.7891876,
+    "lon": 100.4706436
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "ช่างชุ่ย",
+    "name:en": "Chang Chui Market",
+    "name:th": "ช่างชุ่ย",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1219293346,
+  "center": {
+    "lat": 13.7179603,
+    "lon": 100.5388803
+  },
+  "tags": {
+    "addr:housenumber": "588",
+    "addr:street": "ซอยสวนพลู 3",
+    "amenity": "arts_centre",
+    "landuse": "commercial",
+    "name": "SOI SA:M",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1220299929,
+  "center": {
+    "lat": 13.7206125,
+    "lon": 100.5376232
+  },
+  "tags": {
+    "addr:district": "สาทร",
+    "addr:housenumber": "182",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนสวนพลู",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "building": "commercial",
+    "building:levels": "3",
+    "name": "L'Envol",
+    "name:en": "L'Envol",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1220585394,
+  "center": {
+    "lat": 13.7369824,
+    "lon": 100.5621519
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "ซอยคาวบอย",
+    "name:en": "Soi Cowboy",
+    "name:ja": "ソイ カウボーイ",
+    "name:th": "ซอยคาวบอย",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1220596424,
+  "center": {
+    "lat": 13.7236245,
+    "lon": 100.5445576
+  },
+  "tags": {
+    "addr:district": "สาทร",
+    "addr:housenumber": "13/3",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยสาทร 1",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/bangkokcitycity",
+    "email": "info@bangkokcitycity.com",
+    "name": "Bangkok City City Gallery",
+    "name:en": "Bangkok City City Gallery",
+    "name:th": "บางกอก ซิตี้ซิตี้ แกลเลอรี่",
+    "phone": "+6683 087 2725",
+    "tourism": "gallery",
+    "website": "https://bangkokcitycity.com"
+  }
+},
+{
+  "type": "way",
+  "id": 1220700329,
+  "center": {
+    "lat": 13.7339902,
+    "lon": 100.5265033
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:housenumber": "1517",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระรามที่ 4",
+    "addr:subdistrict": "วังใหม่",
+    "building": "yes",
+    "building:levels": "3",
+    "contact:facebook": "https://www.facebook.com/rawroombkk",
+    "email": "rawroom.bkk@gmail.com",
+    "height": "8",
+    "name": "Rawroom",
+    "name:en": "Rawroom",
+    "phone": "+6685 144 9171",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1222569935,
+  "center": {
+    "lat": 13.7073849,
+    "lon": 100.5470984
+  },
+  "tags": {
+    "addr:district": "ยานนาวา",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ช่องนนทรี",
+    "building": "school",
+    "name": "พิพิธภัณฑ์คงเที่ยง",
+    "name:en": "Kong Thiang Museum",
+    "name:th": "พิพิธภัณฑ์คงเที่ยง",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1227050715,
+  "center": {
+    "lat": 13.7212563,
+    "lon": 100.4711118
+  },
+  "tags": {
+    "alt_name:en": "Big Buddha",
+    "building": "yes",
+    "historic": "monument",
+    "name": "พระพุทธธรรมกายเทพมงคล",
+    "name:en": "Phra Buddha Dhammakāya Thepmongkhon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1228611155,
+  "center": {
+    "lat": 13.7210873,
+    "lon": 100.5186035
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:district:en": "Bang Rak",
+    "addr:district:th": "บางรัก",
+    "addr:housenumber": "19",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยสีลม 21",
+    "addr:subdistrict": "สีลม",
+    "building": "yes",
+    "building:levels": "2",
+    "email": "Number1gallery@gmail.com",
+    "name": "Number 1 Gallery",
+    "name:en": "Number 1 Gallery",
+    "opening_hours": "Mo-Sa 11:00-19:00",
+    "phone": "+6683 445 8333",
+    "start_date": "2006-11-01",
+    "tourism": "gallery",
+    "website": "http://www.number1gallery.com"
+  }
+},
+{
+  "type": "way",
+  "id": 1231343547,
+  "center": {
+    "lat": 13.7278174,
+    "lon": 100.5393976
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:district:en": "Bang Rak",
+    "addr:district:th": "บางรัก",
+    "addr:housenumber": "960",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนพระรามที่ 4",
+    "addr:subdistrict": "สีลม",
+    "building": "house",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "บ้านอับดุลราฮิม",
+    "name:th": "บ้านอับดุลราฮิม",
+    "tourism": "museum",
+    "wikidata": "Q13016480",
+    "wikipedia": "th:บ้านอับดุลราฮิม"
+  }
+},
+{
+  "type": "way",
+  "id": 1232451911,
+  "center": {
+    "lat": 13.7247254,
+    "lon": 100.5157828
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บางรัก",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "บ้านเขียวอันยุมัน",
+    "name:en": "Anjuman Green House",
+    "name:th": "บ้านเขียวอันยุมัน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1232616670,
+  "center": {
+    "lat": 13.7492315,
+    "lon": 100.5312318
+  },
+  "tags": {
+    "alt_name": "สะพานหัวช้าง",
+    "alt_name:en": "Hua Chang Bridge",
+    "alt_name:th": "สะพานหัวช้าง",
+    "bridge:structure": "beam",
+    "layer": "1",
+    "man_made": "bridge",
+    "name": "สะพานเฉลิมหล้า 56",
+    "name:en": "Chaloem La 56 Bridge",
+    "name:th": "สะพานเฉลิมหล้า 56",
+    "tourism": "attraction",
+    "wikidata": "Q13022464",
+    "wikipedia": "th:สะพานเฉลิมหล้า 56"
+  }
+},
+{
+  "type": "way",
+  "id": 1235102218,
+  "center": {
+    "lat": 13.7298039,
+    "lon": 100.5155540
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:housenumber": "1086/4",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนเจริญกรุง",
+    "addr:subdistrict": "บางรัก",
+    "building": "commercial",
+    "building:levels": "3",
+    "name": "เจ้าพระยา",
+    "name:en": "Chaopraya",
+    "name:th": "เจ้าพระยา",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1236166436,
+  "center": {
+    "lat": 13.7233231,
+    "lon": 100.5166661
+  },
+  "tags": {
+    "addr:district": "บางรัก",
+    "addr:housenumber": "1277;1279",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ถนนเจริญกรุง",
+    "addr:subdistrict": "สุริยวงศ์",
+    "building": "commercial",
+    "building:levels": "4",
+    "name": "Lek Gallery",
+    "name:en": "Lek Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1238480297,
+  "center": {
+    "lat": 13.7533102,
+    "lon": 100.4983615
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ศาลเจ้าพ่อเสือ",
+    "building": "yes",
+    "historic": "city_gate",
+    "name": "ซุ้มประตูแพร่งสรรพศาสตร์",
+    "name:en": "The gate of Phraeng Sapphasat",
+    "name:th": "ซุ้มประตูแพร่งสรรพศาสตร์",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1255671352,
+  "center": {
+    "lat": 13.7445971,
+    "lon": 100.4956424
+  },
+  "tags": {
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "building": "yes",
+    "name": "พิพิธภัณฑ์กรมที่ดิน",
+    "name:en": "Department of Lands Museum",
+    "name:th": "พิพิธภัณฑ์กรมที่ดิน",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1263652598,
+  "center": {
+    "lat": 13.7773526,
+    "lon": 100.5115359
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์หนังสือพิมพ์ไทย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1294703709,
+  "center": {
+    "lat": 13.7637572,
+    "lon": 100.4963944
+  },
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/pipitbanglamphu/",
+    "description": "พิพิธบางลำพูเป็นแหล่งท่องเที่ยวบริเวณเกาะรัตนโกสินทร์ และศูนย์การเรียนรู้เชิงการศึกษาวัฒนธรรมชุมชน เป็นพิพิธภัณฑ์สมัยใหม่ซึ่งประยุกต์การ แสดงวัตถุและการเล่าเรื่องเชิงประวัติศาสตร์เข้ากับการแสดงวิถีชุมชนบางลำพูเดิมอย่างน่าสนใจ",
+    "email": "pipitbanglamphu@hotmail.com",
+    "fee": "yes",
+    "landuse": "recreation_ground",
+    "museum": "history",
+    "name": "พิพิธบางลำพู",
+    "name:en": "Pipit Banglamphu History Museum",
+    "name:th": "พิพิธบางลำพู",
+    "phone": "+662281-9828",
+    "tourism": "museum",
+    "website": "http://banglamphumuseum.treasury.go.th"
+  }
+},
+{
+  "type": "way",
+  "id": 1305800722,
+  "center": {
+    "lat": 13.7392460,
+    "lon": 100.5117111
+  },
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "name": "ถนนเยาวราช",
+    "name:en": "Yaowarat Road",
+    "name:etymology:wikidata": "Q6636215",
+    "name:ja": "ヨーワラート通り",
+    "name:th": "ถนนเยาวราช",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "tourism": "attraction",
+    "wikidata": "Q1518029",
+    "wikipedia": "th:ถนนเยาวราช"
+  }
+},
+{
+  "type": "way",
+  "id": 1331925686,
+  "center": {
+    "lat": 13.7669220,
+    "lon": 100.5753311
+  },
+  "tags": {
+    "building": "yes",
+    "name": "หอศิลป์แห่งชาติ",
+    "name:en": "National Art Gallery",
+    "name:th": "หอศิลป์แห่งชาติ",
+    "operator": "กระทรวงวัฒนธรรม",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1333746826,
+  "center": {
+    "lat": 13.7366507,
+    "lon": 100.5509173
+  },
+  "tags": {
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ลุมพินี",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "คาฬวิท",
+    "name:en": "Kalwit",
+    "name:th": "คาฬวิท",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1343480426,
+  "center": {
+    "lat": 13.8057899,
+    "lon": 100.5515120
+  },
+  "tags": {
+    "alt_name": "หอดูนก",
+    "alt_name:th": "หอดูนก",
+    "building": "yes",
+    "leisure": "bird_hide",
+    "name": "หอชมนก",
+    "name:en": "Birdwatching tower",
+    "name:th": "หอชมนก",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364029936,
+  "center": {
+    "lat": 13.8697029,
+    "lon": 100.4939835
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "name": "ตลาดนกฮูก",
+    "name:en": "The Owl Market",
+    "name:th": "ตลาดนกฮูก",
+    "name:th-Latn": "Talad Nokhook",
+    "opening_hours": "Mo-Su 17:00-00:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1365786068,
+  "center": {
+    "lat": 13.7265979,
+    "lon": 100.5458104
+  },
+  "tags": {
+    "building": "yes",
+    "museum": "history",
+    "name": "เดอะไวร์เลสเฮาส์",
+    "name:en": "The Wireless House",
+    "name:th": "เดอะไวร์เลสเฮาส์",
+    "start_date": "2025-01-13",
+    "tourism": "museum",
+    "wikidata": "Q131763265",
+    "wikipedia": "th:เดอะ ไวร์เลส เฮาส์"
+  }
+},
+{
+  "type": "way",
+  "id": 1371677911,
+  "center": {
+    "lat": 13.7667701,
+    "lon": 100.5131925
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์พระอนุสรณ์ อ.ป.ก.",
+    "name:en": "A.P.K. Memorial Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1371680505,
+  "center": {
+    "lat": 13.7535366,
+    "lon": 100.5071151
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "layer": "-1",
+    "location": "underground",
+    "name:en": "Bamiyan Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1373257203,
+  "center": {
+    "lat": 13.7952449,
+    "lon": 100.5276427
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์ทหารสรรพาวุธ",
+    "name:en": "Royal Thai Army Ordnance Museum",
+    "name:th": "พิพิธภัณฑ์ทหารสรรพาวุธ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1373388545,
+  "center": {
+    "lat": 13.7918358,
+    "lon": 100.5263135
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์ทหารสื่อสาร",
+    "name:th": "พิพิธภัณฑ์ทหารสื่อสาร",
+    "tourism": "museum",
+    "website": "https://signal.rta.mi.th/web/newweb/his.php#pipittapan"
+  }
+},
+{
+  "type": "way",
+  "id": 1374667393,
+  "center": {
+    "lat": 13.7823270,
+    "lon": 100.5398492
+  },
+  "tags": {
+    "addr:district": "พญาไท",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พญาไท",
+    "building": "yes",
+    "name": "พิพิธภัณฑ์การกระจายเสียงและหอจดหมายเหตุ กรมประชาสัมพันธ์",
+    "name:th": "พิพิธภัณฑ์การกระจายเสียงและหอจดหมายเหตุ กรมประชาสัมพันธ์",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1414871967,
+  "center": {
+    "lat": 13.7129141,
+    "lon": 100.6113188
+  },
+  "tags": {
+    "alt_name": "Little Zoo Cafe Capybara Cafe",
+    "alt_name:en": "Little Zoo Garden Capybara Cafe",
+    "facebook": "littlezoocafe",
+    "name": "Little Zoo Garden Capybara Cafe",
+    "tourism": "zoo",
+    "zoo": "petting_zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 1434802191,
+  "center": {
+    "lat": 13.7558915,
+    "lon": 100.5038318
+  },
+  "tags": {
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "building": "commercial",
+    "building:levels": "4",
+    "name": "นิทรรศน์รัตนโกสินทร์",
+    "name:en": "Rattanakosin Exhibition Hall",
+    "name:th": "นิทรรศน์รัตนโกสินทร์",
+    "source": "bing;sign",
+    "tourism": "museum",
+    "website": "https://www.nitasrattanakosin.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 1459510108,
+  "center": {
+    "lat": 13.8474032,
+    "lon": 100.5193479
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์โรงพยาบาลศรีธัญญา",
+    "name:th": "พิพิธภัณฑ์โรงพยาบาลศรีธัญญา",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1467232352,
+  "center": {
+    "lat": 13.7394088,
+    "lon": 100.4930491
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์บ้านกุฎีจีน",
+    "name:en": "Baan Kudichin Museum",
+    "name:th": "พิพิธภัณฑ์บ้านกุฎีจีน",
+    "tourism": "museum",
+    "wikidata": "Q73545513"
+  }
+},
+{
+  "type": "way",
+  "id": 1485366495,
+  "center": {
+    "lat": 13.7414079,
+    "lon": 100.4996098
+  },
+  "tags": {
+    "building": "yes",
+    "name": "พิพิธภัณฑ์การไฟฟ้าไทย",
+    "name:en": "MEA Spark",
+    "name:th": "พิพิธภัณฑ์การไฟฟ้าไทย",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 4051990,
+  "center": {
+    "lat": 13.7556312,
+    "lon": 100.4851828
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "ตลาดวังหลัง",
+    "name:en": "Wang lang market",
+    "name:th": "ตลาดวังหลัง",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wikidata": "Q55637381",
+    "wikimedia_commons": "Category:Wang Lang Market",
+    "wikipedia": "en:Wang Lang Market"
+  }
+},
+{
+  "type": "relation",
+  "id": 11169995,
+  "center": {
+    "lat": 13.7457914,
+    "lon": 100.4927818
+  },
+  "tags": {
+    "addr:city": "กรุงเทพมหานคร",
+    "addr:country": "TH",
+    "alt_name:de": "Tempel des liegenden Buddha",
+    "alt_name:en": "Temple of the Reclining Buddha",
+    "alt_name:ja": "ワット・ポー",
+    "alt_name:ru": "Храм лежащего Будды",
+    "alt_name:zh": "臥佛寺",
+    "alt_name_1:ja": "涅槃寺",
+    "amenity": "place_of_worship",
+    "barrier": "wall",
+    "denomination": "thai_mahanikaya",
+    "email": "watpho.th@gmail.com",
+    "is_in:city": "Bangkok",
+    "is_in:country": "Thailand",
+    "is_in:iso_3166_2": "TH-10",
+    "loc_name": "วัดโพธิ์",
+    "loc_name:en": "Wat Pho",
+    "loc_name:es": "Wat Pho",
+    "loc_name:fr": "Wat Pho",
+    "name": "วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร",
+    "name:en": "Wat Phra Chettuphon Wimon Mangkhalaram Ratchaworamahawihan",
+    "name:es": "Wat Phra Chettuphon Wimon Mangkhalaram Ratchaworamahawihan",
+    "name:fr": "Wat Phra Chettuphon Wimon Mangkhalaram Ratchaworamahawihan",
+    "name:ja": "ワット・プラチェートゥポンウィモンマンカラーラーム",
+    "name:ko": "왓 포",
+    "name:pl": "Świątynia Leżącego Buddy",
+    "name:ru": "Ват По",
+    "name:th": "วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร",
+    "name:tr": "Pho Tapınağı",
+    "name:vi": "Wat Pho",
+    "name:zh": "帕徹獨彭大寺院",
+    "opening_hours": "08:00-18:30",
+    "religion": "buddhist",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "https://www.watpho.com",
+    "wheelchair": "limited",
+    "wikidata": "Q1059910",
+    "wikipedia": "th:วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร",
+    "wikipedia:en": "Wat Pho"
+  }
+},
+{
+  "type": "relation",
+  "id": 15628414,
+  "center": {
+    "lat": 13.7266432,
+    "lon": 100.5562857
+  },
+  "tags": {
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "building": "yes",
+    "building:material": "brick",
+    "museum": "nature",
+    "name": "พิพิธภัณฑ์ สวนป่าเบญจกิติ",
+    "name:en": "Benjakitti Park Museum",
+    "name:th": "พิพิธภัณฑ์ สวนป่าเบญจกิติ",
+    "roof:colour": "#82a8a6",
+    "roof:material": "metal",
+    "roof:shape": "sawtooth",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20159195,
+  "center": {
+    "lat": 13.7122213,
+    "lon": 100.5797412
+  },
+  "tags": {
+    "addr:district": "คลองเตย",
+    "addr:housenumber": "111",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:street": "ซอยบ้านกล้วย",
+    "addr:subdistrict": "พระขโนง",
+    "building": "yes",
+    "building:colour": "lightgrey",
+    "building:material": "concrete",
+    "contact:website": "https://dibbangkok.org",
+    "fee": "yes",
+    "museum": "art",
+    "name": "ดิบ บางกอก",
+    "name:en": "Dib International Contemporary Art Museum",
+    "name:ru": "Диб Международный музей современного искусства",
+    "name:th": "ดิบ บางกอก",
+    "opening_hours": "Mo-Su 10:00-19:00; Tu off; We off",
+    "start_date": "2025-12-21",
+    "tourism": "gallery",
+    "type": "multipolygon",
+    "wikidata": "Q134376253",
+    "wikipedia": "th:ดิบ บางกอก"
+  }
+}
+
+  ]
+}

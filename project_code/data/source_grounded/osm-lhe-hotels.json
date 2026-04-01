@@ -1,0 +1,1594 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:29:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1305478201,
+  "lat": 31.4739223,
+  "lon": 74.3566633,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Khayaban e Iqbal",
+    "name": "Marvel Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3272961299,
+  "lat": 31.5142951,
+  "lon": 74.3489994,
+  "tags": {
+    "addr:city": "لاہور",
+    "addr:housenumber": "43-1",
+    "addr:postcode": "54000",
+    "name": "رویاٹ لگژری ہوٹل",
+    "name:en": "Royaute Luxury Hotel",
+    "name:fr": "Hôtel de luxe Royaute",
+    "name:pa": "ਰੋਯਾਟ ਲਗਜ਼ਰੀ ਹੋਟਲ",
+    "name:ur": "رویاٹ لگژری ہوٹل",
+    "phone": "+92-42-35786001, +92-42-35786002",
+    "tourism": "hotel",
+    "website": "https://royauteluxury.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3870712853,
+  "lat": 31.4727063,
+  "lon": 74.2587096,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Expo Centre Road",
+    "name": "Hotel Royal Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4178731089,
+  "lat": 31.5641704,
+  "lon": 74.2955872,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4238888690,
+  "lat": 31.5203879,
+  "lon": 74.3248108,
+  "tags": {
+    "addr:street": "Wahdat Road",
+    "name": "City Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4238954189,
+  "lat": 31.5205231,
+  "lon": 74.3248474,
+  "tags": {
+    "addr:street": "Wahdat Road",
+    "name": "City Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4303592393,
+  "lat": 31.4592669,
+  "lon": 74.2855187,
+  "tags": {
+    "addr:street": "Johar Town",
+    "name": "Empire Marqee",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4310818403,
+  "lat": 31.5030271,
+  "lon": 74.3569873,
+  "tags": {
+    "name": "Savoey Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4322685993,
+  "lat": 31.5488271,
+  "lon": 74.3286984,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Lawrence Road",
+    "name": "Lawrence view Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4336561093,
+  "lat": 31.5743553,
+  "lon": 74.3088403,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Chatterjee Rd",
+    "internet_access": "wlan",
+    "name": "Hotel One",
+    "opening_hours": "24/7",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4396285396,
+  "lat": 31.4693234,
+  "lon": 74.2511194,
+  "tags": {
+    "addr:housenumber": "91K",
+    "addr:street": "Fadime Road",
+    "name": "Johar town",
+    "name:en": "Johar town",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4420439691,
+  "lat": 31.5693417,
+  "lon": 74.3285979,
+  "tags": {
+    "name": "Shifa Hotel",
+    "name:en": "Shifa Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4559353390,
+  "lat": 31.5662382,
+  "lon": 74.3092015,
+  "tags": {
+    "name": "sunset",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4590850691,
+  "lat": 31.4864188,
+  "lon": 74.4113848,
+  "tags": {
+    "name": "Shanghala Hotel",
+    "name:en": "Shanghala Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4621555190,
+  "lat": 31.5765373,
+  "lon": 74.3335823,
+  "tags": {
+    "name": "Al Munawar Hotel",
+    "name:en": "Al munawar hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4693842392,
+  "lat": 31.4485508,
+  "lon": 74.2683750,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Continental 15$",
+    "name:en": "Continental 15$",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4832931222,
+  "lat": 31.5613895,
+  "lon": 74.2921993,
+  "tags": {
+    "addr:street": "Sanda Rd",
+    "name": "Diomand Marriage Hall",
+    "name:en": "Diomand Marriage Hall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4912291821,
+  "lat": 31.6013892,
+  "lon": 74.2996608,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Grand Trunk Road",
+    "name": "Naeem Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4912291825,
+  "lat": 31.6000990,
+  "lon": 74.2972259,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Service Road",
+    "name": "Ahmad Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4912291891,
+  "lat": 31.5799644,
+  "lon": 74.3059384,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Data Darbar Road",
+    "name": "Data Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4914581268,
+  "lat": 31.5798607,
+  "lon": 74.3263641,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Circular Road",
+    "name": "Khyber Hotel/Afridi Younas",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4916250308,
+  "lat": 31.4830768,
+  "lon": 74.3297779,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Circular Road",
+    "name": "Ghareeb Nawaz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4916641140,
+  "lat": 31.4856899,
+  "lon": 74.3056610,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Abdul Hassan Isfahani Road",
+    "name": "Lotus Hotel and Cafe Zain",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5251520099,
+  "lat": 31.5091308,
+  "lon": 74.3491662,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "MM Alam Road",
+    "name": "Chancery",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5252199935,
+  "lat": 31.5176188,
+  "lon": 74.3531573,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "MM Alam Road",
+    "name": "Hotel Tulip Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5265469460,
+  "lat": 31.5510549,
+  "lon": 74.3572306,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "UBD Canal Bank Road;Tokhar - M2 Link",
+    "name": "Crown Hotel",
+    "smoking": "outside",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5271802176,
+  "lat": 31.5074322,
+  "lon": 74.3545276,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Mian Mehmood Ali Road",
+    "name": "Hotel One",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5271810945,
+  "lat": 31.5068605,
+  "lon": 74.3559680,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Mian Mehmood Ali Road",
+    "name": "The Nishat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273489538,
+  "lat": 31.5395636,
+  "lon": 74.3506550,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Zafar Ali Road",
+    "name": "The Residency Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273489539,
+  "lat": 31.5652263,
+  "lon": 74.3043567,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Lower Mall",
+    "name": "Amer Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273489541,
+  "lat": 31.4869429,
+  "lon": 74.3815819,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Khyaban e Jinnah",
+    "name": "Heaven Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273504515,
+  "lat": 31.5453012,
+  "lon": 74.3314935,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Shahrah Aiwan-e-Sanat-o-Tijarat",
+    "name": "Herfa Inn Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273504516,
+  "lat": 31.5120844,
+  "lon": 74.3435450,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Sir Syed Road",
+    "name": "Sunfort Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273518619,
+  "lat": 31.5118740,
+  "lon": 74.3438320,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Sir Syed Road",
+    "name": "Best Western",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273518620,
+  "lat": 31.5760522,
+  "lon": 74.3338712,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "McLoad Road",
+    "name": "Parkway Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273537821,
+  "lat": 31.5763014,
+  "lon": 74.3339983,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "McLoad Road",
+    "name": "Kamran Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273537822,
+  "lat": 31.5765985,
+  "lon": 74.3340278,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "McLoad Road",
+    "name": "Metro Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273537823,
+  "lat": 31.5755395,
+  "lon": 74.3338437,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "McLoad Road",
+    "name": "Clifton Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273537825,
+  "lat": 31.5757667,
+  "lon": 74.3340305,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Brandreth Road",
+    "name": "Al Imran Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273537826,
+  "lat": 31.5756890,
+  "lon": 74.3345320,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Brandreth Road",
+    "name": "Hotel Night Stay",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273541662,
+  "lat": 31.5099761,
+  "lon": 74.3429681,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Noor Jahan Road",
+    "name": "Smart Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273541663,
+  "lat": 31.5615014,
+  "lon": 74.3147352,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Fane Road",
+    "name": "Best Western Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273551746,
+  "lat": 31.5420175,
+  "lon": 74.3182365,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ferozepur Road",
+    "name": "Quick continental Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273551747,
+  "lat": 31.5585729,
+  "lon": 74.3386768,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Davis Road",
+    "name": "Hotel Pak Heritage",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273572701,
+  "lat": 31.5014694,
+  "lon": 74.3638099,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ali Zeb Road",
+    "name": "Lahore Continental Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273572702,
+  "lat": 31.4985373,
+  "lon": 74.3263396,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Grd T Mdl T Road",
+    "name": "Hotel Corporate Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273572703,
+  "lat": 31.4964493,
+  "lon": 74.4187618,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Airport Ghazi Rd",
+    "name": "Grand Enclave Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273617267,
+  "lat": 31.4993521,
+  "lon": 74.4212805,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Airport Road",
+    "name": "Metro Crown Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273617268,
+  "lat": 31.4994069,
+  "lon": 74.4211356,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Airport Road",
+    "name": "Luxury Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273617269,
+  "lat": 31.4993223,
+  "lon": 74.4214816,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Airport Road",
+    "name": "Hotel Greenfields",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273631735,
+  "lat": 31.5612513,
+  "lon": 74.3280073,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Egerton Road",
+    "name": "Hotel Falettis",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273631736,
+  "lat": 31.4659167,
+  "lon": 74.3106494,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Maulana Shaukat Ali Road",
+    "name": "Safari Hotel Township",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5273690067,
+  "lat": 31.5302378,
+  "lon": 74.3566111,
+  "tags": {
+    "addr:city": "لاہور",
+    "addr:street": "جیل روڈ",
+    "name": "ریجنسی ان ہوٹل",
+    "name:en": "Regency Inn Hotel",
+    "name:ur": "ریجنسی ان ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276896856,
+  "lat": 31.5668845,
+  "lon": 74.3256954,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Abbot Road",
+    "name": "Hotel Sanai",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276896858,
+  "lat": 31.5659820,
+  "lon": 74.3071207,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Nabha Rd",
+    "name": "Hotel Anarkali Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276896860,
+  "lat": 31.5035772,
+  "lon": 74.3494238,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "MM Alam Road",
+    "name": "Park Lane Hotel",
+    "phone": "+9242111111124",
+    "tourism": "hotel",
+    "website": "https://www.parklanehotel.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934824,
+  "lat": 31.5117151,
+  "lon": 74.3548431,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Tipu Road",
+    "name": "Safari Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934825,
+  "lat": 31.5407491,
+  "lon": 74.3562011,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Zafar Ali Road",
+    "name": "Safari Hotel",
+    "operator": "Safari Hotel Upper Mall Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934826,
+  "lat": 31.5359423,
+  "lon": 74.3398596,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Jail Road",
+    "name": "Safari Hotel Jail Road",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934829,
+  "lat": 31.4667736,
+  "lon": 74.2521329,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Kyhaban-e-Nazaria-e-Pakistan",
+    "name": "Safari Hotel Johar Town",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934830,
+  "lat": 31.5167341,
+  "lon": 74.3311358,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ferozepur Road",
+    "name": "Lion Hotel Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934833,
+  "lat": 31.4685072,
+  "lon": 74.2977920,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Khyaban e Fardosi",
+    "name": "New Pakeeza Hotel",
+    "phone": "03246023456",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5276934834,
+  "lat": 31.5026092,
+  "lon": 74.3497670,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ali Zaib Road",
+    "name": "Hotel 12J",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5277138885,
+  "lat": 31.5375559,
+  "lon": 74.3484431,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Zafar Ali Road",
+    "name": "Royal Elegance",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5277167705,
+  "lat": 31.5618217,
+  "lon": 74.3217598,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Mall Road",
+    "name": "Panoramic Hotel Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5277167707,
+  "lat": 31.5091582,
+  "lon": 74.3459147,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Dopatta Gali",
+    "name": "Maisonette Hotel Liberty",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5277167708,
+  "lat": 31.5189823,
+  "lon": 74.3463812,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Main Boulevard Gulberg",
+    "name": "Hotel 7 Days",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5279433229,
+  "lat": 31.5235059,
+  "lon": 74.3459822,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:country": "PK",
+    "addr:street": "Hali Road",
+    "name": "Gulberg View Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5380399676,
+  "lat": 31.5193855,
+  "lon": 74.3553240,
+  "tags": {
+    "addr:city": "لاہور",
+    "addr:housenumber": "13-7",
+    "internet_access": "yes",
+    "name": "گرین فورٹ ہوٹل",
+    "name:en": "Green Fort Hotel",
+    "name:ur": "گرین فورٹ ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6253593492,
+  "lat": 31.4594119,
+  "lon": 74.2869844,
+  "tags": {
+    "name": "Royal Fort Marquees by Mughal-e-Azam",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6646075698,
+  "lat": 31.5656222,
+  "lon": 74.3272441,
+  "tags": {
+    "name": "Al Safina",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7244239485,
+  "lat": 31.5670011,
+  "lon": 74.3412885,
+  "tags": {
+    "addr:street": "Garhi Shahu Road",
+    "name": "Khalifa Baloch Sajji",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8377629298,
+  "lat": 31.5490200,
+  "lon": 74.3286542,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "R54/S51",
+    "addr:postcode": "54000",
+    "addr:street": "Lawrence Road",
+    "air_conditioning": "yes",
+    "bar": "yes",
+    "brand": "International",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Saffron D'or Hotel",
+    "rooms": "49",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8398960897,
+  "lat": 31.5654996,
+  "lon": 74.3293405,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "13",
+    "addr:street": "Abbott Road",
+    "name": "Hotel Marcopolo",
+    "phone": "+924236366225",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8401592464,
+  "lat": 31.5747274,
+  "lon": 74.3332811,
+  "tags": {
+    "name": "Grand Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8413357363,
+  "lat": 31.5771207,
+  "lon": 74.3339728,
+  "tags": {
+    "name": "Royal Hotel",
+    "phone": "+924237657763",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8413357364,
+  "lat": 31.5771935,
+  "lon": 74.3339289,
+  "tags": {
+    "name": "Karachi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8413357366,
+  "lat": 31.5771712,
+  "lon": 74.3341283,
+  "tags": {
+    "name": "Nasheman Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8413357368,
+  "lat": 31.5773224,
+  "lon": 74.3341146,
+  "tags": {
+    "name": "Ali Umar Hotel & Restaurant",
+    "phone": "+923334278486",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8413357369,
+  "lat": 31.5770670,
+  "lon": 74.3339113,
+  "tags": {
+    "name": "Pakistan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8507534338,
+  "lat": 31.5099077,
+  "lon": 74.3386218,
+  "tags": {
+    "addr:city": "لاہور",
+    "addr:housenumber": "18-B",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10064128561,
+  "lat": 31.5258424,
+  "lon": 74.3477883,
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "43-A/C, G-Block",
+    "addr:street": "Gulberg II",
+    "email": "cityviewhotelone@gmail.com",
+    "internet_access": "wlan",
+    "name": "City View Hotel",
+    "phone": "042-35711110",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10686729002,
+  "lat": 31.5428729,
+  "lon": 74.3139824,
+  "tags": {
+    "name": "King's Palace Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10813872519,
+  "lat": 31.5126307,
+  "lon": 74.3552888,
+  "tags": {
+    "air_conditioning": "yes",
+    "check_date": "2023-04-15",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Park View Hotel",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "reservation": "yes",
+    "tourism": "hotel",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11223048610,
+  "lat": 31.5105883,
+  "lon": 74.3066694,
+  "tags": {
+    "name": "Green View Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11927568069,
+  "lat": 31.4806602,
+  "lon": 74.2999630,
+  "tags": {
+    "name": "Hotel Rose One Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12171134747,
+  "lat": 31.4914704,
+  "lon": 74.4165115,
+  "tags": {
+    "name": "Family Ties",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12183323155,
+  "lat": 31.4914704,
+  "lon": 74.4165115,
+  "tags": {
+    "name": "Family ties hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12442461778,
+  "lat": 31.5032706,
+  "lon": 74.3493724,
+  "tags": {
+    "name": "Best Western Premier Hotel Gulberg Lahore",
+    "phone": "+924238028888",
+    "tourism": "hotel",
+    "website": "https://bestwesternpremierlahore.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12606279799,
+  "lat": 31.5649629,
+  "lon": 74.3109149,
+  "tags": {
+    "name": "Hotel Tourist Inn Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12719981501,
+  "lat": 31.4656505,
+  "lon": 74.2534761,
+  "tags": {
+    "addr:street": "Nazaria-e-Pakistan Avenue",
+    "internet_access": "wlan",
+    "name": "The Rich Apartments and Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12730371279,
+  "lat": 31.5337228,
+  "lon": 74.2823825,
+  "tags": {
+    "brand": "Taj",
+    "brand:wikidata": "Q1521893",
+    "name": "Taj",
+    "official_name": "Taj Hotels",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 232165778,
+  "center": {
+    "lat": 31.5411136,
+    "lon": 74.4224642
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Amjad Chaudary Road",
+    "building": "yes",
+    "height": "20",
+    "name": "Serina Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 234109905,
+  "center": {
+    "lat": 31.5591328,
+    "lon": 74.3273212
+  },
+  "tags": {
+    "addr:housenumber": "84",
+    "addr:street": "Mall Road مال روڈ",
+    "building": "yes",
+    "internet_access": "yes",
+    "name": "Avari Hotel",
+    "phone": "+924236366366",
+    "tourism": "hotel",
+    "website": "https://www.avarilahore.com/1"
+  }
+},
+{
+  "type": "way",
+  "id": 234109910,
+  "center": {
+    "lat": 31.5615516,
+    "lon": 74.3298011
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "25",
+    "addr:street": "Egerton Road",
+    "brand": "Four Points by Sheraton",
+    "brand:wikidata": "Q1439966",
+    "brand:wikipedia": "en:Four Points by Sheraton",
+    "building": "yes",
+    "name": "Four Points by Sheraton",
+    "phone": "+924236310077",
+    "short_name": "Four Points",
+    "tourism": "hotel",
+    "website": "https://www.marriott.com/hotels/travel/lhefp-four-points-lahore/"
+  }
+},
+{
+  "type": "way",
+  "id": 234411558,
+  "center": {
+    "lat": 31.5522711,
+    "lon": 74.3381355
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Pearl Continental Hotel",
+    "phone": "+9242111505505",
+    "tourism": "hotel",
+    "website": "https://www.pchotels.com/PCHL/"
+  }
+},
+{
+  "type": "way",
+  "id": 542236733,
+  "center": {
+    "lat": 31.4964873,
+    "lon": 74.4187737
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54000",
+    "building": "yes",
+    "ele": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 542242272,
+  "center": {
+    "lat": 31.4914360,
+    "lon": 74.4307939
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54000",
+    "addr:street": "Service Road",
+    "building": "yes",
+    "ele": "2",
+    "name": "Grand Hotel, Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 544743984,
+  "center": {
+    "lat": 31.5014295,
+    "lon": 74.3615215
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54000",
+    "building": "yes",
+    "ele": "2",
+    "name": "Express Hotel Lahore",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 544744011,
+  "center": {
+    "lat": 31.5013913,
+    "lon": 74.3627280
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54000",
+    "building": "yes",
+    "level": "2",
+    "name": "British Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 544744053,
+  "center": {
+    "lat": 31.5013646,
+    "lon": 74.3640029
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:postcode": "54000",
+    "building": "yes",
+    "level": "1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 611953494,
+  "center": {
+    "lat": 31.5614714,
+    "lon": 74.3281755
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "24",
+    "addr:street": "Egerton Road",
+    "building": "yes",
+    "internet_access": "yes",
+    "name": "Faletti's Hotel",
+    "phone": "+9242111444333",
+    "tourism": "hotel",
+    "website": "https://falettishotel.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 611958740,
+  "center": {
+    "lat": 31.5699209,
+    "lon": 74.3349973
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Carlton Tower Hotel",
+    "phone": "+923330130766",
+    "tourism": "hotel",
+    "website": "https://carltontowerhotel.net/"
+  }
+},
+{
+  "type": "way",
+  "id": 617293252,
+  "center": {
+    "lat": 31.5612681,
+    "lon": 74.3379030
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Ambassador Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 617293254,
+  "center": {
+    "lat": 31.5606678,
+    "lon": 74.3382895
+  },
+  "tags": {
+    "building": "yes",
+    "check_date": "2024-07-31",
+    "name": "Grand Millenium Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 620967555,
+  "center": {
+    "lat": 31.5611041,
+    "lon": 74.3225866
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Indus Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 688586849,
+  "center": {
+    "lat": 31.5083394,
+    "lon": 74.4429061
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "building": "yes",
+    "ele": "5",
+    "name": "DHA Palace Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 689587915,
+  "center": {
+    "lat": 31.5291525,
+    "lon": 74.3770171
+  },
+  "tags": {
+    "addr:city": "لاہور",
+    "building": "yes",
+    "name": "امین ہوٹل",
+    "name:en": "Ameen Hotel",
+    "name:ur": "امین ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 706338070,
+  "center": {
+    "lat": 31.6123062,
+    "lon": 74.3396920
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Sadiq Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 706568996,
+  "center": {
+    "lat": 31.4575695,
+    "lon": 74.3505947
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Ferozepur Road",
+    "building": "yes",
+    "ele": "3",
+    "name": "Al-Hafiz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 717519540,
+  "center": {
+    "lat": 31.4739757,
+    "lon": 74.3565820
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Khayaban e Iqbal",
+    "building": "yes",
+    "ele": "5",
+    "name": "Marvel Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 795163252,
+  "center": {
+    "lat": 31.5176344,
+    "lon": 74.3530618
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Hotel Tulip Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 798247397,
+  "center": {
+    "lat": 31.4993402,
+    "lon": 74.4215220
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:street": "Airport Ghazi Road",
+    "building": "yes",
+    "name": "Safari Hotel Airport",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 798247398,
+  "center": {
+    "lat": 31.4994006,
+    "lon": 74.4213117
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "building": "yes",
+    "name": "Metro Crown Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 798247399,
+  "center": {
+    "lat": 31.4994599,
+    "lon": 74.4211675
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "building": "yes",
+    "name": "Luxury Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 799759929,
+  "center": {
+    "lat": 31.5092783,
+    "lon": 74.3481363
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Heritage Luxury Suites",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 800442101,
+  "center": {
+    "lat": 31.4969926,
+    "lon": 74.4066906
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 904379371,
+  "center": {
+    "lat": 31.5619430,
+    "lon": 74.3302734
+  },
+  "tags": {
+    "addr:city": "Lahore",
+    "addr:housenumber": "4",
+    "addr:street": "Egerton Road",
+    "building": "yes",
+    "name": "Luxus Grand Hotel",
+    "phone": "+923201999955",
+    "tourism": "hotel",
+    "website": "https://www.luxusgrand.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 905722927,
+  "center": {
+    "lat": 31.5629202,
+    "lon": 74.3280101
+  },
+  "tags": {
+    "brand": "Ramada",
+    "building": "yes",
+    "name": "Ramada Hotel and Suites",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 905722969,
+  "center": {
+    "lat": 31.5669644,
+    "lon": 74.3263525
+  },
+  "tags": {
+    "building": "yes",
+    "name": "National Hotel",
+    "phone": "+923004670685",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 905722986,
+  "center": {
+    "lat": 31.5700217,
+    "lon": 74.3288609
+  },
+  "tags": {
+    "addr:city": "lahore",
+    "addr:housenumber": "102",
+    "addr:street": "McLeod Road میکلوڈ روڈ",
+    "building": "yes",
+    "name": "Lahore Hotel",
+    "phone": "+923126981987",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 905990563,
+  "center": {
+    "lat": 31.5716586,
+    "lon": 74.3335994
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Shobra Hotel",
+    "phone": "+923138191584",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "relation",
+  "id": 7752067,
+  "center": {
+    "lat": 31.5036445,
+    "lon": 74.4064216
+  },
+  "tags": {
+    "addr:city": "lahore",
+    "addr:postcode": "54000",
+    "addr:street": "Ghaznavi Road",
+    "building": "yes",
+    "ele": "2",
+    "name": "Grand Enclave Hotel",
+    "tourism": "hotel",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

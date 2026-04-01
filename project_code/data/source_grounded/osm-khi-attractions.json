@@ -1,0 +1,1344 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:29:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 933110119,
+  "lat": 24.8712798,
+  "lon": 67.0710927,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Usman Essa Bhai Road",
+    "name": "Fun City - Hill Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 973762028,
+  "lat": 24.8854042,
+  "lon": 67.0746550,
+  "tags": {
+    "name": "Rangoonwala Hall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1428198420,
+  "lat": 24.8750799,
+  "lon": 66.9430803,
+  "tags": {
+    "name": "Mirage Aircraft",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4100708590,
+  "lat": 24.9205207,
+  "lon": 67.0865314,
+  "tags": {
+    "name": "Mochi Mor",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4104061989,
+  "lat": 24.8452382,
+  "lon": 66.9204795,
+  "tags": {
+    "name": "جزیرہ شمس پیر",
+    "name:de": "Insel Shams Pir",
+    "name:en": "Shams Pir Island",
+    "name:es": "Isla Shams Pir",
+    "name:fr": "Ile Shams Pir",
+    "name:pnb": "جزیرہ شمس پیر",
+    "name:sd": "شمس پير ٻيٽ",
+    "name:ur": "جزیرہ شمس پیر",
+    "tourism": "viewpoint",
+    "wikidata": "Q4284313",
+    "wikipedia": "ur:جزیرہ شمس پیر"
+  }
+},
+{
+  "type": "node",
+  "id": 4104062189,
+  "lat": 24.8537641,
+  "lon": 66.9126402,
+  "tags": {
+    "name": "Younusabad",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4351418894,
+  "lat": 24.8444411,
+  "lon": 66.9921908,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Lalzar",
+    "addr:street": "Road Number 1",
+    "name": "Port Grand",
+    "opening_hours": "Mo-Su 17:00-00:05",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4520352190,
+  "lat": 24.8838692,
+  "lon": 67.0937202,
+  "tags": {
+    "name:en": "PN Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4725410093,
+  "lat": 24.8104302,
+  "lon": 67.0291100,
+  "tags": {
+    "name": "Playland amusement park",
+    "name:en": "Playland amusement park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4738187734,
+  "lat": 24.9355323,
+  "lon": 67.0405516,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sher Shah Suri road",
+    "name": "Sindbad-Dolmen Mall Hyderi",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4759902579,
+  "lat": 24.8249878,
+  "lon": 67.0624813,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "DHA Phase 4",
+    "addr:province": "Sindh",
+    "addr:street": "Golf Course Rd 5",
+    "name": "Chunky Monkey Amusement Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4786102926,
+  "lat": 24.7917634,
+  "lon": 67.0637470,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayaban e Shujaat",
+    "name": "Artciti",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4788556565,
+  "lat": 24.8022186,
+  "lon": 67.0303030,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Abdul Sattar Edhi Road",
+    "description": "Dolman Mall Clifton",
+    "name": "Sindbad  - Dolmen Mall Clifton",
+    "opening_hours": "10:00-23:00",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4801878968,
+  "lat": 24.8084240,
+  "lon": 67.0346027,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Firdousi",
+    "name": "Art Scene Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4801878969,
+  "lat": 24.8085457,
+  "lon": 67.0347610,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Firdousi",
+    "name": "Sanat",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4801878972,
+  "lat": 24.8086625,
+  "lon": 67.0318147,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Attar",
+    "name": "Gandhara-Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4801878978,
+  "lat": 24.8075846,
+  "lon": 67.0331981,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "E Street",
+    "artwork_type": "painting",
+    "name": "Canvas Gallery- Clifton 4",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4801878992,
+  "lat": 24.8075168,
+  "lon": 67.0348025,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "E Street",
+    "artwork_type": "painting",
+    "name": "Clifton Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4804188797,
+  "lat": 24.8182501,
+  "lon": 67.0398070,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "9th Commercial Lane",
+    "name": "Thar Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4805954535,
+  "lat": 24.8162473,
+  "lon": 67.0427471,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Zamzama Boulevard",
+    "name": "Grandeur Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4830104221,
+  "lat": 24.9228798,
+  "lon": 67.0785078,
+  "tags": {
+    "name": "Abdullah House",
+    "name:en": "Abdullah House",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4948587021,
+  "lat": 24.8850643,
+  "lon": 67.0905310,
+  "tags": {
+    "addr:street": "Karsaz Service Road",
+    "name": "Submarine",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4948587022,
+  "lat": 24.8852833,
+  "lon": 67.0905479,
+  "tags": {
+    "name": "Midget Submarine",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4948587023,
+  "lat": 24.8869931,
+  "lon": 67.0890607,
+  "tags": {
+    "name": "Pakistan Maritime Museum",
+    "name:en": "museum",
+    "tourism": "attraction",
+    "wikidata": "Q2157417",
+    "wikimedia_commons": "Category:Pakistan Maritime Museum",
+    "wikipedia": "en:Pakistan Maritime Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4948587221,
+  "lat": 24.8861215,
+  "lon": 67.0893907,
+  "tags": {
+    "name": "Aircraft",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4977724022,
+  "lat": 24.8016583,
+  "lon": 67.0726744,
+  "tags": {
+    "addr:country": "PK",
+    "addr:place": "DHA Phase 6",
+    "addr:province": "Sindh",
+    "name": "The Space Institute",
+    "name:en": "The Space Institute",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5085538234,
+  "lat": 24.9150272,
+  "lon": 67.0979743,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Rashid Minhas Service Road",
+    "name": "Sindbad",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5091305058,
+  "lat": 24.9034479,
+  "lon": 67.0772235,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "University Road",
+    "name": "PIA Planetarium",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5128917944,
+  "lat": 24.8528564,
+  "lon": 67.0176726,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:province": "Sindh",
+    "addr:street": "Shahrah e Kamal Ata Turk",
+    "name": "National Museum of Pakistan",
+    "opening_hours": "Th-Tu 10:00-17:00",
+    "tourism": "museum",
+    "wikidata": "Q1967486",
+    "wikimedia_commons": "Category:National Museum of Pakistan",
+    "wikipedia": "en:National Museum of Pakistan"
+  }
+},
+{
+  "type": "node",
+  "id": 5143185918,
+  "lat": 24.9259493,
+  "lon": 66.9689739,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Bismillah Chowk Road",
+    "name": "Happy Play Land",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5143185919,
+  "lat": 24.8020231,
+  "lon": 67.0293788,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dolmen Mall Level 2 Parking",
+    "name": "Sindbad Playland",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5144600981,
+  "lat": 24.8258242,
+  "lon": 67.0357317,
+  "tags": {
+    "name": "Sindbad Tours",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5157033895,
+  "lat": 24.9511450,
+  "lon": 67.0753299,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Rashid Minhas Road",
+    "name": "Animal Kingdom Zoo",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 5157202758,
+  "lat": 24.8276117,
+  "lon": 67.0375166,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayaban e Roomi",
+    "name": "Dino Adventure Land - Forum Mall",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5157377180,
+  "lat": 24.8237647,
+  "lon": 67.0355142,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayban e Iqbal",
+    "name": "Bounce - Ocean Mall",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5157383785,
+  "lat": 24.8237441,
+  "lon": 67.0355088,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayban e Iqbal",
+    "name": "Atlantis Indoor Theme Park - Ocean Mall",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5161117130,
+  "lat": 24.8874394,
+  "lon": 67.0894774,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Karsaz Road",
+    "name": "Arena Gaming",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 5314169024,
+  "lat": 24.9106962,
+  "lon": 67.0318386,
+  "tags": {
+    "addr:city": "کراچی",
+    "name": "1",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5564675821,
+  "lat": 24.7735013,
+  "lon": 67.0732119,
+  "tags": {
+    "addr:housenumber": "3-C",
+    "addr:street": "Saba Avenue",
+    "name": "DHA Plot",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5763961653,
+  "lat": 24.8044643,
+  "lon": 67.0263322,
+  "tags": {
+    "name": "Clifton Beach Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5763968653,
+  "lat": 24.8017206,
+  "lon": 67.0257117,
+  "tags": {
+    "name": "Clifton Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5810726154,
+  "lat": 24.8378948,
+  "lon": 67.0568675,
+  "tags": {
+    "addr:housenumber": "A-1",
+    "addr:postcode": "75220",
+    "addr:street": "7th Central Street",
+    "name": "Arshad Wali Muhammad House",
+    "name:en": "Arshad Wali Muhammad",
+    "opening_hours": "24/7",
+    "tourism": "attraction",
+    "website": "https://www.gerrys.com.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5836282386,
+  "lat": 24.8116249,
+  "lon": 67.0286428,
+  "tags": {
+    "addr:postcode": "75600",
+    "addr:street": "Shahrah e Firdousi",
+    "name": "Bahria Icon Tower",
+    "phone": "+92 800 001 00",
+    "tourism": "attraction",
+    "website": "https://bahriatown.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5836282585,
+  "lat": 24.8142147,
+  "lon": 67.0272906,
+  "tags": {
+    "addr:postcode": "75600",
+    "name": "Park Towers",
+    "phone": "+92 21 35832525",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6820083027,
+  "lat": 24.7910566,
+  "lon": 67.0842320,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7211653087,
+  "lat": 24.8086387,
+  "lon": 67.0107047,
+  "tags": {
+    "addr:street": "Marine Promenade",
+    "name": "Clifton beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7211661186,
+  "lat": 24.8084846,
+  "lon": 67.0098854,
+  "tags": {
+    "addr:street": "Marine Promenade",
+    "name": "Clifton Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7326783646,
+  "lat": 24.8541206,
+  "lon": 67.0065688,
+  "tags": {
+    "name": "Old \"Bank of India\" building",
+    "start_date": "19231",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7365525941,
+  "lat": 24.8196861,
+  "lon": 66.9758759,
+  "tags": {
+    "name": "Mules Mansion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7365527840,
+  "lat": 24.8489060,
+  "lon": 66.9973739,
+  "tags": {
+    "name": "Merewether Tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7377102269,
+  "lat": 24.8144456,
+  "lon": 67.0220409,
+  "tags": {
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8425160518,
+  "lat": 24.8466446,
+  "lon": 67.0320070,
+  "tags": {
+    "name": "Frere Hall View Point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8633769213,
+  "lat": 24.8467603,
+  "lon": 67.0029824,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:housenumber": "Plot no 1 RY-15",
+    "addr:postcode": "75530",
+    "addr:street": "Railway Quarter, Lalazar",
+    "air_conditioning": "yes",
+    "museum": "science",
+    "name": "TDF MagnifiScience Centre",
+    "opening_hours": "Mo-Thu 09:00-17:00 Sa-Su 10:00-19:30",
+    "operator": "The Dawood Foundation",
+    "phone": "+922138899672",
+    "tourism": "museum",
+    "website": "https://www.magnifiscience.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 8633776646,
+  "lat": 24.8464225,
+  "lon": 67.0045025,
+  "tags": {
+    "name": "YBQ Designs Studio",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8636803671,
+  "lat": 24.8464925,
+  "lon": 67.0049071,
+  "tags": {
+    "name": "Sanat Initiative",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11647347471,
+  "lat": 24.8547218,
+  "lon": 66.9817873,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11647347473,
+  "lat": 24.8283367,
+  "lon": 66.9641617,
+  "tags": {
+    "addr:street": "جزیرہ بابا",
+    "name": "al zain",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12142611910,
+  "lat": 24.9183292,
+  "lon": 67.0541738,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Karimabad, meena bazar Karimabad Block 3 Gulberg Town",
+    "name": "Mehendi Art by Suman",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12147451387,
+  "lat": 24.8749751,
+  "lon": 67.0236170,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+59Q",
+    "addr:street": ", Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Flamingo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147537793,
+  "lat": 24.8760613,
+  "lon": 67.0239709,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+CHG",
+    "addr:street": "Garden East Millat Nagar,",
+    "name": "Zoo Safari Train",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147542774,
+  "lat": 24.8760053,
+  "lon": 67.0234800,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+98Q,",
+    "addr:street": "Garden East Millat Nagar,",
+    "name": "Flower exhibition",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147550165,
+  "lat": 24.8751042,
+  "lon": 67.0243847,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+3Q6,",
+    "addr:street": "Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Chimpanzee",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147551544,
+  "lat": 24.8762391,
+  "lon": 67.0233090,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+F63",
+    "addr:street": ", Pawara chowk, near zoo park, Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Karachi Zoo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147564533,
+  "lat": 24.8757620,
+  "lon": 67.0236034,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+79",
+    "addr:street": "Verley Rd, Millat Nagar",
+    "attraction": "animal",
+    "name": "Reptile House",
+    "phone": "03248246690",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147564555,
+  "lat": 24.8747038,
+  "lon": 67.0237029,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+59Q",
+    "addr:street": "Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "White Lion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147569793,
+  "lat": 24.8772346,
+  "lon": 67.0232345,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+V7",
+    "addr:street": "Mughal Pard Baradari, Garden East Millat Nagar,",
+    "historic": "castle",
+    "name": "Mughal Baradari",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147569939,
+  "lat": 24.8751270,
+  "lon": 67.0222266,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+345",
+    "addr:street": ", Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Crocodile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147575005,
+  "lat": 24.8743719,
+  "lon": 67.0231684,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2FF+P6X",
+    "addr:street": "Millat Nagar",
+    "attraction": "animal",
+    "name": "Fish House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147575335,
+  "lat": 24.8741376,
+  "lon": 67.0256203,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+345",
+    "addr:street": ", Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Ducks Pond",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147583789,
+  "lat": 24.8753015,
+  "lon": 67.0248193,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+4WP",
+    "addr:street": ", Garden Ln, Garden East Millat Nagar,",
+    "name": "Karachi Zoo Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12147586811,
+  "lat": 24.8780620,
+  "lon": 67.0240389,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2HF+5H",
+    "addr:street": "63 Chestnut St, Garden East Soldier Bazaar,",
+    "attraction": "animal",
+    "name": "Umbrella",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147588129,
+  "lat": 24.8777538,
+  "lon": 67.0234267,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2HF+59W",
+    "addr:street": ", Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Ostriches",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147591034,
+  "lat": 24.8772482,
+  "lon": 67.0244071,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+XPQ",
+    "addr:street": ", Garden Rd, Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Elephant Cages",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147594256,
+  "lat": 24.8776296,
+  "lon": 67.0244109,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2HF+3J",
+    "addr:street": "63 Chestnut St, Garden East Soldier Bazaar,",
+    "attraction": "animal",
+    "name": "Black Buck",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147596854,
+  "lat": 24.8748370,
+  "lon": 67.0252209,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2FG+W2P",
+    "addr:street": "Millat Nagar",
+    "name": "National History Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12147596987,
+  "lat": 24.8768662,
+  "lon": 67.0246372,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GF+XPX",
+    "addr:street": "Garden Rd, Garden East Millat Nagar,",
+    "attraction": "animal",
+    "name": "Tortoise",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12147825535,
+  "lat": 24.8294646,
+  "lon": 67.1012056,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "First Floor, Building No C، 117 Brooks Chowrangi, Makhdoom Bilawal Chs (Mbchs) Sector 31 A Korangi Industrial Area,",
+    "name": "ArtKaam Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12161477705,
+  "lat": 24.9298206,
+  "lon": 67.0684804,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Markaz e Islami, Shahrah-e-Pakistan, Federal B Area Naseerabad Block 7 Gulberg Town,",
+    "museum": "art",
+    "name": "Kolachi Art Gallery",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12168235120,
+  "lat": 24.8262877,
+  "lon": 67.0630791,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "13 Golf Course Road 4, D.H.A. Phase 4 Phase 4 Defence Housing Authority,",
+    "name": "Mini Zoo, Nisar Shaheed Park",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 12173141591,
+  "lat": 24.9351351,
+  "lon": 67.0583695,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Plot C 17,",
+    "addr:street": "Federal B Area Block 11 Gulberg Town,",
+    "name": "Whale Exhibit",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 12180144058,
+  "lat": 24.9370058,
+  "lon": 67.0409358,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Block E North Nazimabad Town",
+    "name": "Reliable Frames",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12188169041,
+  "lat": 24.8689994,
+  "lon": 67.0216210,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V29C+JP3",
+    "addr:street": ", Garden Rd, Gazdarabad Police Head Quarters,",
+    "museum": "history",
+    "name": "Sindh Police Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12201365296,
+  "lat": 24.9210086,
+  "lon": 67.0554605,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "D-167, 4 Block, FB Area Block 4 Karimabad",
+    "name": "Creative ideas by Bini",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12203639282,
+  "lat": 24.9193585,
+  "lon": 67.0215062,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "1st floor, House No# 160/12, block 5 Nazimabad Rd, Aurangabad Karachi, Karachi City, Sindh 74600, Pakistan",
+    "mobile": "03142262127",
+    "name": "Komal Naheed",
+    "tourism": "gallery",
+    "website": "https://komalnaheed.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12219437603,
+  "lat": 24.8698516,
+  "lon": 67.0317590,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V29J+WP",
+    "addr:street": "14 Jinnah Rd, Parsi Colony Parsi Colony Saddar,",
+    "museum": "history",
+    "name": "Parsi House For Shoot",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12254438657,
+  "lat": 24.9301501,
+  "lon": 66.9844611,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Faqir Colony Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Tashifa Fayyaz",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12269428621,
+  "lat": 24.9173575,
+  "lon": 66.9630361,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "Near Post Office Saeedabad Baldia Town, Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh 75760, Pakistan",
+    "name": "S M Art Institute",
+    "phone": "03462337862",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12281636701,
+  "lat": 24.8081216,
+  "lon": 67.0427569,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "34c Khayaban-e-Shamsheer, DHA Phase 5 Stadium Commercial Area Defence V Defence Housing Authority",
+    "name": "Artline Studio",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12296547238,
+  "lat": 24.9211946,
+  "lon": 67.0889530,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "A118, Main Sardar Ali Sabri Rd, Block 5 Gulshan-e-Iqbal",
+    "name": "Sheikhain Art Gallery & Studio",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12791031767,
+  "lat": 24.9616476,
+  "lon": 66.9295624,
+  "tags": {
+    "direction": "355",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12895967922,
+  "lat": 24.8756489,
+  "lon": 67.0222886,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GC+7W7",
+    "addr:street": "Karachi Zoological and Botanical Gardens, Garden East Millat Nagar,",
+    "name": "Mumtaz Mahal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 10385819,
+  "center": {
+    "lat": 24.8766938,
+    "lon": 67.0233998
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Manghopir Rd;Garden Lane",
+    "name": "Karachi Zoo",
+    "operator": "Sindh Government",
+    "tourism": "zoo",
+    "wheelchair": "limited",
+    "wikidata": "Q7569286",
+    "wikimedia_commons": "Category:Karachi Zoo",
+    "wikipedia": "en:Karachi Zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 26581277,
+  "center": {
+    "lat": 24.9139922,
+    "lon": 67.1068320
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Rashid Minhas Road",
+    "area": "yes",
+    "leisure": "park",
+    "name": "Bagh e Karachi",
+    "name:ur": "باغ کراچی",
+    "tourism": "theme_park",
+    "wikidata": "Q123630958",
+    "wikipedia": "en:Bagh-e-Karachi"
+  }
+},
+{
+  "type": "way",
+  "id": 26632637,
+  "center": {
+    "lat": 24.9030840,
+    "lon": 67.0775227
+  },
+  "tags": {
+    "name": "PIA Planetarium",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 39997663,
+  "center": {
+    "lat": 24.8770100,
+    "lon": 67.0461206
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Muhammad Farooq Motlani Road",
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "60",
+    "name": "Muhammad Farooq Motlani Road",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 147397939,
+  "center": {
+    "lat": 24.7891119,
+    "lon": 67.0445682
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Abdul Sattar Edhi Road",
+    "name": "Chunky Monkey",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 236522343,
+  "center": {
+    "lat": 24.8870039,
+    "lon": 67.0890629
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Karsaz Road",
+    "building": "commercial",
+    "building:levels": "3",
+    "museum": "military",
+    "name": "museum 1997",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 446428313,
+  "center": {
+    "lat": 24.8697887,
+    "lon": 67.0947315
+  },
+  "tags": {
+    "building": "yes",
+    "museum": "history",
+    "name": "Pakistan Air Force Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 479576906,
+  "center": {
+    "lat": 24.8142748,
+    "lon": 67.0326631
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "building": "yes",
+    "building:colour": "brown",
+    "ele": "15",
+    "height": "15",
+    "name": "Mohatta Palace",
+    "opening_hours": "Tu-Su 11:00-18:00; Mo 00:00-24:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 479697908,
+  "center": {
+    "lat": 24.8455133,
+    "lon": 66.9921768
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Nitti Gitti Bridge",
+    "building": "yes",
+    "building:levels": "1",
+    "layer": "-1",
+    "level": "1",
+    "name": "Port Grand",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 535257326,
+  "center": {
+    "lat": 24.8511678,
+    "lon": 67.0328504
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "building": "yes",
+    "building:levels": "2",
+    "description": "Formerly Flagstaff House",
+    "name": "Quaid-e-Azam House",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 692307507,
+  "center": {
+    "lat": 24.8509893,
+    "lon": 66.9975254
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Wazir Mansion",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1381590447,
+  "center": {
+    "lat": 24.9600324,
+    "lon": 66.9163680
+  },
+  "tags": {
+    "direction": "355",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "relation",
+  "id": 7605753,
+  "center": {
+    "lat": 24.8527182,
+    "lon": 67.0178418
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dr. Ziauddin Road (Katchery Road)",
+    "building": "yes",
+    "building:levels": "3",
+    "museum": "history",
+    "name": "National Museum",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

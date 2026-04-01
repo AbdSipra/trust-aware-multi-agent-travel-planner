@@ -1,0 +1,237 @@
+
+
+===== PAGE 1 =====
+
+Collaborative Problem Solving in Multi-Agent
+Large Language Model Systems: A Survey of
+Architectures, Benchmarks, and Challenges
+Abdullah Sipra, Ibrahim Ansari, Saad Khan
+i221392, i220586, i220499
+BS(AI) / Artificial Intelligence
+National University of Computer and Emerging Sciences
+i221392@nu.edu.pk, i220586@nu.edu.pk, i220499@nu.edu.pk
+Abstract—Large Language Models (LLMs) have enabled the
+development of autonomous agents capable of performing com-
+plex reasoning, planning, and tool-based problem solving. Recent
+research has explored extending these capabilities through multi-
+agent systems where multiple LLM-based agents collaborate to
+solve tasks that exceed the capability of a single agent. These
+systems aim to improve performance in areas such as decision
+making, task planning, tool usage, and autonomous experimen-
+tation by distributing responsibilities across specialized agents.
+However, significant challenges remain in coordination efficiency,
+task planning, benchmarking, tool creation, and system security.
+This paper reviews recent research on collaborative problem
+solving in multi-agent large language model systems. We analyze
+recent studies including FINCON, Smurfs, AgentQuest, Trav-
+elPlanner, TOOLMAKER, and other related work that explore
+multi-agent architectures, evaluation frameworks, automated
+workflows, and security challenges in LLM agent environments.
+The literature review summarizes the contributions of these
+studies, compares different approaches proposed for multi-agent
+collaboration, and identifies current limitations and research
+gaps. The analysis shows that while multi-agent LLM systems
+demonstrate promising capabilities for solving complex tasks,
+several challenges remain in coordination mechanisms, reliable
+evaluation methods, and security of agent communication.
+I. INTRODUCTION
+Large Language Models (LLMs) have significantly ad-
+vanced the development of intelligent agents capable of per-
+forming complex tasks such as reasoning, planning, and tool
+usage. Recent research has explored extending these capa-
+bilities through agent-based systems in which LLMs operate
+as autonomous agents interacting with external environments
+and tools. These agents can perform multi-step reasoning,
+generate code, and assist in decision making across a variety
+of domains.
+Despite these advances, many complex tasks remain difficult
+for a single LLM agent to solve effectively. Tasks such as long-
+horizon planning, large-scale data analysis, and autonomous
+experimentation often require multiple reasoning stages and
+interactions with external tools. Previous studies have shown
+that LLM agents still struggle to solve complex real-world
+planning problems and autonomous data science workflowseffectively [1], [8]. Similarly, automated scientific discovery
+systems face challenges in exploring large experimental spaces
+and evaluating generated solutions [5].
+To address these limitations, recent research has proposed
+multi-agent architectures in which multiple LLM agents col-
+laborate to solve complex tasks. In these systems, agents
+may perform specialized roles such as planning, analysis, or
+evaluation while coordinating with other agents to complete
+tasks. For example, the FINCON framework introduces a
+hierarchical multi-agent architecture consisting of manager
+and analyst agents designed to support financial decision
+making [7]. Similarly, the Smurfs system proposes a modular
+multi-agent architecture to improve tool planning and reduce
+inefficiencies observed in earlier planning approaches [6].
+In addition to architectural innovations, researchers have
+also proposed new frameworks for evaluating and analyzing
+LLM agents. The AgentQuest framework provides a modular
+benchmarking system that evaluates agent performance using
+metrics such as progress rate and repetition rate rather than
+relying only on final task success [3]. The TravelPlanner
+benchmark further evaluates the ability of language agents
+to solve complex real-world planning problems involving
+multiple constraints [8].
+While these studies demonstrate promising progress in col-
+laborative LLM agents, several challenges remain. Multi-agent
+systems may suffer from inefficient coordination, limitations
+in tool creation, and vulnerabilities to adversarial attacks. For
+example, recent research has shown that multimodal agent
+systems may be vulnerable to large-scale adversarial attacks
+capable of spreading across agent networks [9]. These findings
+highlight the importance of further research into reliable and
+secure collaborative LLM systems.
+This paper reviews recent research on collaborative problem
+solving in multi-agent large language model systems. The
+objective of this study is to analyze current architectures,
+evaluation frameworks, and application scenarios proposed in
+recent literature. By comparing the contributions and limi-
+tations of existing approaches, this paper aims to identify
+
+===== PAGE 2 =====
+
+current research challenges and highlight potential directions
+for future work in collaborative LLM agent systems.
+II. LITERATUREREVIEW
+Recent research on collaborative LLM agents explores sev-
+eral directions including multi-agent architectures, evaluation
+frameworks, automated tool creation, and security challenges
+in agent systems.
+One important research direction focuses on the develop-
+ment of multi-agent architectures designed to improve coordi-
+nation and task planning. The FINCON framework proposes
+a hierarchical multi-agent architecture for financial decision
+making in which manager agents coordinate the actions of
+analyst agents [7]. The system incorporates a risk control
+mechanism to address decision making in volatile financial
+environments. Similarly, the Smurfs framework introduces a
+modular multi-agent architecture designed to improve tool
+planning efficiency by reducing redundant context usage and
+addressing limitations of earlier planning methods such as
+rollback instability and premature termination [6]. Both ap-
+proaches demonstrate how dividing tasks among multiple
+agents can improve problem solving compared to single-agent
+systems.
+Another line of research focuses on evaluating the perfor-
+mance of LLM agents through benchmarking frameworks.
+AgentQuest proposes a modular benchmarking system de-
+signed to analyze the behavior of agent systems during task
+execution rather than evaluating only final success outcomes
+[3]. The framework introduces metrics such as progress rate
+and repetition rate that help researchers identify where agent
+systems fail during complex tasks. Similarly, the TravelPlanner
+benchmark evaluates the ability of language agents to solve
+real-world planning tasks involving multiple constraints such
+as transportation, cost, and scheduling [8]. Experimental re-
+sults show that current language agents still struggle to suc-
+cessfully complete many complex planning tasks, highlighting
+limitations in current agent capabilities.
+In addition to planning and evaluation, researchers have
+explored the role of tools and automated workflows in multi-
+agent environments. The TOOLMAKER framework investi-
+gates how LLM agents can autonomously transform research
+papers containing code into usable tools, allowing agents to
+extend their capabilities without manual tool implementation
+[4]. The CodeScientist system further explores the potential of
+agent systems in automated scientific discovery by combining
+literature analysis with code-based experimentation to generate
+and evaluate research ideas [5]. These studies demonstrate how
+collaborative agent systems may support complex workflows
+involving both reasoning and experimentation. Related work
+on tool use also shows that decomposing agent functions
+across multiple LLMs can improve tool learning compared
+to relying on a single LLM alone [2].Security and reliability have also emerged as important
+research concerns for multi-agent systems. The Agent Smith
+study demonstrates that multimodal LLM agents may be
+vulnerable to adversarial inputs capable of spreading across
+large multi-agent networks through a phenomenon described
+as infectious jailbreak attacks [9]. Complementing this work,
+the survey titledAI Agents Under Threatidentifies several
+security challenges affecting AI agent systems, including un-
+predictable user inputs, complex internal execution processes,
+and interactions with external environments [10]. These studies
+highlight the potential risks associated with deploying large-
+scale agent systems.
+Benchmarking work also reveals that current agent capa-
+bilities remain limited in demanding real-world environments.
+DA-Code introduces a benchmark for agent-based data science
+code generation and shows that current LLMs still struggle
+to autonomously complete complex data science tasks [1].
+This supports the broader conclusion that although multi-agent
+collaboration is promising, existing agent systems continue to
+face important limitations in planning, execution, and reliabil-
+ity.
+Although these studies demonstrate significant progress in
+collaborative LLM agents, several challenges remain. Current
+multi-agent systems still face limitations in coordination ef-
+ficiency, reliable evaluation of collaborative reasoning, and
+protection against adversarial attacks. In addition, benchmark-
+ing frameworks continue to reveal weaknesses in planning
+and tool usage capabilities of existing agents. These chal-
+lenges suggest that future research should focus on improving
+coordination mechanisms, developing more robust evaluation
+methods, and addressing security vulnerabilities in multi-agent
+environments.
+III. CONCLUSION
+Recent research shows that collaborative multi-agent LLM
+systems provide a promising direction for solving complex
+tasks that exceed the capability of single agents. Existing
+studies demonstrate progress in hierarchical coordination, tool
+planning, benchmarking, automated workflow generation, and
+system evaluation. However, the literature also shows that
+important challenges remain in coordination efficiency, ro-
+bustness, security, and reliable evaluation. Future work should
+focus on building multi-agent systems that are more scalable,
+secure, and effective in real-world problem solving environ-
+ments.
+REFERENCES
+[1] Y . Huang, J. Luo, Y . Yu, Y . Zhang, F. Lei, Y . Wei, S. He, L. Huang,
+X. Liu, J. Zhao, and K. Liu, “DA-Code: Agent Data Science Code
+Generation Benchmark for Large Language Models,” inProceedings
+of the 2024 Conference on Empirical Methods in Natural Language
+Processing, 2024, pp. 13487–13521.
+[2] W. Shen, C. Li, H. Chen, M. Yan, X. Quan, H. Chen, J. Zhang, and F.
+Huang, “Small LLMs Are Weak Tool Learners: A Multi-LLM Agent,”
+inProceedings of the 2024 Conference on Empirical Methods in Natural
+Language Processing, 2024, pp. 16658–16680.
+
+===== PAGE 3 =====
+
+[3] L. Gioacchini, G. Siracusano, D. Sanvito, K. Gashteovski, D. Friede, R.
+Bifulco, and C. Lawrence, “AgentQuest: A Modular Benchmark Frame-
+work to Measure Progress and Improve LLM Agents,” inProceedings of
+the 2024 Conference of the North American Chapter of the Association
+for Computational Linguistics: Human Language Technologies (System
+Demonstrations), 2024, pp. 185–193.
+[4] G. Wölflein, D. Ferber, D. Truhn, O. Arandjelovi ´c, and J. N. Kather,
+“LLM Agents Making Agent Tools,” inProceedings of the 63rd Annual
+Meeting of the Association for Computational Linguistics, 2025, pp.
+26092–26130.
+[5] P. Jansen, O. Tafjord, M. Radensky, P. Siangliulue, T. Hope, B. D.
+Mishra, B. P. Majumder, D. S. Weld, and P. Clark, “CodeScientist:
+End-to-End Semi-Automated Scientific Discovery with Code-based
+Experimentation,” inFindings of the Association for Computational
+Linguistics: ACL 2025, 2025, pp. 13370–13467.
+[6] J. Chen, J. Liang, and B. Wang, “Smurfs: Multi-Agent System using
+Context-Efficient DFSDT for Tool Planning,” inProceedings of the
+2025 Conference of the North American Chapter of the Association for
+Computational Linguistics: Human Language Technologies, 2025, pp.
+3281–3298.
+[7] Y . Yu, Z. Yao, H. Li, Z. Deng, Y . Jiang, Y . Cao, Z. Chen, J. W. Suchow,
+Z. Cui, R. Liu, Z. Xu, D. Zhang, K. Subbalakshmi, G. Xiong, Y . He, J.
+Huang, D. Li, and Q. Xie, “FINCON: A Synthesized LLM Multi-Agent
+System with Conceptual Verbal Reinforcement for Enhanced Financial
+Decision Making,” inAdvances in Neural Information Processing Sys-
+tems (NeurIPS), 2024.
+[8] J. Xie, K. Zhang, J. Chen, T. Zhu, R. Lou, Y . Tian, Y . Xiao, and
+Y . Su, “TravelPlanner: A Benchmark for Real-World Planning with
+Language Agents,” inProceedings of the 41st International Conference
+on Machine Learning, vol. 235, 2024.
+[9] X. Gu, X. Zheng, T. Pang, C. Du, Q. Liu, Y . Wang, J. Jiang, and
+M. Lin, “Agent Smith: A Single Image Can Jailbreak One Million
+Multimodal LLM Agents Exponentially Fast,” inProceedings of the
+41st International Conference on Machine Learning, vol. 235, 2024.
+[10] Z. Deng, Y . Guo, C. Han, W. Ma, J. Xiong, S. Wen, and Y . Xiang, “AI
+Agents Under Threat: A Survey of Key Security Challenges and Future
+Pathways,”ACM Computing Surveys, vol. 57, no. 7, Art. 182, 2025.

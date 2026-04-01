@@ -1,0 +1,1211 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:30:30Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 211325636,
+  "lat": 33.7383666,
+  "lon": 73.0570403,
+  "tags": {
+    "addr:street": "Damn-i-koh Road",
+    "amenity": "restaurant",
+    "cuisine": "burger;tea;coffee_shop;asian",
+    "is_in": "Islamabad",
+    "name": "Daman-e-Koh",
+    "opening_hours": "24/7",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 277500673,
+  "lat": 33.6865282,
+  "lon": 73.0761117,
+  "tags": {
+    "is_in": "Shakar Parian, Islamabad",
+    "name": "Pakistan Museum of Natural History",
+    "tourism": "museum",
+    "wikidata": "Q2046672",
+    "wikimedia_commons": "Category:Pakistan Museum of Natural History Islamabad",
+    "wikipedia": "en:Pakistan Museum of Natural History"
+  }
+},
+{
+  "type": "node",
+  "id": 1363526637,
+  "lat": 33.5854265,
+  "lon": 73.0726930,
+  "tags": {
+    "addr:city": "Rawalpindi, Punjab, Pakistan",
+    "name": "Jinnah Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 2247178870,
+  "lat": 33.6991669,
+  "lon": 73.0833516,
+  "tags": {
+    "name": "Potohari",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3791063870,
+  "lat": 33.7594054,
+  "lon": 73.0697534,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3791063889,
+  "lat": 33.7450637,
+  "lon": 73.0822616,
+  "tags": {
+    "tourism": "viewpoint",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3791166829,
+  "lat": 33.7292322,
+  "lon": 72.9268326,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3799259954,
+  "lat": 33.7509505,
+  "lon": 73.0785477,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3799310316,
+  "lat": 33.7485094,
+  "lon": 73.0793527,
+  "tags": {
+    "name": "Trail 3 hill top",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4156790491,
+  "lat": 33.6365253,
+  "lon": 73.0961635,
+  "tags": {
+    "name": "Muhammadi Colony ",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4209591091,
+  "lat": 33.5559723,
+  "lon": 73.0152325,
+  "tags": {
+    "name": "Liaqat Colony",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4226368689,
+  "lat": 33.6532558,
+  "lon": 73.0744226,
+  "tags": {
+    "addr:street": "Stadium Road",
+    "name": "Hamza APS",
+    "opening_hours": "Mo-Fr 07:00-14:30",
+    "tourism": "attraction",
+    "website": "www.apssecratariat.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4273587292,
+  "lat": 33.6101393,
+  "lon": 73.0862710,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4274713093,
+  "lat": 33.6122869,
+  "lon": 73.0940318,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4322683892,
+  "lat": 33.5672491,
+  "lon": 73.0765731,
+  "tags": {
+    "highway": "rest_area",
+    "name": "Bahria 7-8-9/ defence",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4323282293,
+  "lat": 33.6152778,
+  "lon": 72.9922093,
+  "tags": {
+    "name": "pirwadhai Moor",
+    "name:en": "Pirwadai mor",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4329668489,
+  "lat": 33.7164662,
+  "lon": 73.0986324,
+  "tags": {
+    "name": "Executive 48 Flats",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4332119797,
+  "lat": 33.7378239,
+  "lon": 73.0959494,
+  "tags": {
+    "name": "CADD",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4401180992,
+  "lat": 33.6145790,
+  "lon": 73.0734921,
+  "tags": {
+    "name": "IrFaN FaRooQ AwaN Home",
+    "name:en": "IrFaN FaRooQ AwaN Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4409869951,
+  "lat": 33.6385093,
+  "lon": 72.9269595,
+  "tags": {
+    "name": "Khayaban-e-Kashmir G-15",
+    "name:en": "Khayaban-e-Kashmir G-15",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4528270791,
+  "lat": 33.6890095,
+  "lon": 73.1104315,
+  "tags": {
+    "name": "راول چوک",
+    "name:en": "Rawal Chowk",
+    "name:ur": "راول چوک",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4728036392,
+  "lat": 33.6253519,
+  "lon": 72.9747770,
+  "tags": {
+    "name": "shafi janjua road",
+    "name:en": "shafi janjua road",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4788603621,
+  "lat": 33.6431043,
+  "lon": 73.0652899,
+  "tags": {
+    "addr:postcode": "46009",
+    "addr:street": "6th Road",
+    "name": "Decent Logde",
+    "name:en": "Decent Logde",
+    "phone": "0514415222",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4820980323,
+  "lat": 33.6057370,
+  "lon": 73.0096372,
+  "tags": {
+    "name": "Advocate Kashif",
+    "name:en": "Advocate Kashif",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4853049122,
+  "lat": 33.6366826,
+  "lon": 73.1027766,
+  "tags": {
+    "name": "Humayun Tauqeer CUST",
+    "name:en": "Humayun Tauqeer CUST",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4853049123,
+  "lat": 33.5929168,
+  "lon": 72.9897857,
+  "tags": {
+    "name": "Aslam v 109",
+    "name:en": "Aslam v 109",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4942271325,
+  "lat": 33.6496103,
+  "lon": 73.0644148,
+  "tags": {
+    "name": "Pindora / Pandora",
+    "name:en": "Pindora / Pandora",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4942272621,
+  "lat": 33.6341782,
+  "lon": 73.0628310,
+  "tags": {
+    "name": "Kali Tanki",
+    "name:en": "Kali tanki",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4942273022,
+  "lat": 33.6336841,
+  "lon": 73.0557343,
+  "tags": {
+    "name": "Paris mohallah",
+    "name:en": "Paris mohallah",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4956926529,
+  "lat": 33.7407683,
+  "lon": 73.0804158,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 2",
+    "name": "Khaas Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4957032811,
+  "lat": 33.7294241,
+  "lon": 73.0755499,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "School Road",
+    "name": "Gallery 6",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4964054200,
+  "lat": 33.7272812,
+  "lon": 73.0434170,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 16",
+    "name": "Gerry's Group",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4967695203,
+  "lat": 33.6896033,
+  "lon": 73.0532622,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Street 12",
+    "name": "Institute of Engineers Pakistan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4986056622,
+  "lat": 33.6885594,
+  "lon": 73.0726344,
+  "tags": {
+    "museum": "history,_culture",
+    "museum_type": "national",
+    "name": "لوک ورثہ;لوک ورثہ عجائب گھر",
+    "name:ar": "لوك ورثا;متحف التراثي لوك ورثا",
+    "name:en": "Lok Virsa;Heritage Museum",
+    "name:ur": "لوک ورثہ;لوک ورثہ عجائب گھر",
+    "opening_hours": "Tu-Su 10:00-20:00",
+    "operator": "National Institute of Folk & Traditional Heritage",
+    "operator:type": "government",
+    "tourism": "museum",
+    "website": "https://lokvirsa.org.pk/",
+    "wikidata": "Q3694624",
+    "wikimedia_commons": "Category:Lok Virsa Museum, Islamabad",
+    "wikipedia": "ur:لوک ورثہ عجائب گھر"
+  }
+},
+{
+  "type": "node",
+  "id": 4996056021,
+  "lat": 33.5939273,
+  "lon": 72.9492978,
+  "tags": {
+    "name": "Baba Hunjira wali sarkar maqbara tomb",
+    "name:en": "Baba Hunjira wali sarkar maqbara tomb",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5022137725,
+  "lat": 33.6624676,
+  "lon": 73.0853793,
+  "tags": {
+    "name": "Faizabad",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5023349921,
+  "lat": 33.7193507,
+  "lon": 73.0962959,
+  "tags": {
+    "name": "islamabad museum",
+    "name:en": "Islamabad Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5034003227,
+  "lat": 33.6473286,
+  "lon": 73.0538907,
+  "tags": {
+    "name": "Ashad Home",
+    "name:en": "Ashad Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5044771021,
+  "lat": 33.5700149,
+  "lon": 73.0394503,
+  "tags": {
+    "name": "Shakil Home",
+    "name:en": "Shakil Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5072650924,
+  "lat": 33.5606449,
+  "lon": 73.0431551,
+  "tags": {
+    "name": "Noman Home",
+    "name:en": "Noman Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5101187122,
+  "lat": 33.6633631,
+  "lon": 73.0590855,
+  "tags": {
+    "name": "Haq Distributor",
+    "name:en": "Haq Distributor",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5101187421,
+  "lat": 33.6004516,
+  "lon": 73.0079488,
+  "tags": {
+    "name": "Hakim Plaza",
+    "name:en": "Hakim Plaza",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5115837821,
+  "lat": 33.5606676,
+  "lon": 73.0431596,
+  "tags": {
+    "name": "Kamran Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5284836923,
+  "lat": 33.6953167,
+  "lon": 73.0509677,
+  "tags": {
+    "name": "Tealiner",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5284838222,
+  "lat": 33.6492537,
+  "lon": 73.0378311,
+  "tags": {
+    "name": "Usman Distributors",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5365866589,
+  "lat": 33.7378363,
+  "lon": 73.0569508,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5625322425,
+  "lat": 33.6507405,
+  "lon": 72.9600686,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5663039733,
+  "lat": 33.7107509,
+  "lon": 73.0196020,
+  "tags": {
+    "name": "Shaheen Foundation",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5768015553,
+  "lat": 33.5914113,
+  "lon": 73.1334538,
+  "tags": {
+    "religion": "muslim",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6338026886,
+  "lat": 33.5819967,
+  "lon": 73.0723086,
+  "tags": {
+    "name": "ANF",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6390377986,
+  "lat": 33.6981418,
+  "lon": 73.0432992,
+  "tags": {
+    "name": "Mian Amjad H#229, St32, G8-2, Tepo Market ID",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6634656289,
+  "lat": 33.6936689,
+  "lon": 73.0677633,
+  "tags": {
+    "name": "Islamabad view point",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6795009217,
+  "lat": 33.6384381,
+  "lon": 73.0594250,
+  "tags": {
+    "name": "Al Jannat Capital Girls Hostel ( Iqra Sid Hostel)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7403767685,
+  "lat": 33.6559394,
+  "lon": 72.9561793,
+  "tags": {
+    "name": "water filteration G-13",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7577900885,
+  "lat": 33.7021194,
+  "lon": 73.0209926,
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "alt_name": "ایف-9 پارک;ایف-9",
+    "alt_name:ar": "متنزه إف-9;إف-9",
+    "alt_name:ur": "ایف-9 پارک;ایف-9",
+    "alt_name:zh-Hans": "F9公园",
+    "leisure": "park",
+    "name": "فاطمہ جناح پارک",
+    "name:ar": "متنزه فاطمة جناح",
+    "name:en": "Fatima Jinnah Park",
+    "name:etymology": "فاطمة جناح",
+    "name:etymology:wikidata": "Q464947",
+    "name:etymology:wikipedia": "ar:فاطمة جناح",
+    "name:hi": "फातिमा जिन्ना पार्क",
+    "name:pnb": "کیپیٹل پارک اسلام آباد",
+    "name:ur": "فاطمہ جناح پارک",
+    "tourism": "attraction",
+    "wikidata": "Q3305506",
+    "wikimedia_commons": "Category:Fatima Jinnah Park",
+    "wikipedia": "pnb:کیپیٹل پارک اسلام آباد",
+    "wikipedia:pnb": "کیپیٹل پارک اسلام آباد"
+  }
+},
+{
+  "type": "node",
+  "id": 7892925825,
+  "lat": 33.7408575,
+  "lon": 73.0568665,
+  "tags": {
+    "name": "Rawal Lake Viewpoint",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7908530185,
+  "lat": 33.6471578,
+  "lon": 73.0415384,
+  "tags": {
+    "name": "Mian Safdar ali, H # 270, St 114, I 10-4",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7908530285,
+  "lat": 33.6199891,
+  "lon": 72.9971154,
+  "tags": {
+    "name": "Shahzad Been, British Home, Peer Wadai, Rawalpindi.",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7908569686,
+  "lat": 33.6982643,
+  "lon": 73.0435590,
+  "tags": {
+    "name": "Mian Asghar ali, H#227, St 32, G8-2",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7908569687,
+  "lat": 33.7147423,
+  "lon": 73.0635720,
+  "tags": {
+    "name": "Saudi pak Tower",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7908597985,
+  "lat": 33.7229801,
+  "lon": 73.0798208,
+  "tags": {
+    "name": "OGDC",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8408058017,
+  "lat": 33.6280187,
+  "lon": 72.9464200,
+  "tags": {
+    "name": "EME",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8572351017,
+  "lat": 33.6069476,
+  "lon": 73.0539713,
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "City Saddar Road",
+    "name": "Noor Ashraf and Sons, Al Makkah Market, Jinnah Road",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8572381017,
+  "lat": 33.6055031,
+  "lon": 73.0543329,
+  "tags": {
+    "name": "IQBAL Metal Store, Al Fazal Plaza, Jinnah Road Rawalpindi",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8572476217,
+  "lat": 33.6948002,
+  "lon": 72.9997103,
+  "tags": {
+    "name": "Accencis Anas Mansoor",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8572481717,
+  "lat": 33.5929757,
+  "lon": 73.0513448,
+  "tags": {
+    "name": "Hara international for Electroniccs",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8703286017,
+  "lat": 33.5606778,
+  "lon": 73.0274786,
+  "tags": {
+    "name": "Pakistan Racks Dabib Lodhi",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8703289117,
+  "lat": 33.6263927,
+  "lon": 73.0880580,
+  "tags": {
+    "name": "Unique wood for racks",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8703297017,
+  "lat": 33.6482630,
+  "lon": 73.0205441,
+  "tags": {
+    "name": "JS Racks",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8733283398,
+  "lat": 33.7742831,
+  "lon": 73.1139125,
+  "tags": {
+    "name": "Bruti waterfalls & ponds (do not litter!)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9253224319,
+  "lat": 33.7074652,
+  "lon": 73.0130879,
+  "tags": {
+    "name": "Descom Wedding Hall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9689868249,
+  "lat": 33.6943593,
+  "lon": 73.1336420,
+  "tags": {
+    "name": "Lake View and access",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9920621060,
+  "lat": 33.7607739,
+  "lon": 73.0355041,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10238146150,
+  "lat": 33.7450665,
+  "lon": 73.0115474,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10238158048,
+  "lat": 33.7610594,
+  "lon": 73.0282062,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10313149742,
+  "lat": 33.7454871,
+  "lon": 73.0070909,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10607436957,
+  "lat": 33.7383472,
+  "lon": 73.0536153,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10859980216,
+  "lat": 33.7333462,
+  "lon": 72.9949795,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10859980255,
+  "lat": 33.7407574,
+  "lon": 72.9877302,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10913682328,
+  "lat": 33.7749370,
+  "lon": 73.0922305,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11001685499,
+  "lat": 33.7732965,
+  "lon": 73.1217565,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12670704232,
+  "lat": 33.5686093,
+  "lon": 73.0805734,
+  "tags": {
+    "tourism": "museum",
+    "wikidata": "Q132527004",
+    "wikimedia_commons": "Category:Vintage Park (Ayub Park)"
+  }
+},
+{
+  "type": "node",
+  "id": 13307738687,
+  "lat": 33.7931573,
+  "lon": 73.1233112,
+  "tags": {
+    "check_date": "2025-11-16",
+    "name": "Dino Valley",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 13358961524,
+  "lat": 33.7206937,
+  "lon": 73.0563098,
+  "tags": {
+    "check_date": "2025-12-07",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Khyber Pakhtunkhwa Arts And Craft Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 209841365,
+  "center": {
+    "lat": 33.6480500,
+    "lon": 72.9880233
+  },
+  "tags": {
+    "name": "ASAB Animal House",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 232143506,
+  "center": {
+    "lat": 33.5613049,
+    "lon": 73.0903296
+  },
+  "tags": {
+    "name": "Joyland Rawalpindi",
+    "operator": "Pakistan Army",
+    "parking": "yes",
+    "playground:theme": "fair",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 233578977,
+  "center": {
+    "lat": 33.5658705,
+    "lon": 73.0847392
+  },
+  "tags": {
+    "addr:city": "راولپنڈی",
+    "addr:city:en": "Rawalpindi",
+    "addr:city:fr": "Rawalpindi",
+    "addr:city:pa": "ਰਾਵਲਪਿੰਡੀ",
+    "addr:city:pnb": "راولپنڈی",
+    "addr:city:ur": "راولپنڈی",
+    "addr:street": "Grand Trunk Road",
+    "area": "yes",
+    "name": "Jungle Kingdom",
+    "tourism": "zoo",
+    "wikidata": "Q6312921",
+    "wikipedia": "en:Jungle World, Rawalpindi"
+  }
+},
+{
+  "type": "way",
+  "id": 472047473,
+  "center": {
+    "lat": 33.6926042,
+    "lon": 73.0695070
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Pakistan Monument Museum",
+    "name:ar": "متحف النصب التذكاري الباكستاني",
+    "tourism": "museum",
+    "wikidata": "Q86452047",
+    "wikimedia_commons": "Category:Pakistan Monument Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 556801704,
+  "center": {
+    "lat": 33.7447997,
+    "lon": 73.0681927
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 556801705,
+  "center": {
+    "lat": 33.7449042,
+    "lon": 73.0681237
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 562050986,
+  "center": {
+    "lat": 33.6873536,
+    "lon": 73.2110455
+  },
+  "tags": {
+    "name": "Bahria Enclave Zoo",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 570195862,
+  "center": {
+    "lat": 33.7221360,
+    "lon": 72.9144149
+  },
+  "tags": {
+    "name": "Shah Allah Ditta Caves",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 595938847,
+  "center": {
+    "lat": 33.7168761,
+    "lon": 73.1343670
+  },
+  "tags": {
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 608321005,
+  "center": {
+    "lat": 33.6650949,
+    "lon": 73.0028401
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "PHA Appartments Children's Playground",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 608321008,
+  "center": {
+    "lat": 33.6648202,
+    "lon": 73.0026255
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "PHA Appartments Children's Playground",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 685359676,
+  "center": {
+    "lat": 33.6695263,
+    "lon": 72.9485887
+  },
+  "tags": {
+    "name": "Golra Sharif Railway Museum",
+    "tourism": "museum",
+    "wikidata": "Q5580951",
+    "wikimedia_commons": "Category:Golra Sharif Railway Museum",
+    "wikipedia": "en:Golra Sharif Railway Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 721588451,
+  "center": {
+    "lat": 33.7397410,
+    "lon": 73.0537331
+  },
+  "tags": {
+    "area": "yes",
+    "name": "Islamabad Viewpoint",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 721588453,
+  "center": {
+    "lat": 33.7393497,
+    "lon": 73.0556823
+  },
+  "tags": {
+    "area": "yes",
+    "name": "Daman-e-Koh",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 739621410,
+  "center": {
+    "lat": 33.5865659,
+    "lon": 73.0542997
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Army Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 846939063,
+  "center": {
+    "lat": 33.7337824,
+    "lon": 73.0588785
+  },
+  "tags": {
+    "addr:city": "اسلام آباد",
+    "addr:city:ar": "إسلام آباد",
+    "addr:city:en": "Islamabad",
+    "addr:city:ks": "اِسلام آبادٖ",
+    "addr:city:pnb": "اسلام آباد",
+    "addr:city:ps": "اسلام آباد",
+    "addr:city:sd": "اسلام آباد",
+    "addr:city:ur": "اسلام آباد",
+    "addr:street": "Damn-i-koh Road",
+    "fee": "no",
+    "name": "Marghazar Zoo",
+    "name:en": "Islamabad Zoo",
+    "name:ur": "اسلام آباد چڑیا گھر",
+    "operator": "Capital Development Authority",
+    "tourism": "zoo",
+    "wikidata": "Q9097825",
+    "wikimedia_commons": "Category:Islamabad Zoo",
+    "wikipedia": "en:Islamabad Zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 864652049,
+  "center": {
+    "lat": 33.5773862,
+    "lon": 73.1272830
+  },
+  "tags": {
+    "fee": "no",
+    "name": "Loi Bher Wildlife Park",
+    "operator": "Forest Department",
+    "tourism": "zoo",
+    "zoo": "wildlife_park"
+  }
+},
+{
+  "type": "way",
+  "id": 1290613837,
+  "center": {
+    "lat": 33.7173924,
+    "lon": 73.1146341
+  },
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+}
+
+  ]
+}

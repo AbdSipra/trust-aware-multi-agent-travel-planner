@@ -1,0 +1,8409 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.8 b1080abd",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-16T14:09:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 482898720,
+  "lat": 3.1588083,
+  "lon": 101.7000583,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "50250",
+    "addr:street": "Jalan Sultan Ismail",
+    "brand": "Sheraton",
+    "brand:wikidata": "Q634831",
+    "brand:wikipedia": "en:Sheraton Hotels and Resorts",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Sheraton Imperial Kuala Lumpur Hotel",
+    "name:en": "Sheraton Imperial Kuala Lumpur Hotel",
+    "rooms": "398",
+    "stars": "5",
+    "tourism": "hotel",
+    "wikidata": "Q111515981"
+  }
+},
+{
+  "type": "node",
+  "id": 534648572,
+  "lat": 3.1512638,
+  "lon": 101.6961245,
+  "tags": {
+    "name": "Citin Masjid Jamek",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 921975071,
+  "lat": 3.1455377,
+  "lon": 101.7071812,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Alor",
+    "name": "Ibis Styles Kuala Lumpur Bukit Bintang",
+    "name:en": "Ibis Styles Kuala Lumpur Bukit Bintang",
+    "name:ms": "Anggun",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 945162649,
+  "lat": 3.1333068,
+  "lon": 101.6890339,
+  "tags": {
+    "brand": "MyHotel",
+    "check_date": "2025-11-17",
+    "name": "MyHotel",
+    "name:en": "MyHotel",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 995503922,
+  "lat": 3.1352656,
+  "lon": 101.6857595,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "3",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Stesen Sentral",
+    "brand": "Hilton",
+    "brand:wikidata": "Q598884",
+    "check_date": "2023-11-05",
+    "contact:facebook": "https://www.facebook.com/hiltonkl",
+    "contact:fax": "+60-3-2264-2266",
+    "contact:instagram": "https://www.instagram.com/hiltonkualalumpur/",
+    "contact:linkedin": "https://www.linkedin.com/in/hilton-kuala-lumpur-and-hilton-malaysia-968555b2",
+    "contact:vk": "https://vk.com/hilton_kuala_lumpur",
+    "email": "kuala-lumpur@hilton.com",
+    "internet_access": "yes",
+    "name": "Hilton Kuala Lumpur",
+    "operator": "Hilton",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+60322642264",
+    "rooms": "512",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.hilton.com/en/hotels/kulhihi-hilton-kuala-lumpur/",
+    "wikidata": "Q3135691",
+    "wikimedia_commons": "Category:Hilton Kuala Lumpur",
+    "wikipedia": "en:Hilton Kuala Lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 1231715034,
+  "lat": 3.1572150,
+  "lon": 101.7053840,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "air_conditioning": "yes",
+    "brand": "Renaissance",
+    "brand:wikidata": "Q2143252",
+    "brand:wikipedia": "en:Renaissance Hotels",
+    "contact:instagram": "https://www.instagram.com/renaissancekualalumpur/",
+    "facebook": "https://www.facebook.com/RenaissanceKualaLumpur",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Renaissance Kuala Lumpur Hotel",
+    "name:en": "Renaissance Kuala Lumpur Hotel",
+    "phone": "+60327068088",
+    "rooms": "406",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.marriott.com/en-us/hotels/kulrn-renaissance-kuala-lumpur-hotel-and-convention-centre/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "wikidata": "Q7312425",
+    "wikimedia_commons": "Category:Renaissance Kuala Lumpur Hotel",
+    "wikipedia": "en:Renaissance Kuala Lumpur Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1277982331,
+  "lat": 3.2018550,
+  "lon": 101.6190878,
+  "tags": {
+    "name": "De Dragon Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1326944906,
+  "lat": 3.1502588,
+  "lon": 101.7144661,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Conlay",
+    "brand": "Pullman",
+    "brand:wikidata": "Q3410757",
+    "brand:wikipedia": "en:Pullman Hotels and Resorts",
+    "email": "enquiry@pullman-klcc.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Pullman",
+    "phone": "+60321708888",
+    "rooms": "448",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.princehotelkl.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1349429475,
+  "lat": 3.0592008,
+  "lon": 101.6733304,
+  "tags": {
+    "addr:housenumber": "2A",
+    "addr:postcode": "57000",
+    "addr:street": "Jalan Jalil Jaya 6",
+    "name": "Hotel 128",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1349431197,
+  "lat": 3.0683614,
+  "lon": 101.6900830,
+  "tags": {
+    "name": "Hotel Sri Petaling",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1444606414,
+  "lat": 3.1436954,
+  "lon": 101.6985575,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "62",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Sultan",
+    "internet_access": "wlan",
+    "name": "Floresta Hotel @ Chinatown",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1524694394,
+  "lat": 3.0998838,
+  "lon": 101.6410050,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:street": "Lorong 8/1E",
+    "name": "PJ De Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1534141175,
+  "lat": 3.0987834,
+  "lon": 101.6465705,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "PJ State",
+    "addr:street": "Jalan 52/4",
+    "name": "Hotel Sri Sutra",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1543756698,
+  "lat": 3.1453392,
+  "lon": 101.7148947,
+  "tags": {
+    "brand": "Hotel Sempurna",
+    "name": "Hotel Sempurna",
+    "name:en": "Hotel Sempurna",
+    "name:ms": "Hotel Sempurna",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1543767734,
+  "lat": 3.1443335,
+  "lon": 101.7121987,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "PARKROYAL",
+    "brand:wikidata": "Q4272131",
+    "name": "PARKROYAL COLLECTION Kuala Lumpur",
+    "name:en": "PARKROYAL COLLECTION Kuala Lumpur",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1548385513,
+  "lat": 3.1092442,
+  "lon": 101.6432883,
+  "tags": {
+    "air_conditioning": "yes",
+    "email": "cchpj@crystalcrown.com.my",
+    "name": "Crystal Crown Hotel Petaling Jaya",
+    "name:en": "Crystal Crown Hotel Petaling Jaya",
+    "name:ms": "Crystal Crown Hotel Petaling Jaya",
+    "name:zh": "八打灵晶冠酒店",
+    "name:zh-Hans": "八打灵晶冠酒店",
+    "name:zh-Hant": "八打靈晶冠酒店",
+    "phone": "+60-393684422",
+    "short_name": "Crystal Crown",
+    "short_name:en": "Crystal Crown",
+    "short_name:ms": "Crystal Crown",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.crystalcrownpj.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1559454999,
+  "lat": 3.1029684,
+  "lon": 101.6434177,
+  "tags": {
+    "brand": "Hotel Singgahsana",
+    "name": "Hotel Singgahsana",
+    "name:en": "Hotel Singgahsana",
+    "name:ms": "Hotel Singgahsana",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1568686703,
+  "lat": 3.1453091,
+  "lon": 101.7123324,
+  "tags": {
+    "brand": "Hotel Royal",
+    "name": "Hotel Royal",
+    "name:en": "Hotel Royal",
+    "name:ms": "Hotel Royal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1568696148,
+  "lat": 3.1450332,
+  "lon": 101.7126797,
+  "tags": {
+    "name": "Bintang Fairlane Residences",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1631406216,
+  "lat": 3.1131529,
+  "lon": 101.6000069,
+  "tags": {
+    "name": "My Home Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1632130723,
+  "lat": 3.1428162,
+  "lon": 101.6960248,
+  "tags": {
+    "brand": "Starlight",
+    "contact:phone": "+60 03 20789811",
+    "name": "Starlight",
+    "name:en": "Starlight",
+    "name:zh": "星光酒店",
+    "name:zh-Hans": "星光酒店",
+    "name:zh-Hant": "星光酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1633424575,
+  "lat": 3.1046205,
+  "lon": 101.5999436,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "Kelana Jaya",
+    "name": "Bestview Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1635661887,
+  "lat": 3.1356280,
+  "lon": 101.6864422,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "2",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Stesen Sentral",
+    "air_conditioning": "yes",
+    "brand": "Le Méridien",
+    "brand:wikidata": "Q261077",
+    "brand:wikipedia": "en:Le Méridien",
+    "contact:facebook": "https://de-de.facebook.com/lemeridienkualalumpur/",
+    "contact:phone": "+60322637434",
+    "contact:website": "https://www.marriott.com/hotels/travel/kulmd-le-meridien-kuala-lumpur/",
+    "name": "Le Méridien Kuala Lumpur",
+    "name:en": "Le Méridien Kuala Lumpur",
+    "rooms": "420",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1645134570,
+  "lat": 3.1058944,
+  "lon": 101.5981373,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "Kelana Jaya",
+    "addr:street": "Jalan SS 6/5",
+    "name": "Goodhope Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1658676264,
+  "lat": 3.1609525,
+  "lon": 101.7289049,
+  "tags": {
+    "addr:housenumber": "222",
+    "addr:street": "Jalan Ampang",
+    "check_date": "2025-06-20",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Oakwood",
+    "phone": "+60 3-2720 3888",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1691556414,
+  "lat": 3.0749544,
+  "lon": 101.6117838,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO Hotel Q",
+    "source": "https://www.mapillary.com/app/?pKey=N2ccWWfulZQAnrvBpazq4Z&focus=photo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1694209888,
+  "lat": 3.1667537,
+  "lon": 101.6994336,
+  "tags": {
+    "name": "Seko Suites",
+    "name:en": "Hostel Cosmopolitan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1721367477,
+  "lat": 3.1360618,
+  "lon": 101.6927975,
+  "tags": {
+    "name": "Five Senses Experience Suite",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1730050780,
+  "lat": 3.1977838,
+  "lon": 101.6062076,
+  "tags": {
+    "brand": "Sri Damansara Hotel",
+    "name": "Sri Damansara Hotel",
+    "name:en": "Sri Damansara Hotel",
+    "name:zh": "白沙罗酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1746291484,
+  "lat": 3.0907694,
+  "lon": 101.6816424,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Kuchai Lama",
+    "brand": "City Hotel",
+    "name": "City Hotel",
+    "name:en": "City Hotel",
+    "phone": "03-79829226",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1753356320,
+  "lat": 3.1626298,
+  "lon": 101.7510741,
+  "tags": {
+    "name:zh": "吉隆坡湖畔火烈鸟",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1770397776,
+  "lat": 3.1496976,
+  "lon": 101.7169644,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "5",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Conlay",
+    "air_conditioning": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Royale Chulan Kuala Lumpur",
+    "name:en": "Royale Chulan Kuala Lumpur",
+    "name:zh": "吉隆坡皇家朱兰酒店",
+    "name:zh-Hans": "吉隆坡皇家朱兰酒店",
+    "name:zh-Hant": "吉隆坡皇家朱蘭酒店",
+    "operator": "Boustead Hotels and Resorts Sdn. Bhd.",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.royalechulan-kualalumpur.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1812003915,
+  "lat": 3.1660321,
+  "lon": 101.6948363,
+  "tags": {
+    "name": "Hotel Zamburger",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1812003919,
+  "lat": 3.1668816,
+  "lon": 101.6955146,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "63",
+    "addr:postcode": "50350",
+    "addr:street": "Jalan Putra",
+    "name": "Sani Hotel",
+    "name:zh": "珊尼酒店",
+    "tourism": "hotel",
+    "website": "https://www.sanihotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 1819670406,
+  "lat": 3.1505778,
+  "lon": 101.7480436,
+  "tags": {
+    "name": "O'Wen Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1989257074,
+  "lat": 3.1636386,
+  "lon": 101.6954209,
+  "tags": {
+    "name": "Hotel Wilayah",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2014877976,
+  "lat": 3.1423368,
+  "lon": 101.7097651,
+  "tags": {
+    "name": "Berjaya Times Square Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2021291518,
+  "lat": 3.1541698,
+  "lon": 101.7064587,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:country": "MY",
+    "addr:housenumber": "11",
+    "addr:postcode": "50250",
+    "addr:street": "Jalan Sultan Ismail",
+    "air_conditioning": "yes",
+    "brand": "Shangri-La Hotels and Resorts",
+    "contact:website": "http://www.shangri-la.com/kualalumpur/",
+    "email": "kualalumpur@shangri-la.com",
+    "internet_access": "wlan",
+    "name": "Shangri-La Hotel",
+    "name:en": "Shangri-La Hotel",
+    "name:zh": "吉隆坡香格里拉大酒店",
+    "name:zh-Hans": "吉隆坡香格里拉大酒店",
+    "name:zh-Hant": "吉隆坡香格里拉大飯店",
+    "payment:credit_cards": "yes",
+    "phone": "+603 20322388",
+    "smoking": "no",
+    "stars": "5",
+    "tourism": "hotel",
+    "wheelchair": "limited",
+    "wikidata": "Q7488586",
+    "wikimedia_commons": "Category:Shangri-La Kuala Lumpur",
+    "wikipedia": "en:Shangri-La Kuala Lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 2024338113,
+  "lat": 3.1087682,
+  "lon": 101.5953217,
+  "tags": {
+    "name": "Sun Inns",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2046950978,
+  "lat": 3.1759203,
+  "lon": 101.6851462,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "2A",
+    "addr:postcode": "51200",
+    "addr:street": "Jalan Kasipillay",
+    "name": "Duta Hotel & Residence",
+    "tourism": "hotel",
+    "website": "http://www.dutahotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2074080756,
+  "lat": 3.1468910,
+  "lon": 101.6972064,
+  "tags": {
+    "name": "Chill Inn",
+    "name:en": "Chill Inn",
+    "note": "Very bad online ratings",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2358090879,
+  "lat": 3.1130667,
+  "lon": 101.6783081,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Klang Lama",
+    "email": "mail@valenza.com.my",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Valenza Hotel & Cafe",
+    "name:en": "Valenza Hotel & Cafe",
+    "phone": "+603 7972 6100",
+    "tourism": "hotel",
+    "website": "https://valenza.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 2358171918,
+  "lat": 3.0849425,
+  "lon": 101.6734404,
+  "tags": {
+    "brand": "Pearl Point International Hotel",
+    "name": "Pearl Point International Hotel",
+    "name:en": "Pearl Point International Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2367989182,
+  "lat": 3.1719129,
+  "lon": 101.6916874,
+  "tags": {
+    "name": "Dynasty Hotel",
+    "name:en": "Dynasty Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2639528005,
+  "lat": 3.1474077,
+  "lon": 101.6961130,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Medan Pasar",
+    "brand": "A-one Hotel",
+    "name": "A-one Hotel",
+    "name:en": "A-one Hotel",
+    "phone": "+60 3-2070 7309",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2824319713,
+  "lat": 3.1271600,
+  "lon": 101.7299929,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2824319757,
+  "lat": 3.1458021,
+  "lon": 101.7070639,
+  "tags": {
+    "name": "D'Or",
+    "name:en": "D'Or",
+    "name:ms": "D'Or",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2941484436,
+  "lat": 3.1541429,
+  "lon": 101.6983990,
+  "tags": {
+    "name": "Silka Maytower Hotel & Serviced Residences",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2941844786,
+  "lat": 3.1602797,
+  "lon": 101.6968765,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "316",
+    "addr:postcode": "50100",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "The Chow Kit",
+    "name:en": "The Chow Kit",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2953929983,
+  "lat": 3.1622240,
+  "lon": 101.6564517,
+  "tags": {
+    "name": "Damas Suites & Residences",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2953938648,
+  "lat": 3.1629648,
+  "lon": 101.6564946,
+  "tags": {
+    "name": "Plaza Damas 3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 2959148094,
+  "lat": 3.1327028,
+  "lon": 101.6899520,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Summer View",
+    "name:en": "Summer View",
+    "name:zh": "豪景酒店",
+    "phone": "+60322601818",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.hotelsummerview.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2965668538,
+  "lat": 3.0989977,
+  "lon": 101.6438985,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "PJ State",
+    "name": "Strawberry Fields Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3014018963,
+  "lat": 3.0847254,
+  "lon": 101.6720255,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Klang Lama",
+    "name": "Aditya Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3056041840,
+  "lat": 3.1289794,
+  "lon": 101.7148990,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "55200",
+    "addr:street": "Jalan Metro Pudu 2",
+    "brand": "Ibis Styles",
+    "brand:wikidata": "Q3147425",
+    "brand:wikipedia": "en:Ibis Styles",
+    "contact:phone": "+60 3 9232-8688",
+    "name": "ibis Styles Kuala Lumpur Fraser Business Park",
+    "name:en": "ibis Styles Kuala Lumpur Fraser Business Park",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3076201450,
+  "lat": 3.1470748,
+  "lon": 101.7114291,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "brand": "WOLO",
+    "name": "WOLO Bukit Bintang",
+    "name:en": "WOLO Bukit Bintang",
+    "name:ms": "WOLO Bukit Bintang",
+    "tourism": "hotel",
+    "website": "https://www.thewolo.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3084425946,
+  "lat": 3.1950905,
+  "lon": 101.6301146,
+  "tags": {
+    "name": "Indigo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3092075895,
+  "lat": 3.1384684,
+  "lon": 101.7097425,
+  "tags": {
+    "name": "Hotel Taiuba Inn",
+    "name:en": "Hotel Taiuba Inn",
+    "name:ms": "Hotel Taiuba Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3092075897,
+  "lat": 3.1391793,
+  "lon": 101.7099536,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "300",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Pudu",
+    "name": "Orkid Hills Hotel",
+    "name:en": "Orkid Hills Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3110901892,
+  "lat": 3.1568759,
+  "lon": 101.7228580,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "368B",
+    "addr:postcode": "50400",
+    "addr:street": "Jalan Tun Razak",
+    "name": "MiCasa All Suite Hotel",
+    "phone": "+60321798000",
+    "tourism": "hotel",
+    "website": "https://www.micasahotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3118284179,
+  "lat": 3.1438532,
+  "lon": 101.6987360,
+  "tags": {
+    "name": "The 5 Elements",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3291844040,
+  "lat": 3.1547458,
+  "lon": 101.6962278,
+  "tags": {
+    "name": "Katel Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3291844981,
+  "lat": 3.1515005,
+  "lon": 101.6952746,
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "check_date": "2025-04-10",
+    "name": "Swiss Hotel",
+    "name:en": "Swiss Hotel",
+    "name:zh": "瑞士酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3307418506,
+  "lat": 3.1318484,
+  "lon": 101.6876323,
+  "tags": {
+    "addr:housenumber": "51-53",
+    "addr:street": "Jalan Thambipillay",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "My Hotel @ KL Sentral",
+    "name:en": "My Hotel @ KL Sentral",
+    "phone": "+603 2274 8000",
+    "tourism": "hotel",
+    "website": "http://www.kl-sentral.myhotels.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 3340727305,
+  "lat": 3.1528999,
+  "lon": 101.7053566,
+  "tags": {
+    "name": "Pacific Regency Hotel Apartments",
+    "name:en": "Pacific Regency Hotel Apartments",
+    "name:zh": "吉隆坡太平洋丽晶酒店",
+    "name:zh-Hans": "吉隆坡太平洋丽晶酒店",
+    "name:zh-Hant": "吉隆坡太平洋麗晶酒店",
+    "tourism": "hotel",
+    "website": "pacific-regency.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3706063924,
+  "lat": 3.1546819,
+  "lon": 101.5904642,
+  "tags": {
+    "internet_access": "yes",
+    "name": "Tropical Hotel at Kota Damansara",
+    "phone": "+60196663882",
+    "tourism": "hotel",
+    "website": "https://tropicalhotelkd.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 3729072551,
+  "lat": 3.1480341,
+  "lon": 101.7115344,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "42",
+    "addr:postcode": "50250",
+    "addr:street": "Jalan Sultan Ismail",
+    "name": "Le Apple Boutique",
+    "name:en": "Le Apple Boutique",
+    "phone": "+6 03 2141 5604",
+    "tourism": "hotel",
+    "website": "http://www.leapplehotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 3941157301,
+  "lat": 3.1460451,
+  "lon": 101.7012421,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "38",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Pudu",
+    "contact:facebook": "https://www.facebook.com/share/1H7oTxeeui/?mibextid=wwXIfr",
+    "email": "centralcityhotelkl@gmail.com",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPR1NrY0fPk25B2ZlRo0P6pN0E5ePtQvUlt5y-L=s1360-w1360-h1020",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Central City Hotel Chinatown",
+    "official_name": "Central City Hotel @ Chinatown",
+    "opening_hours": "24/7",
+    "phone": "+60124003771",
+    "reservation": "yes",
+    "rooms": "99",
+    "tourism": "hotel",
+    "website": "https://centralcityhotel.com.my",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4013833125,
+  "lat": 3.1009599,
+  "lon": 101.6026131,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:street": "Jalan SS 6/1",
+    "internet_access": "wlan",
+    "name": "TH Hotel Kelana Jaya",
+    "operator": "Lembaga Tabung Haji",
+    "tourism": "hotel",
+    "website": "https://thhotels.com.my/the-hotels/kelana-jaya/"
+  }
+},
+{
+  "type": "node",
+  "id": 4058148340,
+  "lat": 3.1452448,
+  "lon": 101.7068708,
+  "tags": {
+    "name": "12Fly Hotel",
+    "name:en": "12Fly Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4058166365,
+  "lat": 3.1451641,
+  "lon": 101.7077222,
+  "tags": {
+    "brand": "Travelodge",
+    "brand:wikidata": "Q24997583",
+    "brand:wikipedia": "en:Travelodge Australia",
+    "name": "Travelodge Bukit Bintang",
+    "name:en": "Travelodge Bukit Bintang",
+    "tourism": "hotel",
+    "website": "https://www.travelodgehotels.asia/hotel/travelodge-bukit-bintang/"
+  }
+},
+{
+  "type": "node",
+  "id": 4058187840,
+  "lat": 3.1436494,
+  "lon": 101.7075253,
+  "tags": {
+    "name": "Emerald",
+    "name:en": "Emerald",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4058230505,
+  "lat": 3.1425762,
+  "lon": 101.7081355,
+  "tags": {
+    "addr:housenumber": "208",
+    "addr:street": "Jalan Pudu",
+    "brand": "Metro",
+    "name": "Metro",
+    "name:en": "Metro",
+    "name:ms": "Metro",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4058230530,
+  "lat": 3.1432529,
+  "lon": 101.7078787,
+  "tags": {
+    "name": "Daffodils Park",
+    "name:en": "Daffodils Park",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "http://daffodils-park-kl.kualalumpurhoteltour.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4058236474,
+  "lat": 3.1436253,
+  "lon": 101.7081094,
+  "tags": {
+    "brand": "Sky",
+    "name": "Sky",
+    "name:en": "Sky",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4058243967,
+  "lat": 3.1434620,
+  "lon": 101.7075276,
+  "tags": {
+    "addr:housenumber": "172",
+    "addr:street": "Jalan Pudu",
+    "name": "Alibaba",
+    "name:en": "Alibaba",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4058243968,
+  "lat": 3.1433890,
+  "lon": 101.7075746,
+  "tags": {
+    "addr:housenumber": "174;176",
+    "addr:street": "Jalan Pudu",
+    "name": "Golden Palace",
+    "name:en": "Golden Palace",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4109322290,
+  "lat": 3.1596547,
+  "lon": 101.7146181,
+  "tags": {
+    "addr:housenumber": "160",
+    "addr:street": "Jalan Ampang",
+    "internet_access": "wlan",
+    "name": "Le Apple Boutique Hotel KLCC",
+    "name:en": "Le Apple Boutique Hotel KLCC",
+    "phone": "+60321793777",
+    "tourism": "hotel",
+    "website": "www.leapple-klcc.com.my"
+  }
+},
+{
+  "type": "node",
+  "id": 4154574889,
+  "lat": 3.1492565,
+  "lon": 101.7063706,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Changkat Raja Chulan",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Verdant Hill",
+    "phone": "+603 2031 0360",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.verdanthillhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4183861307,
+  "lat": 3.1621526,
+  "lon": 101.6976127,
+  "tags": {
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "internet_access": "wlan",
+    "name": "WP Hotel",
+    "name:en": "WP Hotel",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4186748681,
+  "lat": 3.1321910,
+  "lon": 101.6880081,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "37",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thambipillay",
+    "name": "Nu Hotel",
+    "name:en": "Nu Hotel",
+    "phone": "0322749000",
+    "tourism": "hotel",
+    "website": "nusentralhotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4186767146,
+  "lat": 3.1294907,
+  "lon": 101.6844187,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "250",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan",
+    "addr:suburb": "Brickfields",
+    "name": "Lotus Hotel",
+    "name:zh": "吉隆坡中环广场莲花酒店",
+    "tourism": "hotel",
+    "website": "http://www.lotusgroup.com.my/business_hotels.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4208315091,
+  "lat": 3.1582275,
+  "lon": 101.7479068,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4211714691,
+  "lat": 3.1617227,
+  "lon": 101.7198280,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "348",
+    "addr:postcode": "50400",
+    "addr:street": "Jalan Tun Razak",
+    "brand": "DoubleTree",
+    "brand:wikidata": "Q2504643",
+    "brand:wikipedia": "en:DoubleTree",
+    "check_date": "2025-07-02",
+    "contact:facebook": "https://www.facebook.com/DoubletreeKL?ref=br_rs",
+    "contact:instagram": "https://www.instagram.com/doubletreekl/?hl=en",
+    "contact:linkedin": "https://www.linkedin.com/in/doubletree-by-hilton-kuala-lumpur-2a8898150",
+    "email": "Kuldt.DoubleTreekl@hilton.com",
+    "fax": "+60-3-21727270",
+    "name": "DoubleTree by Hilton Hotel Kuala Lumpur",
+    "official_name": "DoubleTree by Hilton",
+    "operator": "Hilton",
+    "phone": "+60-3-21727272",
+    "rooms": "538",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.hilton.com/en/hotels/kuldtdi-doubletree-kuala-lumpur/",
+    "wheelchair": "yes",
+    "wikidata": "Q49393251"
+  }
+},
+{
+  "type": "node",
+  "id": 4213951989,
+  "lat": 3.1260775,
+  "lon": 101.7097208,
+  "tags": {
+    "name": "Swing and Pillows",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://www.swingandpillows.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4215289289,
+  "lat": 3.1716829,
+  "lon": 101.6957368,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "9",
+    "addr:postcode": "50400",
+    "addr:street": "Jalan Lumut off Jalan Ipoh",
+    "air_conditioning": "yes",
+    "brand": "AC Hotel",
+    "brand:wikidata": "Q5653536",
+    "brand:wikipedia": "en:AC Hotels",
+    "internet_access": "wlan",
+    "name": "AC Hotel Kuala Lumpur",
+    "rooms": "362",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4226589896,
+  "lat": 3.1465801,
+  "lon": 101.7089249,
+  "tags": {
+    "name": "Melange Boutique Hotel",
+    "phone": "+6032141 8828",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4229103790,
+  "lat": 3.1668467,
+  "lon": 101.6942077,
+  "tags": {
+    "name": "Mizie Hotel",
+    "name:en": "Caspo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4233033391,
+  "lat": 3.1475936,
+  "lon": 101.6979877,
+  "tags": {
+    "addr:housenumber": "23",
+    "addr:postcode": "50050",
+    "addr:street": "Jalan Tun Perak",
+    "name": "Swimg & Pillows Co-Living",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4238799691,
+  "lat": 3.1440108,
+  "lon": 101.6956120,
+  "tags": {
+    "brand": "Travelodge",
+    "brand:wikidata": "Q24997583",
+    "brand:wikipedia": "en:Travelodge Australia",
+    "name": "Travelodge City Centre",
+    "name:en": "Travelodge City Centre",
+    "name:zh": "吉隆坡基欧酒店",
+    "name:zh-Hans": "吉隆坡基欧酒店",
+    "name:zh-Hant": "吉隆坡基歐酒店",
+    "phone": "+60320322288",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.travelodgecitycentre.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4255810589,
+  "lat": 3.1629127,
+  "lon": 101.6961175,
+  "tags": {
+    "addr:housenumber": "290",
+    "addr:street": "Jalan Raja Laut",
+    "brand": "Aira Hotel",
+    "name": "Aira Hotel",
+    "name:en": "Aira Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4268200850,
+  "lat": 3.1419710,
+  "lon": 101.6980176,
+  "tags": {
+    "addr:street": "Jalan Petaling",
+    "brand": "City Hotel",
+    "internet_access": "wlan",
+    "name": "City Hotel",
+    "name:en": "City Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4269242889,
+  "lat": 3.2041115,
+  "lon": 101.6683226,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Crystal Crown",
+    "email": "cchkl@crystalcrown.com.my",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Crystal Crown Hotel Kuala Lumpur",
+    "name:en": "Crystal Crown Hotel Kuala Lumpur",
+    "name:ms": "Crystal Crown Hotel Kuala Lumpur",
+    "name:zh": "吉隆坡晶冠酒店",
+    "name:zh-Hans": "吉隆坡晶冠酒店",
+    "name:zh-Hant": "吉隆坡晶冠酒店",
+    "phone": "+60-362594422",
+    "short_name": "Crystal Crown",
+    "short_name:en": "Crystal Crown",
+    "short_name:ms": "Crystal Crown",
+    "tourism": "hotel",
+    "website": "https://www.crystalcrownkl.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4279912731,
+  "lat": 3.1458730,
+  "lon": 101.7019937,
+  "tags": {
+    "addr:housenumber": "50",
+    "addr:street": "Jalan Pudu",
+    "name": "Sakura Elite",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4279915234,
+  "lat": 3.1466840,
+  "lon": 101.7012567,
+  "tags": {
+    "addr:housenumber": "22;24;26;28;30;32",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Pudu Lama",
+    "check_date": "2024-12-09",
+    "email": "casavillalodge@yahoo.com",
+    "name": "Casa Villa",
+    "name:en": "Casa Villa",
+    "name:ms": "Casa Villa",
+    "phone": "+60 3-2022 0063",
+    "tourism": "hotel",
+    "website": "http://www.casavilla2u.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4279991386,
+  "lat": 3.1441401,
+  "lon": 101.6987132,
+  "tags": {
+    "addr:housenumber": "83",
+    "addr:street": "Jalan Sultan",
+    "name": "Hotel Nan Yeang",
+    "name:en": "Hotel Nan Yeang",
+    "name:zh": "南洋酒店",
+    "name:zh-Hans": "南洋酒店",
+    "name:zh-Hant": "南洋飯店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4280013143,
+  "lat": 3.1450282,
+  "lon": 101.6987100,
+  "tags": {
+    "addr:housenumber": "115",
+    "addr:street": "Jalan Sultan",
+    "name": "Soho Town",
+    "name:en": "Soho Town",
+    "phone": "+60 32031 8133",
+    "tourism": "hotel",
+    "website": "sohotownhotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4280013149,
+  "lat": 3.1452382,
+  "lon": 101.6979737,
+  "tags": {
+    "addr:street": "Jalan Tun Tan Cheng Lock",
+    "name": "Enclave Business Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4285960491,
+  "lat": 3.1366553,
+  "lon": 101.7117031,
+  "tags": {
+    "name": "D'Majestic Place",
+    "name:en": "D'Majestic Place",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4286639512,
+  "lat": 3.1526895,
+  "lon": 101.6971419,
+  "tags": {
+    "name": "Surya",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4286639513,
+  "lat": 3.1525861,
+  "lon": 101.6970905,
+  "tags": {
+    "name": "Palace",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4286639514,
+  "lat": 3.1530049,
+  "lon": 101.6972105,
+  "tags": {
+    "name": "MK Inn Hotel",
+    "phone": "+60 326 946 211",
+    "tourism": "hotel",
+    "website": "https://macktzcomfortinn.com/hotel/hotel-mackt-comfort-inn/"
+  }
+},
+{
+  "type": "node",
+  "id": 4286650813,
+  "lat": 3.1540090,
+  "lon": 101.6974313,
+  "tags": {
+    "name": "Metrostar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4306876489,
+  "lat": 3.1432712,
+  "lon": 101.7076460,
+  "tags": {
+    "addr:housenumber": "180",
+    "addr:postcode": "55100",
+    "brand": "Simms Boutique Hotel",
+    "email": "simmshotel@gmail.com",
+    "internet_access": "wlan",
+    "name": "Simms Boutique Hotel",
+    "name:en": "Simms Boutique Hotel",
+    "phone": "60321451180",
+    "tourism": "hotel",
+    "website": "www.simmshotel.com.my"
+  }
+},
+{
+  "type": "node",
+  "id": 4308698492,
+  "lat": 3.0788237,
+  "lon": 101.7442048,
+  "tags": {
+    "addr:housenumber": "K10",
+    "addr:street": "Jalan Cheras",
+    "brand": "Silka Hotel",
+    "name": "Silka Hotel",
+    "name:en": "Silka Hotel",
+    "phone": "+60391001133",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4313906610,
+  "lat": 3.1561496,
+  "lon": 101.6969515,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "50100",
+    "addr:street": "Jalan Dang Wangi",
+    "name": "The Grand Campbell",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4317625789,
+  "lat": 3.1388487,
+  "lon": 101.7100021,
+  "tags": {
+    "addr:housenumber": "310",
+    "addr:street": "Jalan Pudu",
+    "contact:fax": "+60321426899",
+    "name": "Hotel Sentral Pudu",
+    "name:en": "Hotel Sentral Pudu",
+    "name:ms": "Hotel Sentral Pudu",
+    "phone": "+60326159000",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4331553892,
+  "lat": 3.1490815,
+  "lon": 101.6980107,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "17",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Tun H.S. Lee",
+    "email": "thousandmileskl@gmail.com",
+    "facebook": "https://www.facebook.com/1000-Miles-Hotel-Kuala-Lumpur-818949781537435/",
+    "name": "1000 Miles",
+    "phone": "+60 32022 3333",
+    "tourism": "hotel",
+    "website": "http://1000mileskl.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4352721890,
+  "lat": 3.1395604,
+  "lon": 101.7129214,
+  "tags": {
+    "name": "City Comfort",
+    "name:en": "City Comfort",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4361117789,
+  "lat": 3.1353561,
+  "lon": 101.6911441,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "20;22",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan 3",
+    "addr:suburb": "Brickfields",
+    "name": "Bryqs Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4400794167,
+  "lat": 3.1505990,
+  "lon": 101.7098386,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "2",
+    "addr:postcode": "50250",
+    "addr:street": "Jalan Tengah, Off Jalan Sultan Ismail",
+    "name": "Lodge Paradize Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4414874905,
+  "lat": 3.1475002,
+  "lon": 101.7111994,
+  "tags": {
+    "addr:housenumber": "44",
+    "brand": "Ambassador",
+    "name": "Ambassador",
+    "name:en": "Ambassador",
+    "name:zh": "大使酒店",
+    "name:zh-Hans": "大使酒店",
+    "name:zh-Hant": "大使酒店",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4462026493,
+  "lat": 3.1283973,
+  "lon": 101.7139150,
+  "tags": {
+    "brand": "Hotel 81",
+    "name": "Hotel 81",
+    "name:en": "Hotel 81",
+    "name:ms": "Hotel 81",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4583453792,
+  "lat": 3.1329976,
+  "lon": 101.6888783,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "3",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thambipillay",
+    "brand": "Metro Hotel",
+    "email": "enquiry@metrosentral.com.my",
+    "name": "Metro Hotel @ KL Sentral",
+    "name:en": "Metro Hotel @ KL Sentral",
+    "phone": "+60 32273 5000",
+    "tourism": "hotel",
+    "website": "https://www.metrohotels.com.my/MetroHotelKlSentral"
+  }
+},
+{
+  "type": "node",
+  "id": 4614065979,
+  "lat": 3.1506077,
+  "lon": 101.6699730,
+  "tags": {
+    "name": "Peninsula Residences",
+    "name:en": "Peninsula Residences",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4618290062,
+  "lat": 3.1459394,
+  "lon": 101.7017168,
+  "tags": {
+    "addr:housenumber": "44A-44B",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Pudu",
+    "name": "Hotel 99",
+    "name:en": "Hotel 99",
+    "name:ms": "Hotel 99",
+    "phone": "60320786666",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4618290063,
+  "lat": 3.1460315,
+  "lon": 101.7014301,
+  "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "Jalan Pudu",
+    "name": "Hotel Transit",
+    "name:en": "Transit Hotel",
+    "name:ms": "Transit Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4618539270,
+  "lat": 3.1424139,
+  "lon": 101.6972302,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Sultan",
+    "name": "Hotel City Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4618620987,
+  "lat": 3.1328595,
+  "lon": 101.6886894,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Thambipillay",
+    "addr:suburb": "Brickfields",
+    "brand": "Hotel New Winner",
+    "name": "Hotel New Winner",
+    "name:en": "Hotel New Winner",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4618620988,
+  "lat": 3.1320949,
+  "lon": 101.6882079,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "30",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thambipillay",
+    "brand": "Hotel Sentral",
+    "email": "hsminfo@hsm.my",
+    "facebook": "http://www.facebook.com/hotelsentralmanagement",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hotel Sentral",
+    "name:ms": "Hotel Sentral",
+    "phone": "+603 2272 6000",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://hotelsentral.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4619829502,
+  "lat": 3.1329651,
+  "lon": 101.6860698,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "5",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Stesen Sentral 5",
+    "brand": "Aloft",
+    "brand:wikidata": "Q4734166",
+    "brand:wikipedia": "en:Aloft Hotels",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Aloft Kuala Lumpur Sentral",
+    "name:en": "Aloft Kuala Lumpur Sentral",
+    "phone": "+603 2723 1188",
+    "rooms": "482",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.aloftkualalumpursentral.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4619851015,
+  "lat": 3.1366351,
+  "lon": 101.6887576,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "6",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Stesen Sentral 2",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "The St. Regis Kuala Lumpur",
+    "name:en": "The St. Regis Kuala Lumpur",
+    "name:zh": "吉隆坡瑞吉酒店",
+    "name:zh-Hans": "吉隆坡瑞吉酒店",
+    "name:zh-Hant": "吉隆坡瑞吉酒店",
+    "phone": "+60 32727 1111",
+    "rooms": "208",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "http://www.stregiskualalumpur.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4619870926,
+  "lat": 3.1329395,
+  "lon": 101.6879363,
+  "tags": {
+    "air_conditioning": "yes",
+    "name": "Star Sentral",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4621576364,
+  "lat": 3.1314996,
+  "lon": 101.6872183,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Thambipillay",
+    "addr:suburb": "Brickfields",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Signature Hotel",
+    "note": "Bad online reviews as of 01/2017",
+    "phone": "+6032274 9595",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://www.mysignaturehotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4623708808,
+  "lat": 3.1311009,
+  "lon": 101.6849956,
+  "tags": {
+    "description": "Serviced apartments",
+    "email": "enquiry.kualalumpur@the-ascott.com",
+    "name": "Ascott Sentral",
+    "name:en": "Ascott Sentral",
+    "phone": "+60 3 2727 9999",
+    "rooms": "157",
+    "tourism": "hotel",
+    "website": "https://www.the-ascott.com/malaysia/kuala-lumpur/ascott-sentral-kuala-lumpur/"
+  }
+},
+{
+  "type": "node",
+  "id": 4625321673,
+  "lat": 3.1332940,
+  "lon": 101.6149399,
+  "tags": {
+    "brand": "John Shun",
+    "name": "John Shun",
+    "name:en": "John Shun",
+    "name:ms": "John Shun",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4625396045,
+  "lat": 3.1586497,
+  "lon": 101.7080652,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "138",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "brand": "Maya",
+    "email": "info@hotelmaya.com.my",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hotel Maya",
+    "name:en": "Maya Hotel",
+    "name:ms": "Hotel Maya",
+    "phone": "+60 3 2711 8866",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.hotelmaya.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4629689965,
+  "lat": 3.1481039,
+  "lon": 101.6974265,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "52",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Tun H.S. Lee",
+    "brand": "Hollywood Inn",
+    "description": "Rooms starting from RM20. No online reviews whatsoever.",
+    "name": "Hollywood Inn",
+    "name:en": "Hollywood Inn",
+    "phone": "+60 32031 5668",
+    "stars": "1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4629689966,
+  "lat": 3.1485500,
+  "lon": 101.6973736,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "48",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Tun Perak",
+    "brand": "YY48",
+    "email": "enquiries@yy48hotel.com.my",
+    "facebook": "https://www.facebook.com/YY48-Hotel-1584782181749657/",
+    "name": "YY48",
+    "name:en": "YY48",
+    "name:ms": "YY48",
+    "phone": "+60 32022 4448",
+    "tourism": "hotel",
+    "website": "http://www.yy48hotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4629725711,
+  "lat": 3.1494094,
+  "lon": 101.6982781,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "1&3",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Tun H.S. Lee",
+    "level": "1",
+    "name": "Drop Inn Logde",
+    "phone": "+60 32078 6314",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4629762809,
+  "lat": 3.1488086,
+  "lon": 101.6972422,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "49",
+    "addr:postcode": "50100",
+    "addr:street": "Leboh Ampang",
+    "brand": "1915",
+    "name": "1915",
+    "name:en": "1915",
+    "name:ms": "1915",
+    "name:zh": "1915",
+    "operator": "Mutiara Meriah Sdn Bhd",
+    "phone": "+6032026 0042",
+    "source": "http://www.hotel1915kl.com.my/",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4629762811,
+  "lat": 3.1488268,
+  "lon": 101.6967840,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "19",
+    "addr:postcode": "50050",
+    "addr:street": "Jalan Tun Perak",
+    "brand": "Hotel Al-Amin",
+    "name": "Hotel Al-Amin",
+    "name:ms": "Hotel Al-Amin",
+    "phone": "+60 32026 2254",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4661131060,
+  "lat": 3.1479165,
+  "lon": 101.7145666,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "199",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Bukit Bintang",
+    "brand": "Westin",
+    "brand:wikidata": "Q1969162",
+    "brand:wikipedia": "en:Westin Hotels & Resorts",
+    "email": "Westin.kualalumpur@westin.com",
+    "facebook": "https://www.facebook.com/westin.kl",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "The Westin Kuala Lumpur",
+    "name:en": "The Westin Kuala Lumpur",
+    "name:zh": "威斯汀酒店",
+    "name:zh-Hans": "威斯汀酒店",
+    "name:zh-Hant": "威斯汀酒店",
+    "operator": "Marriott International",
+    "phone": "+60 32731 8333",
+    "rooms": "443",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "http://www.thewestinkualalumpur.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4661345461,
+  "lat": 3.1451490,
+  "lon": 101.7176560,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "19",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Kamuning",
+    "brand": "Victory Street",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Victory Street",
+    "name:en": "Victory Street",
+    "rooms": "47",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4661368509,
+  "lat": 3.1445503,
+  "lon": 101.7143588,
+  "tags": {
+    "name": "Estana Golden",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4661609468,
+  "lat": 3.1443343,
+  "lon": 101.7064005,
+  "tags": {
+    "name": "Metropol",
+    "name:en": "Metropol",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4661609470,
+  "lat": 3.1446042,
+  "lon": 101.7059532,
+  "tags": {
+    "check_date": "2024-11-28",
+    "name": "My Hotel @ Bukit Bintang",
+    "name:en": "My Hotel @ Bukit Bintang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4661609471,
+  "lat": 3.1449395,
+  "lon": 101.7065646,
+  "tags": {
+    "name": "Corona Inn",
+    "name:en": "Corona Inn",
+    "tourism": "hotel",
+    "website": "http://www.coronainn.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663074586,
+  "lat": 3.1462279,
+  "lon": 101.7097252,
+  "tags": {
+    "description": "Average to bad online ratings",
+    "name": "Town View",
+    "name:en": "Town View",
+    "stars": "1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663074587,
+  "lat": 3.1465469,
+  "lon": 101.7094742,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "79A",
+    "addr:postcode": "50200",
+    "addr:street": "Changkat Bukit Bintang",
+    "description": "Average online ratings",
+    "email": "enquiry@alorboutiquehotel.com",
+    "name": "Alor Boutique",
+    "phone": "+60-3-21100626",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.alorboutiquehotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663074588,
+  "lat": 3.1466323,
+  "lon": 101.7093753,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "75",
+    "addr:postcode": "50200",
+    "addr:street": "Changkat Bukit Bintang",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Aura",
+    "phone": "+60 32110 2575",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://aurabukitbintang.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663074989,
+  "lat": 3.1467289,
+  "lon": 101.7092369,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "69b-d",
+    "addr:postcode": "50200",
+    "addr:street": "Changkat Bukit Bintang",
+    "description": "Average to bad online ratings",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Day Cocoon",
+    "phone": "+603 2110 1812",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "http://www.daycocoonhotels.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663075016,
+  "lat": 3.1484854,
+  "lon": 101.7076336,
+  "tags": {
+    "brand": "Ramada",
+    "brand:wikidata": "Q1502859",
+    "brand:wikipedia": "en:Ramada",
+    "contact:instagram": "https://www.instagram.com/ramadaklcc/",
+    "description": "Apartments. Good online ratings",
+    "email": "enquiries.invito@uoahospitality.com.my",
+    "facebook": "https://www.facebook.com/RamadaKLCC/",
+    "name": "Ramada Suites KLCC",
+    "phone": "+603-2386 9288",
+    "tourism": "hotel",
+    "website": "https://www.ramadaklcc.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663075025,
+  "lat": 3.1471471,
+  "lon": 101.7101260,
+  "tags": {
+    "description": "Good online ratings",
+    "email": "reservation@izumihotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Izumi",
+    "phone": "+60 3 2145 8833",
+    "rooms": "108",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://bukitbintang.izumihotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663075027,
+  "lat": 3.1482532,
+  "lon": 101.7089727,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "12",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Angsoka",
+    "description": "Good online ratings",
+    "facebook": "https://www.facebook.com/Lacomme-inn-227545463981621",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "LaComme Inn",
+    "phone": "+60321415151",
+    "rooms": "98",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://lacommeinn.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663155585,
+  "lat": 3.1479407,
+  "lon": 101.7097371,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "17",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Bedara",
+    "name": "Raissa Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663155703,
+  "lat": 3.1480081,
+  "lon": 101.7081978,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "21",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Berangan",
+    "description": "Average to good online ratings",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "V'la Heritage",
+    "phone": "+60 32144 0112",
+    "rooms": "20",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.vla-hotels.com/vlaheritagehotelkl.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4663155704,
+  "lat": 3.1481666,
+  "lon": 101.7078758,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "13,15,17",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Berangan",
+    "description": "Good online ratings",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Vivids",
+    "phone": "+6032110 2423",
+    "rooms": "20",
+    "stars": "3",
+    "start_date": "2019",
+    "tourism": "hotel",
+    "website": "http://www.vividshotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663155705,
+  "lat": 3.1471664,
+  "lon": 101.7083015,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "51-A",
+    "addr:postcode": "50200",
+    "addr:street": "Changkat Bukit Bintang",
+    "description": "Average to good online ratings",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Starus",
+    "note": "Renovated and changed name in 2023, from \"Soleil\" to \"Stay with Bintang\" to \"Starus\"",
+    "old_name": "Stay with Bintang",
+    "phone": "+60 32779 0199",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://staywithbintang.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663264951,
+  "lat": 3.1482530,
+  "lon": 101.7095972,
+  "tags": {
+    "name": "D'View Inn",
+    "phone": "+603 2141 66361",
+    "tourism": "hotel",
+    "website": "https://dviewinnhotel.blogspot.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663277094,
+  "lat": 3.1481868,
+  "lon": 101.7104301,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "20",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Beremi",
+    "check_date": "2025-03-10",
+    "description": "Average to good online ratings",
+    "email": "inquiries@kljournal.com",
+    "facebook": "https://www.facebook.com/thekljournal/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "The KL Journal",
+    "phone": "+603 2110 2211",
+    "rooms": "20",
+    "stars": "3",
+    "start_date": "2015",
+    "tourism": "hotel",
+    "website": "https://www.kljournalhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663277154,
+  "lat": 3.1464880,
+  "lon": 101.7076697,
+  "tags": {
+    "description": "Good online ratings",
+    "email": "enquiries@yy38hotel.com.my",
+    "name": "YY38",
+    "phone": "+60 32148 8838",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "http://yy38hotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4663336690,
+  "lat": 3.1467983,
+  "lon": 101.7091130,
+  "tags": {
+    "name": "Comfort Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663492922,
+  "lat": 3.1454500,
+  "lon": 101.7098152,
+  "tags": {
+    "name": "Garden Suites",
+    "name:en": "Garden Suites",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663492923,
+  "lat": 3.1457151,
+  "lon": 101.7097669,
+  "tags": {
+    "brand": "Sungei Wang",
+    "name": "Sungei Wang",
+    "name:ms": "Sungei Wang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663492924,
+  "lat": 3.1457955,
+  "lon": 101.7098742,
+  "tags": {
+    "brand": "Taiichi",
+    "name": "Taiichi",
+    "name:en": "Taiichi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663492926,
+  "lat": 3.1456803,
+  "lon": 101.7096865,
+  "tags": {
+    "name": "Putra Bintang",
+    "name:ms": "Putra Bintang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663492927,
+  "lat": 3.1456267,
+  "lon": 101.7096167,
+  "tags": {
+    "brand": "Bintang Warisan",
+    "name": "Bintang Warisan",
+    "name:ms": "Bintang Warisan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4663492928,
+  "lat": 3.1454821,
+  "lon": 101.7094612,
+  "tags": {
+    "check_date": "2026-01-03",
+    "name": "Cardogan",
+    "name:en": "Cardogan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4664238560,
+  "lat": 3.1487657,
+  "lon": 101.7082137,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "9",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Mesui",
+    "description": "Good online ratings",
+    "email": "info@themesuihotel.com",
+    "facebook": "https://www.facebook.com/themesuihotel",
+    "name": "The Mesui",
+    "phone": "+6032144 8188",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://themesuihotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4664238567,
+  "lat": 3.1485912,
+  "lon": 101.7086379,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "27",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Mesui",
+    "email": "info@rainforestbnbhotel.com",
+    "facebook": "https://www.facebook.com/rainforestbnbhotel",
+    "name": "Rainforest Bed & Breakfast",
+    "phone": "+603 2145 3525",
+    "tourism": "hotel",
+    "website": "https://www.rainforestbnbhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4665034029,
+  "lat": 3.1587981,
+  "lon": 101.6943774,
+  "tags": {
+    "air_conditioning": "yes",
+    "internet_access": "wlan",
+    "name": "IDEAS Kuala Lumpur",
+    "old_name": "Quality Hotel, Kuala Lumpur;Summit Hotel",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4676387227,
+  "lat": 3.1529815,
+  "lon": 101.7097204,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "Equatorial Plaza",
+    "addr:postcode": "50250",
+    "addr:street": "Jalan Sultan Ismail",
+    "air_conditioning": "yes",
+    "bar": "yes",
+    "brand": "EQ",
+    "email": "info@kul.equatorial.com",
+    "fax": "+60321619020",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "EQ",
+    "name:en": "EQ",
+    "name:ms": "EQ",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+60327897777",
+    "reservation": "yes",
+    "rooms": "440",
+    "smoking": "isolated",
+    "stars": "5",
+    "start_date": "2019",
+    "tourism": "hotel",
+    "website": "https://www.eqkualalumpur.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688178208,
+  "lat": 3.1587388,
+  "lon": 101.6965687,
+  "tags": {
+    "addr:housenumber": "281",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "name": "Lotus Family",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4705755184,
+  "lat": 3.0914285,
+  "lon": 101.6884100,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "brand": "Time Hotel",
+    "name": "Time Hotel",
+    "name:en": "Time Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4705915717,
+  "lat": 3.0846820,
+  "lon": 101.6719516,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Klang Lama",
+    "name": "1st Centro Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4705915730,
+  "lat": 3.0861361,
+  "lon": 101.6721526,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Klang Lama",
+    "name": "TAD Boutique Hotel",
+    "name:en": "TAD Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4706489147,
+  "lat": 3.1161554,
+  "lon": 101.6692829,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Pantai Baharu",
+    "brand": "Signature Hotel",
+    "name": "Signature Hotel",
+    "name:en": "Signature Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4706489159,
+  "lat": 3.1166153,
+  "lon": 101.6690107,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "59100",
+    "addr:street": "Jalan Pantai Baharu",
+    "name": "Koptown Hotel",
+    "name:en": "Koptown Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4706870247,
+  "lat": 3.1215699,
+  "lon": 101.6695822,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "48",
+    "addr:postcode": "59100",
+    "addr:street": "Jalan Tenggiri",
+    "email": "manager@sekeping.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Sekeping Tenggiri",
+    "phone": "+60 17207 5977",
+    "rooms": "7",
+    "tourism": "hotel",
+    "website": "https://sekeping.com/tenggiri/home.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4714241091,
+  "lat": 3.1447396,
+  "lon": 101.7085745,
+  "tags": {
+    "addr:street": "Jalan Bukit Bintang",
+    "check_date": "2026-01-03",
+    "name": "Bintang Garden",
+    "name:en": "Bintang Garden",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4714488490,
+  "lat": 3.1516969,
+  "lon": 101.5915995,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Paradise Hotel",
+    "name:en": "Paradise Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4715487355,
+  "lat": 3.1042155,
+  "lon": 101.5990500,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "Kelana Mall",
+    "name": "Goodhope Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4715910368,
+  "lat": 3.1061909,
+  "lon": 101.5981173,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "Kelana Jaya",
+    "name": "YP Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4715910370,
+  "lat": 3.1056639,
+  "lon": 101.5979456,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "Kelana Jaya",
+    "addr:street": "Jalan SS 6/5",
+    "name": "Hotel Sun Inns",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4725305793,
+  "lat": 3.1009957,
+  "lon": 101.6410965,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:street": "Jalan Barat",
+    "name": "Hotel Sunrise",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4729030094,
+  "lat": 3.1276398,
+  "lon": 101.6811052,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "130E",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thamby Abdullah",
+    "addr:suburb": "Brickfields",
+    "brand": "Signature Hotel",
+    "email": "reservation@mysignaturehotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Signature Hotel",
+    "name:en": "Signature Hotel",
+    "phone": "+60 03 22724435",
+    "stars": "1",
+    "tourism": "hotel",
+    "website": "http://littleindia.mysignaturehotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4730415660,
+  "lat": 3.1385629,
+  "lon": 101.6920636,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "5",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Sultan Hishamuddin",
+    "email": "tmklresv@ytlhotels.com.my",
+    "facebook": "https://www.facebook.com/majestickl/",
+    "name": "The Majestic Hotel Kuala Lumpur, Autograph Collection",
+    "phone": "+60 32785 8000",
+    "rooms": "300",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.majestickl.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4733807676,
+  "lat": 3.0644444,
+  "lon": 101.6507684,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Plaza Puchong",
+    "addr:street": "Jalan Puchong",
+    "name": "Hotel 29",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4734662529,
+  "lat": 3.0788433,
+  "lon": 101.6254324,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "PJCC",
+    "name": "Hotel i-Boutique",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4734662542,
+  "lat": 3.0783153,
+  "lon": 101.6256405,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "PJCC",
+    "addr:street": "Jln PJS 5/28",
+    "name": "Hotel Desaria",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4736766842,
+  "lat": 3.1465099,
+  "lon": 101.6959878,
+  "tags": {
+    "addr:street": "Jalan Hang Kasturi",
+    "name": "Leo Leisure",
+    "name:en": "Leo Leisure",
+    "phone": "+60 3-2031 1733",
+    "tourism": "hotel",
+    "website": "http://www.leoleisure.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4740267223,
+  "lat": 3.1730365,
+  "lon": 101.6917658,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "233",
+    "addr:postcode": "51200",
+    "addr:street": "Jalan Sultan Azlan Shah",
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO Comfort Hotel",
+    "name:en": "OYO Comfort Hotel",
+    "operator": "OYO",
+    "phone": "+60 34042 2614",
+    "source": "https://www.mapillary.com/app/?pKey=299842144963032&focus=photo",
+    "stars": "1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4754575790,
+  "lat": 3.1646887,
+  "lon": 101.6963320,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Raja Laut",
+    "name": "Alamis City",
+    "phone": "+60 3 40479999",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4763198523,
+  "lat": 3.1441320,
+  "lon": 101.6985612,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "78",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Sultan",
+    "email": "enquiry@grocersinn.com.my",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "1",
+    "name": "Grocer's Inn",
+    "phone": "+60320787906",
+    "tourism": "hotel",
+    "website": "https://www.grocersinn.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4769200896,
+  "lat": 3.1291567,
+  "lon": 101.6842863,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Tun Sambanthan",
+    "addr:suburb": "Brickfields",
+    "name": "Brickfields Park Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769200897,
+  "lat": 3.1286629,
+  "lon": 101.6836738,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "245",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan",
+    "addr:suburb": "Brickfields",
+    "name": "Hotel Mjoy",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4797975622,
+  "lat": 3.1406880,
+  "lon": 101.7100105,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "35",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Changkat Thambi Dollah",
+    "name": "Sky",
+    "phone": "+60178991434",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4809858733,
+  "lat": 3.1324060,
+  "lon": 101.6885038,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "22-1",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thambipillay",
+    "description": "RM88",
+    "facebook": "https://www.facebook.com/JoyInnHotel/",
+    "name": "Joy Inn",
+    "name:en": "Joy Inn",
+    "phone": "+60 32276 3766",
+    "stars": "1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4809881590,
+  "lat": 3.1335081,
+  "lon": 101.6902189,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "68",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Padang Belia",
+    "email": "enquiry2@myhotels.com.my",
+    "name": "My Hotel @ Brickfields",
+    "phone": "+603 2260 5000",
+    "stars": "1",
+    "tourism": "hotel",
+    "website": "http://www.brickfields.myhotels.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 4829212288,
+  "lat": 3.1435081,
+  "lon": 101.6957975,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "2",
+    "addr:postcode": "50050",
+    "addr:street": "Jalan Hang Kasturi",
+    "brand": "Lavana",
+    "name": "Lavana",
+    "name:en": "Lavana",
+    "phone": "+60 32022 2001",
+    "tourism": "hotel",
+    "website": "lavanahotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4832005729,
+  "lat": 3.1325417,
+  "lon": 101.6883154,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "27",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thambipillay",
+    "air_conditioning": "yes",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100057637210340",
+    "email": "cozyhotel.my@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "mobile": "+6016-215 0400",
+    "name": "Cozy Hotel",
+    "phone": "+603-2276 1699",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4875092923,
+  "lat": 3.1455296,
+  "lon": 101.7099364,
+  "tags": {
+    "name": "Goldbrick",
+    "name:en": "Goldbrick",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4891402121,
+  "lat": 3.1412169,
+  "lon": 101.7098948,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "30",
+    "addr:postcode": "55100",
+    "addr:street": "Lorong 1/77a",
+    "internet_access": "wlan",
+    "name": "Ufo capsule hotel",
+    "name:en": "Ufo capsule hotel",
+    "opening_hours": "24/7",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4909545078,
+  "lat": 3.0910638,
+  "lon": 101.6147027,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:place": "PJ 21 Sungai Way",
+    "alt_name": "Harbour Hotel",
+    "internet_access": "wlan",
+    "name": "ZEN Rooms Icon City",
+    "phone": "+60 3 92121772",
+    "tourism": "hotel",
+    "website": "https://www.zenrooms.com/hotel/27/zen-rooms-icon-city-kuala-lumpur-7217"
+  }
+},
+{
+  "type": "node",
+  "id": 4927731778,
+  "lat": 3.0808880,
+  "lon": 101.7328754,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Taman Connaught Cheras",
+    "name": "Hotel LSN",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4927731779,
+  "lat": 3.0808320,
+  "lon": 101.7329931,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Taman Connaught Cheras",
+    "name": "1 Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4945167801,
+  "lat": 3.1487909,
+  "lon": 101.6987694,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Hang Lekiu",
+    "name": "Arenaa Star",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4964906090,
+  "lat": 3.2030473,
+  "lon": 101.7359080,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Wangsa Maju",
+    "addr:street": "Jalan Metro Wangsa",
+    "brand": "Top Living Hotel",
+    "name": "Top Living Hotel",
+    "name:en": "Top Living Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4964906091,
+  "lat": 3.2033237,
+  "lon": 101.7362955,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Wangsa Maju",
+    "addr:street": "Jalan Metro Wangsa",
+    "brand": "Hotel Smile",
+    "name": "Hotel Smile",
+    "name:en": "Hotel Smile",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4964906093,
+  "lat": 3.2040935,
+  "lon": 101.7367463,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Wangsa Maju",
+    "addr:street": "Jalan Metro Wangsa",
+    "brand": "Hotel Smart",
+    "name": "Hotel Smart",
+    "name:en": "Hotel Smart",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4969167275,
+  "lat": 3.1456009,
+  "lon": 101.7009338,
+  "tags": {
+    "email": "axpudu@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "4",
+    "name": "Ancasa Express @ Pudu",
+    "name:en": "Ancasa Express @ Pudu",
+    "phone": "+60320722688",
+    "tourism": "hotel",
+    "website": "http://www.ancasahotels.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4970181763,
+  "lat": 3.1597940,
+  "lon": 101.7265273,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Ampang",
+    "name": "Holiday Place KL",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4995240821,
+  "lat": 3.1466915,
+  "lon": 101.7008713,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "19",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Pudu Lama",
+    "email": "renu.priya@mysignaturehotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Signature International @ Pudu",
+    "name:en": "Signature International @ Pudu",
+    "phone": "+60 320789595",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "http://www.pudu.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 5013315822,
+  "lat": 3.1671121,
+  "lon": 101.6961975,
+  "tags": {
+    "name": "New Eastern",
+    "name:en": "New Eastern",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5042521366,
+  "lat": 3.1427884,
+  "lon": 101.7024742,
+  "tags": {
+    "brand": "Olympic Sports",
+    "name": "Hotel Olympic Malaysia",
+    "name:en": "Olympic Sports",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5045712424,
+  "lat": 3.1315798,
+  "lon": 101.6873336,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "EuroLife",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5048023723,
+  "lat": 3.1410934,
+  "lon": 101.7109202,
+  "tags": {
+    "name": "i-Heritage",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5103888105,
+  "lat": 3.1572422,
+  "lon": 101.7005463,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "25",
+    "addr:postcode": "50300",
+    "addr:street": "Jalan Kamunting",
+    "name": "Hotel Stripes Kuala Lumpur, Autograph Collection",
+    "operator": "YTL Hotels",
+    "rooms": "184",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.marriott.com/en-us/hotels/kulsp-hotel-stripes-kuala-lumpur-autograph-collection/overview/"
+  }
+},
+{
+  "type": "node",
+  "id": 5106607621,
+  "lat": 3.1444903,
+  "lon": 101.6968277,
+  "tags": {
+    "name": "One18 Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5125958148,
+  "lat": 3.1600079,
+  "lon": 101.7230102,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "187",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "internet_access": "yes",
+    "name": "Somerset",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5248801623,
+  "lat": 3.0711322,
+  "lon": 101.6944805,
+  "tags": {
+    "name": "Best View",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5249970724,
+  "lat": 3.1326783,
+  "lon": 101.6876985,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "110",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan",
+    "brand": "easyHotel",
+    "brand:wikidata": "Q17011598",
+    "brand:wikipedia": "en:EasyHotel",
+    "name": "Easyhotel.com.my",
+    "name:en": "Easyhotel.com.my",
+    "phone": "016-215 4500",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5270451762,
+  "lat": 3.2090224,
+  "lon": 101.7504638,
+  "tags": {
+    "name": "TM Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5274279173,
+  "lat": 3.1510774,
+  "lon": 101.7124807,
+  "tags": {
+    "brand": "Novotel",
+    "brand:wikidata": "Q420545",
+    "brand:wikipedia": "en:Novotel",
+    "name": "Novotel",
+    "name:en": "Novotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5283518179,
+  "lat": 3.2081409,
+  "lon": 101.6529577,
+  "tags": {
+    "brand": "Kepong Hotel",
+    "name": "Kepong Hotel",
+    "name:en": "Kepong Hotel",
+    "name:ms": "Kepong Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5423741821,
+  "lat": 3.1286067,
+  "lon": 101.7150637,
+  "tags": {
+    "brand": "Ibis",
+    "brand:wikidata": "Q920166",
+    "brand:wikipedia": "en:Ibis (hotel)",
+    "name": "Ibis Metromall",
+    "name:en": "Ibis Metromall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5502927505,
+  "lat": 3.1447900,
+  "lon": 101.7098730,
+  "tags": {
+    "email": "rsvn@capitol.com.my",
+    "facebook": "http://www.facebook.com/HotelCapitolKualaLumpur",
+    "name": "Capitol",
+    "phone": "+603 2143 7000",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.fhihotels.com/capitol"
+  }
+},
+{
+  "type": "node",
+  "id": 5540236421,
+  "lat": 3.1332941,
+  "lon": 101.7156588,
+  "tags": {
+    "brand": "Richmoore Hotel",
+    "name": "Richmoore Hotel Pudu",
+    "name:en": "Richmoore Hotel Pudu",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5590596521,
+  "lat": 3.1553572,
+  "lon": 101.5920442,
+  "tags": {
+    "name": "TC Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5591267528,
+  "lat": 3.1485719,
+  "lon": 101.7150487,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "170",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Bukit Bintang",
+    "brand": "Banyan Tree",
+    "brand:wikidata": "Q115489057",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Pavilion Hotel",
+    "name:en": "Pavilion Hotel",
+    "name:ms": "Pavilion Hotel",
+    "phone": "+60321172888",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.banyantree.com/en/malaysia/pavilion-hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5610574021,
+  "lat": 3.1326454,
+  "lon": 101.6896131,
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan",
+    "brand": "Double M Hotel",
+    "internet_access": "wlan",
+    "name": "Double M",
+    "opening_hours": "24/7",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://www.booking.com/Share-IsCjgB"
+  }
+},
+{
+  "type": "node",
+  "id": 5628067221,
+  "lat": 3.1464309,
+  "lon": 101.6964476,
+  "tags": {
+    "addr:street": "Jalan Tun H.S. Lee",
+    "name": "Leo Leisure Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5649722822,
+  "lat": 3.1459453,
+  "lon": 101.7092592,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO 321 Hotel D'Elegant",
+    "name:en": "OYO 321 Hotel D'Elegant",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5776814105,
+  "lat": 3.1320270,
+  "lon": 101.6869916,
+  "tags": {
+    "addr:housenumber": "142",
+    "addr:street": "Jalan Tun Sambanthan",
+    "name": "Westree",
+    "name:en": "Westree",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5785176663,
+  "lat": 3.1365888,
+  "lon": 101.7026402,
+  "tags": {
+    "brand": "i-Hotel",
+    "name": "i-Hotel",
+    "name:en": "i-Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5785176689,
+  "lat": 3.1369378,
+  "lon": 101.7014361,
+  "tags": {
+    "brand": "Mirama",
+    "name": "Mirama",
+    "name:en": "Mirama",
+    "name:ms": "Mirama",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5792437253,
+  "lat": 3.1559992,
+  "lon": 101.7116181,
+  "tags": {
+    "facebook": "https://de-de.facebook.com/MandarinOrientalKualaLumpur/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Mandarin Oriental Kuala Lumpur",
+    "name:en": "Mandarin Oriental Kuala Lumpur",
+    "name:ms": "Mandarin Oriental Kuala Lumpur",
+    "name:zh": "吉隆坡文华东方酒店",
+    "name:zh-Hans": "吉隆坡文华东方酒店",
+    "name:zh-Hant": "吉隆坡文華東方酒店",
+    "phone": "+60 3 2380 8888",
+    "rooms": "632",
+    "stars": "5",
+    "start_date": "1998",
+    "tourism": "hotel",
+    "website": "https://www.mandarinoriental.de/kuala-lumpur/petrona-towers/luxury-hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5792897372,
+  "lat": 3.1588450,
+  "lon": 101.7188298,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "8",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Binjai",
+    "brand": "Element",
+    "brand:wikidata": "Q91948072",
+    "brand:wikipedia": "pl:Element Hotels",
+    "internet_access": "wlan",
+    "name": "Element by Westin",
+    "name:en": "Element by Westin",
+    "not:brand:wikidata": "Q3918608",
+    "operator": "Marriott",
+    "rooms": "252",
+    "smoking": "no",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "elementkualalumpur.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5793878830,
+  "lat": 3.1345419,
+  "lon": 101.6299587,
+  "tags": {
+    "name": "Manhattan Business Hotel TTDI",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5794153649,
+  "lat": 3.1461928,
+  "lon": 101.7090396,
+  "tags": {
+    "brand": "Apple",
+    "name": "Apple",
+    "name:en": "Apple",
+    "name:zh": "苹果酒店",
+    "name:zh-Hans": "苹果酒店",
+    "name:zh-Hant": "蘋果酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5835903986,
+  "lat": 3.1480672,
+  "lon": 101.6966013,
+  "tags": {
+    "brand": "Cosmo Hotel",
+    "name": "Cosmo Hotel",
+    "name:en": "Cosmo Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5850705758,
+  "lat": 3.1585832,
+  "lon": 101.7093619,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "121",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "brand": "W Hotels",
+    "brand:short": "W",
+    "brand:wikidata": "Q7958488",
+    "brand:wikipedia": "en:W Hotels",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "W Kuala Lumpur",
+    "name:en": "W Kuala Lumpur",
+    "name:ms": "W Kuala Lumpur",
+    "operator": "W Hotels",
+    "rooms": "150",
+    "short_name": "W",
+    "stars": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5886068585,
+  "lat": 3.1590879,
+  "lon": 101.7515368,
+  "tags": {
+    "brand": "easyHotel",
+    "brand:wikidata": "Q17011598",
+    "brand:wikipedia": "en:EasyHotel",
+    "name": "easyHotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6022677431,
+  "lat": 3.1655643,
+  "lon": 101.6981845,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "464",
+    "addr:postcode": "50350",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "brand": "Mah Lanu",
+    "email": "mahlanuinternational@gmail.com",
+    "fixme": "Really a hotel here? Nothing on Google.",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "internet_access:ssid": "unifi",
+    "name": "Mah Lanu",
+    "name:en": "Mah Lanu",
+    "name:ms": "Mah Lanu",
+    "rooms": "22",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6174784915,
+  "lat": 3.1202229,
+  "lon": 101.6796950,
+  "tags": {
+    "brand": "Orion Design Hotel",
+    "name": "Orion Design Hotel",
+    "name:en": "Orion Design Hotel",
+    "tourism": "hotel",
+    "website": "http://www.oriondesignhotel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6174785991,
+  "lat": 3.1502310,
+  "lon": 101.7138394,
+  "tags": {
+    "brand": "Banyan Tree",
+    "brand:wikidata": "Q115489057",
+    "name": "Banyan Tree Hotel",
+    "name:en": "Banyan Tree Hotel",
+    "phone": "+ 603 2113 1888",
+    "smoking": "isolated",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.banyantree.com/en/malaysia/kuala-lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 6203490769,
+  "lat": 3.1456062,
+  "lon": 101.7031011,
+  "tags": {
+    "addr:housenumber": "90",
+    "description": "Bad online reviews.",
+    "name": "Hibiscus City",
+    "name:en": "Hibiscus City",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6205978913,
+  "lat": 3.1362232,
+  "lon": 101.7120969,
+  "tags": {
+    "name": "Bintang",
+    "old_name": "Sungai Emas",
+    "phone": "+60182406999",
+    "tourism": "hotel",
+    "website": "https://hoteltiarainn.blogspot.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6206039552,
+  "lat": 3.1385669,
+  "lon": 101.7100440,
+  "tags": {
+    "name": "YY318 Hotel",
+    "name:en": "YY318 Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6213035592,
+  "lat": 3.1527109,
+  "lon": 101.7058668,
+  "tags": {
+    "name": "Indigo",
+    "phone": "+60326303888",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.ihg.com/hotelindigo/hotels/us/en/kuala-lumpur/kulpk/hoteldetail"
+  }
+},
+{
+  "type": "node",
+  "id": 6218322585,
+  "lat": 3.1594721,
+  "lon": 101.7027659,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6252672242,
+  "lat": 3.0712040,
+  "lon": 101.6919248,
+  "tags": {
+    "name": "City Home Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6294224681,
+  "lat": 3.1136549,
+  "lon": 101.6034730,
+  "tags": {
+    "brand": "Hotel 99 Kelana Jaya",
+    "name": "Hotel 99 Kelana Jaya",
+    "name:en": "Hotel 99 Kelana Jaya",
+    "name:ms": "Hotel 99 Kelana Jaya",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6301795228,
+  "lat": 3.1492468,
+  "lon": 101.6981276,
+  "tags": {
+    "level": "1",
+    "name": "Cape Town",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6310807045,
+  "lat": 3.0997206,
+  "lon": 101.6414295,
+  "tags": {
+    "name": "PJ Luxe Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6325591748,
+  "lat": 3.1463654,
+  "lon": 101.7157120,
+  "tags": {
+    "brand": "Tribeca",
+    "internet_access": "wlan",
+    "name": "Tribeca Hotel & Serviced Suites",
+    "name:en": "Tribeca Hotel & Serviced Suites",
+    "stars": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6368668385,
+  "lat": 3.1440014,
+  "lon": 101.6958544,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Jalan Hang Kasturi",
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "internet_access": "wlan",
+    "name": "Oyo Hotel KL Centre Point",
+    "name:en": "Oyo 552 KL Central",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6425220298,
+  "lat": 3.1664078,
+  "lon": 101.6926998,
+  "tags": {
+    "name": "Sunway Putra Hotel",
+    "name:en": "Sunway Putra Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6698685574,
+  "lat": 3.1333345,
+  "lon": 101.6883820,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "80",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan",
+    "contact:email": "cchotel.my@gmail.com",
+    "contact:phone": "+60 16 230 4100",
+    "contact:website": "https://www.citycentralhotel.my",
+    "internet_access": "wlan",
+    "name": "City Central Hotel",
+    "operator": "Ezy Gold Sdn Bhd",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6776241283,
+  "lat": 3.1674307,
+  "lon": 101.6962657,
+  "tags": {
+    "name": "Hotel Grand Maria",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6776264871,
+  "lat": 3.1690077,
+  "lon": 101.6964814,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "51200",
+    "addr:street": "Jalan Sultan Azlan Shah",
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "internet_access": "yes",
+    "name": "OYO Dynamic Hotel",
+    "name:en": "OYO Dynamic Hotel",
+    "operator": "OYO",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6776264874,
+  "lat": 3.1695885,
+  "lon": 101.6950379,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO Lahore",
+    "name:en": "OYO Lahore",
+    "operator": "OYO",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6776271196,
+  "lat": 3.1742926,
+  "lon": 101.6901655,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "260 G",
+    "addr:postcode": "51200",
+    "addr:street": "Jalan Sultan Azlan Shah",
+    "name": "De Moccis Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6867302115,
+  "lat": 3.1722469,
+  "lon": 101.7222710,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "8",
+    "addr:street": "Jalan Maktab",
+    "check_date": "2026-01-26",
+    "name": "The Regency Scholar's Hotel",
+    "name:en": "The Regency Scholar's Hotel",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6897641150,
+  "lat": 3.0730571,
+  "lon": 101.6685597,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6927703186,
+  "lat": 3.2324214,
+  "lon": 101.6727490,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO 1055 Batu Caves Star Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7051884491,
+  "lat": 3.1446418,
+  "lon": 101.7084448,
+  "tags": {
+    "addr:street": "Jalan Bukit Bintang",
+    "check_date": "2026-01-03",
+    "internet_access": "wlan",
+    "name": "D’OR Hotel Butik Bintang",
+    "name:ms": "D’OR Hotel Butik Bintang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7081372194,
+  "lat": 3.1620775,
+  "lon": 101.6980490,
+  "tags": {
+    "addr:housenumber": "383&385",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "brand": "Akar Hotel Kuala Lumpur",
+    "name": "Akar Hotel Kuala Lumpur",
+    "name:en": "Akar Hotel Kuala Lumpur",
+    "name:ms": "Akar Hotel Kuala Lumpur",
+    "tourism": "hotel",
+    "website": "https://www.akarhotels.com.my"
+  }
+},
+{
+  "type": "node",
+  "id": 7136745985,
+  "lat": 3.1604066,
+  "lon": 101.6969458,
+  "tags": {
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "brand": "Momo's Kuala Lumpur",
+    "name": "Momo's Kuala Lumpur",
+    "name:en": "Momo's Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7147397015,
+  "lat": 3.1405645,
+  "lon": 101.7112748,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "77",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Changkat Thambi Dollah",
+    "alt_name": "Beltif",
+    "name": "Prescott Hotel Bukit Bintang - Beltif",
+    "phone": "+60321489191",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://teg-hotels.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7147397030,
+  "lat": 3.1407996,
+  "lon": 101.7096014,
+  "tags": {
+    "name": "Ceria",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7170704314,
+  "lat": 3.1698206,
+  "lon": 101.6937884,
+  "tags": {
+    "name": "Leo Palace Hotel @ PWTC",
+    "name:en": "Leo Palace Hotel @ PWTC",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7170841243,
+  "lat": 3.1776993,
+  "lon": 101.6863114,
+  "tags": {
+    "name": "SCC City Center",
+    "name:en": "SCC City Center",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7170889963,
+  "lat": 3.2271519,
+  "lon": 101.6712844,
+  "tags": {
+    "brand": "KIP",
+    "contact:facebook": "https://www.facebook.com/KIPHotelKL?ref=hl",
+    "contact:instagram": "https://instagram.com/kiphotel",
+    "email": "enquiry@kiphotel.com.my",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "KIP",
+    "phone": "+60362560888",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.kiphotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 7177318761,
+  "lat": 3.1411719,
+  "lon": 101.7102770,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "36",
+    "addr:postcode": "55100",
+    "addr:street": "Lorong 1/77a",
+    "name": "Classic Inn KL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7177318762,
+  "lat": 3.1412661,
+  "lon": 101.7097719,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "26",
+    "addr:postcode": "55100",
+    "addr:street": "Lorong 1/77a",
+    "amenity": "restaurant",
+    "name": "Sindbad",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7185737760,
+  "lat": 3.1463539,
+  "lon": 101.7099376,
+  "tags": {
+    "brand": "Imperial",
+    "name": "Imperial",
+    "name:en": "Imperial",
+    "phone": "+60321481422",
+    "tourism": "hotel",
+    "website": "http://www.hotelimperial.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 7202620786,
+  "lat": 3.1319212,
+  "lon": 101.6880106,
+  "tags": {
+    "brand": "Citi Hotel",
+    "name": "Citi Hotel",
+    "name:en": "Citi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7205442224,
+  "lat": 3.2353864,
+  "lon": 101.6728466,
+  "tags": {
+    "brand": "Lavana",
+    "name": "Lavana",
+    "name:en": "Lavana",
+    "name:ms": "Lavana",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7207936401,
+  "lat": 3.1715899,
+  "lon": 101.7216054,
+  "tags": {
+    "name": "The Royal Widad Residence @ Residensi UTMKL",
+    "name:en": "The Royal Widad Residence @ Residensi UTMKL",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7209658160,
+  "lat": 3.1470720,
+  "lon": 101.7120690,
+  "tags": {
+    "brand": "ANSA Hotel",
+    "name": "ANSA Hotel Kuala Lumpur",
+    "name:en": "ANSA Hotel Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7215468751,
+  "lat": 3.1999501,
+  "lon": 101.6709009,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "B-G-13",
+    "addr:postcode": "51200",
+    "addr:street": "Boulevard Business Park",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Fumah",
+    "phone": "+60362426819",
+    "tourism": "hotel",
+    "website": "https://www.booking.com/hotel/my/de-ideal.html?"
+  }
+},
+{
+  "type": "node",
+  "id": 7223813699,
+  "lat": 3.1655732,
+  "lon": 101.6997148,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Jalan Raja Bot",
+    "name": "Dahisha",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7231887477,
+  "lat": 3.1516591,
+  "lon": 101.6957509,
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "name": "Adya",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7281487736,
+  "lat": 3.1626205,
+  "lon": 101.6555970,
+  "tags": {
+    "name": "Dorsett",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7281507924,
+  "lat": 3.0905812,
+  "lon": 101.6814188,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "Oyo",
+    "name:en": "Oyo",
+    "name:ms": "Oyo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7284409139,
+  "lat": 3.1083529,
+  "lon": 101.5939764,
+  "tags": {
+    "name": "Bright Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7308426062,
+  "lat": 3.1760778,
+  "lon": 101.6847146,
+  "tags": {
+    "brand": "Midtown Villa",
+    "name": "Midtown Villa",
+    "name:en": "Midtown Villa",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7416109916,
+  "lat": 3.1676477,
+  "lon": 101.6522617,
+  "tags": {
+    "addr:unit": "G-2",
+    "branch": "Kuala Lumpur, Mont Kiara",
+    "brand": "Hyatt House",
+    "brand:wikidata": "Q109292191",
+    "brand:wikipedia": "en:Hyatt",
+    "breakfast": "yes",
+    "email": "kualalumpur.house@hyatt.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "HYATT House",
+    "name:en": "HYATT House",
+    "phone": "+603 6419 8688",
+    "rooms": "298",
+    "stars": "4",
+    "start_date": "2018-10-01",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7425340377,
+  "lat": 3.1482015,
+  "lon": 101.7083968,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "28",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Berangan",
+    "name": "Twenty 8B",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7425652903,
+  "lat": 3.1472292,
+  "lon": 101.7094958,
+  "tags": {
+    "name": "The Marker",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7425652909,
+  "lat": 3.1473048,
+  "lon": 101.7093599,
+  "tags": {
+    "name": "Hotel MSP",
+    "shop": "general",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7425791298,
+  "lat": 3.1479585,
+  "lon": 101.7083165,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "27",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Berangan",
+    "name": "Hexa",
+    "phone": "+603-2110 3328",
+    "tourism": "hotel",
+    "website": "https://hexahotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7452206864,
+  "lat": 3.2350997,
+  "lon": 101.6986252,
+  "tags": {
+    "brand": "Hotel 916",
+    "name": "Hotel 916",
+    "name:en": "Hotel 916",
+    "name:ms": "Hotel 916",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7454385448,
+  "lat": 3.1460975,
+  "lon": 101.7078989,
+  "tags": {
+    "name": "nous",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7454385465,
+  "lat": 3.1465163,
+  "lon": 101.7079665,
+  "tags": {
+    "name": "Rae",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7454385468,
+  "lat": 3.1467421,
+  "lon": 101.7082027,
+  "tags": {
+    "name": "Comfort Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7469390879,
+  "lat": 3.1554479,
+  "lon": 101.6963758,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "189",
+    "addr:postcode": "50100",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "email": "reservation@canaryhotelkl.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Canary",
+    "phone": "+60 3 2602 2205",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://www.canaryhotelkl.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7489735659,
+  "lat": 3.1452346,
+  "lon": 101.7142600,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO 486 Victory 2 Boutique Hotel",
+    "name:en": "OYO 486 Victory 2 Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7489922205,
+  "lat": 3.1407834,
+  "lon": 101.7122410,
+  "tags": {
+    "name": "Eighty-Eight Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7503236192,
+  "lat": 3.1438615,
+  "lon": 101.6985670,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "66",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Sultan",
+    "check_date": "2022-09-28",
+    "email": "info.tianjing@gmail.com",
+    "internet_access": "wlan",
+    "name": "Tian Jing",
+    "tourism": "hotel",
+    "website": "https://tianjinghitel.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7521760219,
+  "lat": 3.1540355,
+  "lon": 101.5952136,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:housenumber": "6",
+    "addr:postcode": "47810",
+    "addr:street": "Jalan PJU 5/20D,, The Strand, Kota Damansara",
+    "name": "Best View Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7521864006,
+  "lat": 3.1533679,
+  "lon": 101.5913087,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:housenumber": "1",
+    "addr:postcode": "47810",
+    "addr:street": "Jalan PJU 5/18, Dataran Sunway",
+    "name": "SH Hotel @ Kota Damansara",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7596648643,
+  "lat": 3.1714841,
+  "lon": 101.6921000,
+  "tags": {
+    "name": "Grand Pacific",
+    "name:en": "Grand Pacific",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7602084572,
+  "lat": 3.1448769,
+  "lon": 101.6647945,
+  "tags": {
+    "fixme": "Still in operation?",
+    "name": "Marvellous D28",
+    "name:en": "Marvellous D28",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7620617871,
+  "lat": 3.1445145,
+  "lon": 101.6987030,
+  "tags": {
+    "addr:housenumber": "95;97",
+    "addr:street": "Jalan Sultan",
+    "name": "Tang City",
+    "name:en": "Tang City",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7637699365,
+  "lat": 3.0726776,
+  "lon": 101.7106395,
+  "tags": {
+    "name": "V Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7653640473,
+  "lat": 3.0888957,
+  "lon": 101.6889592,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO My Home Hotel",
+    "source": "https://www.mapillary.com/app/?pKey=mVGayEkhYUDrsoMZXRvVeP&focus=photo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7661637128,
+  "lat": 3.0728281,
+  "lon": 101.6044689,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Sunway",
+    "name": "Sunway Clio Hotel",
+    "name:en": "Sunway Clio Hotel",
+    "source": "https://openstreetcam.org/details/2249590/2822",
+    "tourism": "hotel",
+    "website": "https://www.sunwayhotels.com/sunway-clio"
+  }
+},
+{
+  "type": "node",
+  "id": 7714286528,
+  "lat": 3.0813861,
+  "lon": 101.7343831,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO My Home Hotel",
+    "source": "https://www.mapillary.com/app/?pKey=taEd35HUkQjfQSlXV2LCmE&focus=photo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7742219617,
+  "lat": 3.1544345,
+  "lon": 101.5921056,
+  "tags": {
+    "name": "Hotel Sun Inns",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8145949731,
+  "lat": 3.2125567,
+  "lon": 101.6481605,
+  "tags": {
+    "name": "Hotel Lemon Tree",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8145949732,
+  "lat": 3.2125158,
+  "lon": 101.6483304,
+  "tags": {
+    "brand": "Hwa Loong Two Hotel",
+    "name": "Hwa Loong Two Hotel",
+    "name:en": "Hwa Loong Two Hotel",
+    "name:zh": "华龙酒店",
+    "name:zh-Hans": "华龙酒店",
+    "name:zh-Hant": "華龍酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8392687764,
+  "lat": 3.2375837,
+  "lon": 101.7002699,
+  "tags": {
+    "addr:street": "Jalan Prima SG 3",
+    "brand": "SOHO Hotel",
+    "name": "SOHO Hotel",
+    "name:en": "SOHO Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8525992292,
+  "lat": 3.1388779,
+  "lon": 101.6971580,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "8",
+    "addr:postcode": "50460",
+    "addr:street": "Jalan Kampung Attap",
+    "brand": "Howard Johnson",
+    "brand:wikidata": "Q5919997",
+    "name": "Howard Johnson Kuala Lumpur 118",
+    "name:en": "Howard Johnson Kuala Lumpur 118",
+    "note": "Average ratings.",
+    "official_name": "Howard Johnson by Wyndham",
+    "phone": "+60322739999",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8534399383,
+  "lat": 3.1671671,
+  "lon": 101.6920029,
+  "tags": {
+    "name": "Hotel Seri Pacific",
+    "phone": "+60340425555",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.seripacifichotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8539300807,
+  "lat": 3.1469491,
+  "lon": 101.7177413,
+  "tags": {
+    "name": "KLoé",
+    "name:en": "KLoé",
+    "name:ms": "KLoé",
+    "phone": "+60327721313",
+    "tourism": "hotel",
+    "website": "https://kloehotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8554928024,
+  "lat": 3.2239316,
+  "lon": 101.6712610,
+  "tags": {
+    "brand": "A&R Urban Hotel",
+    "name": "A&R Urban Hotel",
+    "name:en": "A&R Urban Hotel",
+    "note": "Good online ratings",
+    "phone": "+60362500777",
+    "tourism": "hotel",
+    "website": "https://www.anrhotel.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8554928025,
+  "lat": 3.2244779,
+  "lon": 101.6712798,
+  "tags": {
+    "brand": "Times Inn",
+    "name": "Times Inn",
+    "name:ms": "Times Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567891785,
+  "lat": 3.1664930,
+  "lon": 101.7012852,
+  "tags": {
+    "brand": "Kok Ping",
+    "name": "Kok Ping",
+    "name:en": "Kok Ping",
+    "name:ms": "Kok Ping",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567891787,
+  "lat": 3.1665105,
+  "lon": 101.7010558,
+  "tags": {
+    "brand": "28 Hotel",
+    "name": "28 Hotel",
+    "name:en": "28 Hotel",
+    "name:ms": "28 Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567891798,
+  "lat": 3.1669656,
+  "lon": 101.7007523,
+  "tags": {
+    "name": "King's Hotel",
+    "note": "Bad online ratings",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567895819,
+  "lat": 3.1669056,
+  "lon": 101.7019569,
+  "tags": {
+    "name": "Adamson",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567895820,
+  "lat": 3.1669303,
+  "lon": 101.7017078,
+  "tags": {
+    "name": "Kuala Lumpur International Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567965337,
+  "lat": 3.1672152,
+  "lon": 101.7006885,
+  "tags": {
+    "name": "Adamson Park",
+    "name:en": "Adamson Park",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567985949,
+  "lat": 3.1672421,
+  "lon": 101.7008502,
+  "tags": {
+    "brand": "Kok Bin",
+    "name": "Kok Bin",
+    "name:en": "Kok Bin",
+    "name:ms": "Kok Bin",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567985950,
+  "lat": 3.1672351,
+  "lon": 101.7009004,
+  "tags": {
+    "brand": "Hing Loong",
+    "name": "Hing Loong",
+    "name:en": "Hing Loong",
+    "name:ms": "Hing Loong",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567985951,
+  "lat": 3.1672352,
+  "lon": 101.7009818,
+  "tags": {
+    "addr:housenumber": "50&52",
+    "brand": "Hankyu",
+    "name": "Hankyu",
+    "name:en": "Hankyu",
+    "name:ms": "Hankyu",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567985952,
+  "lat": 3.1672270,
+  "lon": 101.7010885,
+  "tags": {
+    "addr:housenumber": "54&56",
+    "brand": "Merdeka",
+    "name": "Merdeka",
+    "name:ms": "Merdeka",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8567985958,
+  "lat": 3.1672796,
+  "lon": 101.7013332,
+  "tags": {
+    "addr:housenumber": "62&64",
+    "brand": "Sima",
+    "name": "Sima",
+    "name:en": "Sima",
+    "name:ms": "Sima",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8937439641,
+  "lat": 3.1973196,
+  "lon": 101.7207435,
+  "tags": {
+    "name": "Worldview Grand Hotel",
+    "name:zh": "盛世酒店",
+    "source": "https://www.mapillary.com/app/?pKey=157519933114172",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9409161137,
+  "lat": 3.1953031,
+  "lon": 101.6793697,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "646",
+    "addr:postcode": "51200",
+    "addr:street": "Jalan Ipoh",
+    "air_conditioning": "yes",
+    "branch": "Jalan Ipoh",
+    "brand": "Bunk & Bilik",
+    "email": "reservation.ji@bunkbilik.com",
+    "image": "https://scontent.fkul15-1.fna.fbcdn.net/v/t1.6435-9/51532658_2282168518462707_297945600765198336_n.png",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Bunk & Bilik Hotel Jalan Ipoh",
+    "name:en": "Bunk & Bilik Hotel Ipoh Road",
+    "name:ms": "Bunk & Bilik Hotel Jalan Ipoh",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "phone": "+60362413648",
+    "reservation": "recommended",
+    "rooms": "0",
+    "tourism": "hotel",
+    "website": "https://www.facebook.com/bunkbilikhotel/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9587525685,
+  "lat": 3.1449643,
+  "lon": 101.6179402,
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:postcode": "47800",
+    "addr:street": "Persiaran Bandar Utama",
+    "brand": "Avante Hotel",
+    "name": "Avante Hotel",
+    "name:en": "Avante Hotel",
+    "tourism": "hotel",
+    "website": "https://www.avantehotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 9593246299,
+  "lat": 3.1759043,
+  "lon": 101.6649205,
+  "tags": {
+    "name": "AMI Suites",
+    "phone": "+60362110188",
+    "tourism": "hotel",
+    "website": "https://www.amisuites.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9664677042,
+  "lat": 3.1204037,
+  "lon": 101.7286749,
+  "tags": {
+    "brand": "Hotel Mezzo",
+    "name": "Hotel Mezzo",
+    "name:en": "Hotel Mezzo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9738866180,
+  "lat": 3.1668538,
+  "lon": 101.6957997,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "61",
+    "addr:postcode": "50350",
+    "addr:street": "Jalan Putra",
+    "brand": "Lazdana Hotels & Resorts",
+    "email": "reservations@lazdanakualalumpur.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Lazdana Hotel Kuala Lumpur",
+    "phone": "+60340433881",
+    "tourism": "hotel",
+    "website": "https://www.lazdanakualalumpur.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9760722917,
+  "lat": 3.1456767,
+  "lon": 101.6978057,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:postcode": "50050",
+    "addr:street": "Jalan Tun Tan Cheng Lock",
+    "internet_access": "wlan",
+    "name": "Aces Hotel Kuala Lumpur",
+    "name:en": "Aces Hotel Kuala Lumpur",
+    "name:ms": "Aces Hotel Kuala Lumpur",
+    "opening_hours": "24/7",
+    "tourism": "hotel",
+    "website": "https://www.aceshotels.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9903396584,
+  "lat": 3.1531653,
+  "lon": 101.6966915,
+  "tags": {
+    "name": "MPalace Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9906740813,
+  "lat": 3.1458187,
+  "lon": 101.6958961,
+  "tags": {
+    "addr:housenumber": "1;3",
+    "addr:street": "Lebuh Pudu",
+    "name": "Santa Grand Classic Central Market",
+    "name:en": "Santa Grand Classic Central Market",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9916202760,
+  "lat": 3.1672590,
+  "lon": 101.6940553,
+  "tags": {
+    "brand": "Hotel Fujisan",
+    "name": "Hotel Fujisan",
+    "name:en": "Hotel Fujisan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9930719924,
+  "lat": 3.1665163,
+  "lon": 101.6961083,
+  "tags": {
+    "name": "Hotel JRL",
+    "name:zh": "大光酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9939890219,
+  "lat": 3.1152656,
+  "lon": 101.6681073,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "Tower D",
+    "addr:postcode": "59200",
+    "addr:street": "Jalan Pantai Baru",
+    "email": "reservation@imperialregencysuites.com",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Imperial Regency Suites & Hotel Bangsar",
+    "name:en": "Imperial Regency Suites & Hotel",
+    "phone": "+603 2201 5888",
+    "rooms": "378",
+    "tourism": "hotel",
+    "website": "https://www.imperialregencysuites.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9946288714,
+  "lat": 3.1446137,
+  "lon": 101.7121165,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Pan Pacific",
+    "brand:wikidata": "Q4272131",
+    "name": "Pan Pacific Serviced Suites Kuala Lumpur",
+    "name:en": "Pan Pacific Serviced Suites Kuala Lumpur",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9983024318,
+  "lat": 3.1045264,
+  "lon": 101.5956319,
+  "tags": {
+    "brand": "Le Méridien",
+    "brand:wikidata": "Q261077",
+    "name": "Le Méridien",
+    "name:en": "Le Méridien",
+    "name:ms": "Le Méridien",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10012964624,
+  "lat": 3.1442182,
+  "lon": 101.6963590,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Else Kuala Lumpur",
+    "name:en": "Else Kuala Lumpur",
+    "name:ms": "Else Kuala Lumpur",
+    "phone": "+60164202455",
+    "rooms": "49",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://elseretreats.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10176062893,
+  "lat": 3.1656651,
+  "lon": 101.7015541,
+  "tags": {
+    "name": "Hotel Raja Bot",
+    "source": "https://www.mapillary.com/app/?pKey=176868097681208&focus=photo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10199666716,
+  "lat": 3.1444378,
+  "lon": 101.7062231,
+  "tags": {
+    "brand": "citizenM",
+    "brand:wikidata": "Q5122531",
+    "check_date": "2024-11-28",
+    "name": "citizenM",
+    "name:en": "citizenM",
+    "phone": "+60392126340",
+    "tourism": "hotel",
+    "website": "https://www.citizenm.com/hotels/asia/kuala-lumpur/kuala-lumpur-bukit-bintang-hotel?utm_source=Google&utm_medium=organic&y_source=1_NDkyNzM5MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+  }
+},
+{
+  "type": "node",
+  "id": 10201060494,
+  "lat": 3.1449036,
+  "lon": 101.7182937,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "25",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Kamuning, Imbi",
+    "brand": "Lloyd's Inn",
+    "email": "kualalumpur@lloydsinn.com",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Lloyd's Inn Kuala Lumpur (Lloyd's Inn KL)",
+    "name:en": "Lloyd's Inn Kuala Lumpur (Lloyd's Inn KL)",
+    "phone": "+60 3 2777 8988",
+    "rooms": "110",
+    "tourism": "hotel",
+    "website": "https://www.lloydsinn.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10212261378,
+  "lat": 3.1691739,
+  "lon": 101.6962759,
+  "tags": {
+    "check_date": "2025-03-20",
+    "name": "NZ Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10232124365,
+  "lat": 3.1661854,
+  "lon": 101.6978127,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Smile",
+    "phone": "+60340507722",
+    "tourism": "hotel",
+    "website": "https://www.smilehotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 10264639624,
+  "lat": 3.1445574,
+  "lon": 101.7154174,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "35",
+    "addr:postcode": "551001",
+    "addr:street": "Jalan Barat",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100086547734395&is_tour_dismissed=true",
+    "name": "Aman",
+    "opening_hours": "24/7",
+    "phone": "+60 11-1851 3288",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10277199948,
+  "lat": 3.1689862,
+  "lon": 101.6959593,
+  "tags": {
+    "name": "Zi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10290612479,
+  "lat": 3.1705726,
+  "lon": 101.6952432,
+  "tags": {
+    "addr:housenumber": "96",
+    "addr:street": "Jalan Datuk Haji Eusof",
+    "brand": "Hotel GDS",
+    "name": "Hotel GDS",
+    "name:en": "Hotel GDS",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10536154088,
+  "lat": 3.0972037,
+  "lon": 101.6316354,
+  "tags": {
+    "name": "Hotel Sri Sultra",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10675523441,
+  "lat": 3.1545990,
+  "lon": 101.6965421,
+  "tags": {
+    "level": "1",
+    "name": "T-Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10675591219,
+  "lat": 3.1669518,
+  "lon": 101.6981294,
+  "tags": {
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "name": "28 Rapid Hotel",
+    "name:en": "Hotel Run Star",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10692433398,
+  "lat": 3.1503591,
+  "lon": 101.6962878,
+  "tags": {
+    "brand": "Lotus Hotel",
+    "name": "Lotus Hotel",
+    "name:en": "Lotus Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10701993372,
+  "lat": 3.1193904,
+  "lon": 101.6757017,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Mid Valley",
+    "name": "St. Giles The Gardens",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10704177539,
+  "lat": 3.1589542,
+  "lon": 101.6966698,
+  "tags": {
+    "addr:housenumber": "285-287",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "brand": "Hotel Selesa",
+    "name": "Hotel Selesa",
+    "name:ms": "Hotel Selesa",
+    "note": "Closed",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10704177540,
+  "lat": 3.1582780,
+  "lon": 101.6958998,
+  "tags": {
+    "brand": "Premiera Hotel",
+    "name": "Premiera Hotel",
+    "name:en": "Premiera Hotel",
+    "name:ms": "Premiera Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10709203039,
+  "lat": 3.1664109,
+  "lon": 101.6966600,
+  "tags": {
+    "name": "Hotel Travel Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10721503599,
+  "lat": 3.1599216,
+  "lon": 101.6977093,
+  "tags": {
+    "brand": "T-Signature Hotel KL",
+    "name": "T-Signature Hotel KL",
+    "name:en": "T-Signature Hotel KL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10721507405,
+  "lat": 3.1603792,
+  "lon": 101.6973054,
+  "tags": {
+    "brand": "Hotel Destino",
+    "name": "Hotel Destino",
+    "name:en": "Hotel Destino",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10739639449,
+  "lat": 3.1710970,
+  "lon": 101.6957339,
+  "tags": {
+    "addr:housenumber": "62",
+    "addr:street": "Jalan Lumut",
+    "brand": "V Hotel",
+    "name": "V Hotel",
+    "name:en": "V Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10742972410,
+  "lat": 3.1663357,
+  "lon": 101.6965063,
+  "tags": {
+    "name": "MS City Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10777181315,
+  "lat": 3.1161186,
+  "lon": 101.6636600,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "1",
+    "addr:postcode": "59200",
+    "addr:street": "Jalan Pantai Jaya, Tower 3,",
+    "brand": "Wyndham Grand",
+    "brand:wikidata": "Q112144849",
+    "brand:wikipedia": "Wyndham Grand",
+    "email": "sales@wyndhamgrandbangsarkl.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Wyndham Grand Bangsar Kuala Lumpur",
+    "name:en": "Wyndham Grand Bangsar Kuala Lumpur",
+    "phone": "+60 3 22981888",
+    "rooms": "513",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.wyndhamhotels.com/wyndham-grand/kuala-lumpur-malaysia/wyndham-grand-bangsar-kuala-lumpur/overview"
+  }
+},
+{
+  "type": "node",
+  "id": 10790344329,
+  "lat": 3.1643226,
+  "lon": 101.6975716,
+  "tags": {
+    "name": "Hotel Kim Kok",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10791687393,
+  "lat": 3.1645567,
+  "lon": 101.6980640,
+  "tags": {
+    "name": "Hotel Pak Fook",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10791687397,
+  "lat": 3.1648144,
+  "lon": 101.6984427,
+  "tags": {
+    "name": "Hotel Seeds",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10807023513,
+  "lat": 3.1536744,
+  "lon": 101.7007575,
+  "tags": {
+    "addr:housenumber": "36",
+    "addr:street": "Jalan Ampang",
+    "brand": "Santa Grand Signature Kuala Lumpur",
+    "name": "Santa Grand Signature Kuala Lumpur",
+    "name:en": "Santa Grand Signature Kuala Lumpur",
+    "phone": "+60320271969",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.santagrandhotels.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 10821167250,
+  "lat": 3.1719857,
+  "lon": 101.6973579,
+  "tags": {
+    "name": "Le Ruiz",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10861872305,
+  "lat": 3.1451376,
+  "lon": 101.7128345,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO 90780 J Hotel Bukit Bintang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10867090275,
+  "lat": 3.1528087,
+  "lon": 101.6977187,
+  "tags": {
+    "addr:housenumber": "89",
+    "addr:street": "Medan Bunus",
+    "name": "MS Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10867090276,
+  "lat": 3.1528199,
+  "lon": 101.6979332,
+  "tags": {
+    "addr:housenumber": "81",
+    "addr:street": "Medan Bunus",
+    "amenity": "restaurant",
+    "name": "Hotel De’Grand Orchad",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10867090280,
+  "lat": 3.1528167,
+  "lon": 101.6978813,
+  "tags": {
+    "addr:housenumber": "83",
+    "addr:street": "Medan Bunus",
+    "name": "Hotel De’Grand Orchad",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10867841605,
+  "lat": 3.1453734,
+  "lon": 101.7138730,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "OYO 90780 J Hotel Bukit Bintang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10883802092,
+  "lat": 3.1725257,
+  "lon": 101.6987591,
+  "tags": {
+    "addr:housenumber": "126",
+    "addr:street": "Jalan Pahang",
+    "brand": "KK Hotel",
+    "level": "1",
+    "name": "KK Hotel",
+    "name:en": "KK Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10889048354,
+  "lat": 3.1534525,
+  "lon": 101.6976414,
+  "tags": {
+    "addr:housenumber": "141",
+    "addr:street": "Jalan Bunus",
+    "name": "Hotel Grand Orchard",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10941968863,
+  "lat": 3.1508636,
+  "lon": 101.6979254,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:street": "Jalan Ampang",
+    "name": "Maha Empire",
+    "name:en": "Maha Empire",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10959371549,
+  "lat": 3.1678302,
+  "lon": 101.7013469,
+  "tags": {
+    "addr:housenumber": "63",
+    "brand": "Hotle 3winz",
+    "name": "Hotle 3winz",
+    "name:en": "Hotle 3winz",
+    "name:ms": "Hotle 3winz",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10968603960,
+  "lat": 3.1584122,
+  "lon": 101.6965693,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Jalan Medan Tuanku",
+    "name": "M Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11029805661,
+  "lat": 3.1590211,
+  "lon": 101.6972752,
+  "tags": {
+    "addr:street": "Lorong Medan Tuanku 1",
+    "name": "Prescott Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11063320645,
+  "lat": 3.1610013,
+  "lon": 101.7125631,
+  "tags": {
+    "name": "Ascott Star KLCC",
+    "name:en": "Ascott Star KLCC",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11063370535,
+  "lat": 3.1633937,
+  "lon": 101.7135109,
+  "tags": {
+    "name": "Scarletz Suites @ KL City Centre",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11063370536,
+  "lat": 3.1633653,
+  "lon": 101.7135860,
+  "tags": {
+    "name": "Mana Mana Hospitality",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11063370537,
+  "lat": 3.1634363,
+  "lon": 101.7134337,
+  "tags": {
+    "name": "Hugoz Suites",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11118811815,
+  "lat": 3.1615802,
+  "lon": 101.6986528,
+  "tags": {
+    "name": "Living At Dsulaiman",
+    "name:en": "Living At Dsulaiman",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11145780512,
+  "lat": 3.1449603,
+  "lon": 101.7138668,
+  "tags": {
+    "name": "Hotel InnB Park",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11193760194,
+  "lat": 3.1573020,
+  "lon": 101.7056171,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Four Points by Sheraton",
+    "brand:wikidata": "Q1439966",
+    "name": "Four Points by Sheraton",
+    "name:en": "Four Points by Sheraton",
+    "rooms": "513",
+    "short_name": "Four Points",
+    "source": "https://hype.my/2023/313949/renaissance-kl-four-points-by-sheraton-re-debuting-as-first-marriotts-dual-branded-hotel-in-malaysia/",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11264079111,
+  "lat": 3.1652498,
+  "lon": 101.7063501,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "Jalan Raja Uda",
+    "name": "Akar Hotel Jalan Raja Uda",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11265951293,
+  "lat": 3.1712935,
+  "lon": 101.6985064,
+  "tags": {
+    "name": "Stays",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11292481062,
+  "lat": 3.1324480,
+  "lon": 101.6885523,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "20",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Thambipillay",
+    "air_conditioning": "yes",
+    "contact:facebook": "https://www.facebook.com/mandmhotel/",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "M&M Hotel",
+    "phone": "03-2276 0005",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11332998051,
+  "lat": 3.1494550,
+  "lon": 101.6976746,
+  "tags": {
+    "addr:housenumber": "34",
+    "addr:street": "Leboh Ampang",
+    "name": "Hotel Ahyu",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11354763261,
+  "lat": 3.1646002,
+  "lon": 101.7006454,
+  "tags": {
+    "name": "Hawa Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11365625053,
+  "lat": 3.1323145,
+  "lon": 101.6872886,
+  "tags": {
+    "addr:housenumber": "128",
+    "name": "De Sentral Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11366043931,
+  "lat": 3.1661290,
+  "lon": 101.7019527,
+  "tags": {
+    "name": "Adamson Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11405196654,
+  "lat": 3.1671059,
+  "lon": 101.6993507,
+  "tags": {
+    "brand": "Cross Roads Hotel",
+    "name": "Cross Roads Hotel",
+    "name:en": "Cross Roads Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11418514975,
+  "lat": 3.1478780,
+  "lon": 101.7116943,
+  "tags": {
+    "name": "33 Star",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11428617385,
+  "lat": 3.1672164,
+  "lon": 101.7007673,
+  "tags": {
+    "brand": "VIP BukitTuKL",
+    "name": "VIP BukitTuKL",
+    "name:en": "VIP BukitTuKL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11445422669,
+  "lat": 3.1458045,
+  "lon": 101.7022036,
+  "tags": {
+    "addr:housenumber": "60",
+    "addr:street": "Jalan Pudu",
+    "name": "Kawana Tourist Inn",
+    "name:en": "Kameleoon Travellers Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11506037950,
+  "lat": 3.1665427,
+  "lon": 101.6958670,
+  "tags": {
+    "name": "Hotel Seri Putra",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11506037952,
+  "lat": 3.1640789,
+  "lon": 101.7047253,
+  "tags": {
+    "name": "Hotel Redstone Boutique",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11535074641,
+  "lat": 3.2076969,
+  "lon": 101.6580884,
+  "tags": {
+    "description": "Good online ratings.",
+    "name": "Suwara",
+    "phone": "+60127216391",
+    "tourism": "hotel",
+    "website": "https://www.suwarakepong.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 11578628381,
+  "lat": 3.1388712,
+  "lon": 101.7096863,
+  "tags": {
+    "addr:housenumber": "179",
+    "addr:street": "Jalan Pudu",
+    "name": "ECO Hotel @ Bukit Bintang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11583800572,
+  "lat": 3.1455370,
+  "lon": 101.6975855,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "50050",
+    "addr:street": "Jalan Tun Tan Cheng Lock",
+    "name": "Pacific Express Hotel Chinatown",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11583910285,
+  "lat": 3.1320108,
+  "lon": 101.6877002,
+  "tags": {
+    "fixme": "Is it like an additional building of the hotel to the southwest?",
+    "level": "1",
+    "name": "My Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11584361945,
+  "lat": 3.1490862,
+  "lon": 101.7088775,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "1",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Nagasari",
+    "brand": "PARKROYAL",
+    "brand:wikidata": "Q7138631",
+    "internet_access": "yes",
+    "name": "PARKROYAL Serviced Suites Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11591163437,
+  "lat": 3.1324568,
+  "lon": 101.6874617,
+  "tags": {
+    "addr:housenumber": "122",
+    "addr:street": "Jalan Tun Sambanthan",
+    "name": "Check-in",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11591293081,
+  "lat": 3.1289586,
+  "lon": 101.6841976,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "50470",
+    "addr:street": "Jalan Tun Sambanthan",
+    "addr:suburb": "Brickfields",
+    "name": "Hotel Alia",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11591319192,
+  "lat": 3.1134619,
+  "lon": 101.6043751,
+  "tags": {
+    "name": "Sovotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11624480246,
+  "lat": 3.1458506,
+  "lon": 101.6968788,
+  "tags": {
+    "addr:housenumber": "1;3",
+    "addr:street": "Jalan Petaling",
+    "name": "Hotel Cojoy",
+    "name:en": "Hotel Cojoy",
+    "name:ms": "Hotel Cojoy",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11670883641,
+  "lat": 3.1434895,
+  "lon": 101.6978800,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "70;72",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Petaling",
+    "contact:email": "contact@hotelchinatown2.com",
+    "contact:mobile": "+60 17-680 9928",
+    "contact:phone": "+60 3-2332 4779",
+    "contact:website": "www.hotelchinatown2.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "China Town 2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11681502737,
+  "lat": 3.1490624,
+  "lon": 101.6969595,
+  "tags": {
+    "name": "Big M Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11697059969,
+  "lat": 3.1431985,
+  "lon": 101.6976145,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "89",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Petaling",
+    "contact:facebook": "https://m.facebook.com/Hotel-Alamanda-Petaling-Street-272450275459/",
+    "name": "Hotel Excel Inn",
+    "phone": "+60320704566",
+    "stars": "2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11730573569,
+  "lat": 3.1625218,
+  "lon": 101.6494365,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Business Hotel Hartamas",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11747690169,
+  "lat": 3.1451389,
+  "lon": 101.6975951,
+  "tags": {
+    "addr:housenumber": "14;16",
+    "addr:street": "Jalan Petaling",
+    "name": "SCC Gateway Chinatown Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11775184019,
+  "lat": 3.1778435,
+  "lon": 101.6861120,
+  "tags": {
+    "air_conditioning": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Hotel New Cloud",
+    "name:en": "Hotel New Cloud",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11807068388,
+  "lat": 3.1326789,
+  "lon": 101.7177270,
+  "tags": {
+    "name": "Sakura Hotel",
+    "name:zh": "樱花酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11820478395,
+  "lat": 3.1509155,
+  "lon": 101.7476976,
+  "tags": {
+    "name": "Oyo Hotel",
+    "tourism": "hotel",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11821042572,
+  "lat": 3.1433413,
+  "lon": 101.7083291,
+  "tags": {
+    "addr:housenumber": "4th floor",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Bukit Bintang",
+    "internet_access": "wlan",
+    "name": "OA The Factory at Bukit Bintang",
+    "name:de": "OA The Factory at Bukit Bintang",
+    "phone": "+60122308866",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11889257008,
+  "lat": 3.1644336,
+  "lon": 101.6118876,
+  "tags": {
+    "name": "Manhattan Business Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11890514769,
+  "lat": 3.1440807,
+  "lon": 101.7138245,
+  "tags": {
+    "name": "The Freedom Club Hostel KL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11928501469,
+  "lat": 3.1457680,
+  "lon": 101.6969412,
+  "tags": {
+    "addr:housenumber": "5;7",
+    "addr:street": "Jalan Petaling",
+    "name": "Space Hotel @ China Town Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11966036770,
+  "lat": 3.1433893,
+  "lon": 101.6978695,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "74-1",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Petaling",
+    "name": "SCC Chinatown",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12037033086,
+  "lat": 3.1297780,
+  "lon": 101.7151115,
+  "tags": {
+    "name": "One-Stop Residence Hotel & Office",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12064277113,
+  "lat": 3.0774407,
+  "lon": 101.7323650,
+  "tags": {
+    "name": "Le Quadri Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12086915912,
+  "lat": 3.1460703,
+  "lon": 101.7143520,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Sleeping Lion Suites",
+    "phone": "+60321198999",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.sleepinglionsuites.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12102017015,
+  "lat": 3.1724163,
+  "lon": 101.6911554,
+  "tags": {
+    "addr:housenumber": "172&174",
+    "addr:street": "Jalan 1/64",
+    "name": "One Enigma Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12116439673,
+  "lat": 3.1419163,
+  "lon": 101.7008270,
+  "tags": {
+    "brand": "Park Hyatt",
+    "brand:wikidata": "Q115794911",
+    "capacity": "252",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "100-112",
+    "name": "Park Hyatt Kuala Lumpur",
+    "phone": "+60 3 2333 1234",
+    "stars": "5",
+    "start_date": "2025-08-07",
+    "tourism": "hotel",
+    "website": "https://www.hyatt.com/park-hyatt/en-US/kulph-park-hyatt-kuala-lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 12116672660,
+  "lat": 3.0989627,
+  "lon": 101.6870451,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "24-2",
+    "addr:postcode": "58100",
+    "addr:street": "Jalan 5/109F",
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "description": "Average to bad online ratings.",
+    "name": "OYO 89652 Bjorn Boutique Hotel",
+    "phone": "+60350378296",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://www.oyorooms.com/89900/"
+  }
+},
+{
+  "type": "node",
+  "id": 12139782385,
+  "lat": 3.1424116,
+  "lon": 101.6972878,
+  "tags": {
+    "name": "Sand Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12196890464,
+  "lat": 3.1176527,
+  "lon": 101.6733143,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "3",
+    "addr:postcode": "59200",
+    "addr:street": "Jalan Bangsar",
+    "contact:facebook": "https://www.facebook.com/amarikualalumpur",
+    "contact:instagram": "https://www.instagram.com/amarikualalumpur",
+    "contact:twitter": "https://www.instagram.com/amarikualalumpur",
+    "name": "Hotel Amari",
+    "phone": "+60323305800",
+    "rooms": "252",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.amari.com/kuala-lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 12198559872,
+  "lat": 3.2339084,
+  "lon": 101.6715026,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "name": "Cool Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12237564897,
+  "lat": 3.1475104,
+  "lon": 101.6961020,
+  "tags": {
+    "addr:housenumber": "19&21",
+    "name": "Everest Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12247856946,
+  "lat": 3.1560731,
+  "lon": 101.7261317,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Jalan Madge",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Villa Samadhi Kuala Lumpur",
+    "phone": "+60321432300",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.samadhiretreats.com/villa-samadhi-kuala-lumpur?catagoryId=16"
+  }
+},
+{
+  "type": "node",
+  "id": 12260537799,
+  "lat": 3.1426235,
+  "lon": 101.7051172,
+  "tags": {
+    "addr:housenumber": "26",
+    "name": "Chill Suites",
+    "phone": "+60174409339",
+    "tourism": "hotel",
+    "website": "https://chillglobalhotel.com/chill-suites-kuala-lumpur/"
+  }
+},
+{
+  "type": "node",
+  "id": 12276866981,
+  "lat": 3.1465278,
+  "lon": 101.7005292,
+  "tags": {
+    "addr:street": "Jalan Pudu Lama",
+    "brand": "Ramada",
+    "brand:wikidata": "Q1502859",
+    "check_date": "2024-12-09",
+    "name": "Ramada Encore",
+    "operator": "Wyndham",
+    "tourism": "hotel",
+    "website": "https://www.wyndhamhotels.com/ramada/kuala-lumpur/ramada-encore-chinatown-kuala-lumpur/rooms-rates"
+  }
+},
+{
+  "type": "node",
+  "id": 12276866984,
+  "lat": 3.1462204,
+  "lon": 101.7004997,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Jalan Pudu",
+    "description": "Good online reviews.",
+    "name": "HSK",
+    "phone": "+60133330030",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12276866985,
+  "lat": 3.1461962,
+  "lon": 101.7005903,
+  "tags": {
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "description": "Bad online reviews.",
+    "name": "OYO 90160 Kl City Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12299515802,
+  "lat": 3.1592713,
+  "lon": 101.7045224,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:postcode": "50250",
+    "addr:street": "Mercu Summer Suites, 8, Jalan Cendana, Kampung Baru, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malasia",
+    "name": "NN Hotel KLCC",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12381254071,
+  "lat": 3.1443572,
+  "lon": 101.7063596,
+  "tags": {
+    "check_date": "2024-11-28",
+    "name": "Kingston",
+    "name:en": "Kingston",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12434755801,
+  "lat": 3.1320980,
+  "lon": 101.7090116,
+  "tags": {
+    "addr:housenumber": "172",
+    "addr:street": "Jalan Loke Yew",
+    "internet_access": "wlan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12465037833,
+  "lat": 3.1189916,
+  "lon": 101.7604030,
+  "tags": {
+    "name": "Hotel Grand Village",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12550819398,
+  "lat": 3.1473551,
+  "lon": 101.6975557,
+  "tags": {
+    "brand": "Moxy",
+    "brand:wikidata": "Q70287020",
+    "name": "Moxy",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12603735380,
+  "lat": 3.1661546,
+  "lon": 101.6979917,
+  "tags": {
+    "addr:street": "Jalan Chow Kit",
+    "name": "Yoon Thye",
+    "phone": "+60340426336",
+    "tourism": "hotel",
+    "website": "yoonthye@hotmail.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12603874234,
+  "lat": 3.1358473,
+  "lon": 101.6915180,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Jalan Scott",
+    "name": "Hotel Classic Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12645428524,
+  "lat": 3.1452804,
+  "lon": 101.7152630,
+  "tags": {
+    "name": "Prime",
+    "phone": "+601126690434",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12728227777,
+  "lat": 3.2121801,
+  "lon": 101.6479508,
+  "tags": {
+    "level": "1",
+    "name": "Hwa Loong",
+    "phone": "+60362501561",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12736375404,
+  "lat": 3.1527748,
+  "lon": 101.7059243,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Jalan Puncak",
+    "name": "Hotel Indigo by IHG",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12736386501,
+  "lat": 3.1269150,
+  "lon": 101.6759093,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "Jalan Maarof",
+    "brand": "Holiday Inn",
+    "brand:wikidata": "Q2717882",
+    "name": "Holiday Inn Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12858952750,
+  "lat": 3.1497303,
+  "lon": 101.7050944,
+  "tags": {
+    "email": "info@themaplesuite.com",
+    "name": "The Maple Suite",
+    "phone": "+603 20263333",
+    "source": "Local Knowledge",
+    "tourism": "hotel",
+    "website": "https://www.themaplesuite.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12859138441,
+  "lat": 3.1484676,
+  "lon": 101.7030734,
+  "tags": {
+    "name": "Suasana Suites",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12859319202,
+  "lat": 3.1484877,
+  "lon": 101.7020488,
+  "tags": {
+    "name": "Ceylonz Suites @ Bukit Ceylon",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12901933881,
+  "lat": 3.1445965,
+  "lon": 101.6977112,
+  "tags": {
+    "addr:housenumber": "38",
+    "addr:street": "Jalan Petaling",
+    "name": "Lantern Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12922735245,
+  "lat": 3.1445077,
+  "lon": 101.6984771,
+  "tags": {
+    "addr:housenumber": "34;36",
+    "addr:street": "Jalan Hang Lekir",
+    "name": "Hotel Pollodium",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12958943649,
+  "lat": 3.1581070,
+  "lon": 101.7185789,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Jalan Binjai",
+    "alt_name": "PNB Perdana Hotel & Suites Kuala Lumpur",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Perdana Kuala Lumpur City Centre",
+    "name:en": "Perdana Kuala Lumpur City Centre",
+    "phone": "+60374903333",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://perdana.attanahotels.com/perdana-klcc"
+  }
+},
+{
+  "type": "node",
+  "id": 12961370419,
+  "lat": 3.1469759,
+  "lon": 101.7153901,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "168",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Imbi",
+    "brand": "The Ritz-Carlton",
+    "brand:wikidata": "Q782200",
+    "brand:wikipedia": "en:The Ritz-Carlton Hotel Company",
+    "name": "The Ritz-Carlton, Kuala Lumpur",
+    "source:stars": "http://tourism.gov.my",
+    "stars": "5",
+    "tourism": "hotel",
+    "wikidata": "Q7336899",
+    "wikimedia_commons": "Category:Ritz-Carlton Kuala Lumpur",
+    "wikipedia": "en:Ritz-Carlton Kuala Lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 12965648237,
+  "lat": 3.1376738,
+  "lon": 101.7095019,
+  "tags": {
+    "name": "No One Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13012915182,
+  "lat": 3.1431463,
+  "lon": 101.6979224,
+  "tags": {
+    "addr:street": "Jalan Petaling",
+    "name": "B Hotel",
+    "tourism": "hotel",
+    "website": "https://bhotel.com.my/"
+  }
+},
+{
+  "type": "node",
+  "id": 13012957182,
+  "lat": 3.1439811,
+  "lon": 101.6978086,
+  "tags": {
+    "addr:street": "Jalan Petaling",
+    "name": "Hotel Chinatown Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13012957188,
+  "lat": 3.1436151,
+  "lon": 101.6978776,
+  "tags": {
+    "addr:housenumber": "64;66;68",
+    "addr:street": "Jalan Petaling",
+    "name": "Floresta Hotel @ Chinatown",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13041737302,
+  "lat": 3.1303516,
+  "lon": 101.6899595,
+  "tags": {
+    "name": "Upper Hotel Suites Kl Sentral",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13049434293,
+  "lat": 3.1479713,
+  "lon": 101.7138511,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "183",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Bukit Bintang",
+    "brand": "JW Marriott",
+    "brand:wikidata": "Q1067636",
+    "brand:wikipedia": "en:JW Marriott Hotels",
+    "name": "JW Marriott Hotel Kuala Lumpur",
+    "phone": "+60 3 2715 9000",
+    "star_rating": "5",
+    "star_rating:source": "http://tourism.gov.my",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.marriott.com/hotels/travel/kuldt-jw-marriott-hotel-kuala-lumpur/",
+    "wheelchair": "yes",
+    "wikidata": "Q6109256",
+    "wikipedia": "en:JW Marriott Kuala Lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 13056381558,
+  "lat": 3.1266389,
+  "lon": 101.6754657,
+  "tags": {
+    "brand": "Holiday Inn",
+    "brand:wikidata": "Q2717882",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Holiday Inn",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.ihg.com/holidayinn/hotels/us/en/kuala-lumpur/kulba/hoteldetail"
+  }
+},
+{
+  "type": "node",
+  "id": 13075304400,
+  "lat": 3.1428828,
+  "lon": 101.7081910,
+  "tags": {
+    "addr:housenumber": "202",
+    "addr:street": "Jalan Pudu",
+    "name": "Asia Like Boutique Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13099974432,
+  "lat": 3.1536113,
+  "lon": 101.7121373,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "12",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Pinang",
+    "brand": "Grand Hyatt",
+    "brand:wikidata": "Q115794899",
+    "brand:wikipedia": "en:Hyatt",
+    "email": "kualalumpur.grand@hyatt.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Grand Hyatt",
+    "name:en": "Grand Hyatt",
+    "name:ms": "Grand Hyatt",
+    "name:zh": "吉隆坡君悦酒店",
+    "name:zh-Hans": "吉隆坡君悦酒店",
+    "name:zh-Hant": "吉隆坡君悅酒店",
+    "phone": "+60 3 2182 1234",
+    "rooms": "412",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.hyatt.com/grand-hyatt/en-US/kuagh-grand-hyatt-kuala-lumpur",
+    "wikidata": "Q5594654",
+    "wikimedia_commons": "Category:Grand Hyatt Kuala Lumpur",
+    "wikipedia": "en:Grand Hyatt Kuala Lumpur"
+  }
+},
+{
+  "type": "node",
+  "id": 13140203000,
+  "lat": 3.1428129,
+  "lon": 101.7079227,
+  "tags": {
+    "addr:housenumber": "198;200",
+    "addr:street": "Jalan Pudu",
+    "name": "Swings & Pillows",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13152719626,
+  "lat": 3.1437500,
+  "lon": 101.6985576,
+  "tags": {
+    "name": "Hotel Uptown",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13157641037,
+  "lat": 3.1135314,
+  "lon": 101.7293399,
+  "tags": {
+    "name": "M Design Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13302903032,
+  "lat": 3.1191723,
+  "lon": 101.6774351,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Mid Valley",
+    "name": "The Boulevard St. Giles Premier Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13339741447,
+  "lat": 3.1433947,
+  "lon": 101.7086761,
+  "tags": {
+    "level": "10",
+    "name": "Sungold Inn Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13341597146,
+  "lat": 3.1351955,
+  "lon": 101.6912737,
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Jalan Tun Sambanthan 3",
+    "name": "Sun Inns International",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13357135278,
+  "lat": 3.2089983,
+  "lon": 101.6580519,
+  "tags": {
+    "name": "Hotel 99",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13403758945,
+  "lat": 3.0879241,
+  "lon": 101.7423258,
+  "tags": {
+    "name": "Hotel 33",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13422392101,
+  "lat": 3.0762181,
+  "lon": 101.6105086,
+  "tags": {
+    "name": "Oscar Inn Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13511296596,
+  "lat": 3.1760338,
+  "lon": 101.6977464,
+  "tags": {
+    "name": "Hotel Smile",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13525381700,
+  "lat": 3.1509894,
+  "lon": 101.7484371,
+  "tags": {
+    "addr:housenumber": "53A",
+    "addr:street": "Jalan Sulaiman 1",
+    "name": "Hotel Grand Palace",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13525508946,
+  "lat": 3.1509764,
+  "lon": 101.7481518,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Jalan Excella",
+    "name": "1One Ampang Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 13539920434,
+  "lat": 3.1541033,
+  "lon": 101.7150455,
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "50088",
+    "brand": "Shangri-La",
+    "email": "kualalumpur@tradershotels.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Traders Hotel",
+    "name:en": "Traders Hotel",
+    "phone": "+603-2332 9888",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://www.shangri-la.com/kualalumpur/traders/"
+  }
+},
+{
+  "type": "way",
+  "id": 23034610,
+  "center": {
+    "lat": 3.1594830,
+    "lon": 101.7179585
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "165",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "brand": "InterContinental",
+    "brand:wikidata": "Q1825730",
+    "brand:wikipedia": "en:InterContinental",
+    "building": "hotel",
+    "height": "114",
+    "name": "InterContinental Kuala Lumpur",
+    "name:en": "InterContinental Kuala Lumpur",
+    "stars": "5",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 24585842,
+  "center": {
+    "lat": 3.1465551,
+    "lon": 101.7001841
+  },
+  "tags": {
+    "addr:housenumber": "100",
+    "addr:street": "Jalan Pudu Lama",
+    "building": "hotel",
+    "name": "Check In Hotel",
+    "phone": "+60 3-2026 6636",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28215296,
+  "center": {
+    "lat": 3.1427856,
+    "lon": 101.6969908
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "2-8",
+    "addr:street": "Jalan Sultan",
+    "building": "yes",
+    "disused": "yes",
+    "disused:tourism": "hotel",
+    "name": "Hotel Mandarin Pacific",
+    "name:en": "Hotel Mandarin Pacific",
+    "name:zh": "文华大酒店",
+    "name:zh-Hans": "文华大酒店",
+    "name:zh-Hant": "文華大酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28215337,
+  "center": {
+    "lat": 3.1426409,
+    "lon": 101.6975839
+  },
+  "tags": {
+    "addr:housenumber": "109",
+    "addr:street": "Jalan Petaling",
+    "building": "hotel",
+    "building:levels": "3",
+    "height": "9",
+    "name": "D Loft Hotel",
+    "old_name": "Bangunan Luen Seng Bersaudara",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28224160,
+  "center": {
+    "lat": 3.1467205,
+    "lon": 101.6957801
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Hang Kasturi",
+    "brand": "Pacific Express Hotel Central Market",
+    "building": "commercial",
+    "building:levels": "10",
+    "height": "30",
+    "name": "Pacific Express Hotel Central Market",
+    "name:en": "Pacific Express Hotel Central Market",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28234537,
+  "center": {
+    "lat": 3.1546335,
+    "lon": 101.6966585
+  },
+  "tags": {
+    "addr:housenumber": "157-159",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "building": "yes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28271266,
+  "center": {
+    "lat": 3.1473448,
+    "lon": 101.7156525
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "172",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Imbi",
+    "brand": "Dorsett",
+    "building": "hotel",
+    "height": "73",
+    "name": "Dorsett Kuala Lumpur Hotel",
+    "name:en": "Dorsett Kuala Lumpur Hotel",
+    "source:stars": "http://tourism.gov.my",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28271268,
+  "center": {
+    "lat": 3.1433395,
+    "lon": 101.7097974
+  },
+  "tags": {
+    "brand": "Hotel Melia",
+    "building": "yes",
+    "height": "93",
+    "name": "Hotel Melia",
+    "name:en": "Hotel Melia",
+    "star_rating": "4",
+    "star_rating:source": "http://tourism.gov.my",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28271279,
+  "center": {
+    "lat": 3.1443261,
+    "lon": 101.7088579
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "35",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Bukit Bintang",
+    "building": "yes",
+    "height": "9.73",
+    "name": "The Federal Kuala Lumpur",
+    "star_rating": "4",
+    "star_rating:source": "http://tourism.gov.my",
+    "tourism": "hotel",
+    "website": "https://www.fhihotels.com/index.php/federal-contact-us",
+    "wikidata": "Q7733615",
+    "wikimedia_commons": "Category:Federal Hotel, Kuala Lumpur",
+    "wikipedia": "en:The Federal Kuala Lumpur"
+  }
+},
+{
+  "type": "way",
+  "id": 28271289,
+  "center": {
+    "lat": 3.1440238,
+    "lon": 101.7084972
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "21",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Bukit Bintang",
+    "brand": "Hotel Royal Signature",
+    "building": "hotel",
+    "height": "93",
+    "name": "Hotel Royal Signature",
+    "name:en": "Hotel Royal Signature",
+    "name:ms": "Hotel Royal Signature",
+    "star_rating": "4",
+    "star_rating:source": "http://tourism.gov.my",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 28287719,
+  "center": {
+    "lat": 3.1007214,
+    "lon": 101.7397884
+  },
+  "tags": {
+    "brand": "Hotel Caliber",
+    "building": "commercial",
+    "building:levels": "6",
+    "name": "Hotel Caliber",
+    "name:en": "Hotel Caliber",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 50882143,
+  "center": {
+    "lat": 3.1602642,
+    "lon": 101.7148762
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Persiaran Hampshire",
+    "building": "yes",
+    "name": "Corus Hotel",
+    "name:en": "Corus Hotel",
+    "name:ms": "Corus Hotel",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.corushotel-kl.com"
+  }
+},
+{
+  "type": "way",
+  "id": 122300607,
+  "center": {
+    "lat": 3.1479959,
+    "lon": 101.7121961
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "25",
+    "layer": "1",
+    "name": "Grand Millenium",
+    "name:en": "Grand Millenium",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 133992206,
+  "center": {
+    "lat": 3.0467200,
+    "lon": 101.7093632
+  },
+  "tags": {
+    "air_conditioning": "yes",
+    "building": "yes",
+    "internet_access": "yes",
+    "name": "Palace of the Golden Horses Hotel",
+    "name:en": "Palace of the Golden Horses Hotel",
+    "name:zh": "金马酒店",
+    "name:zh-Hans": "金马酒店",
+    "name:zh-Hant": "金馬飯店",
+    "source": "Bing",
+    "stars": "5",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 144479311,
+  "center": {
+    "lat": 3.1025358,
+    "lon": 101.6410061
+  },
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:housenumber": "2",
+    "addr:postcode": "46200",
+    "addr:street": "Jalan Barat",
+    "brand": "Hilton",
+    "brand:wikidata": "Q598884",
+    "brand:wikipedia": "en:Hilton Hotels & Resorts",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/hiltonpetalingjaya",
+    "contact:instagram": "https://www.instagram.com/hiltonpetalingjaya",
+    "contact:twitter": "https://twitter.com/Hilton_PJ",
+    "email": "petalingjaya.info@hilton.com",
+    "internet_access": "yes",
+    "name": "Hilton Petaling Jaya",
+    "name:en": "Hilton Petaling Jaya",
+    "operator": "Hilton Worldwide",
+    "phone": "+60 3 7955 9122",
+    "rooms": "547",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.hilton.com/en/hotels/pethitw-hilton-petaling-jaya/",
+    "wikidata": "Q111404087",
+    "wikipedia": "zh:八打灵再也希尔顿酒店"
+  }
+},
+{
+  "type": "way",
+  "id": 154354137,
+  "center": {
+    "lat": 3.1178717,
+    "lon": 101.6783429
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Mid Valley",
+    "brand": "Cititel Hotel",
+    "building": "hotel",
+    "building:levels": "25",
+    "name": "Cititel Hotel",
+    "name:en": "Cititel Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 201436652,
+  "center": {
+    "lat": 3.0484348,
+    "lon": 101.7059473
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Sungai Besi",
+    "air_conditioning": "yes",
+    "brand": "Nouvelle Hotel",
+    "building": "yes",
+    "name": "Nouvelle Hotel",
+    "name:en": "Nouvelle Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 221195020,
+  "center": {
+    "lat": 3.0722329,
+    "lon": 101.6083639
+  },
+  "tags": {
+    "brand": "Sunway Pyramid Hotel",
+    "building": "yes",
+    "name": "Sunway Pyramid Hotel",
+    "name:en": "Sunway Pyramid Hotel",
+    "old_name": "Pyramid Tower Hotel",
+    "tourism": "hotel",
+    "website": "https://www.sunwayhotels.com/sunway-pyramid"
+  }
+},
+{
+  "type": "way",
+  "id": 244500316,
+  "center": {
+    "lat": 3.1549582,
+    "lon": 101.7081988
+  },
+  "tags": {
+    "brand": "Holiday Villa Group",
+    "building": "hotel_&_service_suites",
+    "name": "Crown Regency Serviced Suites",
+    "name:en": "Crown Regency Serviced Suites",
+    "name:zh": "皇冠丽晶服务套房酒店",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 253594619,
+  "center": {
+    "lat": 3.1401171,
+    "lon": 101.7103973
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housename": "Furama Bukit Bintang",
+    "addr:housenumber": "136",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Changkat Thambi Dollah",
+    "brand": "Furama Bukit Bintang",
+    "building": "yes",
+    "height": "122",
+    "name": "Furama Bukit Bintang",
+    "name:en": "Furama Bukit Bintang",
+    "tourism": "hotel",
+    "website": "http://www.furama.com/bukitbintang"
+  }
+},
+{
+  "type": "way",
+  "id": 283544355,
+  "center": {
+    "lat": 3.1568079,
+    "lon": 101.6089051
+  },
+  "tags": {
+    "building": "hotel",
+    "building:levels": "14",
+    "height": "56",
+    "name": "Royale Chulan Damansara",
+    "name:en": "Royale Chulan Damansara",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 290642285,
+  "center": {
+    "lat": 3.1530940,
+    "lon": 101.7081146
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "17",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Sultan Ismail",
+    "brand": "Hyatt Centric",
+    "brand:wikidata": "Q109277705",
+    "building": "hotel",
+    "email": "kualalumpur.centric@hyatt.com",
+    "internet_access": "yes",
+    "name": "Hyatt Centric City Centre Kuala Lumpur",
+    "phone": "+60 3 9388 1234",
+    "rooms": "430",
+    "source": "Bing",
+    "tourism": "hotel",
+    "website": "https://www.hyatt.com/hyatt-centric/kulct-hyatt-centric-city-centre-kuala-lumpur"
+  }
+},
+{
+  "type": "way",
+  "id": 310242457,
+  "center": {
+    "lat": 3.1571270,
+    "lon": 101.7524437
+  },
+  "tags": {
+    "building": "commercial",
+    "building:levels": "12",
+    "name": "De Palma Hotel",
+    "tourism": "hotel",
+    "website": "http://www.depalmahotelonline.com"
+  }
+},
+{
+  "type": "way",
+  "id": 315848381,
+  "center": {
+    "lat": 3.1748979,
+    "lon": 101.6575402
+  },
+  "tags": {
+    "building": "hotel",
+    "email": "enquiries@wedgewoodresidences.com",
+    "name": "Wedgewood Residences",
+    "name:en": "Wedgewood Residences",
+    "phone": "+60362009000",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.wedgewoodresidences.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 323293140,
+  "center": {
+    "lat": 3.1508210,
+    "lon": 101.7086669
+  },
+  "tags": {
+    "brand": "Holiday Inn Express",
+    "brand:wikidata": "Q5880423",
+    "brand:wikipedia": "en:Holiday Inn Express",
+    "building": "yes",
+    "height": "92",
+    "name": "Holiday Inn Express",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 428729497,
+  "center": {
+    "lat": 3.1978354,
+    "lon": 101.6076512
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "5",
+    "addr:postcode": "52200",
+    "addr:street": "Jalan Cempaka SD 12/5",
+    "brand": "Ibis Styles",
+    "brand:wikidata": "Q3147425",
+    "brand:wikipedia": "en:Ibis Styles",
+    "building": "yes",
+    "name": "Ibis Styles",
+    "name:en": "Ibis Styles",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 446145551,
+  "center": {
+    "lat": 3.1540843,
+    "lon": 101.6967355
+  },
+  "tags": {
+    "addr:housenumber": "135",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "building": "hotel",
+    "name": "Frenz Hotel",
+    "tourism": "hotel",
+    "website": "http://www.frenzhotelkualalumpur.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 469717862,
+  "center": {
+    "lat": 3.1583223,
+    "lon": 101.7172427
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "161D",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "building": "hotel",
+    "name": "The ZON All Suites Residences on the park",
+    "name:en": "The ZON All Suites Residences on the park",
+    "phone": "+60 32164 8000",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.zonhotel.com.my/"
+  }
+},
+{
+  "type": "way",
+  "id": 472561893,
+  "center": {
+    "lat": 3.1105463,
+    "lon": 101.6653783
+  },
+  "tags": {
+    "building": "hotel",
+    "layer": "2",
+    "name": "Ve* Hotel & Residence",
+    "name:en": "Ve* Hotel & Residence",
+    "phone": "+60322462888",
+    "tourism": "hotel",
+    "website": "https://www.vehotel.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 480024532,
+  "center": {
+    "lat": 3.1361889,
+    "lon": 101.6909893
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "10",
+    "addr:street": "Jalan Tun Sambanthan",
+    "building": "hotel",
+    "name": "Scott",
+    "name:en": "Scott",
+    "name:ms": "Scott",
+    "phone": "+60322731222",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.scotthotel.com.my/"
+  }
+},
+{
+  "type": "way",
+  "id": 494571480,
+  "center": {
+    "lat": 3.1826624,
+    "lon": 101.6804164
+  },
+  "tags": {
+    "brand": "Cairnhill",
+    "building": "hotel",
+    "name": "Cairnhill",
+    "name:en": "Cairnhill",
+    "name:ms": "Cairnhill",
+    "phone": "+60362433600",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 524812840,
+  "center": {
+    "lat": 3.1580789,
+    "lon": 101.7138657
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "145",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Ampang",
+    "brand": "Four Seasons",
+    "brand:wikidata": "Q1424786",
+    "brand:wikipedia": "en:Four Seasons Hotels and Resorts",
+    "building": "hotel",
+    "building:levels": "65",
+    "building:levels:underground": "3",
+    "height": "342",
+    "image": "https://photos.app.goo.gl/BHzmFKvLcrh1WJEt5",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Four Seasons Place Kuala Lumpur",
+    "name:en": "Four Seasons Place Kuala Lumpur",
+    "name:ms": "Four Seasons Place Kuala Lumpur",
+    "name:zh": "吉隆坡四季酒店",
+    "name:zh-Hans": "吉隆坡四季酒店",
+    "name:zh-Hant": "吉隆坡四季酒店",
+    "phone": "+603 2382 8888",
+    "stars": "5",
+    "start_date": "2018-11-18",
+    "tourism": "hotel",
+    "website": "https://www.fourseasons.com/kualalumpur/",
+    "wikidata": "Q30643059",
+    "wikimedia_commons": "Category:Four Seasons Hotel Kuala Lumpur",
+    "wikipedia": "en:Four Seasons Place Kuala Lumpur"
+  }
+},
+{
+  "type": "way",
+  "id": 562992598,
+  "center": {
+    "lat": 3.1470392,
+    "lon": 101.6612598
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "6",
+    "addr:postcode": "50490",
+    "addr:street": "Jalan Damanlela",
+    "brand": "Sofitel",
+    "brand:wikidata": "Q749431",
+    "building": "hotel",
+    "name": "Sofitel Kuala Lumpur Damansara",
+    "name:en": "Sofitel Kuala Lumpur Damansara",
+    "operator": "Sofitel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 605117575,
+  "center": {
+    "lat": 3.1549043,
+    "lon": 101.7012951
+  },
+  "tags": {
+    "addr:housenumber": "66",
+    "addr:street": "Jalan Ampang",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/florabycrossroads/",
+    "email": "florabycrh@gmail.com",
+    "image": "https://photos.app.goo.gl/SxxewZKYuw8dHMHp7",
+    "name": "Flora By Crossroads Hotel",
+    "name:en": "Flora By Crossroads Hotel",
+    "phone": "+60 3-2022 4020",
+    "tourism": "hotel",
+    "website": "https://www.crossroads-hotel.com/flora/"
+  }
+},
+{
+  "type": "way",
+  "id": 612798733,
+  "center": {
+    "lat": 3.1658071,
+    "lon": 101.6119763
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Jalan PJU 8/8A",
+    "building": "yes",
+    "building:levels": "27",
+    "height": "108",
+    "name": "Qliq Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 663775277,
+  "center": {
+    "lat": 3.1442261,
+    "lon": 101.7055600
+  },
+  "tags": {
+    "addr:housenumber": "117",
+    "addr:street": "Jalan Pudu",
+    "brand": "Grand Mercure",
+    "building": "yes",
+    "name": "Grand Mercure Hotel",
+    "name:en": "Grand Mercure Hotel",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 681828692,
+  "center": {
+    "lat": 3.1372722,
+    "lon": 101.7006228
+  },
+  "tags": {
+    "brand": "Mandarin Court",
+    "building": "yes",
+    "name": "Mandarin Court",
+    "name:en": "Mandarin Court",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 688233928,
+  "center": {
+    "lat": 3.1717553,
+    "lon": 101.7123598
+  },
+  "tags": {
+    "addr:street": "Jalan 2/65A",
+    "air_conditioning": "yes",
+    "brand": "OYO",
+    "brand:wikidata": "Q24906315",
+    "building": "hotel",
+    "building:levels": "50",
+    "internet_access": "wlan",
+    "name": "OYO 466 Home Studio Expressionz",
+    "name:en": "OYO 466 Home Studio Expressionz",
+    "roof:shape": "flat",
+    "tourism": "hotel",
+    "website": "https://www.oyorooms.com/43709-premium-oyo-home-466-expressionz-suites-studio-kuala-lumpur?rooms_config=1%2C0%2C0",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 708742098,
+  "center": {
+    "lat": 3.1475611,
+    "lon": 101.7088097
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Berangan",
+    "building": "hotel",
+    "name": "MOV Hotel",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 709204614,
+  "center": {
+    "lat": 3.1408644,
+    "lon": 101.6978053
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "2",
+    "addr:postcode": "50000",
+    "addr:street": "Jalan Balai Polis",
+    "alt_name": "吉隆玻兹厂街福朋喜来登饭店",
+    "alt_name:zh": "吉隆玻兹厂街福朋喜来登饭店",
+    "alt_name:zh-Hans": "吉隆玻兹厂街福朋喜来登饭店",
+    "alt_name:zh-Hant": "吉隆玻茲廠街福朋喜來登飯店",
+    "brand": "Four Points by Sheraton",
+    "brand:short": "Four Points",
+    "brand:wikidata": "Q1439966",
+    "brand:wikipedia": "en:Four Points by Sheraton",
+    "building": "hotel",
+    "building:levels": "20",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Four Points by Sheraton Kuala Lumpur, Chinatown",
+    "name:en": "Four Points by Sheraton Kuala Lumpur, Chinatown",
+    "name:zh": "吉隆玻唐人街福朋喜来登饭店",
+    "name:zh-Hans": "吉隆玻唐人街福朋喜来登饭店",
+    "name:zh-Hant": "吉隆玻唐人街福朋喜來登飯店",
+    "phone": "+60 32035 7333",
+    "rooms": "318",
+    "short_name": "Four Points",
+    "short_name:en": "Four Points",
+    "short_name:ms": "Four Points",
+    "short_name:zh": "福朋喜来登",
+    "short_name:zh-Hans": "福朋喜来登",
+    "short_name:zh-Hant": "福朋喜來登",
+    "tourism": "hotel",
+    "website": "https://www.marriott.com/hotels/travel/kulfc-four-points-kuala-lumpur-chinatown/"
+  }
+},
+{
+  "type": "way",
+  "id": 718099418,
+  "center": {
+    "lat": 3.1633389,
+    "lon": 101.7024884
+  },
+  "tags": {
+    "addr:housenumber": "120",
+    "addr:postcode": "50300",
+    "addr:street": "Jalan Raja Abdullah",
+    "building": "hotel",
+    "email": "info@tamuhotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "TAMU Hotel & Suites",
+    "phone": "+603 2603 1999",
+    "tourism": "hotel",
+    "website": "https://tamuhotel.com"
+  }
+},
+{
+  "type": "way",
+  "id": 721658065,
+  "center": {
+    "lat": 3.1689771,
+    "lon": 101.6979990
+  },
+  "tags": {
+    "brand": "Fairfield Inn",
+    "brand:wikidata": "Q5430314",
+    "building": "hotel",
+    "name": "Fairfield By Marriott",
+    "name:en": "Fairfield By Marriott",
+    "official_name": "Fairfield by Marriott",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 765753829,
+  "center": {
+    "lat": 3.1142726,
+    "lon": 101.6653141
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "20",
+    "addr:postcode": "59200",
+    "addr:street": "Jalan Kerinchi Kiri 3",
+    "building": "yes",
+    "layer": "1",
+    "name": "Komune Living",
+    "name:en": "Komune Living",
+    "tourism": "hotel",
+    "website": "https://komuneliving.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 773684751,
+  "center": {
+    "lat": 3.1632827,
+    "lon": 101.7145311
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "32",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Yap Kwan Seng",
+    "brand": "Ibis",
+    "brand:wikidata": "Q920166",
+    "brand:wikipedia": "en:Ibis (hotel)",
+    "building": "yes",
+    "email": "emailH8732@accor.com",
+    "name": "Ibis Kuala Lumpur City Centre",
+    "opening_hours": "24/7",
+    "phone": "+60327783333",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://all.accor.com/hotel/8732/index.en.shtml"
+  }
+},
+{
+  "type": "way",
+  "id": 773902884,
+  "center": {
+    "lat": 3.1659879,
+    "lon": 101.6996903
+  },
+  "tags": {
+    "brand": "Hotel Brisdale",
+    "building": "hotel",
+    "building:levels": "18",
+    "name": "Hotel Brisdale",
+    "name:en": "Hotel Brisdale",
+    "name:ms": "Hotel Brisdale",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 800917285,
+  "center": {
+    "lat": 3.1617767,
+    "lon": 101.6963437
+  },
+  "tags": {
+    "brand": "Grand Continental Kuala Lumpur",
+    "building": "hotel",
+    "name": "Grand Continental Kuala Lumpur",
+    "name:en": "Grand Continental Kuala Lumpur",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 800917286,
+  "center": {
+    "lat": 3.1619037,
+    "lon": 101.6958632
+  },
+  "tags": {
+    "brand": "Wyndham",
+    "building": "hotel",
+    "name": "Trigo Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 800917289,
+  "center": {
+    "lat": 3.1627788,
+    "lon": 101.6952787
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:place": "Chow Kit",
+    "addr:street": "Jalan Tiong Nam",
+    "brand": "Club Dolphin Hotel",
+    "building": "hotel",
+    "name": "Club Dolphin Hotel",
+    "name:en": "Club Dolphin Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 800917291,
+  "center": {
+    "lat": 3.1633407,
+    "lon": 101.6954338
+  },
+  "tags": {
+    "building": "hotel",
+    "name": "Steg Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 828536841,
+  "center": {
+    "lat": 3.1291827,
+    "lon": 101.6447946
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "60000",
+    "addr:street": "Jalan KGPA",
+    "brand": "M Resort & Hotel",
+    "name": "M Resort & Hotel",
+    "name:en": "M Resort & Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 868421989,
+  "center": {
+    "lat": 3.1524154,
+    "lon": 101.7143737
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "7",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Kia Peng",
+    "building": "residential",
+    "building:levels": "40",
+    "contact:instagram": "https://www.instagram.com/therumahotel/",
+    "email": "information@theruma.com",
+    "facebook": "https://www.facebook.com/therumahotel",
+    "height": "162.4",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "The RuMa Hotel & Residences",
+    "name:en": "The RuMa Hotel & Residences",
+    "note": "Very good online ratings",
+    "phone": "+60 3 2778 0888",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://theruma.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 884003697,
+  "center": {
+    "lat": 3.0799011,
+    "lon": 101.5960423
+  },
+  "tags": {
+    "building": "hotel",
+    "name": "Grand Dorsett Subang",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 919104607,
+  "center": {
+    "lat": 3.1423637,
+    "lon": 101.7192182
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:postcode": "55188",
+    "addr:street": "Lingkaran TRX",
+    "air_conditioning": "yes",
+    "bar": "yes",
+    "branch": "Kuala Lumpur",
+    "brand": "Kimpton",
+    "brand:wikidata": "Q6410248",
+    "building": "hotel",
+    "building:levels": "26",
+    "email": "kimptonnaluriakualalumpur@ihg.com",
+    "internet_access": "yes",
+    "layer": "1",
+    "name": "Kimpton Naluria Kuala Lumpur",
+    "name:en": "Kimpton Hotel Kuala Lumpur",
+    "opening_date": "2025",
+    "phone": "+60-3-27088888",
+    "rooms": "466",
+    "tourism": "hotel",
+    "website": "https://www.ihg.com/kimptonhotels/hotels/us/en/kuala-lumpur/kulte/hoteldetail"
+  }
+},
+{
+  "type": "way",
+  "id": 919510542,
+  "center": {
+    "lat": 3.1468086,
+    "lon": 101.7171785
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "No 7",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Jati",
+    "building": "hotel",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "J-Hotel by Dorsett",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 919590951,
+  "center": {
+    "lat": 3.1465595,
+    "lon": 101.7151849
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "160",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Imbi",
+    "air_conditioning": "yes",
+    "bar": "yes",
+    "building": "hotel",
+    "building:levels": "40",
+    "check_date": "2024-03-30",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Capri by Fraser",
+    "name:en": "Capri by Fraser",
+    "phone": "+60323816888",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "http://www.frasershospitality.com/en/malaysia/kualalumpur/capri-by-fraser-bukit-bintang/"
+  }
+},
+{
+  "type": "way",
+  "id": 929637991,
+  "center": {
+    "lat": 3.1656746,
+    "lon": 101.6960797
+  },
+  "tags": {
+    "addr:housenumber": "110",
+    "addr:street": "Jalan Raja Laut",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Hotel Grand Mutiara",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 966102786,
+  "center": {
+    "lat": 3.2064880,
+    "lon": 101.7212144
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "4.5",
+    "name": "Hotel Festival",
+    "source": "https://www.mapillary.com/app/?pKey=131905212420534",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1009670593,
+  "center": {
+    "lat": 3.1042411,
+    "lon": 101.6406967
+  },
+  "tags": {
+    "brand": "Hotel Armada",
+    "building:levels": "25",
+    "building:part": "yes",
+    "name": "Hotel Armada Petaling Jaya",
+    "name:en": "Hotel Armada Petaling Jaya",
+    "name:ms": "Hotel Armada Petaling Jaya",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1009670596,
+  "center": {
+    "lat": 3.1038454,
+    "lon": 101.6399351
+  },
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "addr:postcode": "46200",
+    "addr:street": "Jalan Utara C",
+    "brand": "Sheraton",
+    "brand:wikidata": "Q634831",
+    "brand:wikipedia": "en:Sheraton Hotels and Resorts",
+    "building:part": "yes",
+    "internet_access": "yes",
+    "name": "Sheraton Petaling Jaya Hotel",
+    "rooms": "253",
+    "stars": "5",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1009689769,
+  "center": {
+    "lat": 3.1570960,
+    "lon": 101.6113850
+  },
+  "tags": {
+    "building": "hotel",
+    "name": "Royale Chulan The Curve",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1018447960,
+  "center": {
+    "lat": 3.1477162,
+    "lon": 101.6172119
+  },
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "building": "hotel",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "layer": "1",
+    "name": "One World Hotel",
+    "name:en": "One World Hotel",
+    "name:zh": "世界酒店",
+    "name:zh-Hans": "世界酒店",
+    "name:zh-Hant": "世界酒店",
+    "phone": "+60376811111",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.oneworldhotel.com.my/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1081868411,
+  "center": {
+    "lat": 3.0537795,
+    "lon": 101.6709084
+  },
+  "tags": {
+    "brand": "Hyatt Place",
+    "brand:wikidata": "Q72629292",
+    "building": "hotel",
+    "name": "Hyatt Place",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1112280771,
+  "center": {
+    "lat": 3.1630208,
+    "lon": 101.6983456
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Swiss Meadow Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1112304715,
+  "center": {
+    "lat": 3.1673329,
+    "lon": 101.6996142
+  },
+  "tags": {
+    "addr:street": "Jalan Raja Muda Abdul Aziz",
+    "building": "hotel",
+    "building:levels": "6",
+    "name": "Hotel Putra Muda",
+    "name:ms": "Hotel Putra Muda",
+    "name:zh": "富华酒店",
+    "name:zh-Hans": "富华酒店",
+    "name:zh-Hant": "富華飯店",
+    "source": "https://www.mapillary.com/app/?pKey=342869783974614&focus=photo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1148185914,
+  "center": {
+    "lat": 3.1632595,
+    "lon": 101.7140401
+  },
+  "tags": {
+    "brand": "Crowne Plaza",
+    "brand:wikidata": "Q2746220",
+    "building:part": "commercial",
+    "description": "Hotel in north tower of Royce Residence",
+    "name": "Crowne Plaza Kuala Lumpur City Centre",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1148283494,
+  "center": {
+    "lat": 3.1285190,
+    "lon": 101.7297188
+  },
+  "tags": {
+    "name": "Hotel Maluri",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1159437995,
+  "center": {
+    "lat": 3.1699646,
+    "lon": 101.6959744
+  },
+  "tags": {
+    "addr:street": "Jalan Datuk Haji Eusof",
+    "brand": "Hotel First Business Inn",
+    "building": "yes",
+    "name": "Hotel First Business Inn",
+    "name:en": "Hotel First Business Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1172932165,
+  "center": {
+    "lat": 3.0942190,
+    "lon": 101.7381061
+  },
+  "tags": {
+    "addr:housenumber": "Tower N",
+    "brand": "INNSiDE by Meliá",
+    "brand:wikidata": "Q115794915",
+    "building:levels": "22",
+    "building:part": "hotel",
+    "name": "INNSiDE by Meliá",
+    "name:en": "Tower N",
+    "tourism": "hotel",
+    "website": "https://www.melia.com/en/hotels/malaysia/kuala-lumpur/innside-kuala-lumpur-cheras"
+  }
+},
+{
+  "type": "way",
+  "id": 1231912566,
+  "center": {
+    "lat": 3.0944447,
+    "lon": 101.7398595
+  },
+  "tags": {
+    "building": "hotel",
+    "building:levels": "14",
+    "name": "The Graph Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1237772916,
+  "center": {
+    "lat": 3.1524818,
+    "lon": 101.7162173
+  },
+  "tags": {
+    "building": "hotel",
+    "building:levels": "54",
+    "contact:facebook": "https://www.facebook.com/imperiallexiskl/",
+    "contact:instagram": "https://www.instagram.com/imperiallexiskl/",
+    "contact:linkedin": "https://my.linkedin.com/showcase/imperiallexiskl/",
+    "contact:tiktok": "https://www.tiktok.com/@lexishotelgroup",
+    "contact:youtube": "https://www.youtube.com/c/LexisHotels",
+    "email": "stay@imperiallexiskl.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Imperial Lexis Kuala Lumpur",
+    "name:en": "Imperial Lexis Kuala Lumpur",
+    "phone": "+60321771188",
+    "smoking": "no",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.imperiallexiskl.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1239801237,
+  "center": {
+    "lat": 3.1814701,
+    "lon": 101.6693831
+  },
+  "tags": {
+    "brand": "Hyatt Regency",
+    "brand:wikidata": "Q115794868",
+    "building": "yes",
+    "check_date": "2025-07-08",
+    "name": "Hyatt Regency Kuala Lumpur at KL Midtown",
+    "opening_date": "2025-08-26",
+    "proposed:tourism": "hotel",
+    "source:url": "https://www.nst.com.my/business/corporate/2025/07/1240711/hyatt-regency-returns-kuala-lumpur-opens-aug-26",
+    "tourism": "hotel",
+    "website": "https://www.hyatt.com/hyatt-regency/en-US/kulrk-hyatt-regency-kuala-lumpur-at-kl-midtown"
+  }
+},
+{
+  "type": "way",
+  "id": 1247608640,
+  "center": {
+    "lat": 3.1467997,
+    "lon": 101.6954044
+  },
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Leboh Pasar Besar",
+    "brand": "Hotel Avenue J Central Market",
+    "building": "yes",
+    "description": "Good online ratings",
+    "email": "reception@avenuejhotels.com",
+    "facebook": "https://www.facebook.com/AvenueJHotels/",
+    "name": "Hotel Avenue J Central Market",
+    "name:en": "Hotel Avenue J Central Market",
+    "phone": "+60 32022 3338",
+    "tourism": "hotel",
+    "website": "http://www.avenuejhotels.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 1250972203,
+  "center": {
+    "lat": 3.1631788,
+    "lon": 101.6977982
+  },
+  "tags": {
+    "building": "hotel",
+    "building:levels": "5",
+    "name": "Hotel East Riverine",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1273851798,
+  "center": {
+    "lat": 3.1482144,
+    "lon": 101.6991594
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "13",
+    "addr:postcode": "50200",
+    "addr:street": "Jalan Raja Chulan",
+    "brand": "lyf",
+    "brand:wikidata": "Q132680230",
+    "building": "yes",
+    "building:levels": "13",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "lyf Chinatown Kuala Lumpur",
+    "name:en": "lyf Chinatown Kuala Lumpur",
+    "phone": "+60327068899",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://www.discoverasr.com/en/lyf/malaysia/lyf-chinatown-kuala-lumpur"
+  }
+},
+{
+  "type": "way",
+  "id": 1292831041,
+  "center": {
+    "lat": 3.0761994,
+    "lon": 101.6612612
+  },
+  "tags": {
+    "alt_name": "Courtyard Kuala Lumpur South",
+    "brand": "Courtyard",
+    "brand:wikidata": "Q1053170",
+    "building:levels": "66",
+    "building:part": "hotel",
+    "name": "Courtyard by Marriott",
+    "official_name": "Courtyard by Marriott",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1311565837,
+  "center": {
+    "lat": 3.1417732,
+    "lon": 101.6981938
+  },
+  "tags": {
+    "addr:housenumber": "126,128",
+    "addr:street": "Jalan Petaling",
+    "building": "hotel",
+    "description": "Very good online ratings.",
+    "name": "Yu Hotel Chinatown (YuYan Café & Hotel)",
+    "phone": "+601136882278",
+    "stars": "2",
+    "tourism": "hotel",
+    "website": "https://leveragehotel.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 1339065834,
+  "center": {
+    "lat": 3.1025427,
+    "lon": 101.7262292
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Zecon Hotel",
+    "phone": "+60 3-9174 9901",
+    "tourism": "hotel",
+    "website": "https://www.zeconhotel.com"
+  }
+},
+{
+  "type": "way",
+  "id": 1389165515,
+  "center": {
+    "lat": 3.1483397,
+    "lon": 101.7047626
+  },
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Jalan Ceylon",
+    "landuse": "commercial",
+    "name": "Indie Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1391099099,
+  "center": {
+    "lat": 3.1451172,
+    "lon": 101.6992707
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:street": "Jalan Pudu",
+    "name": "Ancasa Hotel KL",
+    "name:en": "Ancasa Hotel KL",
+    "phone": "+60320266060",
+    "tourism": "hotel",
+    "website": "http://www.ancasahotels.com/my"
+  }
+},
+{
+  "type": "way",
+  "id": 1391470939,
+  "center": {
+    "lat": 3.1225105,
+    "lon": 101.6821138
+  },
+  "tags": {
+    "addr:housenumber": "50",
+    "addr:street": "Jalan 2/87G",
+    "name": "Très Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1410115759,
+  "center": {
+    "lat": 3.1534136,
+    "lon": 101.7114409
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "13",
+    "addr:postcode": "50450",
+    "addr:street": "Jalan Pinang",
+    "building": "hotel",
+    "name": "Impiana KLCC",
+    "name:en": "Impiana KLCC",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1462289985,
+  "center": {
+    "lat": 3.1556936,
+    "lon": 101.7062431
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "50250",
+    "addr:street": "Jalan Sultan Ismail",
+    "check_date": "2025-12-28",
+    "landuse": "commercial",
+    "name": "Concorde Hotel",
+    "phone": "+603 2144 2200",
+    "stars": "4",
+    "tourism": "hotel",
+    "website": "https://kualalumpur.concordehotelsresorts.com/"
+  }
+},
+{
+  "type": "relation",
+  "id": 7739783,
+  "center": {
+    "lat": 3.1022189,
+    "lon": 101.6461613
+  },
+  "tags": {
+    "addr:city": "Petaling Jaya",
+    "building": "yes",
+    "name": "Shah's Village Hotel",
+    "tourism": "hotel",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13936201,
+  "center": {
+    "lat": 3.1375501,
+    "lon": 101.7137595
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "1",
+    "addr:postcode": "55100",
+    "addr:street": "Jalan Pudu",
+    "building": "hotel",
+    "building:levels": "12",
+    "layer": "1",
+    "name": "Hotel Pudu Plaza",
+    "name:zh": "富都广场酒店",
+    "tourism": "hotel",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14296779,
+  "center": {
+    "lat": 3.0710137,
+    "lon": 101.6088118
+  },
+  "tags": {
+    "building": "hotel",
+    "leisure": "resort",
+    "name": "Sunway Resort Hotel & Spa",
+    "name:en": "Sunway Resort Hotel & Spa",
+    "tourism": "hotel",
+    "type": "multipolygon",
+    "website": "https://www.sunwayhotels.com/sunway-resort"
+  }
+},
+{
+  "type": "relation",
+  "id": 14968560,
+  "center": {
+    "lat": 3.1642242,
+    "lon": 101.6984710
+  },
+  "tags": {
+    "addr:city": "Kuala Lumpur",
+    "addr:housenumber": "449-452",
+    "addr:postcode": "50100",
+    "addr:street": "Jalan Tuanku Abdul Rahman",
+    "brand": "Hilton Garden Inn",
+    "brand:wikidata": "Q1162859",
+    "brand:wikipedia": "en:Hilton Garden Inn",
+    "contact:email": "kulmy_res@hilton.com",
+    "contact:facebook": "https://www.facebook.com/hiltongardeninnkl",
+    "contact:fax": "+60327716000",
+    "contact:instagram": "https://www.instagram.com/hiltongardeninnkl",
+    "contact:phone": "+60327716888",
+    "contact:website": "https://www.hilton.com/en/hotels/kulmygi-hilton-garden-inn-kuala-lumpur-jalan-tuanku-abdul-rahman-south/?WT.mc_id=zDA0MY1GI2DMH3LocalSearch4DGGeneric_Jul56KULMYGI7EN8i1",
+    "email": "kulum_res@hilton.com",
+    "fax": "+60-3-27788000",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Hilton Garden Inn Kuala Lumpur",
+    "operator": "Hilton",
+    "payment:american_express": "yes",
+    "payment:mastercard": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "phone": "+60-3-27788888",
+    "rooms": "267",
+    "smoking": "no",
+    "stars": "4",
+    "tourism": "hotel",
+    "type": "multipolygon",
+    "website": "https://www.hilton.com/en/hotels/kulumgi-hilton-garden-inn-kuala-lumpur-jalan-tuanku-abdul-rahman-north/?WT.mc_id=zDA0MY1GI2DMH3LocalSearch4DGGeneric_Jan56KULUMGIEN8i1",
+    "wheelchair": "yes",
+    "wikidata": "Q70206906"
+  }
+},
+{
+  "type": "relation",
+  "id": 17082032,
+  "center": {
+    "lat": 3.1264600,
+    "lon": 101.6448042
+  },
+  "tags": {
+    "name": "Eastin Hotel",
+    "tourism": "hotel",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 17090292,
+  "center": {
+    "lat": 3.1179045,
+    "lon": 101.6297705
+  },
+  "tags": {
+    "name": "UKIYO Hotel",
+    "tourism": "hotel",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

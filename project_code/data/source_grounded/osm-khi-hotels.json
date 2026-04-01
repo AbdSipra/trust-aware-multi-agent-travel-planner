@@ -1,0 +1,4334 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:24:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1147219109,
+  "lat": 24.8438592,
+  "lon": 66.9956082,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Lalazar",
+    "addr:province": "Sindh",
+    "addr:street": "Beach Hotel Road",
+    "name": "Avari Beach Luxury Hotel",
+    "source": "http://www.avari.com/property/beach-luxury",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 1894620908,
+  "lat": 24.8752255,
+  "lon": 66.9452209,
+  "tags": {
+    "name": "Block 9",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3467541313,
+  "lat": 24.8476272,
+  "lon": 67.0259569,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Club Road",
+    "internet_access:fee": "yes",
+    "name": "Pearl Continental Hotel",
+    "operator": "Hasho Group",
+    "smoking": "isolated",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4100151200,
+  "lat": 24.9315402,
+  "lon": 67.1131181,
+  "tags": {
+    "name": "boys hostel NED",
+    "name:en": "Boys Hostel NED",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4299348389,
+  "lat": 24.8586305,
+  "lon": 67.0240900,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sarmad Road",
+    "email": "hotelalrayyan786@yahoo.com",
+    "internet_access": "wlan",
+    "name": "Al Rayyan Hotel",
+    "phone": "02135682742",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4388457290,
+  "lat": 24.8882509,
+  "lon": 67.1763304,
+  "tags": {
+    "name": "Tea, lunch,diner pathan hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4564625190,
+  "lat": 24.8592656,
+  "lon": 67.0259012,
+  "tags": {
+    "name": "green city hotel",
+    "name:en": "green city hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4724125606,
+  "lat": 24.8026402,
+  "lon": 67.0310723,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Abdul Sattar Edhi Road",
+    "internet_access": "yes",
+    "name": "Seaview Hotel",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4737196322,
+  "lat": 24.8668602,
+  "lon": 67.0837133,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Baloach Ramp SE",
+    "name": "Baloch Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4737637107,
+  "lat": 24.8887565,
+  "lon": 67.1563261,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "CAA Officers Mess",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4737637108,
+  "lat": 24.8887492,
+  "lon": 67.1573722,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Airport Road",
+    "name": "CAA Lodges",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4745771821,
+  "lat": 24.8589057,
+  "lon": 67.0246733,
+  "tags": {
+    "name": "Arafat Hotel",
+    "name:en": "Arafat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4758366430,
+  "lat": 24.8552560,
+  "lon": 67.0867201,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "Quetta Marhaba Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4759795939,
+  "lat": 24.8267208,
+  "lon": 67.0261603,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Boat Basin Food Street",
+    "name": "Frontier Hotel -Boat Basin",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4761891258,
+  "lat": 24.8227132,
+  "lon": 67.0276420,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:place": "Clifton Block 5",
+    "addr:street": "Park Lane",
+    "name": "New Mansoor Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4762522238,
+  "lat": 24.9166341,
+  "lon": 67.0961799,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "University Road",
+    "air_conditioning": "no",
+    "name": "New SubhanAllah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4762522255,
+  "lat": 24.9087338,
+  "lon": 67.0881773,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:city:ar": "كراتشي",
+    "addr:city:en": "Karachi",
+    "addr:city:ks": "کَرٲچی",
+    "addr:city:pnb": "کراچی",
+    "addr:city:ps": "کراچۍ",
+    "addr:city:sd": "ڪراچي",
+    "addr:city:ur": "کراچی",
+    "addr:street": "Ansari Saab Road",
+    "name": "Hotel Zameendar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4762522276,
+  "lat": 24.9090597,
+  "lon": 67.0826155,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "University Road",
+    "name": "Quetta Agha Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4764328934,
+  "lat": 24.8709624,
+  "lon": 67.1875409,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "New Quetta Darbar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4764492106,
+  "lat": 24.8935131,
+  "lon": 67.1869702,
+  "tags": {
+    "name": "Nadeem Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4767920540,
+  "lat": 24.8851128,
+  "lon": 67.1456352,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "name": "Bismillah Restaurant",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4767920541,
+  "lat": 24.8851276,
+  "lon": 67.1452850,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "name": "Subhan ALLAH hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4767920562,
+  "lat": 24.8825267,
+  "lon": 67.1453229,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "name": "Al Rahman Day & Night Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4767920565,
+  "lat": 24.8823854,
+  "lon": 67.1451973,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "name": "Quetta Darvesh Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4767920567,
+  "lat": 24.8820403,
+  "lon": 67.1452380,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "name": "Almashaikh Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4767920589,
+  "lat": 24.8788668,
+  "lon": 67.1375631,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Azeem Pura Road",
+    "name": "HR Dastarkhwan Tiffin Service",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769518763,
+  "lat": 24.8327668,
+  "lon": 67.1114574,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shah Muhammad Road",
+    "name": "New Quetta Dil Pasand Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769518796,
+  "lat": 24.8304136,
+  "lon": 67.1030734,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shah Muhammad Road",
+    "name": "MB Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769518805,
+  "lat": 24.8380497,
+  "lon": 67.0988281,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Korangi Industrial Area",
+    "name": "Malang Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769609479,
+  "lat": 24.8523393,
+  "lon": 67.0319199,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Fatima Jinnah Road",
+    "name": "Avari Towers",
+    "stars": "4",
+    "tourism": "hotel",
+    "wikidata": "Q4827753"
+  }
+},
+{
+  "type": "node",
+  "id": 4769609502,
+  "lat": 24.8518703,
+  "lon": 67.0337149,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "name": "Mehran Hotel",
+    "stars": "3",
+    "tourism": "hotel",
+    "wikidata": "Q5911725"
+  }
+},
+{
+  "type": "node",
+  "id": 4769800433,
+  "lat": 24.8258020,
+  "lon": 67.1069255,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Korangi Road",
+    "name": "AllahWala Mobile Mall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769937734,
+  "lat": 24.8315344,
+  "lon": 67.1227590,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shah Muhammad Road",
+    "name": "Punjabi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769937748,
+  "lat": 24.8245152,
+  "lon": 67.1270803,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Nasir Colony",
+    "name": "Babu Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769937771,
+  "lat": 24.8228522,
+  "lon": 67.1378388,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Landhi Road",
+    "name": "Masha Allah Quetta Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769937775,
+  "lat": 24.8234589,
+  "lon": 67.1378695,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Landhi Road",
+    "name": "Hafiz Pakwan Center",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769937776,
+  "lat": 24.8231580,
+  "lon": 67.1378112,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Landhi Road",
+    "name": "Chacha Pakistani Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4769937790,
+  "lat": 24.8412806,
+  "lon": 67.1420326,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Korangi No.2.5 Road",
+    "name": "Quetta Arafat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772709003,
+  "lat": 24.9042297,
+  "lon": 67.1140013,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Johar Flyover",
+    "name": "Quetta Pakistan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772739800,
+  "lat": 24.9083466,
+  "lon": 67.1097571,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Rashid Minhas Road",
+    "name": "Quetta Awami Zamindar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772739809,
+  "lat": 24.9070347,
+  "lon": 67.1112931,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Johar Flyover",
+    "name": "New Quetta Ashraf Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772739820,
+  "lat": 24.9051465,
+  "lon": 67.1132746,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Johar Flyover",
+    "name": "New Quetta Ahmeduallah Hasmi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772802695,
+  "lat": 24.9127996,
+  "lon": 67.1254376,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Safari Road",
+    "name": "Bismillah Hotel & Dhabba",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772802697,
+  "lat": 24.9127290,
+  "lon": 67.1256251,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Safari Road",
+    "name": "Quetta Agha Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772802711,
+  "lat": 24.9147528,
+  "lon": 67.1279946,
+  "tags": {
+    "addr:city": "کراچی",
+    "name": "خان ہوٹل",
+    "name:en": "Khan Hotel",
+    "name:ur": "خان ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772803721,
+  "lat": 24.9215929,
+  "lon": 67.1347241,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Professor Ghafoor Ahmed Road",
+    "name": "Chachu Chai",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772834135,
+  "lat": 24.9124574,
+  "lon": 67.1264671,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Professor Ghafoor Ahmed Road",
+    "name": "Quetta Chirag Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772934129,
+  "lat": 24.8470847,
+  "lon": 67.1596300,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Korangi Industrial Area",
+    "name": "Gulzar Hotel, Singer Chowrangi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4772934146,
+  "lat": 24.8443620,
+  "lon": 67.1670288,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Main Korangi Road",
+    "name": "Quettawal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4773122767,
+  "lat": 24.9260971,
+  "lon": 67.1382874,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Professor Ghafoor Ahmed Road",
+    "name": "Ghazi Greeb Nawaz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4773696657,
+  "lat": 24.8677076,
+  "lon": 67.0736943,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Justice Inamullah Rd",
+    "name": "Sana Heights",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4774671164,
+  "lat": 24.8781568,
+  "lon": 67.0678466,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Siraj ud Dula Road",
+    "name": "Society Tea",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4774671197,
+  "lat": 24.8801877,
+  "lon": 67.0646128,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah-e-Millat",
+    "name": "Chai In The Sky",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4777144306,
+  "lat": 24.8806154,
+  "lon": 67.0649292,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Bmchs Road No 2",
+    "name": "Pathan Chai Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4777144316,
+  "lat": 24.8815461,
+  "lon": 67.0659363,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Bmchs Road No 13",
+    "name": "Quetta hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4781343222,
+  "lat": 24.9045237,
+  "lon": 67.0963339,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dalmia Road",
+    "name": "Sindhi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4786004070,
+  "lat": 24.7810232,
+  "lon": 67.0559126,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayaban e Muslim",
+    "name": "New Quetta Al Makka Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4786124909,
+  "lat": 24.7935706,
+  "lon": 67.0660296,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "Bukhari Commercial Area",
+    "addr:province": "Sindh",
+    "addr:street": "Bukhari Commercial Lane 7",
+    "name": "Chinak dhaba",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4786500651,
+  "lat": 24.8154113,
+  "lon": 67.0707204,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "DHA Phase 7",
+    "addr:province": "Sindh",
+    "addr:street": "Khayaban e Seher",
+    "name": "Cafe Ghousia Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4786563419,
+  "lat": 24.8239446,
+  "lon": 67.0712236,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "DHA Phase 7",
+    "addr:province": "Sindh",
+    "addr:street": "Khayaban e Bahria",
+    "name": "Chainak",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4788412661,
+  "lat": 24.8222479,
+  "lon": 67.0637095,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "DHA Phase 4",
+    "addr:province": "Sindh",
+    "addr:street": "5th Commercial Lane",
+    "name": "Alamgir hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4790031008,
+  "lat": 24.8841472,
+  "lon": 67.0813562,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Ghazi Salahuddin Rd",
+    "name": "New Quetta Nasir Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4790072805,
+  "lat": 24.8865350,
+  "lon": 67.0788648,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Ghazi Salahuddin Rd",
+    "name": "New Imtiaz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4790094025,
+  "lat": 24.8860302,
+  "lon": 67.0766690,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Siral ud Dula Rd",
+    "name": "Quetta Noorani Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4790207764,
+  "lat": 24.8234112,
+  "lon": 67.0627097,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "DHA Phase 4",
+    "addr:province": "Sindh",
+    "addr:street": "10th Commercial Street",
+    "name": "Quetta Al-Sadat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4790228473,
+  "lat": 24.8291860,
+  "lon": 67.0485831,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayaban-e-Roomi",
+    "name": "Khawaja Ghareeb Nawaz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4790259252,
+  "lat": 24.8267582,
+  "lon": 67.0357260,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayaban e Iqbal Link",
+    "name": "Bismillah Lahori Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791722948,
+  "lat": 24.8488009,
+  "lon": 67.0535326,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Korangi Road",
+    "name": "Quetta Al-Fareed Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791723432,
+  "lat": 24.8321747,
+  "lon": 67.0677689,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "South Park Avenue",
+    "name": "Shah Je Quetta Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791846652,
+  "lat": 24.8323358,
+  "lon": 67.0661765,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sunset Lane",
+    "name": "Quetta Rangin Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791846930,
+  "lat": 24.8377077,
+  "lon": 67.0819141,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Phase 2",
+    "addr:street": "Defenceview Main Road",
+    "name": "New Quetta Pakiza Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791846931,
+  "lat": 24.8378288,
+  "lon": 67.0819489,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Phase 2",
+    "addr:street": "Defenceview Main Road",
+    "name": "Cafe Bismilah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791866138,
+  "lat": 24.8402272,
+  "lon": 67.0819277,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Defenceview Main Road",
+    "name": "Quetta Allah Wala Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4791866152,
+  "lat": 24.8560912,
+  "lon": 67.0893134,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Lucky Afridi Road",
+    "name": "Ashraf Baloch Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4792679582,
+  "lat": 24.7966014,
+  "lon": 67.0787946,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "ذوالفقار اسٹریٹ 1",
+    "name": "کارلٹن ہوٹل",
+    "name:en": "Carlton Hotel",
+    "name:ur": "کارلٹن ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4792679583,
+  "lat": 24.7971408,
+  "lon": 67.0786560,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Zulfiqar Street 1",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Ramada Creek Inn",
+    "phone": "+92 21 35244400",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.wyndhamhotels.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4793640252,
+  "lat": 24.8836984,
+  "lon": 67.0542533,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "M.A.Jinnah Road Extension",
+    "name": "Quetta Kaakar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4793640273,
+  "lat": 24.8970221,
+  "lon": 67.0668486,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "University Road",
+    "name": "Quetta Gul Gulzar Malang Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4795767028,
+  "lat": 24.8111700,
+  "lon": 67.0331903,
+  "tags": {
+    "addr:city": "کراچی",
+    "name": "المدینہ ہوٹل",
+    "name:ar": "فندق المدينة",
+    "name:en": "Al-Madina Hotel",
+    "name:es": "Hotel Almedina",
+    "name:ur": "المدینہ ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801407736,
+  "lat": 24.8356712,
+  "lon": 67.0332011,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:place": "Clifton Block 7",
+    "addr:street": "Khayban e Iqbal",
+    "name": "Quetta DarveshHotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801407793,
+  "lat": 24.8288702,
+  "lon": 67.0336900,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:place": "Clifton Block 7",
+    "addr:street": "Clifton Block 7",
+    "country": "PK",
+    "name": "New Galiyat Hazara Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801407818,
+  "lat": 24.8429304,
+  "lon": 67.0374258,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "Hotel Umpire",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801407820,
+  "lat": 24.8432026,
+  "lon": 67.0376833,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Fatima Jinnah Road",
+    "name": "South City Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801407830,
+  "lat": 24.8421195,
+  "lon": 67.0373172,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "للی پل",
+    "name": "پنڈی ہوٹل",
+    "name:de": "Hotel Pindi",
+    "name:en": "Pindi Hotel",
+    "name:es": "Hotel Pindi",
+    "name:ur": "پنڈی ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801407832,
+  "lat": 24.8430568,
+  "lon": 67.0391370,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Fatima Jinnah Road",
+    "name": "Quetta Sharam Bagh Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801763890,
+  "lat": 24.8077169,
+  "lon": 67.0398259,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:place": "DHA Phase 5",
+    "addr:province": "Sindh",
+    "addr:street": "Khayaban-e-Tanzeem",
+    "name": "Cafe Quetta Shaheen Hotel- Tauheed Commercial",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801763911,
+  "lat": 24.8086140,
+  "lon": 67.0373121,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:place": "DHA Phase 5",
+    "addr:province": "Sindh",
+    "addr:street": "26th Street",
+    "name": "Quetta Shaheen Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801771624,
+  "lat": 24.8077466,
+  "lon": 67.0388923,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:place": "DHA Phase 5",
+    "addr:province": "Sindh",
+    "addr:street": "26th Street",
+    "name": "Bismillah Hotel- Tauheed Commercial",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4801932701,
+  "lat": 24.8143365,
+  "lon": 67.0365676,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Khayaban e Shujat",
+    "name": "Bismillah Hotel (Dhaba)",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4803710040,
+  "lat": 24.8220508,
+  "lon": 67.0464456,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Gizri Avenue",
+    "name": "Dervesh Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4803710045,
+  "lat": 24.8211948,
+  "lon": 67.0465147,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Gizri Road",
+    "name": "Quetta Anabsi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4803710059,
+  "lat": 24.8202122,
+  "lon": 67.0471301,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Gizri Road",
+    "name": "Usman Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4803710062,
+  "lat": 24.8192572,
+  "lon": 67.0479912,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Gizri Road",
+    "name": "Quetta Zam Zam Piyala Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4803891200,
+  "lat": 24.8443369,
+  "lon": 67.0263727,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dr. Ziauddin Road",
+    "name": "Abbasi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4810006282,
+  "lat": 24.9212530,
+  "lon": 67.0948914,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Rashid Minhas Road",
+    "name": "Zam Zam Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 4811628121,
+  "lat": 24.8303032,
+  "lon": 67.0409372,
+  "tags": {
+    "name": "Charming Snacks",
+    "name:en": "Charming Snacks",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5053228280,
+  "lat": 24.8714318,
+  "lon": 67.0789057,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:full": "Dehli Mercantile Co-operative Society",
+    "addr:housenumber": "23",
+    "addr:state": "Sindh",
+    "addr:street": "Tipu Sultan Road",
+    "name": "Saylani Dastarkhwan",
+    "phone": "021111729526",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5066646784,
+  "lat": 24.9482907,
+  "lon": 67.0656618,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shah Jahan Avenue",
+    "name": "Glacier Hotel Peoples Chorangi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5112701755,
+  "lat": 24.8941305,
+  "lon": 67.1554729,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "Jinnah International Terminal",
+    "addr:province": "Sindh",
+    "addr:street": "Star Gate",
+    "name": "Ramadan Plaza Karachi Airport Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5119945177,
+  "lat": 24.8566439,
+  "lon": 67.0305374,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Raja Ghazanfar Ali Road",
+    "name": "Hotel Al Harmain Tower",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5119945178,
+  "lat": 24.8564257,
+  "lon": 67.0301185,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sarwar Shaheed Rd",
+    "name": "Hotel Excelsior",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5122161326,
+  "lat": 24.8589687,
+  "lon": 67.0262337,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shambu Nath Street",
+    "name": "Hotel Paradise",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5122255320,
+  "lat": 24.8579269,
+  "lon": 67.0274367,
+  "tags": {
+    "addr:city": "Saddar Town",
+    "addr:street": "Abdullah Haroon Road",
+    "name": "Hotel Jabees",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5128445366,
+  "lat": 24.8586210,
+  "lon": 67.0308732,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dr. Daud Pota Road",
+    "name": "Ambassador Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5128445367,
+  "lat": 24.8588060,
+  "lon": 67.0313246,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Wellington Street",
+    "name": "Hotel De Paris",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5128445368,
+  "lat": 24.8588085,
+  "lon": 67.0304529,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dr. Daud Pota Road",
+    "name": "Hotel Reliance",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5128493815,
+  "lat": 24.8662917,
+  "lon": 67.0233210,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Marston Road",
+    "name": "Classic Burger & Fast Food",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765223,
+  "lat": 24.8587514,
+  "lon": 67.0307899,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dr. Daud Pota Road",
+    "name": "Gulf Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765224,
+  "lat": 24.8583249,
+  "lon": 67.0241291,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Clarke Street",
+    "name": "Hotel Crown Inn Karachi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765225,
+  "lat": 24.8433681,
+  "lon": 66.9955495,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "بیچ ہوٹل روڈ",
+    "name": "بیچ لگژری ہوٹل",
+    "name:en": "Beach Luxury Hotel",
+    "name:ur": "بیچ لگژری ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765227,
+  "lat": 24.8571523,
+  "lon": 67.0301845,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Raja Ghazanfar Ali Road",
+    "name": "Hotel Al Mustafa",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765228,
+  "lat": 24.8569722,
+  "lon": 67.0302784,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Raja Ghazanfar Ali Road",
+    "name": "Hotel Sky Towers",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765230,
+  "lat": 24.8677327,
+  "lon": 67.0233004,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Agha Khan III Road (Garden Road)",
+    "name": "Abaseen Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765231,
+  "lat": 24.8947201,
+  "lon": 67.1537805,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Star Gate",
+    "name": "Airport Hotel",
+    "phone": "+923170286813",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5132765232,
+  "lat": 24.8937788,
+  "lon": 67.1544118,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Star Gate",
+    "name": "Skyroom Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5135305798,
+  "lat": 24.8470559,
+  "lon": 67.0262002,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Club Road",
+    "name": "Mövenpick Hotel Karachi",
+    "phone": "+92 21 35633333",
+    "stars": "5",
+    "tourism": "hotel",
+    "website": "https://movenpick.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5135469816,
+  "lat": 24.8568878,
+  "lon": 67.0303886,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:postcode": "74400",
+    "addr:street": "Raja Ghazanfar Ali Road Saddar",
+    "email": "skytowerspk@gmail.com",
+    "fax": "+922135675214",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Hotel Sky Towers",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+922135675211",
+    "rooms": "99",
+    "smoking": "outside",
+    "stars": "3",
+    "start_date": "2015",
+    "tourism": "hotel",
+    "website": "www.hotelskytowers.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5143276380,
+  "lat": 24.9138043,
+  "lon": 67.1419578,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Pehlwan Goth Road",
+    "name": "Khalifa Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5143365468,
+  "lat": 24.8566072,
+  "lon": 67.0307722,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sarwar Shaheed Rd",
+    "name": "Hotel Sarawan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5144867198,
+  "lat": 24.8589346,
+  "lon": 67.0240730,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Frere Road",
+    "name": "Hotel Al Emarat",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5144867199,
+  "lat": 24.8590125,
+  "lon": 67.0239764,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Frere Road",
+    "name": "Al Amarat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5144867200,
+  "lat": 24.8586012,
+  "lon": 67.0240166,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Frere Road",
+    "name": "Al Zakriya Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5144867201,
+  "lat": 24.8588811,
+  "lon": 67.0238852,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Frere Road",
+    "name": "Hotel Pak International",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5144867202,
+  "lat": 24.8584941,
+  "lon": 67.0242098,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Frere Road",
+    "internet_access": "wlan",
+    "name": "Hotel Al-Mashriq",
+    "name:en": "HOTEL AL RAYYAN",
+    "opening_hours": "24/7",
+    "phone": "02135681004",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5144867203,
+  "lat": 24.8585647,
+  "lon": 67.0245880,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Frere Road",
+    "name": "Al Sadam Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5226225693,
+  "lat": 24.9346168,
+  "lon": 67.0305718,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:country": "PK",
+    "addr:place": "North Nazimabad Block A",
+    "addr:province": "Sindh",
+    "addr:street": "Javed Miandad Road",
+    "name": "Akbar Village",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5226556636,
+  "lat": 24.8867640,
+  "lon": 67.1631882,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Faisal",
+    "name": "Jinnah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5236270722,
+  "lat": 24.9581405,
+  "lon": 67.0487029,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shahrah e Noor Jahan",
+    "name": "Allah Wala Restaurant and Pakwan Centre",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5237817921,
+  "lat": 24.8442026,
+  "lon": 67.0191746,
+  "tags": {
+    "addr:street": "NLC Container Terminal Rd Sultanabad",
+    "internet_access": "wlan",
+    "name": "Rangers Mess",
+    "opening_hours": "24/7",
+    "operator": "Pakistan Rangers Sindh",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5269335952,
+  "lat": 24.9014888,
+  "lon": 67.1846635,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Hashim Raza Road",
+    "name": "Bismillah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5269335975,
+  "lat": 24.8767955,
+  "lon": 67.1690390,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Al Badar Road",
+    "name": "Afzal Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5269335985,
+  "lat": 24.8756229,
+  "lon": 67.1636705,
+  "tags": {
+    "addr:city": "Shah Faisal Town",
+    "addr:street": "Azeempura Road",
+    "name": "Gousia Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5297630143,
+  "lat": 24.8437439,
+  "lon": 67.0388646,
+  "tags": {
+    "addr:city": "کراچی",
+    "name": "گیٹ وے ہوٹل",
+    "name:de": "Hotel Gateway",
+    "name:en": "Gateway Hotel",
+    "name:es": "Hotel Gateway",
+    "name:ur": "گیٹ وے ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 5310686222,
+  "lat": 24.8297315,
+  "lon": 67.0615605,
+  "tags": {
+    "name": "rising club",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6041407440,
+  "lat": 24.8456785,
+  "lon": 67.0694923,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6076426101,
+  "lat": 24.8453951,
+  "lon": 67.0724648,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 6536942428,
+  "lat": 24.8431961,
+  "lon": 67.0174523,
+  "tags": {
+    "name": "Shalimar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476533,
+  "lat": 24.8588381,
+  "lon": 67.0255641,
+  "tags": {
+    "name": "Hotel Green City",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476534,
+  "lat": 24.8587070,
+  "lon": 67.0252777,
+  "tags": {
+    "name": "Hotel Al-Bilal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476539,
+  "lat": 24.8592386,
+  "lon": 67.0251240,
+  "tags": {
+    "name": "Hotel Al-Dubai",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476542,
+  "lat": 24.8595912,
+  "lon": 67.0249193,
+  "tags": {
+    "name": "Hotel Karachi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476543,
+  "lat": 24.8595008,
+  "lon": 67.0250032,
+  "tags": {
+    "name": "Hotel Al-Haram",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476544,
+  "lat": 24.8584888,
+  "lon": 67.0240300,
+  "tags": {
+    "name": "Hotel Almas",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476545,
+  "lat": 24.8593145,
+  "lon": 67.0236111,
+  "tags": {
+    "name": "New Palace Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7074476546,
+  "lat": 24.8593513,
+  "lon": 67.0243289,
+  "tags": {
+    "name": "Al-Mawa Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7085383476,
+  "lat": 24.8510424,
+  "lon": 67.0099174,
+  "tags": {
+    "name": "King Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 7976991619,
+  "lat": 24.8442699,
+  "lon": 67.0716157,
+  "tags": {
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8142330050,
+  "lat": 24.8470655,
+  "lon": 67.0736791,
+  "tags": {
+    "name": "Wafadar Nan House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8142380478,
+  "lat": 24.8485542,
+  "lon": 67.0748054,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8142380479,
+  "lat": 24.8486152,
+  "lon": 67.0748567,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8144784514,
+  "lat": 24.8450312,
+  "lon": 67.0721099,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8144868703,
+  "lat": 24.8455381,
+  "lon": 67.0688971,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8144928939,
+  "lat": 24.8443784,
+  "lon": 67.0717074,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8144988872,
+  "lat": 24.8449032,
+  "lon": 67.0682406,
+  "tags": {
+    "name": "Nan Shop",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8403932018,
+  "lat": 24.9583781,
+  "lon": 67.1498267,
+  "tags": {
+    "name": "New Quetta Jeddah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8428197383,
+  "lat": 24.8673699,
+  "lon": 67.0842298,
+  "tags": {
+    "name": "Hotel Galaxy",
+    "phone": "+92 324 9200164",
+    "tourism": "hotel",
+    "website": "https://www.hotelgalaxykarachi.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8993303783,
+  "lat": 24.8918154,
+  "lon": 67.0536645,
+  "tags": {
+    "name": "MashabAllah Nana",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8993303784,
+  "lat": 24.8918446,
+  "lon": 67.0537020,
+  "tags": {
+    "name": "Bukhari Amanullah Nana",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8993303786,
+  "lat": 24.8919151,
+  "lon": 67.0537664,
+  "tags": {
+    "name": "Mamu Halwa Puri",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 8993303787,
+  "lat": 24.8920100,
+  "lon": 67.0538335,
+  "tags": {
+    "name": "Special Farmishi Chapati",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9879789617,
+  "lat": 24.8591858,
+  "lon": 67.0577467,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Embassy Inn",
+    "phone": "021 34535463",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 9980025179,
+  "lat": 24.8838804,
+  "lon": 67.0363131,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/people/Sabsa-purana-hasan-zai-hotal/100067404584531/",
+    "name": "Sabsa Purana Hasan Zai Hotal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10752174432,
+  "lat": 24.8608574,
+  "lon": 67.0715023,
+  "tags": {
+    "check_date": "2023-03-22",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Patel Guest House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11165353705,
+  "lat": 24.8841124,
+  "lon": 67.0852634,
+  "tags": {
+    "name:zh": "如家华人旅馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11301501969,
+  "lat": 24.7985097,
+  "lon": 67.0407172,
+  "tags": {
+    "name": "Waypoint Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12124804340,
+  "lat": 24.8788863,
+  "lon": 67.1400706,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "near national bank, Block 1 Shah Faisal Colony 1 Shah Faisal Colony,",
+    "name": "Lahore Data Hotel",
+    "phone": "03341830220",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12124878455,
+  "lat": 24.8797163,
+  "lon": 67.1396956,
+  "tags": {
+    "addr:housenumber": "V4HQ+VVM",
+    "addr:street": "Block 4 Shah Faisal Colony 4 Shah Faisal Colony,",
+    "name": "Allah Wala Sheermal House",
+    "phone": "03003737129",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12127392580,
+  "lat": 24.9165353,
+  "lon": 67.0803645,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": ", Allama Shabbir Ahmed Usmni Rd, Block 1 Gulshan-e-Iqbal, Karachi",
+    "name": "Al Madina Pakwan Centre",
+    "phone": "03002414697",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12127425206,
+  "lat": 24.9166418,
+  "lon": 67.0796749,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Allama Shabbir Ahmed Usmani Rd, Block 13D-1 Block 1 Gulshan-e-Iqbal, Karachi",
+    "name": "Quetta Pyala Hotel۔ کوئٹہ پیالہ ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12127460213,
+  "lat": 24.9163460,
+  "lon": 67.0803050,
+  "tags": {
+    "addr:street": "Block 13 G Gulshan-e-Iqbal, Karachi,",
+    "name": "Sindhi Subhanallah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12132273980,
+  "lat": 24.9133151,
+  "lon": 67.0808663,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "A-102 Sahba Akhtar Rd, Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi,",
+    "name": "Quetta Mubarak Hotel",
+    "phone": "03128133444",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12137400486,
+  "lat": 24.9251461,
+  "lon": 67.0794474,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "Al Madina Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12137442683,
+  "lat": 24.9240717,
+  "lon": 67.0784094,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W3FH+H9V, near Gohrabad Ground, Federal B Area Yaseenabad",
+    "name": "Bismillah Hotel & Cafe. بسم اللہ ہوٹل ایند کیفے",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12138189874,
+  "lat": 24.9025552,
+  "lon": 67.1892426,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W53Q+2J5, Model Colony Block 16 Malir Cantonment,",
+    "name": "First 5 star hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12139193104,
+  "lat": 24.9097267,
+  "lon": 67.0715790,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shop no.10 sana comforts, opposite to Rufi Centre, Block 13D-2 Block 13 D 2 Gulshan-e-Iqbal, Karachi,",
+    "name": "KARACHI CHAI",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12139374749,
+  "lat": 24.9067972,
+  "lon": 67.0685794,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Block 13 D 3 Gulshan-e-Iqbal, Karachi",
+    "phone": "03182446772",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12139887064,
+  "lat": 24.9007634,
+  "lon": 67.1910049,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W52R+9C6, Model Colony Rd, Model Colony Block 10 Model Colony, Karachi, Karachi City, Sindh 75080, Pakistan",
+    "name": "Model coloney karachi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12140039003,
+  "lat": 24.9095580,
+  "lon": 67.0638631,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W357+RGQ, Azizabad Main Rd, Federal B Area Bhangoria Goth",
+    "name": "Sardar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12140425586,
+  "lat": 24.8371768,
+  "lon": 67.1695505,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R5P9+RVM, 36-B Area Sherabad Colony Sector 36 B Landhi Town",
+    "name": "کویٹہ عجوہ ھوٹل",
+    "phone": "03114698812",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12142252870,
+  "lat": 24.8201705,
+  "lon": 67.1209043,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot F 31, Lucknow Society Sector 31 E Korangi,",
+    "name": "Mehran banquet",
+    "phone": "03151226764",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12143961764,
+  "lat": 24.8504975,
+  "lon": 67.0657837,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "V328+587, Allama Iqbal Colony",
+    "name": "Khalid mamood",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12145821115,
+  "lat": 24.8762194,
+  "lon": 67.0133634,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2G7+F9W",
+    "addr:street": "Badshahi Rd, Dhobi Ghat Usmanabad",
+    "name": "Muslim Hotel",
+    "phone": "03402287341",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12146212196,
+  "lat": 24.8112174,
+  "lon": 67.0351321,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R26P+G3P, 24th St, Shah Rasool Colony",
+    "name": "Niaz hotel",
+    "phone": "03452627051",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12146598908,
+  "lat": 24.7957365,
+  "lon": 67.0454083,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "House No. 45, 2 Saba Ave, Saba Commercial Area Defence V Defence Housing Authority,",
+    "name": "Shelton House",
+    "phone": "03147100415",
+    "tourism": "hotel",
+    "website": "https://sheltonhousekarach.wixsite.com/home"
+  }
+},
+{
+  "type": "node",
+  "id": 12147508469,
+  "lat": 24.8769596,
+  "lon": 67.0207562,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GC+Q8F",
+    "addr:street": "Garden West Area,",
+    "name": "MashAllah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12147639010,
+  "lat": 24.8739492,
+  "lon": 67.0269509,
+  "tags": {
+    "addr:housenumber": "V2FG+HQP",
+    "addr:street": "George St, Soldier Bazaar",
+    "name": "Lakhani Homes",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12147702758,
+  "lat": 24.8466208,
+  "lon": 67.1364753,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R4WP+JHW, Main St, Saadabad Society Block 5 Gulistan-e-Johar,",
+    "name": "New Quetta Lucky Star Hotel",
+    "phone": "03002068474",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12147776155,
+  "lat": 24.8443135,
+  "lon": 67.1332285,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Nusrat Colony Sector 8 A Korangi,",
+    "name": "فاروق اعظم بریانی اینڈ پکوان سینٹر",
+    "phone": "03172801717",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12149343806,
+  "lat": 24.9111082,
+  "lon": 67.0669248,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "Baloch hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12149357583,
+  "lat": 24.9122889,
+  "lon": 67.0701192,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "W36C+W52, Federal B Area Bhangoria Goth",
+    "name": "Abbas Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12149770667,
+  "lat": 24.9249740,
+  "lon": 67.0634622,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Saleem Centre, Federal B Area Block 7 Gulberg Town",
+    "name": "Bolan.islamia hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12150025030,
+  "lat": 24.9243407,
+  "lon": 67.0645066,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "Plot CS 6, Federal B Area Block 7 Gulberg Town,",
+    "name": "New Queeta Lucky Star Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12151287866,
+  "lat": 24.9279713,
+  "lon": 67.0670574,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W3H8+5RW, Block 7 Naseerabad Block 14 Gulberg Town",
+    "name": "Arshi Chai Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12151910994,
+  "lat": 24.8374522,
+  "lon": 67.1365619,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot 73, Sector 33/E Sector 33 E Korangi,",
+    "name": "Perwaiz Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12153282709,
+  "lat": 24.9240067,
+  "lon": 67.0676295,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:housenumber": "445",
+    "addr:street": "Shahrah-e-Muhammad Sarwar",
+    "name": "Hum Karachi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12153668736,
+  "lat": 24.8210905,
+  "lon": 67.1317977,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R4CJ+FWC, Chakra Goth Sector 40 B Korangi,",
+    "name": "Aqsa Kiran",
+    "phone": "03369996994",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12155242152,
+  "lat": 24.8240127,
+  "lon": 67.0821510,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot 172, C Area Qayyumabad,",
+    "name": "Madina Hotel",
+    "phone": "03062004008",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12157097583,
+  "lat": 24.9288994,
+  "lon": 67.0758025,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Plot R, 361,",
+    "addr:street": ", Block 15 Naseerabad Block 15 Gulberg Town,",
+    "name": "New Lucky Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12157409853,
+  "lat": 24.9090663,
+  "lon": 67.0437700,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Block 4 Liaquatabad Town, Karachi",
+    "name": "Sangat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12157410357,
+  "lat": 24.9309198,
+  "lon": 67.0783106,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Block 15, Federal B Area, Block 14 Naseerabad Block 14 Gulberg Town",
+    "name": "Ajmery Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12159828474,
+  "lat": 24.8377081,
+  "lon": 67.0738497,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R3QF+3HJ, Akhtar Colony Sector B Akhtar Colony, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Mujahid Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12159843825,
+  "lat": 24.9288775,
+  "lon": 67.0752360,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W3HG+P7G, opposite royal sweets, Federal B Area Naseerabad Block 14 Gulberg Town,",
+    "name": "لاثانی ہوٹل اینڈ شیرمال ہاٶس Lasani Hotal & Sheermall House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12160127550,
+  "lat": 24.8358115,
+  "lon": 67.0759885,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R3PG+899, Sector B Kashmir Colony,",
+    "name": "Lahori Murgh Cholay",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12160235543,
+  "lat": 24.8336912,
+  "lon": 67.0759500,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R3MG+F98, Sector B Kashmir Colony,",
+    "name": "Farhat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12160477297,
+  "lat": 24.9160573,
+  "lon": 67.0327522,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "House No#27, Block 4 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+    "name": "Khalid Bughio",
+    "phone": "03009370477",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12160609277,
+  "lat": 24.9145313,
+  "lon": 67.0361122,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot D 4, 4-C, Nazimabad No. 4 Block 4 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",
+    "name": "Amtul Plaza",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12161506649,
+  "lat": 24.9280074,
+  "lon": 67.0700329,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "BS 52, Block 7, Federal B Area Naseerabad Block 7 Gulberg Town,",
+    "name": "Quetta Farooq hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12162834722,
+  "lat": 24.8985383,
+  "lon": 67.0353400,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Nasir Khan St, Haji Mureed Goth Khamosh Colony, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Akram Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12162869542,
+  "lat": 24.8986267,
+  "lon": 67.0353266,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Nasir Khan St, Haji Mureed Goth Firdous Colony, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Afsar Ali",
+    "phone": "03422600226",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12162955569,
+  "lat": 24.9010956,
+  "lon": 67.0348613,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Firdous Colony Khamosh Colony, Karachi, Karachi City, Sindh 74600, Pakistan",
+    "name": "Abaseen Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12165930868,
+  "lat": 24.8245349,
+  "lon": 67.1314403,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R4FJ+QCR, Godhra Colony Sector 32 B Korangi,",
+    "name": "Hazar T shop hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12165962120,
+  "lat": 24.8242724,
+  "lon": 67.1289638,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "32.E E St, Nasir Colony Sector 32 E Korangi,",
+    "name": "Waheed Son Steel Works",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12167834240,
+  "lat": 24.8270363,
+  "lon": 67.0593030,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "R3G5+RP7, Phase IV Phase 4 Defence Housing Authority,",
+    "name": "Best Family Guest House",
+    "phone": "03433386189",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12167835425,
+  "lat": 24.8282802,
+  "lon": 67.0597080,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "SS 9 Khayaban-e-Jami, D.H.A. Phase 4 Phase 4 DHA",
+    "name": "Motel Inn",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12168083630,
+  "lat": 24.9366091,
+  "lon": 67.0750728,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W3PG+M3X, Shahrah-e-Pakistan, Federal B Area Block 13 Gulberg Town,",
+    "name": "Quetta Namkeen Bashir Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12171844043,
+  "lat": 24.8775224,
+  "lon": 67.0290821,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2GH+WH5",
+    "addr:street": ", Gule Rana Colony Gul e Rana Colony Soldier Bazaar,",
+    "name": "MNBV",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12173624412,
+  "lat": 24.8823105,
+  "lon": 67.0292885,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2JH+WM",
+    "addr:street": "A-6, Aman Castle, Manakjee Street, Garden East",
+    "name": "Rapid Hotel Amenities",
+    "phone": "03038280033",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12178141127,
+  "lat": 24.8839137,
+  "lon": 67.0345783,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V2MM+HR",
+    "addr:street": "512, C2/2, Prime Garden, 2 Webb St, Garden East",
+    "name": "Sos",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12180074118,
+  "lat": 24.9473553,
+  "lon": 67.0657914,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "p299",
+    "addr:street": "Shahjahan Ave, near peoples chorangi, Peoples Colony Block N North Nazimabad Town",
+    "name": "New Quetta Cafe Zaiqedar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12183447504,
+  "lat": 24.9422762,
+  "lon": 67.0657814,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "block 12, Federal B Area Gulberg Town,",
+    "name": "Mama peshawari hotel (Javed khan)",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12185956992,
+  "lat": 24.9278976,
+  "lon": 67.1545430,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "C 4, Gul Housing Society Block 9 A Architect employees cooperative housing society,",
+    "name": "New quetta agha payala hotel",
+    "phone": "03003680221",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12186456579,
+  "lat": 24.9204519,
+  "lon": 67.1514606,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W5C2+5HF, Bhittai Abad Dhani Bakhsh Goth Block 9 A",
+    "name": "Quetta bishmillah alnoor hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12188254920,
+  "lat": 24.9438799,
+  "lon": 67.0370472,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "C 182, Block D North Nazimabad Town",
+    "name": "Caffe Talha 1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12188301412,
+  "lat": 24.9372180,
+  "lon": 67.0324420,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W2PJ+VXG, Moin Khan Road, Block C North Nazimabad Town",
+    "name": "Karachi ashara ghar 1446",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12189736350,
+  "lat": 24.9448739,
+  "lon": 67.0410719,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot A, 57, Block D North Nazimabad Town",
+    "name": "Ismail Lodges",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12196274136,
+  "lat": 24.9252650,
+  "lon": 67.0335440,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Shop# 03, Hanif CentreNawab Siddique Ali Khan Rdnear, Hanif Hospital, Block-B Block B North Nazimabad Town",
+    "name": "Al makha Queta hotal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12201973185,
+  "lat": 24.9269508,
+  "lon": 67.0302181,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W2GJ+Q4J, Block A North Nazimabad Town",
+    "name": "Cafe Al Hussain Resturent",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12203922203,
+  "lat": 24.9250169,
+  "lon": 67.0503455,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "Plot LS 5",
+    "addr:street": "block 5 Gulberg Town",
+    "name": "New Mashallah Hazara Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12204875911,
+  "lat": 24.9363778,
+  "lon": 67.0557428,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W3P4+J6F, Kausar Niazi Colony",
+    "name": "New Al Makka Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12205267938,
+  "lat": 24.9158492,
+  "lon": 66.9760730,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "WX8G+8CH, Ahmed Durrani Rd, Block D Sarhad Colony Baldia,",
+    "name": "New Quetta Saif Ullah Hotel",
+    "phone": "03162776202",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12207051075,
+  "lat": 24.9175237,
+  "lon": 66.9694452,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "Tipu Sultan Rd, Ghous Nagar Ghaus Nagar Welfare Society,",
+    "name": "نیو کوئٹہ اقبال زلزلہ ہوٹل",
+    "phone": "03072505034",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12208939336,
+  "lat": 24.9071578,
+  "lon": 67.0086804,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Metroville Sindh Industrial Trading Estate, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Pearl Confectionary Head Office",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12211086144,
+  "lat": 24.9045893,
+  "lon": 67.0005098,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Metroville Sindh Industrial Trading Estate, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Sandal Bar Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12211779864,
+  "lat": 24.9269976,
+  "lon": 67.0494830,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "W2GX+WRX, Kausar Niazi Colony",
+    "name": "Babu Lala Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12211923348,
+  "lat": 24.9203984,
+  "lon": 67.0421108,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W2CR+5R2, Wahid Colony",
+    "name": "New Quetta Al Rahman hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12211924433,
+  "lat": 24.9205315,
+  "lon": 67.0451468,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W2CW+63M, Federal B Area Musa Colony Gulberg Town",
+    "name": "𝐇𝐚𝐦𝐳𝐚 𝐇𝐚𝐥𝐰𝐚 𝐏𝐮𝐫𝐢 𝐏𝐚𝐫𝐚𝐡𝐭𝐲 حمزہ حلوہ پوری پراٹھے",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12213528261,
+  "lat": 24.8958020,
+  "lon": 66.9954322,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Haroonabad Sindh Industrial Trading Estate, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Bandash Hotel - بندش ہوٹل",
+    "phone": "03059675269",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12213935171,
+  "lat": 24.9248093,
+  "lon": 67.1496778,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W4FX+WVC, Pehlwan Goth Rd, Bhittai Abad Bakhtawar Goth Block 9 A Bakhtawar Goth (Gulistan e Jauhar),",
+    "name": "Quetta Zamzam Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12215906300,
+  "lat": 24.8921976,
+  "lon": 67.0442274,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "V2RV+VJ3, Teen Hatti Bridge, Nafees Abad Nafeesabadn",
+    "name": "New Master Biryani",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12216070403,
+  "lat": 24.9390122,
+  "lon": 67.1561451,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Pioneer Centre, Sarwar Rd, Block 7, Gulistan-e-Johar, Block 7 Gulistan-e-Johar,",
+    "name": "Quetta Shahi Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12217376973,
+  "lat": 24.9039483,
+  "lon": 66.9832192,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "Metroville Labor Square Sindh Industrial Trading Estate, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Masha Allah Muhammad Asif hotel Main Road Labour Square S.I.T.E",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12217882234,
+  "lat": 24.9082145,
+  "lon": 66.9771155,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "F-168, SITE, Karachi, Sindh, Pakistan",
+    "name": "Darbar",
+    "phone": "02132561379",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12222506637,
+  "lat": 24.8976451,
+  "lon": 67.0614956,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "Makkah Hotel And Restaurant",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12222535384,
+  "lat": 24.8975219,
+  "lon": 66.9720025,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sindh Industrial Trading Estate, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Quetta Al- Harmeen Hotal, کوئٹہ الحرمین ہوٹل",
+    "phone": "03037581088",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12224095725,
+  "lat": 24.8924992,
+  "lon": 67.0617837,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V3V6+2P8, Main University Rd, Essa Nagri",
+    "name": "Madani Lajpal lashari hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12224137953,
+  "lat": 24.8929446,
+  "lon": 67.0618793,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "یونیورسٹی روڈ",
+    "name": "نیو کوئٹہ شاہ جی مدنی ہوٹل",
+    "name:en": "New Quetta Shah G Madani Hotel",
+    "name:ur": "نیو کوئٹہ شاہ جی مدنی ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12231848049,
+  "lat": 24.8900553,
+  "lon": 67.0580865,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V3Q5+X6V, P.I.B Road,University Road,Gulshan-e-iqbal.،, Ghausia Colony,",
+    "name": "Rohit Restaurant",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12232082687,
+  "lat": 24.8844321,
+  "lon": 66.9928360,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Haqqani Masjid Rd, Sher Shah Village Shershah Village, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Sabri Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12235855480,
+  "lat": 24.8892495,
+  "lon": 67.0584903,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V3Q5+M8G, Ghousia Colony Ghausia Colony,",
+    "name": "کوہٹہ ماشااللہ گلشن کفے",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12235922999,
+  "lat": 24.8896179,
+  "lon": 67.0465520,
+  "tags": {
+    "addr:city": "Karachi",
+    "name": "Sabdar Pakwan Hous",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12235961233,
+  "lat": 24.8896179,
+  "lon": 67.0465520,
+  "tags": {
+    "addr:city": "Karachi",
+    "check_date": "2024-10-08",
+    "name": "Sabdar Pakwan Hous",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12237973888,
+  "lat": 24.8602629,
+  "lon": 67.0322579,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "74600 Mansfield St, Saddar",
+    "name": "Ghausia hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12238398735,
+  "lat": 24.8887339,
+  "lon": 67.0429572,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Jamshed Quarters Martin Quarters East",
+    "name": "Marhaba sheermaal house",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12240435538,
+  "lat": 24.9273491,
+  "lon": 67.0885292,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot 139, Block 2 Gulshan-e-Iqbal",
+    "name": "Hotel Golden Inn ہوٹل گولڈن ان",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241358785,
+  "lat": 24.8588866,
+  "lon": 67.0307103,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25J+G87, Dr Daud Pota Rd, Saddar Karachi Cantonment",
+    "name": "Handi Corner",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241362319,
+  "lat": 24.8590710,
+  "lon": 67.0305869,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Dr Daud Pota Rd, Saddar",
+    "name": "New Indus Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241365004,
+  "lat": 24.8588264,
+  "lon": 67.0307512,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25J+F95, Dr Daud Pota Rd, Saddar",
+    "name": "Hotel Ajwa Saddar Karachi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241392029,
+  "lat": 24.8594963,
+  "lon": 67.0303797,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25J+Q53, Shahrah-e-Iraq, Saddar",
+    "name": "Hotel United",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241394116,
+  "lat": 24.8590217,
+  "lon": 67.0307277,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Saddar",
+    "name": "Hotel Al-Salateen",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241552291,
+  "lat": 24.8617842,
+  "lon": 67.0298039,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V26H+PWG, Saddar",
+    "name": "Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241558482,
+  "lat": 24.8858062,
+  "lon": 67.0503904,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V3P2+85C, Jamshed Quarters Clayton Quarters,",
+    "name": "QUETTA ALSADAT & ANABI HOTEL",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241617254,
+  "lat": 24.8856836,
+  "lon": 67.0501896,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "3",
+    "addr:street": "Jamshed Road",
+    "name": "Green hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12241716931,
+  "lat": 24.8889569,
+  "lon": 66.9864372,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Street 11, Shershah Colony, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Musa khan manzal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12244420628,
+  "lat": 24.8849148,
+  "lon": 66.9870534,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "Shershah Colony, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Shabbir Homes",
+    "phone": "03099222218",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12244471969,
+  "lat": 24.8842183,
+  "lon": 66.9857920,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "Street Number 69, block c Shershah Colony, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Cafe Ghareeb nawaz",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12246429920,
+  "lat": 24.9947884,
+  "lon": 67.0875052,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "99 & 100, Sector 6-B, Sector 6 New Karachi Town",
+    "name": "6-B Punjab hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12250362744,
+  "lat": 24.8790347,
+  "lon": 67.0387395,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:housenumber": "V2HQ+JGC",
+    "addr:street": "Jehangir Road",
+    "name": "New Quetta Sabeel Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12250403878,
+  "lat": 24.8815605,
+  "lon": 67.0435669,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:housenumber": "3",
+    "addr:street": "Jamshed Road",
+    "name": "Lund Tea Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12250640554,
+  "lat": 24.9901936,
+  "lon": 67.0649945,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "L-939 Service Ln, Sector 5c/2 Sector 5 C 2 New Karachi Town,",
+    "name": "Quetta ajwa hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12252663197,
+  "lat": 24.9894209,
+  "lon": 67.0599809,
+  "tags": {
+    "addr:street": "Plot R, 86, Sector 5c/3 Sector 5 C 3 New Karachi Town,",
+    "name": "Quetta Sharjah Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12252668530,
+  "lat": 24.9894513,
+  "lon": 67.0605723,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "X3Q6+Q6V, Sector 5c/4 Sector 5 C 3 New Karachi Town,",
+    "name": "Siddiqui Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12252740801,
+  "lat": 24.9265792,
+  "lon": 66.9772149,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Faqir Colony Rd, Block A Islam Nagar, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Former Parishan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12254195593,
+  "lat": 24.9270994,
+  "lon": 66.9772339,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Block A Orangi Town, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "M Ayaz chaply kabab",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12254850178,
+  "lat": 24.8833947,
+  "lon": 67.0506780,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "704/166 no, 3",
+    "addr:street": "Younus Road",
+    "name": "Farooq hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12254859706,
+  "lat": 24.8842288,
+  "lon": 67.0507868,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Milad Road",
+    "name": "Ameer Uddin Sheermal House v امیرالدین شیرمال ھاوس قائم شدہ1998",
+    "phone": "03332155686",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12254997403,
+  "lat": 24.8593053,
+  "lon": 67.0204295,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25C+P5G, Rambagh Quarter Rambagh Quarters,",
+    "name": "KMC flat",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258068939,
+  "lat": 24.8596467,
+  "lon": 67.0249423,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25F+RXF, Sadar Regal Chowk Nagan Chowrangi, Artillery Maidan,",
+    "name": "memories of hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258111455,
+  "lat": 24.8593246,
+  "lon": 67.0245121,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25F+PRG, Sarmad Road, Artillery Maidan,",
+    "name": "Al Mawa Luxury Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258146501,
+  "lat": 24.8856591,
+  "lon": 67.0506725,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "26/4",
+    "addr:street": "Jamshed Road",
+    "name": "Quetta apna hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258159301,
+  "lat": 24.8590743,
+  "lon": 67.0246577,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25F+GW7, Sarmad Road, Saddar Artillery Maidan,",
+    "name": "Hotel Al Sadaat",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258207997,
+  "lat": 24.8582098,
+  "lon": 67.0243445,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Artillery Maidan,",
+    "name": "Al-Meezan Luxury Hotel المیزان لگژری ھوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258209603,
+  "lat": 24.8584005,
+  "lon": 67.0247915,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25F+9WF, Sarmad Road, near passport office, saddar karachi,",
+    "name": "Arafat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258219212,
+  "lat": 24.8582094,
+  "lon": 67.0248317,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25F+6VX, Artillery Maidan,",
+    "name": "Quetta Muslim Marri Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258247285,
+  "lat": 24.8585633,
+  "lon": 67.0242414,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "St Am 21, Saddar Town, Artillery Maidan,",
+    "name": "Hotel Pak International",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258247359,
+  "lat": 24.8591866,
+  "lon": 67.0237193,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Artillery Maidan,",
+    "name": "Allah Wala Hall",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12258247617,
+  "lat": 24.8584290,
+  "lon": 67.0243372,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V25F+FMR, Artillery Maidan,",
+    "name": "Sadar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12260391442,
+  "lat": 24.9325623,
+  "lon": 67.0956150,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Plot C, 51, Block 4 Gulshan-e-Iqbal",
+    "name": "Ali Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12260824775,
+  "lat": 24.9173387,
+  "lon": 66.9619759,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "بلدیہ ٹاون،، گلی نمبر ہیں،، پھوپھا جی Sector 5 سعيد آباد، کراچی،, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "سراج الدین خان",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12260853713,
+  "lat": 24.8849021,
+  "lon": 67.0558790,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "University Road",
+    "name": "Harmain-sharifain-koyla-Chai Branch 2 ik motors",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12262766342,
+  "lat": 24.8740325,
+  "lon": 67.0473585,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "559",
+    "addr:street": "Pir Shah Bakhsh Road",
+    "name": "درویش ہوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12265627542,
+  "lat": 24.8835830,
+  "lon": 67.0580512,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "4, Modern Society P.E.C.H.S.",
+    "check_date": "2024-10-19",
+    "name": "Zam Zam Peyala",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12265993134,
+  "lat": 24.8635580,
+  "lon": 67.0304345,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Empress Market",
+    "name": "کو ئٹہ جمال درانی ہوٹل.",
+    "phone": "03022308215",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12266001255,
+  "lat": 24.8647572,
+  "lon": 67.0320279,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V27J+WRF, Central Jacob Lines",
+    "name": "Zam Zam Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12266007789,
+  "lat": 24.8642875,
+  "lon": 67.0322633,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Talha St, Central Jacob Lines",
+    "name": "New Quetta shandar hotel jalil khan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12272573739,
+  "lat": 24.9368092,
+  "lon": 67.0966882,
+  "tags": {
+    "addr:city": "karachi",
+    "addr:street": "W3PW+MMQ, Block 4A Block 4 A Gulshan-e-Iqbal",
+    "name": "Quetta all naseeb hotal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12273038598,
+  "lat": 24.8804272,
+  "lon": 67.0616869,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "20, M.C.G.P.C.H.S MCGP CHS P.E.C.H.S",
+    "name": "Quetta Special Chai",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12273207793,
+  "lat": 24.8695533,
+  "lon": 67.0368165,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V29P+WP2, Nizami Rd, Central Jacob Lines",
+    "name": "Allah wala sheermal house",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12273289478,
+  "lat": 24.8693567,
+  "lon": 67.0339855,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Murshid Heights, Zainabia Rd,",
+    "name": "Five star halwa Puri nimko",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12273293284,
+  "lat": 24.8694224,
+  "lon": 67.0340941,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V29M+RM4, Zainabia Rd, Central Jacob Lines",
+    "name": "Agha Tea Point",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12278512803,
+  "lat": 24.8858687,
+  "lon": 67.1916326,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V5PR+7JX, Saudabad Malir Small Industrial Area Kala Board,",
+    "name": "Shash Mahel Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12278558080,
+  "lat": 24.8793593,
+  "lon": 67.1879236,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "V5HQ+P5W, Darakhshan Society Darakhshan Cooperative Housing Society Malir Cantonment,",
+    "name": "Cafe Ghousia Malir",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12281605706,
+  "lat": 24.8765497,
+  "lon": 67.1922533,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Malir 15 Flyover, near al jannat sweets, Ghazi Dawood Brohi Goth,",
+    "name": "نیو کوئٹہ بسم اللہ ھوٹل",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12285726658,
+  "lat": 24.9217876,
+  "lon": 67.0934718,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "W3CV+M9W, Unnamed Road, Block 5 Gulshan-e-Iqbal",
+    "name": "Ma Sha Allah Gulshan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12287714530,
+  "lat": 24.9144726,
+  "lon": 66.9581764,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Wanda Brothers",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12287779721,
+  "lat": 24.9145439,
+  "lon": 66.9576599,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Gul Baig St, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Fareed Wifi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12287828746,
+  "lat": 24.9146078,
+  "lon": 66.9576969,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Miyawali St, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Asif Dancha",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12287839501,
+  "lat": 24.9144805,
+  "lon": 66.9577370,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Gul Baig St, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Ahsan Ghutka Chor",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12287911628,
+  "lat": 24.9139104,
+  "lon": 66.9582414,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Kashmiri St, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Iftikhar Badboo Dar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12288003013,
+  "lat": 24.9138725,
+  "lon": 66.9576827,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Wadood St, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "iftikhar Powderi",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12288016064,
+  "lat": 24.9130921,
+  "lon": 66.9558046,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "24 Market Road, Street No. 05 Saeedabad Baldia Town, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Amanat Ali Building",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12288026804,
+  "lat": 24.9140910,
+  "lon": 66.9559006,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Unnamed Road, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "babo mobil zon",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12288039734,
+  "lat": 24.9131018,
+  "lon": 66.9552066,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Street #02, Sector 5-A, Saeedabad, Baldia Town, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Dr Riyaz House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12288458639,
+  "lat": 24.8759681,
+  "lon": 67.0525227,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "141-A",
+    "addr:street": "V3G2+9XM Avanti Park View, Allama Iqbal Rd, Block 2 P.E.C.H.S.,",
+    "name": "Azizullah Quetta Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12288493147,
+  "lat": 24.8754752,
+  "lon": 67.0534567,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Liberty Chowk، طارق روڈ, Allama Iqbal Rd, Block 2 P.E.C.H.S",
+    "name": "Zam zam peyala",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12289832945,
+  "lat": 24.9128602,
+  "lon": 66.9553222,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Street #02, Sector 5-A, Saeedabad, Baldia Town, Gulshan-e-Habeeb Sector 5 Gulshan e Habib, Karachi, Karachi City, Sindh, Pakistan",
+    "name": "Baba Mulah Building",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12293739808,
+  "lat": 24.8974950,
+  "lon": 67.0333828,
+  "tags": {
+    "addr:city": "کراچی",
+    "addr:street": "V2WM+X8H, Street Number 11, Firdous Colony Kar",
+    "name": "Bilal bhai ka ghar",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12293801155,
+  "lat": 24.8301403,
+  "lon": 67.0336779,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "Sasi Royal Residency, Service Ln, Zone A - Block 7 Zone A Block 7 Clifton,",
+    "name": "Prem",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12297027188,
+  "lat": 24.9557955,
+  "lon": 67.1008400,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "X442+7CC, Sector 15A/1 Sadaf CHS Gulzar E Hijri Scheme 33,",
+    "name": "Pak Madina Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12297085431,
+  "lat": 24.9565172,
+  "lon": 67.1021918,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "X443+P5G, Sector 15A/1 Sadaf CHS Gulzar E Hijri Scheme 33,",
+    "name": "Saleem Norani Hotel 2",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12297099717,
+  "lat": 24.9563755,
+  "lon": 67.1019095,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "X442+JX2, Sector 15A/1 Sadaf CHS Gulzar E Hijri Scheme 33,",
+    "name": "Geo Farhan Hotal",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12297112122,
+  "lat": 24.9572180,
+  "lon": 67.1032370,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "X443+X9P, Sector 15A/1 Sadaf CHS Gulzar E Hijri Scheme 33,",
+    "name": "Marwat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12299726777,
+  "lat": 24.8310543,
+  "lon": 67.0417509,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "near Shamim Masjid, Block 8 Delhi Colony,",
+    "name": "Roll point",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12304700770,
+  "lat": 24.9218934,
+  "lon": 67.1006025,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:street": "ST 22, Block 6 Gulshan-e-Iqbal",
+    "name": "Rangers Officers Mess Nippa",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12320244101,
+  "lat": 24.8561900,
+  "lon": 67.0115471,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "V246+CMJ,",
+    "addr:street": "Aram Bagh",
+    "name": "Chanab Hotel Building",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12416218405,
+  "lat": 24.9006778,
+  "lon": 67.1121620,
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "A6",
+    "addr:place": "Block C Gulshan e Jamal",
+    "addr:postcode": "75260",
+    "brand": "Stayinn",
+    "email": "stayinnrooms00@gmail.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Stayinn Rooms & Apartments",
+    "phone": "+923312584990",
+    "reservation": "yes",
+    "rooms": "25",
+    "tourism": "hotel",
+    "website": "https://www.stayinn.pk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12686120602,
+  "lat": 24.8590543,
+  "lon": 67.0540635,
+  "tags": {
+    "name": "Elet Business Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 450599663,
+  "center": {
+    "lat": 24.8941510,
+    "lon": 67.1555663
+  },
+  "tags": {
+    "brand": "Ramada",
+    "brand:wikidata": "Q1502859",
+    "building": "yes",
+    "building:levels": "6",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Ramada",
+    "phone": "+922199242600",
+    "tourism": "hotel",
+    "website": "https://www.wyndhamhotels.com/ramada/karachi-pakistan/ramada-plaza-karachi-airport-hotel/overview?CID=LC:RA::GGL:RIO:National:25422&iata=00093796"
+  }
+},
+{
+  "type": "way",
+  "id": 505561697,
+  "center": {
+    "lat": 24.8535482,
+    "lon": 67.0315794
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:housenumber": "244",
+    "addr:street": "Fatima Jinnah Road (Bonus Road)",
+    "building": "yes",
+    "level": "2",
+    "name": "Baloch Officers Mess",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 505561698,
+  "center": {
+    "lat": 24.8535010,
+    "lon": 67.0315199
+  },
+  "tags": {
+    "building": "yes",
+    "level": "1",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 525580274,
+  "center": {
+    "lat": 24.8939009,
+    "lon": 67.1558263
+  },
+  "tags": {
+    "brand": "Ramada",
+    "brand:wikidata": "Q1502859",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Ramada",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 525580275,
+  "center": {
+    "lat": 24.8944228,
+    "lon": 67.1556768
+  },
+  "tags": {
+    "brand": "Ramada",
+    "brand:wikidata": "Q1502859",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Ramada",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 682027012,
+  "center": {
+    "lat": 24.8601102,
+    "lon": 67.0011280
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Karwan Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 691834988,
+  "center": {
+    "lat": 24.8462060,
+    "lon": 67.0310807
+  },
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Abdullah Haroon Road",
+    "building": "yes",
+    "name": "Marriott Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 691835924,
+  "center": {
+    "lat": 24.8429772,
+    "lon": 67.0383121
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Gilani Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 691835940,
+  "center": {
+    "lat": 24.8428751,
+    "lon": 67.0384428
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Nishat Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 691835941,
+  "center": {
+    "lat": 24.8428925,
+    "lon": 67.0385965
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Shams Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 692337071,
+  "center": {
+    "lat": 24.8518309,
+    "lon": 66.9995773
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Aslam Guest House",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 721767459,
+  "center": {
+    "lat": 24.8462769,
+    "lon": 67.0310756
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "brand": "marriott",
+    "internet_access:fee": "yes",
+    "name": "Marriot Hotel",
+    "rooms": "200",
+    "smoking": "separated",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 721767460,
+  "center": {
+    "lat": 24.8474639,
+    "lon": 67.0250465
+  },
+  "tags": {
+    "building": "no",
+    "name": "Pearl Continental Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 734621461,
+  "center": {
+    "lat": 24.8580827,
+    "lon": 67.0275300
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Hotel Jabees",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 773129267,
+  "center": {
+    "lat": 24.9385521,
+    "lon": 67.1207449
+  },
+  "tags": {
+    "building": "yes",
+    "name": "DMS hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 782313848,
+  "center": {
+    "lat": 24.8609774,
+    "lon": 67.0274568
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Khyber Hotel",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 782532918,
+  "center": {
+    "lat": 24.8590276,
+    "lon": 67.0539752
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Embassy Lodge",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1138114677,
+  "center": {
+    "lat": 24.7971349,
+    "lon": 67.0787917
+  },
+  "tags": {
+    "brand": "Ramada",
+    "brand:wikidata": "Q1502859",
+    "building": "yes",
+    "name": "Ramada",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 1280102066,
+  "center": {
+    "lat": 24.7973481,
+    "lon": 66.9711738
+  },
+  "tags": {
+    "addr:city": "Karachi",
+    "addr:postcode": "75640",
+    "addr:street": "Besides Varun Dev Temple, Destination Hotel Manora Beach,",
+    "air_conditioning": "yes",
+    "building": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "name": "Destination Beach Hotel by Dreamworld",
+    "phone": "+923401111502",
+    "reservation": "yes",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://manorabeach.destinationhotels.com.pk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1294602622,
+  "center": {
+    "lat": 24.8947244,
+    "lon": 67.1537756
+  },
+  "tags": {
+    "air_conditioning": "yes",
+    "bar": "yes",
+    "building": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "name": "Airport Hotel",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+923170286813",
+    "reservation": "yes",
+    "smoking": "outside",
+    "stars": "3",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1294602630,
+  "center": {
+    "lat": 24.8937607,
+    "lon": 67.1543815
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Sky Rooms Hotel",
+    "tourism": "hotel"
+  }
+}
+
+  ]
+}

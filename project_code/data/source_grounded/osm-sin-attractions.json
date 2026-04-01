@@ -1,0 +1,8607 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:41:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 319830199,
+  "lat": 1.3382963,
+  "lon": 103.7300601,
+  "tags": {
+    "name": "Bonsai Garden",
+    "name:zh": "盆栽园",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 394513421,
+  "lat": 1.3579277,
+  "lon": 103.7726393,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 512090776,
+  "lat": 1.2480157,
+  "lon": 103.8213159,
+  "tags": {
+    "name": "Southernmost Point of Continental Asia",
+    "name:zh": "亚洲大陆最南端",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 602090006,
+  "lat": 1.3095121,
+  "lon": 103.8163133,
+  "tags": {
+    "name": "Sundial Garden",
+    "name:zh": "日晷花园",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 602090007,
+  "lat": 1.3099652,
+  "lon": 103.8162532,
+  "tags": {
+    "name": "Hoya House",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 602090009,
+  "lat": 1.3108970,
+  "lon": 103.8150737,
+  "tags": {
+    "name": "Ginger Garden",
+    "name:zh": "姜园",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 602090012,
+  "lat": 1.3103872,
+  "lon": 103.8163537,
+  "tags": {
+    "name": "Bandstand",
+    "name:zh": "演奏台凉亭",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 602165422,
+  "lat": 1.3203161,
+  "lon": 103.8156956,
+  "tags": {
+    "fixme:zh": "=",
+    "name": "Herbs and Spices",
+    "name:zh": "香草香料花园",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 661034238,
+  "lat": 1.3513623,
+  "lon": 103.8063945,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "man_made": "tower",
+    "name": "Jelutong Tower",
+    "name:zh": "日落洞瞭望台",
+    "tourism": "viewpoint",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "node",
+  "id": 681253965,
+  "lat": 1.2789995,
+  "lon": 103.8106664,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1101820447,
+  "lat": 1.2666786,
+  "lon": 103.8016608,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1110010020,
+  "lat": 1.2546640,
+  "lon": 103.8136526,
+  "tags": {
+    "description": "Learn how perfumes are made",
+    "name": "Scentopia",
+    "phone": "+6580317081",
+    "tourism": "museum",
+    "website": "https://www.scentopia-singapore.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1315968963,
+  "lat": 1.2849182,
+  "lon": 103.8611570,
+  "tags": {
+    "level": "57",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1541260942,
+  "lat": 1.3244050,
+  "lon": 103.8454916,
+  "tags": {
+    "name": "Police Heritage Centre",
+    "name:zh": "警察文物中心",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1721892269,
+  "lat": 1.3341909,
+  "lon": 103.7771594,
+  "tags": {
+    "name": "Dialogue in the Dark Singapore",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1755469479,
+  "lat": 1.3549710,
+  "lon": 103.7542040,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 1766486405,
+  "lat": 1.2951307,
+  "lon": 103.8534677,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "1",
+    "addr:postcode": "189673",
+    "addr:street": "Beach Road",
+    "amenity": "bar",
+    "check_date": "2025-03-28",
+    "contact:cntraveler": "https://cntraveler.com/bars/long-bar",
+    "contact:email": "dining.singapore@raffles.com",
+    "contact:phone": "+65 6412 1816",
+    "contact:tripadvisor": "https://tripadvisor.com/Attraction_Review-g294265-d446993-Reviews-Long_Bar-Singapore.html",
+    "contact:yelp": "https://yelp.com/biz/long-bar-singapore-2",
+    "description": "The Long Bar at Raffles Hotel in Singapore is renowned as the birthplace of the Singapore Sling cocktail, offering colonial charm and a vibrant atmosphere. Guests can enjoy signature cocktails and traditional snacks, like monkey nuts, in a relaxed setting",
+    "description:en": "The Long Bar at Raffles Hotel in Singapore is renowned as the birthplace of the Singapore Sling cocktail, offering colonial charm and a vibrant atmosphere. Guests can enjoy signature cocktails and traditional snacks, like monkey nuts, in a relaxed setting",
+    "description:ja": "ラッフルズホテルのロングバーは、シンガポールスリングカクテルの発祥地として知られ、コロニアルな魅力と活気ある雰囲気を提供しています。ゲストは、リラックスした雰囲気の中で、シグネチャーカクテルや伝統的なスナック（ピーナッツなど）を楽しむことができます。",
+    "description:ko": "싱가포르 라플스 호텔의 롱 바는 싱가포르 슬링 칵테일의 발상지로 유명하며, 식민지 시대의 매력과 활기찬 분위기를 제공합니다. 손님들은 편안한 환경에서 시그니처 칵테일과 전통 스낵인 땅콩을 즐길 수 있습니다.",
+    "description:ms": "Long Bar di Raffles Hotel, Singapura, terkenal sebagai tempat kelahiran koktel Singapore Sling, dengan daya tarikan kolonial dan suasana meriah. Tetamu boleh menikmati koktel khas dan snek tradisional seperti kacang monyet dalam suasana santai.",
+    "description:zh": "新加坡拉弗尔酒店的长吧以新加坡斯林鸡尾酒的发源地而闻名，融合了殖民魅力和生动的氛围。客人可以在轻松的环境中享用招牌鸡尾酒和传统小吃，如猴子坚果。",
+    "drink:cocktail": "served",
+    "drink:singapore_sling": "served",
+    "image": "https://commons.wikimedia.org/wiki/Category:Long_Bar#/media/File:Wikimania_2023-Raffles_Hotel-Long_Bar-Singapore_Sling-185503.jpg",
+    "name": "Long Bar",
+    "opening_hours": "Su-Th 11:00-00:30; Fr-Sa 11:00-01:30",
+    "reservation": "no",
+    "tourism": "attraction",
+    "website": "https://raffles.com/singapore/dining/long-bar",
+    "wheelchair": "yes",
+    "wikimedia_commons": "Category:Long_Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 1844016094,
+  "lat": 1.3068080,
+  "lon": 103.8170484,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Marsh Garden",
+    "name:zh": "沼泽花园",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1844016097,
+  "lat": 1.3085082,
+  "lon": 103.8181312,
+  "tags": {
+    "name": "Orchid Breeding and Micropropagation Lab",
+    "name:zh": "兰花育种与快殖中心",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1844016099,
+  "lat": 1.3106108,
+  "lon": 103.8160046,
+  "tags": {
+    "name": "Vanda Miss Joaquim",
+    "name:zh": "卓锦万代兰",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1857029103,
+  "lat": 1.4045935,
+  "lon": 103.7907296,
+  "tags": {
+    "alt_name": "Singapore Zoological Gardens",
+    "email": "infocounter.zoo@wrs.com.sg",
+    "facebook": "https://www.facebook.com/wrs.sg/",
+    "name": "Singapore Zoo",
+    "name:ru": "Зоопарк Сингапура",
+    "opening_hours": "08:30-18:00",
+    "phone": "+65 6269 3411",
+    "toilets:wheelchair": "yes",
+    "tourism": "zoo",
+    "website": "https://www.wrs.com.sg/en/singapore-zoo.html",
+    "wheelchair": "yes",
+    "wikidata": "Q2709506",
+    "wikipedia": "en:Singapore Zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233367,
+  "lat": 1.2536728,
+  "lon": 103.8228404,
+  "tags": {
+    "name": "Ancient Egypt",
+    "name:en": "Ancient Egypt",
+    "name:zh": "古埃及",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233368,
+  "lat": 1.2549640,
+  "lon": 103.8236226,
+  "tags": {
+    "name": "Far Far Away",
+    "name:en": "Far Far Away",
+    "name:zh": "遥远王国",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233370,
+  "lat": 1.2559302,
+  "lon": 103.8220744,
+  "tags": {
+    "name": "Hollywood",
+    "name:en": "Hollywood",
+    "name:zh": "好莱坞",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233371,
+  "lat": 1.2554986,
+  "lon": 103.8228409,
+  "tags": {
+    "name": "Madagascar",
+    "name:en": "Madagascar",
+    "name:zh": "马达加斯加",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233373,
+  "lat": 1.2545643,
+  "lon": 103.8212738,
+  "tags": {
+    "name": "New York",
+    "name:en": "New York",
+    "name:zh": "纽约",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233374,
+  "lat": 1.2536771,
+  "lon": 103.8219998,
+  "tags": {
+    "name": "Sci-Fi City",
+    "name:en": "Sci-Fi City",
+    "name:zh": "科幻城市",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1873233383,
+  "lat": 1.2539038,
+  "lon": 103.8238526,
+  "tags": {
+    "name": "Jurassic World",
+    "name:en": "Jurassic World",
+    "name:zh": "失落的世界区",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 1931861591,
+  "lat": 1.2869367,
+  "lon": 103.8547701,
+  "tags": {
+    "image": "https://images.mapillary.com/LPeIT4xmDJxc_Pw-NvA2Uw/thumb-2048.jpg",
+    "mapillary": "194564509170578",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1931861592,
+  "lat": 1.2755813,
+  "lon": 103.8413189,
+  "tags": {
+    "charge": "6 SGD",
+    "fee": "yes",
+    "level": "50",
+    "name": "The Pinnacle@Duxton",
+    "note": "For visitors without the CEPAS card, please contact the staff from the Managing Agent’s office for further assistance.",
+    "opening_hours": "09:00-21:00",
+    "phone": "+65 8683 7760",
+    "tourism": "viewpoint",
+    "website": "http://www.pinnacleduxton.com.sg/Public.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1948666505,
+  "lat": 1.2629688,
+  "lon": 103.8053462,
+  "tags": {
+    "alt_name": "Long Ya Men",
+    "name": "Dragon's Teeth Gate",
+    "name:ms": "Batu Berlayar",
+    "name:zh": "龙牙门",
+    "name:zh-Hant": "龍牙門",
+    "not:name:ms": "Batu Berlayer",
+    "note": "replica",
+    "start_date": "2005",
+    "tourism": "attraction",
+    "wikidata": "Q573956",
+    "wikimedia_commons": "File:LongYaMen-20060813.jpg",
+    "wikipedia": "en:Long Ya Men"
+  }
+},
+{
+  "type": "node",
+  "id": 1985259385,
+  "lat": 1.2707176,
+  "lon": 103.8629867,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:postcode": "018988",
+    "addr:street": "Marina Coastal Drive",
+    "alt_name:zh": "新加坡海事馆",
+    "name": "Singapore Maritime Gallery",
+    "name:zh": "新加坡海事展览馆",
+    "opening_hours": "Tu-Su 09:00-18:00; Mo off",
+    "phone": "+656325 5707",
+    "tourism": "museum",
+    "website": "https://www.maritimegallery.sg"
+  }
+},
+{
+  "type": "node",
+  "id": 1985259594,
+  "lat": 1.2925046,
+  "lon": 103.8669209,
+  "tags": {
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2248167729,
+  "lat": 1.2555712,
+  "lon": 103.8177397,
+  "tags": {
+    "name": "Southern Ridges",
+    "name:zh": "南部山脊",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2292008861,
+  "lat": 1.2626929,
+  "lon": 103.8049811,
+  "tags": {
+    "historic": "battlefield",
+    "name": "Machine Gun Post",
+    "name:zh": "机关枪",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2292011571,
+  "lat": 1.2652209,
+  "lon": 103.8038744,
+  "tags": {
+    "historic": "battlefield",
+    "name": "The Fourth Gun Position",
+    "name:zh": "第四炮位",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2292012664,
+  "lat": 1.2656483,
+  "lon": 103.8034502,
+  "tags": {
+    "historic": "battlefield",
+    "name": "Gun Emplacement IV",
+    "name:zh": "第四炮位",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2292014664,
+  "lat": 1.2667462,
+  "lon": 103.8029917,
+  "tags": {
+    "historic": "battlefield",
+    "name": "The Tunnel",
+    "name:zh": "隧道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 2497047979,
+  "lat": 1.2837721,
+  "lon": 103.8446514,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "20B",
+    "addr:postcode": "059500",
+    "addr:street": "Mosque Street",
+    "artwork_type": "art_gallery",
+    "description": "Active local art gallery carrying a diverse range of Singaporean and SE Asian art. Founded 2001.",
+    "ele": "3",
+    "email": "utterlyart@yahoo.com",
+    "name": "Utterly Art",
+    "opening_hours": "|| By appointments. Call Keng Hock +65 94872006",
+    "operator": "Utterly Art LLP",
+    "source": "www.facebook.com/utterlyart",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 2511049756,
+  "lat": 1.2799695,
+  "lon": 103.8436879,
+  "tags": {
+    "admin_level": "7",
+    "alt_name": "Chinatown Singapore",
+    "name": "Chinatown",
+    "name:en": "Chinatown",
+    "name:ru": "Район Чайна-таун",
+    "name:zh": "牛车水",
+    "place": "neighbourhood",
+    "tourism": "attraction",
+    "type": "boundary",
+    "wheelchair": "no",
+    "wikidata": "Q1318670",
+    "wikipedia": "en:Chinatown, Singapore"
+  }
+},
+{
+  "type": "node",
+  "id": 2738929707,
+  "lat": 1.2963108,
+  "lon": 103.8546099,
+  "tags": {
+    "check_date": "2025-07-18",
+    "name": "Mint Museum of Toys",
+    "name:zh": "MINT 玩具博物馆",
+    "opening_hours": "Mo off; Tu-Su 09:30-18:30",
+    "source": "http://emint.com/",
+    "tourism": "museum",
+    "website": "https://emint.com/contact-us/",
+    "wikidata": "Q6869564",
+    "wikimedia_commons": "Category:MINT Museum of Toys",
+    "wikipedia": "en:Mint Museum of Toys"
+  }
+},
+{
+  "type": "node",
+  "id": 3324020268,
+  "lat": 1.2847470,
+  "lon": 103.8509933,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "1",
+    "addr:postcode": "048616",
+    "addr:street": "Raffles Place",
+    "check_date": "2017-07-25",
+    "contact:facebook": "https://www.facebook.com/1AltitudeUVG",
+    "description": "The highest viewing gallery in Singapore",
+    "ele": "282",
+    "email": "info@1-altitude.com",
+    "name": "1-Altitude Viewing Gallery",
+    "opening_hours": "Mo-Su 08:30-17:30",
+    "phone": "+65 6438 0410",
+    "tourism": "viewpoint",
+    "website": "https://www.1-altitude.com/viewing-gallery/"
+  }
+},
+{
+  "type": "node",
+  "id": 3524204697,
+  "lat": 1.3014296,
+  "lon": 103.7736240,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "2",
+    "addr:postcode": "117377",
+    "addr:street": "Conservatory Drive",
+    "name": "Lee Kong Chian Natural History Museum",
+    "name:en": "Lee Kong Chian Natural History Museum",
+    "name:zh": "李光前自然历史博物馆",
+    "operator": "National University Of Singapore",
+    "phone": "+65 6601 3333",
+    "tourism": "museum",
+    "website": "https://lkcnhm.nus.edu.sg/nus/",
+    "wikidata": "Q19840336",
+    "wikimedia_commons": "Category:Lee Kong Chian Natural History Museum",
+    "wikipedia": "en:Lee Kong Chian Natural History Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3686697557,
+  "lat": 1.2684527,
+  "lon": 103.8230109,
+  "tags": {
+    "image": "https://images.mapillary.com/l6GFucAHsfUkGswEnGPL8w/thumb-2048.jpg",
+    "mapillary": "506324100524544",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3686697567,
+  "lat": 1.2704534,
+  "lon": 103.8211452,
+  "tags": {
+    "direction": "230",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 3756799298,
+  "lat": 1.2834963,
+  "lon": 103.8443296,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "48",
+    "addr:street": "Pagoda Street",
+    "facebook": "https://www.facebook.com/people/Chinatown-Heritage-Centre-SG/61572496642717/",
+    "name": "Chinatown Heritage Centre",
+    "name:en": "Chinatown Heritage Centre",
+    "name:zh": "牛车水原貌馆",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "http://chinatownheritagecentre.com.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 3756800538,
+  "lat": 1.2813051,
+  "lon": 103.8444324,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "288",
+    "addr:postcode": "058840",
+    "addr:street": "South Bridge Road",
+    "name": "新加坡佛牙寺龙华院",
+    "name:en": "Buddha Tooth Relic Museum",
+    "name:zh": "新加坡佛牙寺龙华院",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "phone": "+65 6220 0220",
+    "tourism": "museum",
+    "website": "http://www.btrts.org.sg/",
+    "wikidata": "Q839965",
+    "wikimedia_commons": "Category:Buddha Tooth Relic Temple and Museum, Singapore",
+    "wikipedia": "en:Buddha Tooth Relic Temple and Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3756807018,
+  "lat": 1.2834033,
+  "lon": 103.8444799,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "40",
+    "addr:street": "Pagoda Street",
+    "name": "Singapore Coin and Notes Museum",
+    "name:zh": "新加坡钱币博物馆",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "http://www.singaporecoinsandnotesmuseum.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3856046951,
+  "lat": 1.2807264,
+  "lon": 103.8474662,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "168",
+    "addr:postcode": "068619",
+    "addr:street": "Telok Ayer Street",
+    "email": "smbmbox@gmail.com",
+    "name": "Musical Box Museum",
+    "name:zh": "音乐盒博物馆",
+    "opening_hours": "Mo-Sa 10:00-15:00",
+    "phone": "+65 62210102",
+    "tourism": "museum",
+    "website": "https://www.singaporemusicalboxmuseum.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 4047389534,
+  "lat": 1.2920735,
+  "lon": 103.8491424,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Civil Defense Heritage Gallery",
+    "name:zh": "民防与消防历史博物廊",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4108805599,
+  "lat": 1.2958062,
+  "lon": 103.8099916,
+  "tags": {
+    "name": "Skyville@Dawson",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4232943395,
+  "lat": 1.3718548,
+  "lon": 103.7770068,
+  "tags": {
+    "addr:housenumber": "210",
+    "addr:postcode": "670210",
+    "addr:street": "Petir Road",
+    "name": "Pocket Greens Urban Farm & Barn",
+    "opening_hours": "Tu-Th 08:30-11:30; Fr-Su 15:00-18:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4289598390,
+  "lat": 1.3004402,
+  "lon": 103.8598028,
+  "tags": {
+    "name": "Arab street shops",
+    "name:zh": "阿拉伯街店铺",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4309387623,
+  "lat": 1.4568311,
+  "lon": 103.8267190,
+  "tags": {
+    "name": "bunker",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4309401506,
+  "lat": 1.4582000,
+  "lon": 103.8228486,
+  "tags": {
+    "name": "bunker",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4309430621,
+  "lat": 1.4547873,
+  "lon": 103.8266131,
+  "tags": {
+    "name": "bunker",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4314443191,
+  "lat": 1.3123211,
+  "lon": 103.8158633,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Primary Rainforest Urban Walk",
+    "name:zh": "原始雨林城市走道",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4362541394,
+  "lat": 1.2961230,
+  "lon": 103.8462345,
+  "tags": {
+    "addr:postcode": "179622",
+    "addr:street": "2 Cox Terrace Fort Canning Park",
+    "description": "Only guided tours. 2 tours available. THE BATTLEBOX TOUR: Adult: S$18, Child (7-12 years): S$9. Tuesdays to Sundays, including public holidays): 9.45am, 11.00am, 1.30pm, 2.45pm, 4.00pm. OF GRAVES, GUNS & BATTLES: S$32/S$15. Mo, Th 2.00pm",
+    "email": "enquiry@battlebox.com.sg",
+    "fee": "yes",
+    "fixme:zh": "-",
+    "name": "Battlebox Visitor Centre",
+    "name:zh": "碉堡博物馆",
+    "opening_hours": "We-Su,PH 10:00-18:00",
+    "phone": "+65 6338 6133",
+    "tourism": "museum",
+    "website": "http://www.battlebox.com.sg",
+    "wikidata": "Q7715823",
+    "wikimedia_commons": "Category:The Battle Box",
+    "wikipedia": "en:The Battle Box"
+  }
+},
+{
+  "type": "node",
+  "id": 4362541694,
+  "lat": 1.2946094,
+  "lon": 103.8475802,
+  "tags": {
+    "alt_name": "Artisan's Garden",
+    "fixme:zh": "-",
+    "museum": "archaeological",
+    "name": "The Archeological Dig and Exhibition Area",
+    "name:en": "The Archeological Dig and Exhibition Area",
+    "name:zh": "考古发掘与展览空间",
+    "opening_hours": "Mo-Su 08:30-18:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965576,
+  "lat": 1.4024246,
+  "lon": 103.7882941,
+  "tags": {
+    "attraction": "animal",
+    "name": "African White Lion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965580,
+  "lat": 1.4023575,
+  "lon": 103.7863757,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Wild Dog",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965584,
+  "lat": 1.4022087,
+  "lon": 103.7861852,
+  "tags": {
+    "attraction": "animal",
+    "name": "Bearded Pig",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965586,
+  "lat": 1.4007634,
+  "lon": 103.7877543,
+  "tags": {
+    "attraction": "animal",
+    "name": "Buffalo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965589,
+  "lat": 1.4022396,
+  "lon": 103.7845270,
+  "tags": {
+    "attraction": "animal",
+    "name": "Chawang the Elephant",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965593,
+  "lat": 1.4008975,
+  "lon": 103.7896721,
+  "tags": {
+    "attraction": "animal",
+    "name": "Clouded Leopard",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965594,
+  "lat": 1.4023120,
+  "lon": 103.7852042,
+  "tags": {
+    "attraction": "animal",
+    "name": "Elephant",
+    "name:zh": "大象",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965608,
+  "lat": 1.4030038,
+  "lon": 103.7838645,
+  "tags": {
+    "attraction": "animal",
+    "name": "Indian Wolves",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965610,
+  "lat": 1.4030493,
+  "lon": 103.7867311,
+  "tags": {
+    "attraction": "animal",
+    "name": "Malayan Tapir",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965616,
+  "lat": 1.4006334,
+  "lon": 103.7879153,
+  "tags": {
+    "attraction": "animal",
+    "name": "Nyala",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965617,
+  "lat": 1.3996426,
+  "lon": 103.7891216,
+  "tags": {
+    "attraction": "animal",
+    "name": "Oryx",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965620,
+  "lat": 1.4030648,
+  "lon": 103.7878308,
+  "tags": {
+    "attraction": "animal",
+    "name": "Possum",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965623,
+  "lat": 1.4018239,
+  "lon": 103.7841266,
+  "tags": {
+    "attraction": "animal",
+    "name": "Sambar Deer",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965625,
+  "lat": 1.4001481,
+  "lon": 103.7889265,
+  "tags": {
+    "attraction": "animal",
+    "name": "Sloth Bear",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965627,
+  "lat": 1.4027477,
+  "lon": 103.7900275,
+  "tags": {
+    "attraction": "animal",
+    "name": "Slow Loris",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965629,
+  "lat": 1.4005677,
+  "lon": 103.7880567,
+  "tags": {
+    "attraction": "animal",
+    "name": "Spiral Horned Antelope",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965632,
+  "lat": 1.4031083,
+  "lon": 103.7878844,
+  "tags": {
+    "attraction": "animal",
+    "name": "Sugar Glider",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965633,
+  "lat": 1.4029448,
+  "lon": 103.7874829,
+  "tags": {
+    "attraction": "animal",
+    "name": "Tawny Frogmouth Owl",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965635,
+  "lat": 1.4036138,
+  "lon": 103.7861443,
+  "tags": {
+    "attraction": "animal",
+    "name": "Tiger",
+    "name:zh": "老虎",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965638,
+  "lat": 1.4027839,
+  "lon": 103.7880802,
+  "tags": {
+    "attraction": "animal",
+    "name": "Wallaby",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965639,
+  "lat": 1.4028599,
+  "lon": 103.7875051,
+  "tags": {
+    "attraction": "animal",
+    "name": "White Lipped Python",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4400965640,
+  "lat": 1.3996413,
+  "lon": 103.7889620,
+  "tags": {
+    "attraction": "animal",
+    "name": "Zebra",
+    "name:zh": "斑马",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4402052494,
+  "lat": 1.2568794,
+  "lon": 103.8143050,
+  "tags": {
+    "addr:postcode": "098967",
+    "addr:street": "Imbiah Hill Road",
+    "name": "megazip adventure park",
+    "name:en": "megazip adventure park",
+    "name:zh": "飞龙探险乐园",
+    "tourism": "attraction",
+    "wikidata": "Q6808067",
+    "wikimedia_commons": "Category:MegaZip Adventure Park",
+    "wikipedia": "en:Mega Adventure Park"
+  }
+},
+{
+  "type": "node",
+  "id": 4421872093,
+  "lat": 1.3470603,
+  "lon": 103.8843023,
+  "tags": {
+    "addr:housenumber": "55",
+    "addr:postcode": "537887",
+    "addr:street": "Jalan Lokam",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4443157289,
+  "lat": 1.3287467,
+  "lon": 103.7947386,
+  "tags": {
+    "addr:housenumber": "51",
+    "addr:street": "Sixth Avenue",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4443190990,
+  "lat": 1.3177465,
+  "lon": 103.7904578,
+  "tags": {
+    "addr:housenumber": "12b",
+    "addr:street": "Queen Astrid Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4478220189,
+  "lat": 1.4529154,
+  "lon": 103.7947769,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Woodlands Industrial Park E1",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4489711691,
+  "lat": 1.3203669,
+  "lon": 103.7920724,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Astrid Hill",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4513022389,
+  "lat": 1.3320624,
+  "lon": 103.7992130,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Vanda Drive",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4513107192,
+  "lat": 1.3025190,
+  "lon": 103.8040660,
+  "tags": {
+    "addr:housenumber": "41",
+    "addr:street": "Ridout Road",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4515428018,
+  "lat": 1.2868140,
+  "lon": 103.7866851,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4523600291,
+  "lat": 1.3200331,
+  "lon": 103.7366181,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:postcode": "609159",
+    "addr:street": "Penjuru Road",
+    "name": "Paddle Lodge Pandan Reservoir",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4530892089,
+  "lat": 1.3146810,
+  "lon": 103.9009812,
+  "tags": {
+    "addr:housenumber": "69",
+    "addr:street": "Joo Chiat Terrace",
+    "fee": "yes",
+    "name": "The Intan",
+    "name:en": "The Intan",
+    "name:zh": "土生华人博物馆",
+    "opening_hours": "\"appointments only\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4537990591,
+  "lat": 1.3305704,
+  "lon": 103.7385721,
+  "tags": {
+    "addr:housenumber": "10A",
+    "addr:postcode": "609082",
+    "addr:street": "Science Centre Road",
+    "name": "Certis Cisco west hub",
+    "name:en": "Certis Cisco west hub",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4544491552,
+  "lat": 1.3578397,
+  "lon": 103.7563195,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4560997465,
+  "lat": 1.2906104,
+  "lon": 103.8570795,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "6",
+    "addr:postcode": "039594",
+    "addr:street": "Raffles Boulevard",
+    "level": "1",
+    "name": "Pororo Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 4564589708,
+  "lat": 1.3767507,
+  "lon": 103.7837818,
+  "tags": {
+    "name": "Condom Lorry",
+    "name:zh": "避孕套罗里车",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4564593505,
+  "lat": 1.3637248,
+  "lon": 103.7815534,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4564614398,
+  "lat": 1.3221485,
+  "lon": 103.8385138,
+  "tags": {
+    "name": "Chancery Lane Pill Box",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4568833161,
+  "lat": 1.2569011,
+  "lon": 103.8147474,
+  "tags": {
+    "building": "bunker",
+    "military": "bunker",
+    "name": "Imbiah Bunkers",
+    "name:zh": "英比奥地堡",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4614217314,
+  "lat": 1.3581180,
+  "lon": 103.7563674,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4688187498,
+  "lat": 1.3682667,
+  "lon": 103.7864302,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4688187509,
+  "lat": 1.3653004,
+  "lon": 103.7842630,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4714550874,
+  "lat": 1.3632131,
+  "lon": 103.7830546,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4714553284,
+  "lat": 1.3634442,
+  "lon": 103.7818141,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4714553286,
+  "lat": 1.3634344,
+  "lon": 103.7825708,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4714553287,
+  "lat": 1.3626646,
+  "lon": 103.7832582,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4714553288,
+  "lat": 1.3611104,
+  "lon": 103.7827049,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4737053628,
+  "lat": 1.2765042,
+  "lon": 103.8358248,
+  "tags": {
+    "addr:street": "Kampong Bahru Road",
+    "name": "Old Boys Gallery",
+    "source": "Kaart Ground Survey 2017",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4738223788,
+  "lat": 1.2949267,
+  "lon": 103.8418278,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "278",
+    "addr:street": "River Valley Road",
+    "name": "Gallery 278",
+    "operator": "Esco Leasing",
+    "source": "Kaart Ground Survey 2017",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4746819482,
+  "lat": 1.3201875,
+  "lon": 103.7825350,
+  "tags": {
+    "name": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4746819559,
+  "lat": 1.3204468,
+  "lon": 103.7822902,
+  "tags": {
+    "name": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4747069527,
+  "lat": 1.3187031,
+  "lon": 103.7753593,
+  "tags": {
+    "name": "Former Buona Vista Battery No. 2 Gun",
+    "name:zh": "波那维斯达前2号枪",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4747135557,
+  "lat": 1.2688747,
+  "lon": 103.8173732,
+  "tags": {
+    "name": "Seah Im Air Raid Shelter",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4749908922,
+  "lat": 1.2479468,
+  "lon": 103.8214116,
+  "tags": {
+    "image": "https://images.mapillary.com/C9y1xvMhTMHTecBc0fljEA/thumb-2048.jpg",
+    "mapillary": "506622380531738",
+    "name": "Southernmost Point of Continental Asia",
+    "name:en": "Southernmost Point of Continental Asia",
+    "name:zh": "亚洲大陆最南端",
+    "tourism": "viewpoint",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4759240362,
+  "lat": 1.2902557,
+  "lon": 103.8514709,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "1",
+    "addr:postcode": "178957",
+    "addr:street": "Saint Andrew's Road",
+    "charge": "20 SGD",
+    "check_date": "2025-12-15",
+    "check_date:opening_hours": "2025-12-15",
+    "contact:facebook": "nationalgallerysg",
+    "email": "info@nationalgallery.sg",
+    "facebook": "https://www.facebook.com/nationalgallerysg",
+    "fee": "yes",
+    "fee:conditional": "no @ singaporean/PR",
+    "internet_access": "wlan",
+    "museum": "art",
+    "name": "National Gallery Singapore",
+    "name:pl": "Singapurska Galeria Narodowa",
+    "name:zh": "新加坡国家美术馆",
+    "opening_hours": "10:00-19:00",
+    "operator": "Dr. Eugene Tan",
+    "operator:type": "public",
+    "phone": "+65 6271 7000",
+    "toilets:wheelchair": "yes",
+    "tourism": "museum",
+    "website": "https://www.nationalgallery.sg",
+    "wheelchair": "yes",
+    "wikidata": "Q6970475",
+    "wikimedia_commons": "Category:National_Gallery_Singapore",
+    "wikipedia": "en:National Gallery Singapore"
+  }
+},
+{
+  "type": "node",
+  "id": 4772535860,
+  "lat": 1.3091744,
+  "lon": 103.8142292,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Learning Forest",
+    "name:zh": "学习树林",
+    "opening_hours": "Mo-Su 05:00-00:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4838324641,
+  "lat": 1.3603133,
+  "lon": 103.8233783,
+  "tags": {
+    "name": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4907674520,
+  "lat": 1.2628295,
+  "lon": 103.8049521,
+  "tags": {
+    "name": "Obelisk",
+    "name:zh": "方尖碑",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4907708671,
+  "lat": 1.2648422,
+  "lon": 103.8035416,
+  "tags": {
+    "name": "Pillbox",
+    "name:zh": "地堡",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4950414721,
+  "lat": 1.3518539,
+  "lon": 103.7765659,
+  "tags": {
+    "image": "https://images.mapillary.com/FRPCBuIx7ab5Otc3ZEdDxg/thumb-2048.jpg",
+    "mapillary": "937093253707055",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4950442037,
+  "lat": 1.3571046,
+  "lon": 103.7736668,
+  "tags": {
+    "tourism": "viewpoint",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4961680421,
+  "lat": 1.3607876,
+  "lon": 103.8221125,
+  "tags": {
+    "name": "Ruins",
+    "name:en": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5003225021,
+  "lat": 1.2795017,
+  "lon": 103.8451897,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housename": "URA Centre",
+    "addr:housenumber": "45",
+    "addr:postcode": "069118",
+    "addr:street": "Maxwell Road",
+    "fee": "no",
+    "name": "Singapore City Gallery",
+    "name:zh": "新加坡规划展览馆",
+    "opening_hours": "Mo-Sa 09:00-17:00",
+    "phone": "+65 6321 8321",
+    "tourism": "museum",
+    "website": "https://www.ura.gov.sg/uol/citygallery",
+    "wikidata": "Q16334460",
+    "wikipedia": "en:Singapore City Gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5018172528,
+  "lat": 1.3610473,
+  "lon": 103.8113955,
+  "tags": {
+    "name": "HSBC TreeTop Walk",
+    "name:zh": "树梢吊桥",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa, Su 08:30-17:00; PH 08:30-17:00",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5018207223,
+  "lat": 1.3103725,
+  "lon": 103.9024570,
+  "tags": {
+    "attraction": "historic",
+    "description": "With pintu pagar (swinging doors)",
+    "name": "Peranakan Terrace houses",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5026572225,
+  "lat": 1.3141955,
+  "lon": 103.8989857,
+  "tags": {
+    "name": "Street of Peranakan shophouses",
+    "name:en": "Street of Peranakan shophouses",
+    "name:zh": "娘惹店屋街",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5037812522,
+  "lat": 1.2843769,
+  "lon": 103.8590995,
+  "tags": {
+    "name": "Marina Bay Laser show viewpoint",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5134227021,
+  "lat": 1.3272619,
+  "lon": 103.7680586,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "Sunset Square",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5140584427,
+  "lat": 1.3021612,
+  "lon": 103.8583262,
+  "tags": {
+    "name": "Arab Street",
+    "name:zh": "阿拉伯街",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5232704122,
+  "lat": 1.2726977,
+  "lon": 103.8188924,
+  "tags": {
+    "direction": "45-90",
+    "image": "https://images.mapillary.com/BM72WKzxtU_z9RCu8exZZQ/thumb-2048.jpg",
+    "mapillary": "765009597492767",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5273189422,
+  "lat": 1.3599759,
+  "lon": 103.8211534,
+  "tags": {
+    "name": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5283108421,
+  "lat": 1.3049244,
+  "lon": 103.8527464,
+  "tags": {
+    "name": "Lithe House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5344372224,
+  "lat": 1.3137524,
+  "lon": 103.9028600,
+  "tags": {
+    "name": "Peranakan Terrace Houses",
+    "name:zh": "娘惹排屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5350977624,
+  "lat": 1.2840841,
+  "lon": 103.8584382,
+  "tags": {
+    "fee": "no",
+    "name": "Light Show Viewing Point",
+    "tourism": "viewpoint",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452694,
+  "lat": 1.4030560,
+  "lon": 103.7893234,
+  "tags": {
+    "attraction": "animal",
+    "name": "Binturong",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452695,
+  "lat": 1.4032652,
+  "lon": 103.7890485,
+  "tags": {
+    "attraction": "animal",
+    "name": "Himilayan Tahr",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452696,
+  "lat": 1.4034435,
+  "lon": 103.7892255,
+  "tags": {
+    "attraction": "animal",
+    "name": "Mouse Deer",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452697,
+  "lat": 1.4031418,
+  "lon": 103.7895259,
+  "tags": {
+    "attraction": "animal",
+    "name": "Fishing Cat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452698,
+  "lat": 1.4030279,
+  "lon": 103.7896587,
+  "tags": {
+    "attraction": "animal",
+    "name": "Fishing Cat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452699,
+  "lat": 1.4028938,
+  "lon": 103.7896332,
+  "tags": {
+    "attraction": "animal",
+    "name": "Pangolin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452700,
+  "lat": 1.4028563,
+  "lon": 103.7898237,
+  "tags": {
+    "attraction": "animal",
+    "name": "Mouse Deer",
+    "note": "Not sure about location -- my records disagree with published map",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452701,
+  "lat": 1.4027316,
+  "lon": 103.7897767,
+  "tags": {
+    "attraction": "animal",
+    "name": "Civit",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452702,
+  "lat": 1.4025399,
+  "lon": 103.7897579,
+  "tags": {
+    "attraction": "animal",
+    "name": "Flying Fox",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452703,
+  "lat": 1.4026123,
+  "lon": 103.7899336,
+  "tags": {
+    "attraction": "animal",
+    "name": "Indian Gharial",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452704,
+  "lat": 1.4028683,
+  "lon": 103.7899886,
+  "tags": {
+    "attraction": "animal",
+    "name": "Barking Deer",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452705,
+  "lat": 1.4029957,
+  "lon": 103.7899148,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Otter",
+    "name:zh": "亚洲水獭",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452706,
+  "lat": 1.4017649,
+  "lon": 103.7903842,
+  "tags": {
+    "attraction": "animal",
+    "name": "Barasingha",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452707,
+  "lat": 1.4023334,
+  "lon": 103.7903695,
+  "tags": {
+    "attraction": "animal",
+    "name": "Storks",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452708,
+  "lat": 1.4003223,
+  "lon": 103.7909180,
+  "tags": {
+    "attraction": "animal",
+    "name": "Fruit Bat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452709,
+  "lat": 1.4005369,
+  "lon": 103.7907436,
+  "tags": {
+    "attraction": "animal",
+    "name": "Spectral Tarsier",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452710,
+  "lat": 1.4006334,
+  "lon": 103.7909099,
+  "tags": {
+    "attraction": "animal",
+    "name": "Civit",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452711,
+  "lat": 1.4007728,
+  "lon": 103.7906276,
+  "tags": {
+    "attraction": "animal",
+    "name": "Porcupine",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452712,
+  "lat": 1.4006374,
+  "lon": 103.7904446,
+  "tags": {
+    "attraction": "animal",
+    "name": "Leopard Cat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452713,
+  "lat": 1.4007071,
+  "lon": 103.7901998,
+  "tags": {
+    "attraction": "animal",
+    "name": "Hog Badger",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452714,
+  "lat": 1.4007406,
+  "lon": 103.7900617,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giant Flying Squirrel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452715,
+  "lat": 1.4008439,
+  "lon": 103.7902280,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Otter",
+    "name:zh": "亚洲水獭",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452716,
+  "lat": 1.4010731,
+  "lon": 103.7902099,
+  "tags": {
+    "attraction": "animal",
+    "name": "Golden Cat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452717,
+  "lat": 1.4013601,
+  "lon": 103.7905492,
+  "tags": {
+    "attraction": "animal",
+    "name": "Slow Loris",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452718,
+  "lat": 1.4034462,
+  "lon": 103.7943197,
+  "tags": {
+    "attraction": "animal",
+    "name": "Sumatran Ourang Utan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452719,
+  "lat": 1.4033081,
+  "lon": 103.7944444,
+  "tags": {
+    "attraction": "animal",
+    "name": "Malayan Sun Bear",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423452720,
+  "lat": 1.4030735,
+  "lon": 103.7945417,
+  "tags": {
+    "attraction": "animal",
+    "name": "Spiny Hill Turtle",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423453421,
+  "lat": 1.4031137,
+  "lon": 103.7948005,
+  "tags": {
+    "attraction": "animal",
+    "name": "Komodo Dragon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423453422,
+  "lat": 1.4030172,
+  "lon": 103.7950191,
+  "tags": {
+    "attraction": "animal",
+    "name": "Monitor",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423453423,
+  "lat": 1.4028750,
+  "lon": 103.7946355,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giant Tortoise",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423453424,
+  "lat": 1.4028482,
+  "lon": 103.7948367,
+  "tags": {
+    "attraction": "animal",
+    "name": "Horned Lizard",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5423453425,
+  "lat": 1.4025211,
+  "lon": 103.7947643,
+  "tags": {
+    "attraction": "animal",
+    "name": "Snakes",
+    "name:zh": "蛇",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5450272625,
+  "lat": 1.3327551,
+  "lon": 103.8670265,
+  "tags": {
+    "addr:housenumber": "#01-06",
+    "name": "Archery Range Indoor",
+    "opening_hours": "Mo, We, Fr 09:00-21:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5457541821,
+  "lat": 1.2819947,
+  "lon": 103.8642367,
+  "tags": {
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5486212721,
+  "lat": 1.2760507,
+  "lon": 103.8154142,
+  "tags": {
+    "name": "Henderson Waves",
+    "name:zh": "亨德申波浪桥桥",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5549593967,
+  "lat": 1.3112897,
+  "lon": 103.8128795,
+  "tags": {
+    "name": "Bambusetum",
+    "name:zh": "竹林",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5599660021,
+  "lat": 1.3780953,
+  "lon": 103.7783677,
+  "tags": {
+    "access": "yes",
+    "communication:radio": "yes",
+    "description": "Spiral stairs",
+    "est_height": "20",
+    "fee": "no",
+    "man_made": "tower",
+    "material": "steel",
+    "name": "Observation Tower",
+    "name:zh": "策士纳自然公园瞭望塔",
+    "opening_hours": "07:00-19:00",
+    "tourism": "viewpoint",
+    "tower:type": "observation",
+    "website": "https://www.nparks.gov.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 5647751955,
+  "lat": 1.2821068,
+  "lon": 103.8639782,
+  "tags": {
+    "description": "Free-to-public light and sound show every evening at the Supertree Grove",
+    "fee": "no",
+    "name": "Light Show: Garden Rhapsody",
+    "name:zh": "灯光秀",
+    "opening_hours": "Mo-Su 19:45-20:00, 20:45-21:00",
+    "tourism": "attraction",
+    "website": "https://m.gardensbythebay.com.sg/en/whats-on/calendar-of-events/garden-rhapsody-light-show.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5667430193,
+  "lat": 1.3087398,
+  "lon": 103.8176157,
+  "tags": {
+    "name": "Singapore Botanic Gardens Heritage Museum",
+    "name:de": "Heritage Museum in den Singapore Botanic Gardens",
+    "name:en": "Singapore Botanic Gardens Heritage Museum",
+    "name:ja": "シンガポール植物園ヘリテージ博物館",
+    "name:ko": "싱가포르 보타닉 가든 헤리티지 뮤지엄",
+    "name:th": "พิพิธภัณฑ์มรดกของสวนพฤกษศาสตร์สิงคโปร์",
+    "name:zh": "新加坡植物园遗产博物馆",
+    "tourism": "museum",
+    "website": "https://www.nparks.gov.sg/sbg/our-gardens/tanglin-entrance/heritage-museum-cdl-gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5708459524,
+  "lat": 1.3174422,
+  "lon": 103.8163834,
+  "tags": {
+    "name": "Fragrant Garden",
+    "name:zh": "馨香园",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5708926389,
+  "lat": 1.2782692,
+  "lon": 103.8037294,
+  "tags": {
+    "name": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5713788389,
+  "lat": 1.2792330,
+  "lon": 103.8058681,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5717895585,
+  "lat": 1.2540986,
+  "lon": 103.8177656,
+  "tags": {
+    "name": "Madame Tussauds Singapore",
+    "name:zh": "新加坡万象馆",
+    "phone": "+65 6715 4000",
+    "tourism": "museum",
+    "website": "http://www.madametussauds.com/Singapore/",
+    "wikidata": "Q19840386",
+    "wikimedia_commons": "Category:Madame Tussauds Singapore",
+    "wikipedia": "en:Madame Tussauds Singapore"
+  }
+},
+{
+  "type": "node",
+  "id": 5754100521,
+  "lat": 1.2799997,
+  "lon": 103.8030222,
+  "tags": {
+    "name": "Forest Walk",
+    "name:zh": "森林步道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5761606753,
+  "lat": 1.2553342,
+  "lon": 103.8165435,
+  "tags": {
+    "name": "4D Adventureland",
+    "name:zh": "4D 探索乐园",
+    "opening_hours": "Mo-Su 12:00-19:00",
+    "phone": "+6562745355",
+    "tourism": "theme_park",
+    "website": "https://4dadventureland.com.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 5829461647,
+  "lat": 1.2794721,
+  "lon": 103.7940834,
+  "tags": {
+    "air_conditioning": "yes",
+    "charge": "5 SGD",
+    "check_date": "2024-11-06",
+    "description": "Reflections at Bukit Chandu is a World War II interpretive centre developed and managed by the National Archives of Singapore, located on Bukit Chandu (Malay for \"Opium Hill\").",
+    "email": "RBC@nhb.gov.sg",
+    "fee": "yes",
+    "internet_access": "no",
+    "museum": "war",
+    "name": "Reflections at Bukit Chandu",
+    "name:ja": "ブキ・チャンドゥ回想館",
+    "name:ms": "Renungan di Bukit Chandu",
+    "name:ms-Arab": "رنوڠن د بوكيت چندو",
+    "name:zh": "鸦片山岗战役纪念馆",
+    "opening_hours": "09:30-17:00; Mo off",
+    "operator:type": "public",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "phone": "+6562506675",
+    "tourism": "museum",
+    "website": "https://www.nhb.gov.sg/bukitchandu",
+    "wheelchair": "yes",
+    "wikidata": "Q7307287",
+    "wikimedia_commons": "Category:Reflections at Bukit Chandu",
+    "wikipedia": "en:Reflections at Bukit Chandu"
+  }
+},
+{
+  "type": "node",
+  "id": 6009344392,
+  "lat": 1.2716597,
+  "lon": 103.8189686,
+  "tags": {
+    "alt_name:en": "Bells of Happiness (Dar Pomorza)",
+    "image": "https://images.mapillary.com/2aksWO0SHKa9SeSmNG0PGw/thumb-2048.jpg",
+    "man_made": "tower",
+    "mapillary": "526024798782828",
+    "name": "Poland's Bells of Happiness (Dar Pomorza)",
+    "name:ar": "أجراس السعادة في بولندا",
+    "name:be": "Польскія званы шчасця (Dar Pomorza)",
+    "name:cs": "Polské zvony štěstí (Dar Pomorza)",
+    "name:de": "Polens Glücksglocken (Dar Pomorza)",
+    "name:en": "Poland's Bells of Happiness (Dar Pomorza)",
+    "name:es": "Campanas de la felicidad de Polonia (Dar Pomorza)",
+    "name:fa": "ناقوس‌های شادی لهستان (Dar Pomorza)",
+    "name:fil": "Mga kampana ng kaligayahan ng Poland (Dar Pomorza)",
+    "name:fr": "Cloches du bonheur de la Pologne (Dar Pomorza)",
+    "name:he": "פעמוני האושר של פולין (Dar Pomorza)",
+    "name:hi": "पोलैंड की खुशियों की घंटियाँ (Dar Pomorza)",
+    "name:id": "Lonceng kebahagiaan Polandia (Dar Pomorza)",
+    "name:ja": "ポーランドの幸福の鐘 (Dar Pomorza)",
+    "name:km": "កណ្តឹងនៃសុភមង្គលរបស់ប្រទេសប៉ូឡូញ (Dar Pomorza)",
+    "name:ko": "폴란드의 행복의 종소리 (Dar Pomorza)",
+    "name:lo": "ລະຄັງແຫ່ງຄວາມສຸກຂອງໂປແລນ (Dar Pomorza)",
+    "name:lt": "Lenkijos laimės varpai (Dar Pomorza)",
+    "name:lv": "Polijas laimes zvani (Dar Pomorza)",
+    "name:ms": "Loceng kebahagiaan Poland (Dar Pomorza)",
+    "name:my": "ပိုလန်ရဲ့ ပျော်ရွှင်မှုခေါင်းလောင်းတွေ (Dar Pomorza)",
+    "name:nl": "De geluksklokken van Polen (Dar Pomorza)",
+    "name:pa": "پولینڈ دیاں خوشی دیاں گھنٹیاں (Dar Pomorza)",
+    "name:pl": "Polskie dzwony szczęścia (dar Pomorza)",
+    "name:pt": "Sinos da felicidade da Polónia (Dar Pomorza)",
+    "name:ru": "Польские колокола счастья (Dar Pomorza)",
+    "name:sk": "Poľské zvony šťastia (Dar Pomorza)",
+    "name:ta": "போலந்தின் மகிழ்ச்சி மணிகள் (Dar Pomorza)",
+    "name:th": "ระฆังแห่งความสุขของโปแลนด์ (Dar Pomorza)",
+    "name:tr": "Polonya'nın mutluluk çanları (Dar Pomorza)",
+    "name:uk": "Дзвони щастя Польщі (Dar Pomorza)",
+    "name:vi": "Những tiếng chuông hạnh phúc của Ba Lan (Dar Pomorza)",
+    "name:zh": "波蘭的幸福之鐘 (Dar Pomorza)",
+    "tourism": "attraction",
+    "tower:type": "bell_tower",
+    "website": "https://historia.trojmiasto.pl/Kto-rozwikla-tajemnice-dzwonu-Dar-Pomorza-z-Singapuru-n77894.html"
+  }
+},
+{
+  "type": "node",
+  "id": 6021713085,
+  "lat": 1.3413737,
+  "lon": 103.8315193,
+  "tags": {
+    "name": "MacRitchie Reservoir Submerged Boardwalk",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6024473086,
+  "lat": 1.4020099,
+  "lon": 103.7958293,
+  "tags": {
+    "attraction": "animal",
+    "name": "Proboscis Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6075719088,
+  "lat": 1.2785287,
+  "lon": 103.8093385,
+  "tags": {
+    "name": "Forest Canopy Walk",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6082964185,
+  "lat": 1.3482625,
+  "lon": 103.7575012,
+  "tags": {
+    "name": "Local market",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6084050885,
+  "lat": 1.3066832,
+  "lon": 103.8663997,
+  "tags": {
+    "name": "Banyan Tree & Ruin",
+    "name:zh": "榕树、废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6209861844,
+  "lat": 1.3558024,
+  "lon": 103.7575638,
+  "tags": {
+    "name": "Stream",
+    "name:zh": "小溪",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6209912502,
+  "lat": 1.3864930,
+  "lon": 103.7892303,
+  "tags": {
+    "name": "Log Bridge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6260971088,
+  "lat": 1.3467942,
+  "lon": 103.8138053,
+  "tags": {
+    "name": "Hidden underground Japanese era structure",
+    "name:en": "Hidden underground Japanese era structure",
+    "name:zh": "水下二战时期建筑",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6278002685,
+  "lat": 1.2821528,
+  "lon": 103.8545533,
+  "tags": {
+    "name:fr": "vue Marina Bay",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6356165775,
+  "lat": 1.2793567,
+  "lon": 103.8466029,
+  "tags": {
+    "email": "MHA_HDG@mha.gov.sg",
+    "name": "Harmony in Diversity Gallery",
+    "name:ms": "Galeri Harmoni dalam Kepelbagaian",
+    "opening_hours": "Mo-Sa 10:00-17:00; Su,PH off",
+    "phone": "+656221 8942",
+    "tourism": "gallery",
+    "website": "https://www.harmonyindiversitygallery.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 6411349985,
+  "lat": 1.3101143,
+  "lon": 103.8174937,
+  "tags": {
+    "name": "Plant House",
+    "name:zh": "植物屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6425362881,
+  "lat": 1.3005868,
+  "lon": 103.8590397,
+  "tags": {
+    "image": "https://images.mapillary.com/_vE4M4AeaFTjvHsI-A2f5Q/thumb-2048.jpg",
+    "mapillary": "392242285178537",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6448634637,
+  "lat": 1.2824175,
+  "lon": 103.8618208,
+  "tags": {
+    "image": "https://images.mapillary.com/WGji0tHPJzPbMckq0DqrPQ/thumb-2048.jpg",
+    "mapillary": "1160863667769517",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6449190573,
+  "lat": 1.2836454,
+  "lon": 103.8607868,
+  "tags": {
+    "image": "https://images.mapillary.com/-edfeQAMOcxT7YRmR8MVjw/thumb-2048.jpg",
+    "mapillary": "834732173791888",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6449716756,
+  "lat": 1.2866332,
+  "lon": 103.8603027,
+  "tags": {
+    "image": "https://images.mapillary.com/JUIDYW9eqi7atFB_oc3tKg/thumb-2048.jpg",
+    "mapillary": "333925221423131",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6449716761,
+  "lat": 1.2871631,
+  "lon": 103.8604716,
+  "tags": {
+    "image": "https://images.mapillary.com/IXTfqwp9w9Ck9JWX1DRwxQ/thumb-2048.jpg",
+    "mapillary": "315199663309192",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6449716763,
+  "lat": 1.2877226,
+  "lon": 103.8605100,
+  "tags": {
+    "image": "https://images.mapillary.com/iIYhEk--iZkV_bN3o33wsg/thumb-2048.jpg",
+    "mapillary": "1051403875383637",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6459145517,
+  "lat": 1.2699590,
+  "lon": 103.8218780,
+  "tags": {
+    "image": "https://images.mapillary.com/KDmAZ5wYrgljchOyZ1YmXQ/thumb-2048.jpg",
+    "mapillary": "994812021056443",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6459370049,
+  "lat": 1.2712712,
+  "lon": 103.8190426,
+  "tags": {
+    "image": "https://images.mapillary.com/Zp1n5MrsaPa3AF3KTYmFqQ/thumb-2048.jpg",
+    "mapillary": "301266184838400",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6459477138,
+  "lat": 1.2727884,
+  "lon": 103.8191086,
+  "tags": {
+    "image": "https://images.mapillary.com/Mql-KsGhkdDcQUFqI7Z5FA/thumb-2048.jpg",
+    "mapillary": "284954346604788",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6459477148,
+  "lat": 1.2736097,
+  "lon": 103.8177528,
+  "tags": {
+    "image": "https://images.mapillary.com/3lf5WOXwz_Tb3rUBolrrMw/thumb-2048.jpg",
+    "mapillary": "314780856781596",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6461869571,
+  "lat": 1.2600787,
+  "lon": 103.8233190,
+  "tags": {
+    "image": "https://images.mapillary.com/UVdgvsIxYkXe0j6fD60viA/thumb-2048.jpg",
+    "mapillary": "288662956244303",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6512510561,
+  "lat": 1.3571032,
+  "lon": 103.8045715,
+  "tags": {
+    "name": "PUB Water Rapid Flow",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6516081595,
+  "lat": 1.3506948,
+  "lon": 103.7646893,
+  "tags": {
+    "direction": "270-120",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6516083088,
+  "lat": 1.3503282,
+  "lon": 103.7652321,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6712453286,
+  "lat": 1.2998033,
+  "lon": 103.8520187,
+  "tags": {
+    "addr:housenumber": "155",
+    "addr:postcode": "188977",
+    "addr:street": "Middle Road",
+    "name": "Objectifs - Centre for Photography and Film",
+    "name:zh": "摄影与电影艺术中心",
+    "opening_hours": "Mo-Sa 12:00-19:00; Su 12:00-16:00; Mo,PH off",
+    "phone": "+65 6336 2957",
+    "tourism": "museum",
+    "website": "https://objectifs.com.sg/",
+    "wikidata": "Q7075069",
+    "wikimedia_commons": "Category:Objectifs (gallery)",
+    "wikipedia": "en:Objectifs"
+  }
+},
+{
+  "type": "node",
+  "id": 6776050785,
+  "lat": 1.3145414,
+  "lon": 103.9005788,
+  "tags": {
+    "name": "Old terraced houses",
+    "name:zh": "旧排屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6797999685,
+  "lat": 1.3082460,
+  "lon": 103.7618850,
+  "tags": {
+    "name": "rumah pekerja hortpark",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6807575789,
+  "lat": 1.3014454,
+  "lon": 103.7725633,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "50",
+    "addr:postcode": "119279",
+    "addr:street": "Kent Ridge Crescent",
+    "contact:facebook": "https://www.facebook.com/nusmuseum",
+    "email": "museum@nus.edu.sg",
+    "name": "NUS Museum",
+    "name:zh": "国大博物馆",
+    "opening_hours": "Tu-Sa 10:00-18:00",
+    "operator": "National University of Singapore",
+    "phone": "+65 6516 8817",
+    "tourism": "museum",
+    "website": "https://museum.nus.edu.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 6813590943,
+  "lat": 1.3200847,
+  "lon": 103.8178503,
+  "tags": {
+    "name": "The Bunker",
+    "name:zh": "地堡",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6837406386,
+  "lat": 1.2846726,
+  "lon": 103.8540476,
+  "tags": {
+    "name": "Marina Bay View",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6884053285,
+  "lat": 1.2828764,
+  "lon": 103.8487822,
+  "tags": {
+    "fee": "no",
+    "name": "Fuk Tak Chi",
+    "name:zh": "(海唇)福德祠",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6899658954,
+  "lat": 1.2600017,
+  "lon": 103.8073750,
+  "tags": {
+    "name": "Dragon's Teeth Gate Viewpoint",
+    "name:zh": "龙牙门观景点",
+    "tourism": "viewpoint",
+    "wikidata": "Q573956",
+    "wikipedia": "en:Long Ya Men"
+  }
+},
+{
+  "type": "node",
+  "id": 6900305463,
+  "lat": 1.3069939,
+  "lon": 103.8511728,
+  "tags": {
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6912346185,
+  "lat": 1.3015475,
+  "lon": 103.8584710,
+  "tags": {
+    "name": "Haji lane",
+    "name:zh": "哈芝巷",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6942610082,
+  "lat": 1.3351119,
+  "lon": 103.7220303,
+  "tags": {
+    "name": "Our Museum @ Taman Jurong",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6953424385,
+  "lat": 1.3071451,
+  "lon": 103.8510017,
+  "tags": {
+    "name": "Colourful house in little India",
+    "name:zh": "小印度多彩屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7015806929,
+  "lat": 1.2981295,
+  "lon": 103.8512851,
+  "tags": {
+    "addr:unit": "#02-06",
+    "fixme:zh": "-",
+    "name": "The Private Museum",
+    "name:zh": "私人博物馆",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 7053715520,
+  "lat": 1.2957567,
+  "lon": 103.8538710,
+  "tags": {
+    "addr:housenumber": "328",
+    "addr:street": "North Bridge Road",
+    "brand": "Leica",
+    "check_date": "2023-11-06",
+    "level": "0",
+    "name": "Leica Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 7053744370,
+  "lat": 1.2969181,
+  "lon": 103.8538671,
+  "tags": {
+    "addr:floor": "3",
+    "addr:housenumber": "233",
+    "addr:street": "Bain Street",
+    "addr:unit": "#03-03",
+    "check_date": "2024-04-14",
+    "level": "2",
+    "name": "G Art",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 7096008183,
+  "lat": 1.3083692,
+  "lon": 103.8177353,
+  "tags": {
+    "access": "yes",
+    "air_conditioning": "yes",
+    "check_date": "2024-04-18",
+    "fee": "no",
+    "name": "CDL Green Gallery",
+    "opening_hours": "Mo-Su 09:00-18:00; Tu[-1] off",
+    "tourism": "gallery",
+    "website": "https://www.nparks.gov.sg/sbg/our-gardens/tanglin-entrance/heritage-museum-cdl-gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188653,
+  "lat": 1.2773877,
+  "lon": 103.8038080,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:floor": "1",
+    "addr:housenumber": "5",
+    "addr:postcode": "108933",
+    "addr:street": "Lock Road",
+    "addr:unit": "#01-05",
+    "check_date": "2023-05-28",
+    "email": "singapore@sundaramtagore.com",
+    "level": "0",
+    "name": "Sundaram Tagore Gallery",
+    "opening_hours": "Tu-Sa 11:00-19:00; Su-Mo,PH \"by appointment\"",
+    "phone": "+65 6694 3378",
+    "tourism": "gallery",
+    "website": "https://www.sundaramtagore.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188654,
+  "lat": 1.2776790,
+  "lon": 103.8044879,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "6",
+    "addr:postcode": "108934",
+    "addr:street": "Lock Road",
+    "addr:unit": "#02-09",
+    "email": "info@chanhori.com",
+    "name": "Chan + Hori Contemporary",
+    "opening_hours": "Tu-Fr 11:00-19:00; Sa,Su 12:00-18:00; Mo, PH off",
+    "phone": "+65 6338 1962",
+    "tourism": "gallery",
+    "website": "https://www.chanhori.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188656,
+  "lat": 1.2783219,
+  "lon": 103.8042837,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housename": "Gillman Barracks",
+    "addr:housenumber": "9",
+    "addr:postcode": "108937",
+    "addr:street": "Lock Road",
+    "addr:unit": "#02-23",
+    "fee": "no",
+    "level": "2",
+    "name": "Yavuz Gallery",
+    "opening_hours": "Tu-Sa 11:00-19:00; Su 12:00-17:00; Mo, PH off",
+    "phone": "+65 6734 3262",
+    "tourism": "gallery",
+    "website": "https://yavuzgallery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188657,
+  "lat": 1.2783119,
+  "lon": 103.8043783,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housename": "Gillman Barracks",
+    "addr:housenumber": "9",
+    "addr:postcode": "108937",
+    "addr:street": "Lock Road",
+    "addr:unit": "#02-22",
+    "branch": "Singapore",
+    "email": "info@shanghartsingapore.com",
+    "level": "2",
+    "name": "ShanghART Gallery",
+    "opening_hours": "We-Su 11:00-19:00",
+    "operator": "ShangART",
+    "phone": "+65 6734 9537",
+    "tourism": "gallery",
+    "website": "https://shanghartgallery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188675,
+  "lat": 1.2745175,
+  "lon": 103.8042127,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "43",
+    "addr:postcode": "109443",
+    "addr:street": "Malan Road",
+    "tourism": "gallery",
+    "website": "http://ntu.ccasingapore.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188681,
+  "lat": 1.2792202,
+  "lon": 103.8051870,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "22",
+    "addr:street": "Lock Road",
+    "name": "The Columns",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 7142188682,
+  "lat": 1.2792202,
+  "lon": 103.8050361,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "22",
+    "addr:street": "Lock Road",
+    "name": "Mizuma Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 7175058264,
+  "lat": 1.2964336,
+  "lon": 103.8526517,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housename": "Carlton Hotel",
+    "addr:housenumber": "76",
+    "addr:street": "Bras Basah Road",
+    "addr:unit": "#01-01",
+    "check_date": "2024-04-09",
+    "email": "souping@artcommune.com.sg",
+    "level": "0",
+    "name": "Artcommune Gallery",
+    "phone": "+65 63364240",
+    "tourism": "gallery",
+    "website": "https://www.artcommune.com.sg/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7194716360,
+  "lat": 1.4474625,
+  "lon": 103.8241717,
+  "tags": {
+    "name": "Bunker",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7215457385,
+  "lat": 1.2972574,
+  "lon": 103.8463950,
+  "tags": {
+    "description": "Popular photo spot at the southern exit of pedestrian underpass.",
+    "name": "Fort Canning Tree Tunnel",
+    "name:zh": "福康寧隧道旋轉階梯",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7287289985,
+  "lat": 1.4331759,
+  "lon": 103.7606836,
+  "tags": {
+    "name": "Rainbow Bridge",
+    "name:zh": "彩虹桥",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186141,
+  "lat": 1.4053462,
+  "lon": 103.7944960,
+  "tags": {
+    "attraction": "animal",
+    "name": "Douc Langur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186142,
+  "lat": 1.4052660,
+  "lon": 103.7949822,
+  "tags": {
+    "attraction": "animal",
+    "name": "Colobus Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186143,
+  "lat": 1.4060753,
+  "lon": 103.7935963,
+  "tags": {
+    "attraction": "animal",
+    "name": "Cassowary",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186144,
+  "lat": 1.4059760,
+  "lon": 103.7933102,
+  "tags": {
+    "attraction": "animal",
+    "name": "Tree Kangaroo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186145,
+  "lat": 1.4058372,
+  "lon": 103.7930400,
+  "tags": {
+    "attraction": "animal",
+    "name": "Wallaby",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186146,
+  "lat": 1.4052310,
+  "lon": 103.7933181,
+  "tags": {
+    "attraction": "animal",
+    "name": "Meerkat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7832186147,
+  "lat": 1.4041130,
+  "lon": 103.7931666,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red-ruffed Lemur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7836789018,
+  "lat": 1.4021457,
+  "lon": 103.7954988,
+  "tags": {
+    "attraction": "animal",
+    "name": "Butterfly Aviary",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7836789019,
+  "lat": 1.4024351,
+  "lon": 103.7954807,
+  "tags": {
+    "attraction": "animal",
+    "name": "Flying Fox",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7836789020,
+  "lat": 1.4023989,
+  "lon": 103.7952545,
+  "tags": {
+    "attraction": "animal",
+    "name": "Ring-tailed Lemur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7836789021,
+  "lat": 1.4022542,
+  "lon": 103.7961366,
+  "tags": {
+    "attraction": "animal",
+    "name": "Pigmy Marmoset",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7836789022,
+  "lat": 1.4019105,
+  "lon": 103.7948067,
+  "tags": {
+    "attraction": "animal",
+    "name": "Naked Mole Rat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7856415504,
+  "lat": 1.2729756,
+  "lon": 103.8183811,
+  "tags": {
+    "direction": "225",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7900880085,
+  "lat": 1.3824480,
+  "lon": 103.8222861,
+  "tags": {
+    "name": "Living Off The Land",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7900890085,
+  "lat": 1.3827701,
+  "lon": 103.8232709,
+  "tags": {
+    "name": "HAN Family",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8022188486,
+  "lat": 1.2968849,
+  "lon": 103.8540199,
+  "tags": {
+    "name": "San-Ee Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8059361244,
+  "lat": 1.2968326,
+  "lon": 103.8538211,
+  "tags": {
+    "addr:floor": "3",
+    "addr:unit": "#03-17",
+    "check_date": "2024-04-14",
+    "level": "2",
+    "name": "Cape of Good Heart Gallery",
+    "tourism": "gallery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8059370595,
+  "lat": 1.2971067,
+  "lon": 103.8534897,
+  "tags": {
+    "addr:unit": "#03-39",
+    "level": "2",
+    "name": "Zen Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8059375621,
+  "lat": 1.2967666,
+  "lon": 103.8539068,
+  "tags": {
+    "addr:housenumber": "231",
+    "addr:street": "Bain Street",
+    "addr:unit": "#03-15",
+    "check_date": "2024-04-14",
+    "level": "2",
+    "name": "Art plus Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8108537848,
+  "lat": 1.3235587,
+  "lon": 103.8510073,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Martaban Road",
+    "name": "Colourful Shophouses",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8108578052,
+  "lat": 1.3198501,
+  "lon": 103.8167142,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Beaded Collection",
+    "name:zh": "串珠系列",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8132716617,
+  "lat": 1.4026328,
+  "lon": 103.7764542,
+  "tags": {
+    "demolished:building": "yes",
+    "name": "Former Mandai Hut (demolished)",
+    "name:zh": "前万礼小屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8209633718,
+  "lat": 1.4085925,
+  "lon": 103.8680287,
+  "tags": {
+    "name": "Seletar Aerospace Park",
+    "name:zh": "实里达航空园区",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8261811116,
+  "lat": 1.3569573,
+  "lon": 103.7717553,
+  "tags": {
+    "direction": "0-180",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8266881488,
+  "lat": 1.3587507,
+  "lon": 103.7778236,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8362800361,
+  "lat": 1.3188957,
+  "lon": 103.7707876,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8362814678,
+  "lat": 1.2774981,
+  "lon": 103.8034996,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Lock Road",
+    "name": "Fost Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8362841949,
+  "lat": 1.2774312,
+  "lon": 103.8034598,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Lock Road",
+    "facebook": "CommaArtSpace",
+    "location": "Gillman Barracks",
+    "name": "Comma Space 逗号空间",
+    "tourism": "gallery",
+    "website": "https://comma-space.com"
+  }
+},
+{
+  "type": "node",
+  "id": 8485491035,
+  "lat": 1.2819416,
+  "lon": 103.8639337,
+  "tags": {
+    "direction": "0-360",
+    "lit": "yes",
+    "name": "Supertree Observatory",
+    "name:zh": "擎天树观景台",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 8566518469,
+  "lat": 1.3054099,
+  "lon": 103.8302025,
+  "tags": {
+    "level": "2",
+    "name": "Kwok Gallery",
+    "name:zh": "郭古玩行",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 8588406245,
+  "lat": 1.2834152,
+  "lon": 103.8308367,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "78",
+    "addr:postcode": "160078",
+    "addr:street": "Guan Chuan Street",
+    "name": "Tiong Bahru Air Raid Shelter",
+    "name:zh": "中峇鲁防空壕",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8602874913,
+  "lat": 1.3313174,
+  "lon": 103.8216533,
+  "tags": {
+    "name": "Abandoned car",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8696320617,
+  "lat": 1.2685650,
+  "lon": 103.8192156,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Abandoned Motorbike",
+    "name:zh": "废弃的摩头车",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8696320717,
+  "lat": 1.2702295,
+  "lon": 103.8199623,
+  "tags": {
+    "name": "Big Banyan Tree",
+    "name:zh": "大榕树",
+    "natural": "tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8735385317,
+  "lat": 1.3819818,
+  "lon": 103.8223680,
+  "tags": {
+    "name": "ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8821249366,
+  "lat": 1.2798228,
+  "lon": 103.8408053,
+  "tags": {
+    "name": "The Fluxus House",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "tourism": "gallery",
+    "website": "https://fluxushouse.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9043808171,
+  "lat": 1.3145593,
+  "lon": 103.8099841,
+  "tags": {
+    "name": "Botanical Art Gallery",
+    "name:zh": "植物美术馆",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9043819288,
+  "lat": 1.3137975,
+  "lon": 103.8106770,
+  "tags": {
+    "name": "Forest Discovery Centre",
+    "name:zh": "树林知新馆",
+    "opening_hours": "09:00-18:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9050950001,
+  "lat": 1.3035296,
+  "lon": 103.8324563,
+  "tags": {
+    "level": "0",
+    "name": "Opera Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 9240327951,
+  "lat": 1.2721544,
+  "lon": 103.8144820,
+  "tags": {
+    "name": "Ruins",
+    "name:zh": "废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9284717787,
+  "lat": 1.3652810,
+  "lon": 103.7848480,
+  "tags": {
+    "name": "Motorbike (NBE)",
+    "name:zh": "摩托车（未探索）",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288364791,
+  "lat": 1.4027356,
+  "lon": 103.7953868,
+  "tags": {
+    "attraction": "animal",
+    "name": "Estuarine Crocodile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288364792,
+  "lat": 1.4034623,
+  "lon": 103.7947954,
+  "tags": {
+    "attraction": "animal",
+    "name": "Indian Gharial",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288364800,
+  "lat": 1.4031995,
+  "lon": 103.7949845,
+  "tags": {
+    "attraction": "animal",
+    "name": "Ploughshare Tortoise",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368317,
+  "lat": 1.4032444,
+  "lon": 103.7967447,
+  "tags": {
+    "attraction": "animal",
+    "name": "Goat",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368318,
+  "lat": 1.4032297,
+  "lon": 103.7969398,
+  "tags": {
+    "attraction": "animal",
+    "name": "Rabbit",
+    "name:zh": "兔子",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368319,
+  "lat": 1.4035722,
+  "lon": 103.7964651,
+  "tags": {
+    "name": "Animal Friends",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368358,
+  "lat": 1.4020519,
+  "lon": 103.7948169,
+  "tags": {
+    "attraction": "animal",
+    "name": "Fossa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368359,
+  "lat": 1.4016765,
+  "lon": 103.7946412,
+  "tags": {
+    "attraction": "animal",
+    "name": "Leopard",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368360,
+  "lat": 1.4016202,
+  "lon": 103.7943488,
+  "tags": {
+    "attraction": "animal",
+    "name": "Lion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368361,
+  "lat": 1.4012555,
+  "lon": 103.7941691,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giraffe",
+    "name:zh": "长颈鹿",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368362,
+  "lat": 1.4016604,
+  "lon": 103.7939143,
+  "tags": {
+    "attraction": "animal",
+    "name": "Zebra",
+    "name:zh": "斑马",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368363,
+  "lat": 1.4020438,
+  "lon": 103.7942201,
+  "tags": {
+    "attraction": "animal",
+    "name": "Warthog",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368364,
+  "lat": 1.4029367,
+  "lon": 103.7939572,
+  "tags": {
+    "attraction": "animal",
+    "name": "African Painted Dog",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368365,
+  "lat": 1.4024943,
+  "lon": 103.7941182,
+  "tags": {
+    "attraction": "animal",
+    "name": "Cheetah",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368366,
+  "lat": 1.4023066,
+  "lon": 103.7937292,
+  "tags": {
+    "attraction": "animal",
+    "name": "White Tailed Gnu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368367,
+  "lat": 1.4026391,
+  "lon": 103.7934664,
+  "tags": {
+    "attraction": "animal",
+    "name": "Eland",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368368,
+  "lat": 1.4028697,
+  "lon": 103.7933779,
+  "tags": {
+    "attraction": "animal",
+    "name": "White Rhinoceros",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368369,
+  "lat": 1.4022570,
+  "lon": 103.7959582,
+  "tags": {
+    "attraction": "animal",
+    "name": "Mandrill",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368373,
+  "lat": 1.4027544,
+  "lon": 103.7960601,
+  "tags": {
+    "attraction": "animal",
+    "name": "Chimpanzee",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368378,
+  "lat": 1.4035333,
+  "lon": 103.7939787,
+  "tags": {
+    "attraction": "animal",
+    "image": "https://images.mapillary.com/Qs-cR2fiVEZfaZWafkerjg/thumb-2048.jpg",
+    "mapillary": "795456071343704",
+    "name": "Bornean Orang Utan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368379,
+  "lat": 1.4058849,
+  "lon": 103.7935656,
+  "tags": {
+    "attraction": "animal",
+    "name": "Nubian Ibex",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368380,
+  "lat": 1.4052079,
+  "lon": 103.7942590,
+  "tags": {
+    "attraction": "animal",
+    "name": "Cotton-top Tamarin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368381,
+  "lat": 1.4048861,
+  "lon": 103.7945111,
+  "tags": {
+    "attraction": "animal",
+    "name": "Spider Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368382,
+  "lat": 1.4044946,
+  "lon": 103.7949456,
+  "tags": {
+    "name": "Splash Safari",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368398,
+  "lat": 1.4039664,
+  "lon": 103.7941276,
+  "tags": {
+    "attraction": "animal",
+    "name": "Africa Penguin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368399,
+  "lat": 1.4051583,
+  "lon": 103.7952581,
+  "tags": {
+    "attraction": "animal",
+    "name": "Black-and-white Ruffed Lemur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368400,
+  "lat": 1.4052213,
+  "lon": 103.7952863,
+  "tags": {
+    "attraction": "animal",
+    "name": "Capuchin Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368401,
+  "lat": 1.4049518,
+  "lon": 103.7949590,
+  "tags": {
+    "attraction": "animal",
+    "name": "Lion-Tailed Macaque",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368402,
+  "lat": 1.4052897,
+  "lon": 103.7958200,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Elephant",
+    "name:zh": "亚洲大象",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368427,
+  "lat": 1.4060217,
+  "lon": 103.7949161,
+  "tags": {
+    "name": "Brickosaurs",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368439,
+  "lat": 1.4045174,
+  "lon": 103.7950301,
+  "tags": {
+    "name": "Rainforest Fights Back",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368440,
+  "lat": 1.4049706,
+  "lon": 103.7937078,
+  "tags": {
+    "attraction": "animal",
+    "name": "Serval",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368441,
+  "lat": 1.4055404,
+  "lon": 103.7935804,
+  "tags": {
+    "attraction": "animal",
+    "name": "Hamadryas Baboon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368443,
+  "lat": 1.4060565,
+  "lon": 103.7932357,
+  "tags": {
+    "attraction": "animal",
+    "name": "Grey Kangaroo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368444,
+  "lat": 1.4055149,
+  "lon": 103.7930185,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red River Hog",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368445,
+  "lat": 1.4052213,
+  "lon": 103.7930077,
+  "tags": {
+    "attraction": "animal",
+    "name": "Pygmy Hippo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368446,
+  "lat": 1.4041983,
+  "lon": 103.7927885,
+  "tags": {
+    "attraction": "animal",
+    "name": "Pelican",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368447,
+  "lat": 1.4041300,
+  "lon": 103.7930238,
+  "tags": {
+    "attraction": "animal",
+    "name": "Gibbon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368454,
+  "lat": 1.4035535,
+  "lon": 103.7931029,
+  "tags": {
+    "attraction": "animal",
+    "name": "Polar Bear",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368461,
+  "lat": 1.4047588,
+  "lon": 103.7930506,
+  "tags": {
+    "attraction": "animal",
+    "name": "White Tiger",
+    "name:zh": "白老虎",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368513,
+  "lat": 1.4048057,
+  "lon": 103.7922560,
+  "tags": {
+    "attraction": "animal",
+    "name": "Anoa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368517,
+  "lat": 1.4046676,
+  "lon": 103.7921501,
+  "tags": {
+    "name": "Valley of Brickosaurs",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368522,
+  "lat": 1.4046837,
+  "lon": 103.7925142,
+  "tags": {
+    "attraction": "animal",
+    "image": "https://images.mapillary.com/aozX8qza58IDIAQ7lkYdfw/thumb-2048.jpg",
+    "mapillary": "304277478067796",
+    "name": "Babirusa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368523,
+  "lat": 1.4047226,
+  "lon": 103.7920234,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Small-Clawed Otter",
+    "name:zh": "水獭",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368524,
+  "lat": 1.4046455,
+  "lon": 103.7915084,
+  "tags": {
+    "attraction": "animal",
+    "name": "Proboscis Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368528,
+  "lat": 1.4051248,
+  "lon": 103.7917129,
+  "tags": {
+    "attraction": "animal",
+    "name": "Siamang",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368585,
+  "lat": 1.4032692,
+  "lon": 103.7903953,
+  "tags": {
+    "attraction": "animal",
+    "name": "Pacu",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368586,
+  "lat": 1.4033349,
+  "lon": 103.7903443,
+  "tags": {
+    "attraction": "animal",
+    "name": "Arapaima",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368587,
+  "lat": 1.4033416,
+  "lon": 103.7904556,
+  "tags": {
+    "attraction": "animal",
+    "name": "Manatee",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368588,
+  "lat": 1.4034073,
+  "lon": 103.7904167,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red-tailed Catfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368589,
+  "lat": 1.4033993,
+  "lon": 103.7905253,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red-bellied Piranha",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368590,
+  "lat": 1.4030018,
+  "lon": 103.7905240,
+  "tags": {
+    "attraction": "animal",
+    "name": "Electric Eel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368591,
+  "lat": 1.4031975,
+  "lon": 103.7906098,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giant River Otter",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368593,
+  "lat": 1.4031901,
+  "lon": 103.7911905,
+  "tags": {
+    "attraction": "animal",
+    "name": "Cuvier's Dwarf Caiman",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368600,
+  "lat": 1.4028751,
+  "lon": 103.7913052,
+  "tags": {
+    "attraction": "animal",
+    "name": "Yellow-footed Tortoise",
+    "name:zh": "黄脚乌龟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368603,
+  "lat": 1.4027745,
+  "lon": 103.7915922,
+  "tags": {
+    "attraction": "animal",
+    "name": "Bare-faced Curassow",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368604,
+  "lat": 1.4027303,
+  "lon": 103.7916170,
+  "tags": {
+    "attraction": "animal",
+    "name": "Golden Headed Lion Tamarin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368605,
+  "lat": 1.4026673,
+  "lon": 103.7916525,
+  "tags": {
+    "attraction": "animal",
+    "name": "Green Anacondo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368606,
+  "lat": 1.4028523,
+  "lon": 103.7910698,
+  "tags": {
+    "attraction": "animal",
+    "name": "Carribbean Flamingo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368634,
+  "lat": 1.4025882,
+  "lon": 103.7914574,
+  "tags": {
+    "attraction": "animal",
+    "name": "Capybara",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368635,
+  "lat": 1.4028335,
+  "lon": 103.7915439,
+  "tags": {
+    "attraction": "animal",
+    "name": "Silver Arowana",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368639,
+  "lat": 1.4031921,
+  "lon": 103.7908962,
+  "tags": {
+    "attraction": "animal",
+    "name": "White-faced Saki Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368640,
+  "lat": 1.4029555,
+  "lon": 103.7913018,
+  "tags": {
+    "attraction": "animal",
+    "name": "Squirrel Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368641,
+  "lat": 1.4030306,
+  "lon": 103.7910779,
+  "tags": {
+    "attraction": "animal",
+    "name": "Black Howler Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368656,
+  "lat": 1.4028509,
+  "lon": 103.7906863,
+  "tags": {
+    "attraction": "animal",
+    "name": "Brazilian Tapir",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368657,
+  "lat": 1.4025104,
+  "lon": 103.7908338,
+  "tags": {
+    "attraction": "animal",
+    "name": "Brazilian Tapir",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368658,
+  "lat": 1.4021913,
+  "lon": 103.7912120,
+  "tags": {
+    "attraction": "animal",
+    "name": "Guanaco",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368705,
+  "lat": 1.4017536,
+  "lon": 103.7914903,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giant Anteater",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368714,
+  "lat": 1.4016745,
+  "lon": 103.7916378,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red Howler Monkey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368737,
+  "lat": 1.4015585,
+  "lon": 103.7915325,
+  "tags": {
+    "attraction": "animal",
+    "name": "Bearded Saki",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368738,
+  "lat": 1.4015451,
+  "lon": 103.7917525,
+  "tags": {
+    "attraction": "animal",
+    "name": "Tufted Capuchin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368750,
+  "lat": 1.4017449,
+  "lon": 103.7917974,
+  "tags": {
+    "attraction": "animal",
+    "name": "Collared Peccary",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368780,
+  "lat": 1.4037639,
+  "lon": 103.7924733,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giant Panda",
+    "name:zh": "大熊猫",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368781,
+  "lat": 1.4038149,
+  "lon": 103.7923305,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red Panda",
+    "name:zh": "红熊猫",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368782,
+  "lat": 1.4038853,
+  "lon": 103.7922198,
+  "tags": {
+    "attraction": "animal",
+    "name": "Sturgeon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368783,
+  "lat": 1.4039369,
+  "lon": 103.7922353,
+  "tags": {
+    "attraction": "animal",
+    "name": "Chinese Giant Salamander",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368784,
+  "lat": 1.4039825,
+  "lon": 103.7922487,
+  "tags": {
+    "attraction": "animal",
+    "name": "Yangtze Alligator",
+    "name:zh": "长江鳄鱼",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368793,
+  "lat": 1.4041675,
+  "lon": 103.7918597,
+  "tags": {
+    "attraction": "animal",
+    "name": "Giant Freshwater Stingray",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368799,
+  "lat": 1.4042218,
+  "lon": 103.7918879,
+  "tags": {
+    "attraction": "animal",
+    "name": "Mekong Giant Catfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368800,
+  "lat": 1.4041065,
+  "lon": 103.7920649,
+  "tags": {
+    "attraction": "animal",
+    "name": "Storks",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368801,
+  "lat": 1.4040596,
+  "lon": 103.7920267,
+  "tags": {
+    "attraction": "animal",
+    "name": "Fire Eel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368802,
+  "lat": 1.4039496,
+  "lon": 103.7919436,
+  "tags": {
+    "attraction": "animal",
+    "name": "Lion-Tailed Macaque",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368803,
+  "lat": 1.4037288,
+  "lon": 103.7918708,
+  "tags": {
+    "attraction": "animal",
+    "name": "Horseshoe Crab",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368804,
+  "lat": 1.4037509,
+  "lon": 103.7918369,
+  "tags": {
+    "attraction": "animal",
+    "name": "Mudskipper",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368805,
+  "lat": 1.4037656,
+  "lon": 103.7918145,
+  "tags": {
+    "attraction": "animal",
+    "name": "Archerfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368806,
+  "lat": 1.4037921,
+  "lon": 103.7917726,
+  "tags": {
+    "attraction": "animal",
+    "name": "Australian Lungfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368807,
+  "lat": 1.4038152,
+  "lon": 103.7916623,
+  "tags": {
+    "attraction": "animal",
+    "name": "Indian Gharial",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368808,
+  "lat": 1.4039292,
+  "lon": 103.7910430,
+  "tags": {
+    "attraction": "animal",
+    "name": "Tigerfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368809,
+  "lat": 1.4039925,
+  "lon": 103.7909612,
+  "tags": {
+    "attraction": "animal",
+    "name": "African Dwarf Crocodile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368810,
+  "lat": 1.4040737,
+  "lon": 103.7911521,
+  "tags": {
+    "attraction": "animal",
+    "name": "Kribensis",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368811,
+  "lat": 1.4040631,
+  "lon": 103.7911526,
+  "tags": {
+    "attraction": "animal",
+    "name": "Reedfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368812,
+  "lat": 1.4040559,
+  "lon": 103.7910910,
+  "tags": {
+    "attraction": "animal",
+    "name": "Elephantnose Fish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368813,
+  "lat": 1.4040569,
+  "lon": 103.7910759,
+  "tags": {
+    "attraction": "animal",
+    "name": "Eastern Battlenose",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368814,
+  "lat": 1.4040579,
+  "lon": 103.7910343,
+  "tags": {
+    "attraction": "animal",
+    "name": "Tigerfish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368815,
+  "lat": 1.4040592,
+  "lon": 103.7909927,
+  "tags": {
+    "attraction": "animal",
+    "name": "Atlantic Tarpons",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9288368816,
+  "lat": 1.4041809,
+  "lon": 103.7910618,
+  "tags": {
+    "attraction": "animal",
+    "name": "Trumpeter Hornbill",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9328830708,
+  "lat": 1.2730334,
+  "lon": 103.8171795,
+  "tags": {
+    "fixme:zh": "-",
+    "name": "Shrine",
+    "name:zh": "圣陵",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9329489595,
+  "lat": 1.2721320,
+  "lon": 103.8133600,
+  "tags": {
+    "name": "Storage Ruin",
+    "name:zh": "仓库废墟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9331507343,
+  "lat": 1.3057775,
+  "lon": 103.8328918,
+  "tags": {
+    "level": "1",
+    "name": "Shout",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 9420127457,
+  "lat": 1.3249650,
+  "lon": 103.7757710,
+  "tags": {
+    "name": "Switch Room Ruin #NBE",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9444725476,
+  "lat": 1.4577240,
+  "lon": 103.8351470,
+  "tags": {
+    "name": "Gibraltar Crescent Bunker",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9451765608,
+  "lat": 1.2718818,
+  "lon": 103.8365546,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "39",
+    "addr:street": "Keppel Road",
+    "check_date": "2025-10-19",
+    "fee": "yes",
+    "fee:conditional": "no @ SC & SPR",
+    "museum": "art",
+    "name": "SAM at Tanjong Pagar Distripark",
+    "name:zh": "新加坡美术馆@丹戎巴葛",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "operator": "Singapore Art Museum",
+    "tourism": "museum",
+    "website": "https://www.singaporeartmuseum.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 9455014398,
+  "lat": 1.4112260,
+  "lon": 103.7562320,
+  "tags": {
+    "name": "Switch 3272 NBE",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9457700734,
+  "lat": 1.3353640,
+  "lon": 103.8152700,
+  "tags": {
+    "name": "Aqueduct",
+    "name:zh": "渡槽",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9482434887,
+  "lat": 1.3539848,
+  "lon": 103.8436927,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "88",
+    "addr:postcode": "577239",
+    "addr:street": "Jalan Pemimpin",
+    "changing_table": "no",
+    "description": "A magical tree along Jalan Pemimpin which exudes a mystical shroud of mystery. Transforms to match seasonal holidays.",
+    "image": "https://imgur.com/a/71MzZXq",
+    "name": "Coral Park Magic Tree",
+    "opening_hours": "24/7",
+    "toilets:access": "private",
+    "toilets:wheelchair": "no",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9632700637,
+  "lat": 1.2816792,
+  "lon": 103.8194177,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "211",
+    "addr:postcode": "159552",
+    "addr:street": "Henderson Road",
+    "addr:unit": "01-01A",
+    "contact:email": "info@y2arts.com",
+    "contact:instagram": "https://www.instagram.com/y2arts/",
+    "contact:phone": "+65 6336 8683",
+    "contact:website": "https://y2arts.com/",
+    "name": "Y2ARTS",
+    "opening_hours": "Tu-Su 11:00-18:30; Mo,PH || \"by appointment\"",
+    "start_date": "2008",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 9653219407,
+  "lat": 1.3166806,
+  "lon": 103.8972022,
+  "tags": {
+    "fixme:zh": "check",
+    "level": "0",
+    "museum_type": "regional",
+    "name": "Geylang Serai Heritage Gallery",
+    "name:zh": "芽笼士乃马来传统文化馆",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 9667834065,
+  "lat": 1.3431929,
+  "lon": 103.7231830,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9671017628,
+  "lat": 1.3057409,
+  "lon": 103.9061586,
+  "tags": {
+    "name": "Conserved Terrace Houses",
+    "name:zh": "遗产排屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9671017632,
+  "lat": 1.3284600,
+  "lon": 103.7802940,
+  "tags": {
+    "name": "Old Jurong railway",
+    "name:zh": "旧裕廊铁路",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9671017634,
+  "lat": 1.2752149,
+  "lon": 103.8323796,
+  "tags": {
+    "name": "Railway corridor entry point",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9717823648,
+  "lat": 1.2829441,
+  "lon": 103.7868417,
+  "tags": {
+    "description": "nothing physical (benches etc.) there, but there're often blue & other nonstandard birds in the evening by the canal",
+    "name": "blue birds",
+    "name:zh": "蓝鸟",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9739031522,
+  "lat": 1.3083298,
+  "lon": 103.8621860,
+  "tags": {
+    "description": "gallery of figures and statues depicting fictional characters",
+    "level": "2",
+    "name": "XM Studios",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 9821433868,
+  "lat": 1.3556929,
+  "lon": 103.7826453,
+  "tags": {
+    "name": "rock markings by visitors, stone balancing art",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9827708296,
+  "lat": 1.2868971,
+  "lon": 103.8450666,
+  "tags": {
+    "level": "1",
+    "name": "Confluence",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 9893218556,
+  "lat": 1.3109516,
+  "lon": 103.9041935,
+  "tags": {
+    "name": "Penarakan Houses",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10048423474,
+  "lat": 1.2820330,
+  "lon": 103.8567070,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10052925640,
+  "lat": 1.2839722,
+  "lon": 103.8500286,
+  "tags": {
+    "level": "50",
+    "name": "CapitaSpring Sky Garden",
+    "opening_hours": "Mo-Fr 08:30-10:30,14:30-18:00",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10183998103,
+  "lat": 1.3444489,
+  "lon": 103.7817449,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10184046051,
+  "lat": 1.3448352,
+  "lon": 103.7820855,
+  "tags": {
+    "direction": "180-270",
+    "name": "Colugo Deck",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10186111420,
+  "lat": 1.3439377,
+  "lon": 103.7813695,
+  "tags": {
+    "name": "Rock Sorter",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10232635082,
+  "lat": 1.3509200,
+  "lon": 103.7845452,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10280120309,
+  "lat": 1.2815817,
+  "lon": 103.8646617,
+  "tags": {
+    "name": "Vantage Point to view Supertree show",
+    "name:zh": "擎天剧观景点",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10285452503,
+  "lat": 1.3345702,
+  "lon": 103.7815244,
+  "tags": {
+    "fee": "no",
+    "museum": "railway",
+    "name": "Railway Museum",
+    "note": "part of the cafe",
+    "toilets": "no",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10310520680,
+  "lat": 1.2844155,
+  "lon": 103.8579351,
+  "tags": {
+    "description": "Light and Water Show at Marina Bay Sands",
+    "name": "Spectra",
+    "opening_hours": "Mo-Th,Su 20:00-20:15,21:00-21:15; Fr-Sa 20:00-20:15,21:00-21:15,22:00-22:15",
+    "tourism": "attraction",
+    "website": "https://www.marinabaysands.com/attractions/spectra.html"
+  }
+},
+{
+  "type": "node",
+  "id": 10310525733,
+  "lat": 1.3507915,
+  "lon": 103.7850961,
+  "tags": {
+    "name": "Pipes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10550118437,
+  "lat": 1.3100350,
+  "lon": 103.8993185,
+  "tags": {
+    "level": "3",
+    "museum": "ethnography",
+    "name": "Eurasian Heritage Gallery",
+    "name:zh": "欧亚人文化馆",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10559834077,
+  "lat": 1.3258200,
+  "lon": 103.8448679,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "565",
+    "addr:postcode": "329927",
+    "addr:street": "Balestier Road",
+    "air_conditioning": "yes",
+    "museum": "children",
+    "name": "MOE Heritage Centre",
+    "name:zh": "教育部文化遗产中心",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "operator": "MOE",
+    "operator:type": "government",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10692285105,
+  "lat": 1.3133077,
+  "lon": 103.8144590,
+  "tags": {
+    "name": "Tan Hoon Siang Mist House",
+    "name:zh": "陈温详雾室",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10727090705,
+  "lat": 1.2889181,
+  "lon": 103.8548799,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10733015406,
+  "lat": 1.2825853,
+  "lon": 103.8669994,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10733019405,
+  "lat": 1.2820167,
+  "lon": 103.8629500,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10761048718,
+  "lat": 1.2792323,
+  "lon": 103.8074875,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10808393883,
+  "lat": 1.3339510,
+  "lon": 103.8880162,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "601",
+    "addr:postcode": "368242",
+    "addr:street": "MacPherson Road",
+    "name": "Ellie Art Studio",
+    "opening_hours": "Mo-Su 11:30-21:00",
+    "phone": "+65 88905593",
+    "tourism": "gallery",
+    "website": "https://www.facebook.com/ellieartstudio"
+  }
+},
+{
+  "type": "node",
+  "id": 10892982833,
+  "lat": 1.3567431,
+  "lon": 103.7560462,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10940110464,
+  "lat": 1.2772290,
+  "lon": 103.8037008,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "5",
+    "addr:street": "Lock Road",
+    "addr:unit": "#01-06",
+    "air_conditioning": "yes",
+    "check_date": "2023-05-28",
+    "contact:facebook": "https://www.facebook.com/artoutreachsg",
+    "contact:instagram": "https://www.instagram.com/artoutreachaingapore",
+    "contact:twitter": "https://twitter.com/artoutreachsg",
+    "level": "0",
+    "name": "Art Outreach",
+    "tourism": "gallery",
+    "website": "https://artoutreachsingapore.org",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10940956365,
+  "lat": 1.3611888,
+  "lon": 103.7537743,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10992282619,
+  "lat": 1.3072716,
+  "lon": 103.9071343,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "208",
+    "addr:postcode": "428907",
+    "addr:street": "East Coast Road",
+    "air_conditioning": "yes",
+    "check_date": "2024-07",
+    "fee": "yes",
+    "museum": "history",
+    "name": "Katong Antique House 加東古董",
+    "phone": "+65 63458544",
+    "reservation": "required",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 10997766459,
+  "lat": 1.2996303,
+  "lon": 103.8512347,
+  "tags": {
+    "check_date": "2024-05-10",
+    "level": "0",
+    "name": "The Ngee Ann Kongsi Gallery 1",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11018023320,
+  "lat": 1.3226988,
+  "lon": 103.8520739,
+  "tags": {
+    "addr:housenumber": "279",
+    "addr:street": "Balestier Road",
+    "check_date": "2023-06-28",
+    "level": "0",
+    "name": "Lamipak Gallery",
+    "tourism": "gallery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11018055022,
+  "lat": 1.3961984,
+  "lon": 103.8849378,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11146208305,
+  "lat": 1.3015486,
+  "lon": 103.8622729,
+  "tags": {
+    "name": "Kampong Glam",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11246971144,
+  "lat": 1.2973465,
+  "lon": 103.8672120,
+  "tags": {
+    "amenity": "fountain",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11288867468,
+  "lat": 1.3264460,
+  "lon": 103.8514982,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Jalan Ampas",
+    "alt_name": "Shaw Studio",
+    "name": "Former Malay Film Productions",
+    "tourism": "attraction",
+    "wikidata": "Q12696705",
+    "wikipedia": "en:Malay Film Productions"
+  }
+},
+{
+  "type": "node",
+  "id": 11333003370,
+  "lat": 1.4197136,
+  "lon": 103.9033169,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11361584770,
+  "lat": 1.2861382,
+  "lon": 103.8592297,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "018974",
+    "addr:street": "Bayfront Avenue",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "name": "ArtScience Museum",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "phone": "+6566888888",
+    "tourism": "museum",
+    "website": "https://marinabaysands.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11391788425,
+  "lat": 1.3111700,
+  "lon": 103.7938130,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "7",
+    "addr:postcode": "275748",
+    "addr:street": "Holland Village Way",
+    "description": "Fine Art Gallery",
+    "email": "oneholland@artworks.com.sg",
+    "name": "Art Works Gallery",
+    "opening_hours": "Mo-Su 12:00-20:00",
+    "operator": "Art Works Gallery Singapore Pte Ltd",
+    "phone": "+65 69707422",
+    "tourism": "gallery",
+    "website": "https://artworks.com.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 11395312837,
+  "lat": 1.2585627,
+  "lon": 103.8118073,
+  "tags": {
+    "name": "Trickeye",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 11408710049,
+  "lat": 1.3230380,
+  "lon": 103.7662050,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11472827660,
+  "lat": 1.3009022,
+  "lon": 103.8550275,
+  "tags": {
+    "name": "Bugis Street Back Lane",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11478839556,
+  "lat": 1.4001946,
+  "lon": 103.8201250,
+  "tags": {
+    "level": "1",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11482830572,
+  "lat": 1.2882979,
+  "lon": 103.8604299,
+  "tags": {
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11508097286,
+  "lat": 1.2719293,
+  "lon": 103.8371022,
+  "tags": {
+    "name": "New Art Museum Singapore",
+    "tourism": "gallery",
+    "website": "https://www.whitestone-gallery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11563386251,
+  "lat": 1.3274809,
+  "lon": 103.8751429,
+  "tags": {
+    "addr:housenumber": "55",
+    "addr:street": "Genting Road",
+    "check_date": "2024-01-27",
+    "name": "55 Artspace",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11563386261,
+  "lat": 1.3084502,
+  "lon": 103.8562041,
+  "tags": {
+    "addr:housenumber": "105",
+    "addr:postcode": "209627",
+    "addr:street": "Desker Road",
+    "check_date": "2024-01-29",
+    "contact:instagram": "https://www.instagram.com/7879galleryandclayworks",
+    "contact:whatsapp": "+6580517879",
+    "level": "0",
+    "name": "7879 Gallery",
+    "phone": "+6580517879",
+    "tourism": "gallery",
+    "website": "https://www.7879.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 11563386263,
+  "lat": 1.3275153,
+  "lon": 103.8738738,
+  "tags": {
+    "addr:floor": "3",
+    "addr:housenumber": "50",
+    "addr:street": "Genting Lane",
+    "addr:unit": "#03-02",
+    "check_date": "2024-01-27",
+    "level": "2",
+    "name": "Art Seasons Gallery",
+    "opening_hours": "Mo-Tu,Su 09:00-20:00; We-Sa “by Appointment”; PH off",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11627229961,
+  "lat": 1.2869171,
+  "lon": 103.8472522,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:street": "North Canal Road",
+    "check_date": "2024-02-15",
+    "level": "0",
+    "name": "Gallery Thirty Three",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11627229964,
+  "lat": 1.2869361,
+  "lon": 103.8472107,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:floor": "2",
+    "addr:housenumber": "34B",
+    "addr:postcode": "059290",
+    "addr:street": "North Canal Road",
+    "check_date": "2025-05-12",
+    "level": "1",
+    "name": "Eagle’s Eye Gallery",
+    "opening_hours": "We-Sa 10:00-18:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "tourism": "gallery",
+    "website": "https://eagles-eye.com.sg/"
+  }
+},
+{
+  "type": "node",
+  "id": 11716744769,
+  "lat": 1.3086200,
+  "lon": 103.9028068,
+  "tags": {
+    "email": "general@blackearthartmuseum.com",
+    "name": "Black Earth Arts Museum",
+    "tourism": "museum",
+    "website": "https://www.blackearthartmuseum.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11724980058,
+  "lat": 1.3034834,
+  "lon": 103.8646159,
+  "tags": {
+    "check_date": "2024-03-11",
+    "level": "0",
+    "name": "Art Social",
+    "tourism": "gallery",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11762038779,
+  "lat": 1.2841796,
+  "lon": 103.7813570,
+  "tags": {
+    "ceremonial_gate": "paifang",
+    "inscription": "萬水匯歸環海銀濤收眼底，金樽共賞前山翠黛展蛾眉",
+    "man_made": "ceremonial_gate",
+    "name": "Entrance portal",
+    "name:zh": "主入口牌坊",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11762046209,
+  "lat": 1.2840974,
+  "lon": 103.7817827,
+  "tags": {
+    "name": "Tiger Car",
+    "name:zh": "虎车装饰",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11762085476,
+  "lat": 1.2853456,
+  "lon": 103.7817291,
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 11802121100,
+  "lat": 1.3121043,
+  "lon": 103.8629070,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "2",
+    "addr:street": "Kallang Avenue",
+    "check_date": "2024-04-05",
+    "level": "0",
+    "name": "Aesthetic Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11806482469,
+  "lat": 1.3045850,
+  "lon": 103.8531227,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Perak Road",
+    "name": "The Gem Museum",
+    "opening_hours": "Tu-Fr 12:00-17:00; Sa 11:00-15:00",
+    "tourism": "museum",
+    "website": "https://thegemmuseum.gallery/"
+  }
+},
+{
+  "type": "node",
+  "id": 11806649909,
+  "lat": 1.3216239,
+  "lon": 103.8530549,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "230",
+    "addr:street": "Balestier Road",
+    "name": "Balestier Art Deco shophouses",
+    "tourism": "attraction",
+    "wikidata": "Q111914778",
+    "wikipedia": "en:Balestier Art Deco shophouses"
+  }
+},
+{
+  "type": "node",
+  "id": 11818534979,
+  "lat": 1.3232410,
+  "lon": 103.8525342,
+  "tags": {
+    "name": "Sim Kwong Ho shophouses",
+    "tourism": "attraction",
+    "wikidata": "Q111915364",
+    "wikipedia": "en:Sim Kwong Ho shophouses"
+  }
+},
+{
+  "type": "node",
+  "id": 11819634278,
+  "lat": 1.2525766,
+  "lon": 103.8182518,
+  "tags": {
+    "name": "Symphony Streams",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11819634279,
+  "lat": 1.2530247,
+  "lon": 103.8185643,
+  "tags": {
+    "name": "Scented Sphere",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11819634280,
+  "lat": 1.2534744,
+  "lon": 103.8188211,
+  "tags": {
+    "name": "Tactile Trellis",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11819634281,
+  "lat": 1.2541665,
+  "lon": 103.8189754,
+  "tags": {
+    "name": "Lookout Loop",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 11819634282,
+  "lat": 1.2521276,
+  "lon": 103.8180991,
+  "tags": {
+    "name": "Glow Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11828532018,
+  "lat": 1.3257075,
+  "lon": 103.8497048,
+  "tags": {
+    "name": "Kwan Loon Yen Shophouses",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11834999308,
+  "lat": 1.3093260,
+  "lon": 103.9022572,
+  "tags": {
+    "addr:floor": "2",
+    "check_date": "2024-04-21",
+    "level": "1",
+    "name": "Straits Enclave",
+    "tourism": "museum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11862049582,
+  "lat": 1.3124833,
+  "lon": 103.8136894,
+  "tags": {
+    "name": "VIP Orchid Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12093257647,
+  "lat": 1.3185505,
+  "lon": 103.9069877,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Jalan Eunos",
+    "check_date": "2024-08-04",
+    "level": "0",
+    "name": "10 Jalan Eunos Gallery Space",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 12157235475,
+  "lat": 1.3380872,
+  "lon": 103.8729284,
+  "tags": {
+    "description": "Views of Alkaff Lake",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12231175233,
+  "lat": 1.2981438,
+  "lon": 103.8504861,
+  "tags": {
+    "name": "Jews of Singapore Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12240211504,
+  "lat": 1.3193708,
+  "lon": 103.7706017,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12288295853,
+  "lat": 1.3242241,
+  "lon": 103.7573719,
+  "tags": {
+    "direction": "330-120",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12389540382,
+  "lat": 1.2860508,
+  "lon": 103.8350760,
+  "tags": {
+    "access": "yes",
+    "buried:wikidata": "Q7682143",
+    "cemetery": "grave",
+    "historic": "tomb",
+    "name": "Grave of Tan Tock Seng",
+    "name:zh": "陈笃生之墓",
+    "subject:wikidata": "Q7682143",
+    "subject:wikipedia": "en:Tan Tock Seng",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12464143608,
+  "lat": 1.2758213,
+  "lon": 103.8495816,
+  "tags": {
+    "name": "Roof Garden",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12517823617,
+  "lat": 1.3998069,
+  "lon": 103.7918059,
+  "tags": {
+    "name": "Iora's Nest",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12533886455,
+  "lat": 1.3240028,
+  "lon": 103.8464627,
+  "tags": {
+    "description": "Decomissioned SBS bus. Used by TTSH for rehabilitation purposes",
+    "name": "Decomissioned Bus",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12541123301,
+  "lat": 1.2513879,
+  "lon": 103.8203676,
+  "tags": {
+    "name": "KidZania Singapore",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+65 6653 6888",
+    "tourism": "attraction",
+    "website": "https://www.kidzania.com.sg"
+  }
+},
+{
+  "type": "node",
+  "id": 12558633461,
+  "lat": 1.4037648,
+  "lon": 103.7950373,
+  "tags": {
+    "name": "Eagle's Perch",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12558642087,
+  "lat": 1.4057509,
+  "lon": 103.7911443,
+  "tags": {
+    "name": "Kingfisher's cove",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12558655771,
+  "lat": 1.4009919,
+  "lon": 103.7940384,
+  "tags": {
+    "name": "Damselfly's Wing",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420019,
+  "lat": 1.4081331,
+  "lon": 103.7823191,
+  "tags": {
+    "name": "Wild Cavern Adventure",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420020,
+  "lat": 1.4100242,
+  "lon": 103.7797486,
+  "tags": {
+    "name": "Wild Apex Adventure",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420021,
+  "lat": 1.4098631,
+  "lon": 103.7823814,
+  "tags": {
+    "name": "Canopy Jump",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420028,
+  "lat": 1.4082451,
+  "lon": 103.7818683,
+  "tags": {
+    "attraction": "animal",
+    "name": "Blind Cave Fish",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420050,
+  "lat": 1.4085907,
+  "lon": 103.7815149,
+  "tags": {
+    "attraction": "animal",
+    "name": "Estuarine Crocodile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420051,
+  "lat": 1.4104371,
+  "lon": 103.7836819,
+  "tags": {
+    "attraction": "animal",
+    "name": "Phillipine Spotted Deer",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420052,
+  "lat": 1.4099773,
+  "lon": 103.7833604,
+  "tags": {
+    "attraction": "animal",
+    "name": "Siamang",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420053,
+  "lat": 1.4101145,
+  "lon": 103.7835872,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red-Shanked Douc Langur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420054,
+  "lat": 1.4102390,
+  "lon": 103.7833381,
+  "tags": {
+    "attraction": "animal",
+    "name": "Javan Langur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420055,
+  "lat": 1.4098888,
+  "lon": 103.7806625,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Brown Tortoise",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420056,
+  "lat": 1.4092631,
+  "lon": 103.7809420,
+  "tags": {
+    "attraction": "animal",
+    "name": "Southern River Terrapin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420057,
+  "lat": 1.4085985,
+  "lon": 103.7812736,
+  "tags": {
+    "attraction": "animal",
+    "name": "Asian Black Scorpion",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420058,
+  "lat": 1.4080778,
+  "lon": 103.7822770,
+  "tags": {
+    "attraction": "animal",
+    "name": "Madagascar Hissing Cockroach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420059,
+  "lat": 1.4084179,
+  "lon": 103.7815289,
+  "tags": {
+    "attraction": "animal",
+    "description": "type of snake",
+    "name": "Cave Racer",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630420060,
+  "lat": 1.4099604,
+  "lon": 103.7808906,
+  "tags": {
+    "attraction": "animal",
+    "name": "Hog Deer",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630449339,
+  "lat": 1.4098592,
+  "lon": 103.7798054,
+  "tags": {
+    "attraction": "animal",
+    "name": "Francois' Langur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630449340,
+  "lat": 1.4102156,
+  "lon": 103.7823354,
+  "tags": {
+    "attraction": "animal",
+    "name": "Malayan Tiger",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630449341,
+  "lat": 1.4101759,
+  "lon": 103.7814768,
+  "tags": {
+    "attraction": "animal",
+    "name": "Red Dhole",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12630449431,
+  "lat": 1.4097415,
+  "lon": 103.7799384,
+  "tags": {
+    "name": "Karst Lookout",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13032602188,
+  "lat": 1.2871502,
+  "lon": 103.8419388,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13042628603,
+  "lat": 1.2812004,
+  "lon": 103.8450868,
+  "tags": {
+    "name": "Mural: Samsui Lady with Cigarette",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13042664601,
+  "lat": 1.2805064,
+  "lon": 103.8709323,
+  "tags": {
+    "name": "Skyline View",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13049604601,
+  "lat": 1.4055206,
+  "lon": 103.7950278,
+  "tags": {
+    "name": "Ring-tailed Lemur",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13049604701,
+  "lat": 1.4054970,
+  "lon": 103.7946887,
+  "tags": {
+    "name": "Giant Gourami",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13049604801,
+  "lat": 1.4052890,
+  "lon": 103.7942534,
+  "tags": {
+    "name": "Arapaima",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13049610003,
+  "lat": 1.4052567,
+  "lon": 103.7942377,
+  "tags": {
+    "name": "Mini Monkeys",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13049610901,
+  "lat": 1.4056769,
+  "lon": 103.7939919,
+  "tags": {
+    "name": "Hamadryas Baboon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13133326860,
+  "lat": 1.3493786,
+  "lon": 103.7749167,
+  "tags": {
+    "direction": "0-75",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13296344401,
+  "lat": 1.2892186,
+  "lon": 103.8560315,
+  "tags": {
+    "name": "Roof Terrace",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13439388801,
+  "lat": 1.3101830,
+  "lon": 103.8138728,
+  "tags": {
+    "name": "Wetlands",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13439431001,
+  "lat": 1.3100318,
+  "lon": 103.8165823,
+  "tags": {
+    "name": "Frangipani Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13464790036,
+  "lat": 1.3925790,
+  "lon": 103.8811318,
+  "tags": {
+    "direction": "45-135",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13470200060,
+  "lat": 1.3254481,
+  "lon": 103.8557286,
+  "tags": {
+    "direction": "210",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13470200062,
+  "lat": 1.3253353,
+  "lon": 103.8559164,
+  "tags": {
+    "direction": "200",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13470200063,
+  "lat": 1.3251846,
+  "lon": 103.8561515,
+  "tags": {
+    "direction": "185",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 13495680401,
+  "lat": 1.4036464,
+  "lon": 103.7892601,
+  "tags": {
+    "name": "Amphitheater",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13498173420,
+  "lat": 1.3177815,
+  "lon": 103.8585930,
+  "tags": {
+    "museum": "history",
+    "name": "Kwong Wai Shiu Hospital Heritage Gallery",
+    "operator": "Kwong Wai Shiu Hospital",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 13690405021,
+  "lat": 1.4094177,
+  "lon": 103.8683192,
+  "tags": {
+    "name": "Bambi Caravan",
+    "operator": "Wheeler's Estate",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 32342169,
+  "center": {
+    "lat": 1.2965624,
+    "lon": 103.8484117
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "93",
+    "addr:postcode": "178897",
+    "addr:street": "Stamford Road",
+    "building": "public",
+    "museum": "history",
+    "name": "National Museum of Singapore",
+    "name:ko": "싱가포르 국립 박물관",
+    "name:ms": "Muzium Negara Singapura",
+    "name:ms-Arab": "موزيوم نڬارا سيڠاڤورا",
+    "name:pl": "Singapurskie Muzeum Narodowe",
+    "name:zh": "新加坡国家博物院",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "start_date": "1887",
+    "tourism": "museum",
+    "website": "https://nationalmuseum.sg/",
+    "wikidata": "Q632689",
+    "wikimedia_commons": "Category:National_Museum_of_Singapore",
+    "wikipedia": "en:National Museum of Singapore"
+  }
+},
+{
+  "type": "way",
+  "id": 32489943,
+  "center": {
+    "lat": 1.3012267,
+    "lon": 103.8587337
+  },
+  "tags": {
+    "highway": "living_street",
+    "lanes": "1",
+    "lit": "yes",
+    "motor_vehicle:conditional": "no @ (Mo-Fr 15:00 - 1:00, Sa-Su 12:00 - 1:00, PH -1 day-PH 12:00 - 1:00)",
+    "name": "Haji Lane",
+    "name:zh": "哈芝巷",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41662089,
+  "center": {
+    "lat": 1.3030580,
+    "lon": 103.8393539
+  },
+  "tags": {
+    "description": "Emerald Hill, Chinese Baroque Shop Houses",
+    "name": "Emerald Hill",
+    "place": "neighbourhood",
+    "tourism": "attraction",
+    "wikidata": "Q5370441",
+    "wikipedia": "en:Emerald Hill, Singapore"
+  }
+},
+{
+  "type": "way",
+  "id": 41662548,
+  "center": {
+    "lat": 1.3076465,
+    "lon": 103.8536548
+  },
+  "tags": {
+    "landuse": "commercial",
+    "name": "Little India",
+    "name:en": "Little India",
+    "name:ko": "리틀 인디아",
+    "name:ms": "Little India",
+    "name:ta": "லிட்டில் இந்தியா",
+    "name:th": "ลิตเติลอินเดีย",
+    "name:zh": "小印度",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 41665003,
+  "center": {
+    "lat": 1.2762473,
+    "lon": 103.8154607
+  },
+  "tags": {
+    "bicycle": "dismount",
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "name": "Henderson Waves Bridge",
+    "name:ms": "Jambatan Henderson Waves",
+    "name:zh": "亨德申波浪桥",
+    "surface": "wood",
+    "tourism": "attraction",
+    "wikidata": "Q100288026"
+  }
+},
+{
+  "type": "way",
+  "id": 44414592,
+  "center": {
+    "lat": 1.2864788,
+    "lon": 103.8459025
+  },
+  "tags": {
+    "name": "Speakers' Corner",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 46595390,
+  "center": {
+    "lat": 1.2874463,
+    "lon": 103.8514197
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "1",
+    "addr:postcode": "179555",
+    "addr:street": "Empress Place",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "nhb_acm_vs@nhb.gov.sg",
+    "facebook": "https://www.facebook.com/asiancivilisationsmuseum",
+    "fee": "yes",
+    "height": "15",
+    "image": "https://images.mapillary.com/IL_amV0yrHRuV0bk5XRkTQ/thumb-2048.jpg",
+    "mapillary": "322202262636164",
+    "museum": "history",
+    "name": "Asian Civilisations Museum",
+    "name:fr": "Musée des civilisations asiatiques",
+    "name:ko": "아시아 문명 박물관",
+    "name:pl": "Muzeum Cywilizacji Azjatyckich",
+    "name:zh": "亚洲文明博物馆",
+    "old_name": "Old Government Offices",
+    "opening_hours": "10:00-19:00; Fr 10:00-21:00",
+    "phone": "+65 6332 7798",
+    "roof:colour": "#ff3333",
+    "short_name": "ACM",
+    "start_date": "1997;2003",
+    "tourism": "museum",
+    "website": "https://acm.org.sg/",
+    "wheelchair": "yes",
+    "wikidata": "Q633033",
+    "wikimedia_commons": "Category:Asian_Civilisations_Museum",
+    "wikipedia": "en:Asian Civilisations Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 46671412,
+  "center": {
+    "lat": 1.2735918,
+    "lon": 103.8176689
+  },
+  "tags": {
+    "area": "yes",
+    "ele": "106",
+    "fixme": "outline",
+    "fixme:zh": "-",
+    "highway": "pedestrian",
+    "name": "Faber Point",
+    "name:zh": "花柏坊",
+    "natural": "peak",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 47250130,
+  "center": {
+    "lat": 1.3123265,
+    "lon": 103.8136875
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "no",
+    "layer": "1",
+    "name": "Burkill Hall",
+    "name:zh": "伯基尔馆",
+    "toilets": "no",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 54519182,
+  "center": {
+    "lat": 1.2841831,
+    "lon": 103.7824654
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "262",
+    "addr:postcode": "118628",
+    "addr:street": "Pasir Panjang Road",
+    "leisure": "park",
+    "name": "Haw Par Villa",
+    "name:zh": "虎豹别墅",
+    "opening_hours": "09:00-19:00",
+    "tourism": "attraction",
+    "wikidata": "Q1018484",
+    "wikipedia": "en:Haw Par Villa"
+  }
+},
+{
+  "type": "way",
+  "id": 95756945,
+  "center": {
+    "lat": 1.2542331,
+    "lon": 103.8229909
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "30",
+    "addr:postcode": "098140",
+    "addr:street": "Sentosa Gateway",
+    "name": "Universal Studios Singapore",
+    "name:ar": "يونيفرسال استوديو سنتوسا",
+    "name:en": "Universal Studios Singapore",
+    "name:ja": "ユニバーサルスタジオシンガポール",
+    "name:zh": "新加坡环球影城",
+    "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-22:00; Su 10:00-19:00",
+    "tourism": "theme_park",
+    "website": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
+    "wikidata": "Q1186714",
+    "wikipedia": "en:Universal Studios Singapore"
+  }
+},
+{
+  "type": "way",
+  "id": 97638264,
+  "center": {
+    "lat": 1.3328648,
+    "lon": 103.7359522
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housename": "Science Centre Singapore",
+    "addr:housenumber": "15",
+    "addr:postcode": "609081",
+    "addr:street": "Science Centre Road",
+    "building": "public",
+    "building:levels": "4",
+    "classification": "tourist attraction",
+    "name": "Science Centre Singapore",
+    "name:zh": "新加坡科学馆",
+    "opening_hours": "10:00-18:00",
+    "phone": "+65 6425 2500",
+    "tourism": "museum",
+    "website": "https://www.science.edu.sg/",
+    "wikidata": "Q4210560",
+    "wikipedia": "en:Science Centre Singapore"
+  }
+},
+{
+  "type": "way",
+  "id": 116801907,
+  "center": {
+    "lat": 1.2800726,
+    "lon": 103.8562657
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "11",
+    "addr:postcode": "018940",
+    "addr:street": "Marina Boulevard",
+    "building": "yes",
+    "email": "museum@red-dot.sg",
+    "height": "9",
+    "internet_access": "wlan",
+    "name": "Red Dot Design Museum",
+    "name:zh": "红点设计博物馆",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 10:00-19:00",
+    "phone": "+65 6514 0111",
+    "tourism": "museum",
+    "website": "https://www.museum.red-dot.sg/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 127348526,
+  "center": {
+    "lat": 1.2942801,
+    "lon": 103.8491007
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "39",
+    "addr:postcode": "179941",
+    "addr:street": "Armenian Street",
+    "building": "public",
+    "building:levels": "3",
+    "check_date": "2025-08-24",
+    "height": "20",
+    "image": "https://images.mapillary.com/bIRo_sET6UI3cE9rXGW_kA/thumb-2048.jpg",
+    "mapillary": "2903712053177821",
+    "museum": "ethnography",
+    "name": "Peranakan Museum",
+    "name:zh": "土生文化馆",
+    "old_name": "Tao Nan School",
+    "opening_hours": "Mo-Th,Sa-Su 10:00-19:00; Fr 10:00-21:00",
+    "operator": "National Heritage Board",
+    "operator:type": "public",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:nets": "yes",
+    "payment:visa": "yes",
+    "phone": "+65 6332 7591",
+    "start_date": "1912",
+    "tourism": "museum",
+    "website": "https://www.nhb.gov.sg/peranakanmuseum/",
+    "wikidata": "Q3078303",
+    "wikimedia_commons": "Category:Peranakan Museum, Singapore",
+    "wikipedia": "en:Peranakan Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 150819013,
+  "center": {
+    "lat": 1.2806838,
+    "lon": 103.8703316
+  },
+  "tags": {
+    "building": "service",
+    "name": "Marina Barrage Pump House",
+    "name:zh": "滨海堤坝水泵房",
+    "start_date": "2008-10-31",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 155990073,
+  "center": {
+    "lat": 1.3028874,
+    "lon": 103.8598221
+  },
+  "tags": {
+    "3dr:type": "9.0",
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "85",
+    "addr:postcode": "198501",
+    "addr:street": "Sultan Gate",
+    "air_conditioning": "yes",
+    "alt_name": "Istana Kampong Glam",
+    "building": "yes",
+    "castle_type": "palace",
+    "fax": "+65 6299 4316",
+    "historic": "castle",
+    "image": "https://images.mapillary.com/NYMbzl2pzDowCyABTwX6Nw/thumb-2048.jpg",
+    "mapillary": "285140086642832",
+    "name": "Malay Heritage Centre",
+    "name:ms": "Taman Warisan Melayu",
+    "name:ms-Arab": "تامن واريسن ملايو",
+    "name:zh": "马来传统文化馆",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "phone": "+65 6391 0450",
+    "short_name": "MHC",
+    "start_date": "1843",
+    "tourism": "museum",
+    "website": "https://malayheritage.org.sg/",
+    "wikidata": "Q6741538",
+    "wikimedia_commons": "Category:Malay Heritage Centre",
+    "wikipedia": "en:Malay Heritage Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 159637727,
+  "center": {
+    "lat": 1.2558657,
+    "lon": 103.8173468
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "21",
+    "addr:postcode": "098968",
+    "addr:street": "Siloso Road",
+    "building": "yes",
+    "fee": "no",
+    "name": "Sentosa Nature Discovery",
+    "name:zh": "圣淘沙大自然探索中心",
+    "tourism": "museum",
+    "website": "https://www.sentosa.com.sg/Explore/Sentosa-Nature-Discovery-Walking-Trails/Sentosa-Nature-Discovery"
+  }
+},
+{
+  "type": "way",
+  "id": 166802543,
+  "center": {
+    "lat": 1.4344368,
+    "lon": 103.8226128
+  },
+  "tags": {
+    "barrier": "fence",
+    "name": "Sembawang Hot Spring",
+    "name:zh": "三巴旺温泉",
+    "source": "http://en.wikipedia.org/wiki/Sembawang_Hot_Spring",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 167632686,
+  "center": {
+    "lat": 1.2831803,
+    "lon": 103.7910156
+  },
+  "tags": {
+    "amenity": "shelter",
+    "bin": "yes",
+    "building": "roof",
+    "building:levels": "1",
+    "drinking_water": "no",
+    "shelter_type": "picnic_shelter",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "way",
+  "id": 171979082,
+  "center": {
+    "lat": 1.2826770,
+    "lon": 103.8649520
+  },
+  "tags": {
+    "leisure": "garden",
+    "name": "Secret Life of Trees",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 171979084,
+  "center": {
+    "lat": 1.2820667,
+    "lon": 103.8640021
+  },
+  "tags": {
+    "image": "https://images.mapillary.com/VoHBP9Xk15ZQ823iwznyWg/thumb-2048.jpg",
+    "leisure": "garden",
+    "mapillary": "932365724267908",
+    "name": "Supertree Grove",
+    "name:zh": "擎天树丛",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 171979098,
+  "center": {
+    "lat": 1.2813707,
+    "lon": 103.8628514
+  },
+  "tags": {
+    "leisure": "garden",
+    "name": "Colonial Garden",
+    "name:en": "Colonial Garden",
+    "name:zh": "殖民花园",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 171981665,
+  "center": {
+    "lat": 1.2823904,
+    "lon": 103.8658122
+  },
+  "tags": {
+    "name": "Golden Garden",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 172272609,
+  "center": {
+    "lat": 1.2814593,
+    "lon": 103.8478699
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "140",
+    "addr:postcode": "068604",
+    "addr:street": "Telok Ayer Street",
+    "alt_name": "Nagore Dargah",
+    "building": "yes",
+    "building:levels": "1",
+    "height": "1",
+    "image": "https://images.mapillary.com/MI0ecMFOSttMVQ0QW-iRRw/thumb-2048.jpg",
+    "mapillary": "4040501292732842",
+    "name": "Nagore Durgha Indian Muslim Heritage Centre",
+    "name:zh": "纳哥德卡殿印度回教遗产中心",
+    "start_date": "1830",
+    "tourism": "museum",
+    "wikidata": "Q14179982",
+    "wikimedia_commons": "Category:Nagore Durgha, Singapore",
+    "wikipedia": "en:Nagore Durgha, Singapore"
+  }
+},
+{
+  "type": "way",
+  "id": 172288945,
+  "center": {
+    "lat": 1.2842578,
+    "lon": 103.8634956
+  },
+  "tags": {
+    "name": "Silver Garden",
+    "name:zh": "银色花园",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 172814143,
+  "center": {
+    "lat": 1.2770668,
+    "lon": 103.8373587
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "157",
+    "addr:street": "Neil Road",
+    "building": "yes",
+    "building:levels": "2",
+    "fixme:zh": "-",
+    "name": "Baba House",
+    "name:zh": "峇峇屋",
+    "roof:colour": "#ff3333",
+    "source": "Bing",
+    "tourism": "museum",
+    "wikidata": "Q4837312",
+    "wikipedia": "en:Baba House"
+  }
+},
+{
+  "type": "way",
+  "id": 173623373,
+  "center": {
+    "lat": 1.3137599,
+    "lon": 103.8150435
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Shaw Foundation Symphony Stage",
+    "name:en": "Shaw Foundation Symphony Stage",
+    "name:ms": "Pentas Simfoni Yayasan Shaw",
+    "name:zh": "邵氏基金交响乐台",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 176326997,
+  "center": {
+    "lat": 1.3056595,
+    "lon": 103.8522889
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "5",
+    "addr:postcode": "209924",
+    "addr:street": "Campbell Lane",
+    "building": "yes",
+    "building:levels": "4",
+    "museum": "history",
+    "name": "Indian Heritage Centre",
+    "name:zh": "印度文化遗产中心",
+    "phone": "+65 6291 1601",
+    "tourism": "museum",
+    "wikidata": "Q25551594",
+    "wikimedia_commons": "Category:Indian Heritage Centre",
+    "wikipedia": "en:Indian Heritage Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 176839464,
+  "center": {
+    "lat": 1.2549571,
+    "lon": 103.8176119
+  },
+  "tags": {
+    "building": "yes",
+    "description": "An open-air panoramic ride that replaced the Tiger Sky Tower. Brings visitors to a height of 79m above sea level. Opened on 15 December 2021",
+    "height": "35",
+    "man_made": "tower",
+    "name": "SkyHelix Sentosa",
+    "name:zh": "圣淘沙\"天空喜立\"",
+    "opening_hours": "10:00-21:30",
+    "tourism": "attraction",
+    "tower:construction": "lattice",
+    "tower:type": "observation",
+    "website": "https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/"
+  }
+},
+{
+  "type": "way",
+  "id": 176907548,
+  "center": {
+    "lat": 1.2569771,
+    "lon": 103.8226554
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "building:part": "yes",
+    "image": "https://images.mapillary.com/8t17syUZwtb46tqwf2EpiA/thumb-2048.jpg",
+    "information": "office",
+    "mapillary": "2773033589693643",
+    "name": "Trick Eye Museum",
+    "name:zh": "特丽爱3D美术馆",
+    "roof:colour": "#a4a69e",
+    "roof:levels": "1",
+    "roof:material": "metal",
+    "roof:shape": "pyramidal",
+    "tourism": "museum",
+    "website": "http://trickeye.com/singapore/"
+  }
+},
+{
+  "type": "way",
+  "id": 178436852,
+  "center": {
+    "lat": 1.3070589,
+    "lon": 103.8509346
+  },
+  "tags": {
+    "addr:housenumber": "37",
+    "addr:street": "Kerbau Road",
+    "building": "retail",
+    "building:levels": "2",
+    "image": "https://images.mapillary.com/wPOn4iSjSl3LGpbkjlaTTg/thumb-2048.jpg",
+    "mapillary": "485997879381934",
+    "name": "House of Tan Teng Niah",
+    "source": "Bing",
+    "tourism": "attraction",
+    "wikidata": "Q120703742",
+    "wikipedia": "en:House of Tan Teng Niah"
+  }
+},
+{
+  "type": "way",
+  "id": 230082125,
+  "center": {
+    "lat": 1.2894104,
+    "lon": 103.8631253
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "big_wheel",
+    "building": "yes",
+    "check_date": "2023-08-29",
+    "height": "0",
+    "image": "https://images.mapillary.com/a8Ji3b1zj5cjogWtfXckoA/thumb-2048.jpg",
+    "mapillary": "329364528704629",
+    "name": "Singapore Flyer",
+    "name:en": "Singapore Flyer",
+    "name:ja": "シンガポールフライヤー",
+    "name:ko": "싱가포르 플라이어",
+    "name:ru": "Колесо обозрения",
+    "name:zh": "新加坡摩天观景轮",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "roof:height": "4.81",
+    "roof:orientation": "along",
+    "roof:shape": "round",
+    "tourism": "attraction;theme_park",
+    "website": "https://www.singaporeflyer.com",
+    "wikidata": "Q752407",
+    "wikipedia": "en:Singapore Flyer"
+  }
+},
+{
+  "type": "way",
+  "id": 231917921,
+  "center": {
+    "lat": 1.2994492,
+    "lon": 103.8433681
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "35",
+    "addr:postcode": "238902",
+    "addr:street": "Orchard Road",
+    "building": "yes",
+    "height": "10",
+    "museum_type": "national",
+    "name": "Istana Heritage Gallery",
+    "name:zh": "总统府历史展馆",
+    "source": "Bing",
+    "start_date": "2016",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 238933756,
+  "center": {
+    "lat": 1.2854730,
+    "lon": 103.7815186
+  },
+  "tags": {
+    "building": "yes",
+    "fixme:zh": "-",
+    "name": "The Studio/Rise of Asia Museum (2024)",
+    "name:zh": "亚洲崛起博物馆",
+    "opening_date": "2023",
+    "source": "Bing",
+    "start_date": "2023",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 243443837,
+  "center": {
+    "lat": 1.3527334,
+    "lon": 103.7688657
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "351",
+    "addr:postcode": "588192",
+    "addr:street": "Upper Bukit Timah Road",
+    "building": "government",
+    "historic": "building",
+    "name": "Surviving the Japanese Occupation: War and its Legacies",
+    "old_name": "Memories at Old Ford Factory (Syonan Gallery)",
+    "opening_hours": "Mo-Sa,PH 09:00-17:30; Su 12:00-17:30",
+    "operator": "National Archives of Singapore",
+    "tourism": "gallery",
+    "website": "https://corporate.nas.gov.sg/media/collections-and-research/survivingthejapaneseoccupation",
+    "wikipedia": "en:Former Ford Factory#Exhibition gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 256633230,
+  "center": {
+    "lat": 1.3467365,
+    "lon": 103.8993600
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "400",
+    "addr:postcode": "534234",
+    "addr:street": "Airport Road",
+    "building": "public",
+    "email": "afmuseum@starnet.gov.sg",
+    "fee": "no",
+    "name": "Air Force Museum",
+    "opening_hours": "08:30-17:00; Mo,PH off",
+    "operator": "Ministry of Defence",
+    "phone": "+65 6461 8507",
+    "short_name": "RSAF Museum",
+    "tourism": "museum",
+    "website": "https://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/air_force/about/museum.html"
+  }
+},
+{
+  "type": "way",
+  "id": 262861253,
+  "center": {
+    "lat": 1.4060031,
+    "lon": 103.7934073
+  },
+  "tags": {
+    "barrier": "fence",
+    "name": "Australasia",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262861264,
+  "center": {
+    "lat": 1.4052531,
+    "lon": 103.7956887
+  },
+  "tags": {
+    "attraction": "animal",
+    "barrier": "fence",
+    "image": "https://images.mapillary.com/FH5JBbSOJKwM_k58kJVTXg/thumb-2048.jpg",
+    "mapillary": "825162794780627",
+    "name": "Elephants Of Asia",
+    "name:zh": "亚洲的大象",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885888,
+  "center": {
+    "lat": 1.4015799,
+    "lon": 103.7877576
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Babirusa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885891,
+  "center": {
+    "lat": 1.4023846,
+    "lon": 103.7876923
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Babirusa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885894,
+  "center": {
+    "lat": 1.4019190,
+    "lon": 103.7879074
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Bearded Pig",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885895,
+  "center": {
+    "lat": 1.4025586,
+    "lon": 103.7890329
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Bharal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885897,
+  "center": {
+    "lat": 1.4012475,
+    "lon": 103.7879055
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Bongo",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885901,
+  "center": {
+    "lat": 1.4027171,
+    "lon": 103.7852708
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Elephant",
+    "name:zh": "大象",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885907,
+  "center": {
+    "lat": 1.3995052,
+    "lon": 103.7891296
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Giraffe",
+    "name:zh": "长颈鹿",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885909,
+  "center": {
+    "lat": 1.4011223,
+    "lon": 103.7872443
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Hippo",
+    "name:zh": "河马",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885911,
+  "center": {
+    "lat": 1.4019969,
+    "lon": 103.7875131
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Red River Hog",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885912,
+  "center": {
+    "lat": 1.4015275,
+    "lon": 103.7900063
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Hyena",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885914,
+  "center": {
+    "lat": 1.4010612,
+    "lon": 103.7906369
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Leopard",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885916,
+  "center": {
+    "lat": 1.4012973,
+    "lon": 103.7895697
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Lions",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885917,
+  "center": {
+    "lat": 1.4023750,
+    "lon": 103.7893269
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Markhor",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885919,
+  "center": {
+    "lat": 1.4020131,
+    "lon": 103.7897991
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Marsh Birds",
+    "species": "Marsh Birds",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885920,
+  "center": {
+    "lat": 1.4022146,
+    "lon": 103.7896540
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Mouflon",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885924,
+  "center": {
+    "lat": 1.4014403,
+    "lon": 103.7873532
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "80",
+    "addr:postcode": "729826",
+    "addr:street": "Mandai Lake Road",
+    "charge": "56 SGD",
+    "facebook": "https://www.facebook.com/wrs.sg/",
+    "fee": "yes",
+    "name": "Night Safari",
+    "name:en": "Night Safari",
+    "name:zh": "夜间野生动物园",
+    "opening_hours": "19:15-24:00",
+    "operator": "Wildlife Reserves Singapore",
+    "phone": "+65 6269 3411",
+    "tourism": "zoo",
+    "website": "https://www.wrs.com.sg/en/night-safari.html",
+    "wikidata": "Q2234723",
+    "wikimedia_commons": "Category:Night Safari, Singapore",
+    "wikipedia": "en:Night Safari, Singapore"
+  }
+},
+{
+  "type": "way",
+  "id": 262885926,
+  "center": {
+    "lat": 1.4022451,
+    "lon": 103.7900706
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Otter",
+    "name:zh": "水獭",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885929,
+  "center": {
+    "lat": 1.4020741,
+    "lon": 103.7915209
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "80",
+    "addr:postcode": "729826",
+    "addr:street": "Mandai Lake Road",
+    "charge": "43 SGD",
+    "contact:facebook": "MandaiWildlifeReserve",
+    "contact:instagram": "mandaiwildlifereserve",
+    "contact:tiktok": "mandaiwildlifereserve",
+    "contact:twitter": "MandaiWildlife",
+    "contact:youtube": "MandaiWildlifeReserve",
+    "facebook": "https://www.facebook.com/wrs.sg/",
+    "fee": "yes",
+    "name": "River Wonders",
+    "name:en": "River Wonders",
+    "name:zh": "河川生态园",
+    "old_name": "River Safari",
+    "old_name:en": "River Safari",
+    "opening_hours": "10:00-19:00",
+    "operator": "Wildlife Reserves Singapore",
+    "phone": "+65 6269 3411",
+    "tourism": "zoo",
+    "website": "https://www.mandai.com/en/river-wonders.html",
+    "wikidata": "Q7337785",
+    "wikimedia_commons": "Category:River Safari, Singapore",
+    "wikipedia": "en:River Safari"
+  }
+},
+{
+  "type": "way",
+  "id": 262885931,
+  "center": {
+    "lat": 1.4037073,
+    "lon": 103.7944215
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "80",
+    "addr:postcode": "729826",
+    "addr:street": "Mandai Lake Road",
+    "alt_name": "Singapore Zoological Gardens",
+    "alt_name:en": "Mandai Zoo",
+    "charge": "49 SGD",
+    "email": "infocounter.zoo@wrs.com.sg",
+    "facebook": "https://www.facebook.com/wrs.sg/",
+    "fee": "yes",
+    "is_in:country": "Singapore",
+    "is_in:country_code": "SG",
+    "name": "Singapore Zoo",
+    "name:ar": "حديقة حيوانات سنغافورة",
+    "name:en": "Singapore Zoo",
+    "name:es": "Zoológico de Singapur",
+    "name:ja": "シンガポール動物園",
+    "name:ms": "Taman Haiwan Singapura",
+    "name:ru": "Зоопарк Сингапура",
+    "name:ta": "சிங்கப்பூர் விலங்குக் காட்சிச்சாலை",
+    "name:th": "สวนสัตว์สิงคโปร์",
+    "name:vi": "Sở thú Singapore",
+    "name:zh": "新加坡动物园",
+    "opening_hours": "08:30-18:00",
+    "operator": "Wildlife Reserves Singapore",
+    "phone": "+65 6269 3411",
+    "toilets:wheelchair": "yes",
+    "tourism": "zoo",
+    "website": "https://www.wrs.com.sg/en/singapore-zoo.html",
+    "wheelchair": "yes",
+    "wikidata": "Q2709506",
+    "wikipedia": "en:Singapore Zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 262885933,
+  "center": {
+    "lat": 1.4009273,
+    "lon": 103.7881861
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Spotted Hyena",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885935,
+  "center": {
+    "lat": 1.4034052,
+    "lon": 103.7870540
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Thamin",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 262885937,
+  "center": {
+    "lat": 1.4021874,
+    "lon": 103.7882864
+  },
+  "tags": {
+    "attraction": "animal",
+    "name": "Tiger",
+    "name:zh": "老虎",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 269909056,
+  "center": {
+    "lat": 1.2821340,
+    "lon": 103.8444783
+  },
+  "tags": {
+    "bicycle": "yes",
+    "covered": "yes",
+    "description": "Food street in Chinatown",
+    "highway": "pedestrian",
+    "name": "Smith Street",
+    "name:en": "Smith Street",
+    "name:en:signed": "yes",
+    "name:zh": "史密斯街",
+    "name:zh:signed": "yes",
+    "old_name": "Smith Street",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 271791474,
+  "center": {
+    "lat": 1.3280672,
+    "lon": 103.8470376
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "12",
+    "addr:postcode": "327874",
+    "addr:street": "Tai Gin Road",
+    "alt_name:zh": "晚晴园",
+    "barrier": "wall",
+    "check_date": "2022-08-25",
+    "fee": "yes",
+    "historic": "house",
+    "museum": "history",
+    "name": "Sun Yat Sen Nanyang Museum",
+    "name:zh": "孙中山南洋纪念馆",
+    "opening_hours": "Tu-Su,PH 10:00-17:00",
+    "operator:type": "public",
+    "start_date": "1901",
+    "tourism": "museum",
+    "url": "http://www.wanqingyuan.org.sg/",
+    "wikidata": "Q10123616",
+    "wikipedia": "en:Sun Yat Sen Nanyang Memorial Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 358462343,
+  "center": {
+    "lat": 1.3013468,
+    "lon": 103.8734098
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "height": "10",
+    "name": "Singapore Sports Museum",
+    "name:zh": "新加坡体育博物馆",
+    "roof:colour": "#c3c6c2",
+    "roof:material": "concrete",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 380599765,
+  "center": {
+    "lat": 1.4032379,
+    "lon": 103.7904469
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "description": "Aquarium",
+    "height": "20",
+    "name": "Amazon Flooded Forest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 380599774,
+  "center": {
+    "lat": 1.4037275,
+    "lon": 103.7925034
+  },
+  "tags": {
+    "attraction": "animal",
+    "building": "yes",
+    "name": "Giant Panda Forest",
+    "name:en": "Giant Panda Forest",
+    "name:zh": "大熊猫竹林",
+    "opening_hours": "1000-1815",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 380599776,
+  "center": {
+    "lat": 1.4035994,
+    "lon": 103.7927652
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Giant Panda Forest",
+    "name:ru": "Лес панд",
+    "name:zh": "大熊猫竹林",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 380599814,
+  "center": {
+    "lat": 1.4039832,
+    "lon": 103.7910204
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "name": "Congo River",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 380599822,
+  "center": {
+    "lat": 1.4010518,
+    "lon": 103.7921879
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Boat Plaza",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 380599835,
+  "center": {
+    "lat": 1.4037425,
+    "lon": 103.7918174
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Mary River",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 380599859,
+  "center": {
+    "lat": 1.4038566,
+    "lon": 103.7921658
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "name": "Yangtze River",
+    "name:zh": "长江",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 439331320,
+  "center": {
+    "lat": 1.3215940,
+    "lon": 103.8526892
+  },
+  "tags": {
+    "building": "temple",
+    "building:levels": "1",
+    "name": "Wayang Stage",
+    "source": "Mapbox",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 445364429,
+  "center": {
+    "lat": 1.2577628,
+    "lon": 103.8207611
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "fee": "yes",
+    "roof:colour": "#c7d2c9",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 462044189,
+  "center": {
+    "lat": 1.3338392,
+    "lon": 103.7363644
+  },
+  "tags": {
+    "name": "Kinetic Garden Exhibition",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 478355767,
+  "center": {
+    "lat": 1.2550506,
+    "lon": 103.8173489
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:street": "Imbiah Road",
+    "building": "yes",
+    "name": "Skyline Luge Sentosa",
+    "opening_hours": "Mo-Su 10:00-21:30",
+    "source": "Kaart Ground Survey 2017",
+    "tourism": "theme_park",
+    "website": "http://www.skylineluge.sg",
+    "wikidata": "Q15276097",
+    "wikimedia_commons": "Category:Sentosa Luge and Skyride",
+    "wikipedia": "en:Sentosa Luge"
+  }
+},
+{
+  "type": "way",
+  "id": 481650009,
+  "center": {
+    "lat": 1.2823026,
+    "lon": 103.8304351
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "1H",
+    "addr:street": "Yong Siak Street",
+    "building": "commercial",
+    "building:levels": "4",
+    "name": "White Space Art Asia",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 481650013,
+  "center": {
+    "lat": 1.2828170,
+    "lon": 103.8300257
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "23",
+    "addr:street": "Yong Siak Street",
+    "building": "commercial",
+    "building:levels": "4",
+    "name": "ArtBlue Studio",
+    "source": "Kaart Ground Survey 2017",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 482507809,
+  "center": {
+    "lat": 1.2967666,
+    "lon": 103.8867556
+  },
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 489365459,
+  "center": {
+    "lat": 1.3127466,
+    "lon": 103.8137141
+  },
+  "tags": {
+    "fee": "yes",
+    "leisure": "garden",
+    "name": "National Orchid Garden",
+    "name:de": "Nationaler Orchideengarten",
+    "name:en": "National Orchid Garden",
+    "name:ja": "国立蘭園",
+    "name:ko": "국립난정원",
+    "name:ms": "Taman Orkid Nasional",
+    "name:th": "สวนกล้วยไม้แห่งชาติ",
+    "name:zh": "国家胡姬园",
+    "opening_hours": "Mo-Su 08:30-19:00",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 489366770,
+  "center": {
+    "lat": 1.3214959,
+    "lon": 103.8184582
+  },
+  "tags": {
+    "leisure": "garden",
+    "name": "Jacob Ballas Children's Garden",
+    "name:zh": "雅格巴拉斯儿童花园",
+    "opening_hours": "Tu-Su 08:00-19:00",
+    "phone": "+656465016",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q98270252"
+  }
+},
+{
+  "type": "way",
+  "id": 489368546,
+  "center": {
+    "lat": 1.3170381,
+    "lon": 103.8159821
+  },
+  "tags": {
+    "leisure": "garden",
+    "name": "Evolution Garden",
+    "name:zh": "进化园",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 648707161,
+  "center": {
+    "lat": 1.3197304,
+    "lon": 103.8164881
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "garden",
+    "name": "Ethnobotany Garden",
+    "name:zh": "民族植物学花园",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 684985134,
+  "center": {
+    "lat": 1.2570918,
+    "lon": 103.8179570
+  },
+  "tags": {
+    "name": "Tidal Twister, Pipeline Plunge",
+    "name:zh": "旋风滑道、激流滑道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 684985135,
+  "center": {
+    "lat": 1.2571757,
+    "lon": 103.8177506
+  },
+  "tags": {
+    "name": "Riptide Rocket",
+    "name:zh": "喷射滑道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 684985136,
+  "center": {
+    "lat": 1.2572673,
+    "lon": 103.8176533
+  },
+  "tags": {
+    "name": "Dueling Racer",
+    "name:zh": "飞跃极限滑道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 684985138,
+  "center": {
+    "lat": 1.2578503,
+    "lon": 103.8182466
+  },
+  "tags": {
+    "name": "Whirlpool & Spiral Washout",
+    "name:zh": "漩涡滑道、螺旋滑道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 684985139,
+  "center": {
+    "lat": 1.2581757,
+    "lon": 103.8188092
+  },
+  "tags": {
+    "name": "Wet Maze",
+    "name:zh": "水迷宫",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 684985140,
+  "center": {
+    "lat": 1.2580052,
+    "lon": 103.8179945
+  },
+  "tags": {
+    "name": "Big Bucket Treehouse",
+    "name:zh": "灌水屋",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 687915906,
+  "center": {
+    "lat": 1.2819571,
+    "lon": 103.8638933
+  },
+  "tags": {
+    "bridge": "yes",
+    "height": "22",
+    "highway": "footway",
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/OCBC_Skyway%2C_Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120617.jpg/800px-OCBC_Skyway%2C_Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120617.jpg",
+    "layer": "1",
+    "lit": "yes",
+    "min_height": "21.5",
+    "name": "OCBC Skyway",
+    "name:zh": "华侨银行空中走廊",
+    "surface": "metal_grid",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 688890778,
+  "center": {
+    "lat": 1.3036785,
+    "lon": 103.8590837
+  },
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:postcode": "199264",
+    "addr:street": "Jalan Kledek",
+    "building": "yes",
+    "facebook": "https://www.facebook.com/vintagecamerasmuseumsingapore/",
+    "image": "https://images.mapillary.com/k8t1dJinq117S-ZyZg2S2g/thumb-2048.jpg",
+    "mapillary": "801391670567986",
+    "name": "Vintage cameras museum",
+    "name:en": "Vintage cameras museum",
+    "name:zh": "古董相机博物馆",
+    "phone": "+65 6291 2278;+65 8591 8918",
+    "tourism": "museum",
+    "url": "https://www.youtube.com/channel/UCtjIseKrQOwxHaBT7tr6Zzg",
+    "website": "https://www.vintagecamerasmuseumsg.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 692793011,
+  "center": {
+    "lat": 1.3590292,
+    "lon": 103.7763391
+  },
+  "tags": {
+    "area": "yes",
+    "building": "ruins",
+    "image": "https://images.mapillary.com/NaBOSea1PLg11QPAkfz3Ug/thumb-2048.jpg",
+    "mapillary": "4065053720253195",
+    "name": "Silo Ruins",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 692845673,
+  "center": {
+    "lat": 1.2978599,
+    "lon": 103.9057892
+  },
+  "tags": {
+    "building": "yes",
+    "image": "https://images.mapillary.com/ODQHTqbY5XiZ9ZOkbAJmdQ/thumb-2048.jpg",
+    "man_made": "tower",
+    "mapillary": "2916384361951303",
+    "name": "Amber Tower",
+    "tourism": "attraction",
+    "tower:type": "observation"
+  }
+},
+{
+  "type": "way",
+  "id": 722269842,
+  "center": {
+    "lat": 1.3402969,
+    "lon": 103.7248810
+  },
+  "tags": {
+    "name": "Clusia Cove",
+    "name:zh": "Clusia 小湾",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 767316592,
+  "center": {
+    "lat": 1.4054753,
+    "lon": 103.7814558
+  },
+  "tags": {
+    "charge": "49 SGD",
+    "fee": "yes",
+    "name": "Bird Paradise",
+    "old_name": "Mandai Bird Park",
+    "opening_hours": "09:00-18:00",
+    "start_date": "2023",
+    "tourism": "zoo",
+    "website": "https://www.mandai.com/en/bird-paradise.html",
+    "wikidata": "Q113800717",
+    "wikipedia": "en:Bird Paradise"
+  }
+},
+{
+  "type": "way",
+  "id": 767316593,
+  "center": {
+    "lat": 1.4093205,
+    "lon": 103.7816527
+  },
+  "tags": {
+    "name": "Rainforest Wild Asia",
+    "name:en": "Rainforest Wild Asia",
+    "name:zh": "雨林探险园",
+    "old_name": "Rainforest Park North",
+    "source:url": "https://www.straitstimes.com/singapore/eco-resort-mandai-rainforest-resort-to-open-in-first-half-of-2025",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 835062308,
+  "center": {
+    "lat": 1.4139005,
+    "lon": 103.8293475
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "81",
+    "addr:postcode": "769198",
+    "addr:street": "Lorong Chencharu",
+    "facebook": "https://www.facebook.com/turtlemuseumsg/",
+    "fee": "yes",
+    "name": "Live Turtle Museum",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "tourism": "zoo",
+    "website": "https://www.turtle-tortoise.com/",
+    "zoo": "reptile"
+  }
+},
+{
+  "type": "way",
+  "id": 837287751,
+  "center": {
+    "lat": 1.4138842,
+    "lon": 103.8293991
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Live Turtle Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 839311222,
+  "center": {
+    "lat": 1.4052948,
+    "lon": 103.7946927
+  },
+  "tags": {
+    "attraction": "animal",
+    "barrier": "fence",
+    "name": "Primate Kingdom",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 880870252,
+  "center": {
+    "lat": 1.3017139,
+    "lon": 103.8517431
+  },
+  "tags": {
+    "building": "yes",
+    "name": "DECK",
+    "start_date": "2013",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 973019769,
+  "center": {
+    "lat": 1.3421428,
+    "lon": 103.7308274
+  },
+  "tags": {
+    "construction": "civic",
+    "landuse": "construction",
+    "name": "Singapore Science Centre",
+    "name:en": "Singapore Science Centre",
+    "name:zh": "新加坡科学馆",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761124,
+  "center": {
+    "lat": 1.4031533,
+    "lon": 103.7950174
+  },
+  "tags": {
+    "barrier": "fence",
+    "name": "Tortoise Shell-ter",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761125,
+  "center": {
+    "lat": 1.4031416,
+    "lon": 103.7954871
+  },
+  "tags": {
+    "contact:facebook": "houbiispotsg",
+    "contact:instagram": "houbiispotsg",
+    "name": "Houbii Spot Rope Course",
+    "tourism": "attraction",
+    "website": "https://houbiispotsingapore.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761154,
+  "center": {
+    "lat": 1.4035760,
+    "lon": 103.7924570
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Panda Outdoor Viewing Gallery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761157,
+  "center": {
+    "lat": 1.4038106,
+    "lon": 103.7916855
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Ganges River",
+    "source": "Bing",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761159,
+  "center": {
+    "lat": 1.4013019,
+    "lon": 103.7919241
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "name": "Once Upon A River",
+    "opening_hours": "1130;1430;1630",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761160,
+  "center": {
+    "lat": 1.4030892,
+    "lon": 103.7911912
+  },
+  "tags": {
+    "landuse": "forest",
+    "name": "Squirrel Monkey Forest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761161,
+  "center": {
+    "lat": 1.4023196,
+    "lon": 103.7912374
+  },
+  "tags": {
+    "name": "Amazon River Quest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761175,
+  "center": {
+    "lat": 1.4038236,
+    "lon": 103.7913729
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "name": "River Nile",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761181,
+  "center": {
+    "lat": 1.4041718,
+    "lon": 103.7909811
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "name": "River Gems",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761185,
+  "center": {
+    "lat": 1.4037542,
+    "lon": 103.7931325
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "height": "20",
+    "name": "Animal Playground",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1006761197,
+  "center": {
+    "lat": 1.4040163,
+    "lon": 103.7919653
+  },
+  "tags": {
+    "building": "roof",
+    "building:levels": "1",
+    "name": "Mekong River",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1080516770,
+  "center": {
+    "lat": 1.2758287,
+    "lon": 103.8495164
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "1",
+    "addr:postcode": "018906",
+    "addr:street": "Straits Boulevard",
+    "air_conditioning": "yes",
+    "building": "yes",
+    "building:levels": "11",
+    "facebook": "https://www.facebook.com/singaporechineseculturalcentre/",
+    "name": "Singapore Chinese Cultural Centre",
+    "name:en": "Singapore Chinese Cultural Centre",
+    "name:zh": "新加坡华族文化中心",
+    "name:zh-Hans": "新加坡华族文化中心",
+    "name:zh-Hant": "新加坡華族文化中心",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "phone": "+65 6812 7222",
+    "tourism": "museum",
+    "website": "https://singaporeccc.org.sg",
+    "wheelchair": "yes",
+    "wikidata": "Q126400707"
+  }
+},
+{
+  "type": "way",
+  "id": 1138196103,
+  "center": {
+    "lat": 1.2838897,
+    "lon": 103.7816771
+  },
+  "tags": {
+    "building": "yes",
+    "fee": "yes",
+    "name": "Hell's Museum",
+    "name:zh": "地獄博物馆",
+    "opening_hours": "Tu-Su 10:00-18:00",
+    "tourism": "museum",
+    "website": "https://hawparvilla.sg/"
+  }
+},
+{
+  "type": "way",
+  "id": 1148718861,
+  "center": {
+    "lat": 1.2882855,
+    "lon": 103.7977092
+  },
+  "tags": {
+    "alt_name": "The Deck",
+    "area": "yes",
+    "bridge": "yes",
+    "highway": "pedestrian",
+    "layer": "1",
+    "material": "wood",
+    "name": "The Lost Ark",
+    "name:zh": "失落的方舟",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1159195824,
+  "center": {
+    "lat": 1.3352074,
+    "lon": 103.7278032
+  },
+  "tags": {
+    "name": "Therapeutic Garden (Adult's Section)",
+    "opening_hours": "24/7",
+    "tourism": "attraction",
+    "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/therapeutic-garden"
+  }
+},
+{
+  "type": "way",
+  "id": 1159195825,
+  "center": {
+    "lat": 1.3354463,
+    "lon": 103.7276888
+  },
+  "tags": {
+    "name": "Therapeutic Garden (Children's Discovery Area)",
+    "opening_hours": "24/7",
+    "tourism": "attraction",
+    "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/therapeutic-garden"
+  }
+},
+{
+  "type": "way",
+  "id": 1159195826,
+  "center": {
+    "lat": 1.3357120,
+    "lon": 103.7275796
+  },
+  "tags": {
+    "name": "Butterfly Maze",
+    "opening_hours": "07:00-19:00",
+    "tourism": "attraction",
+    "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/butterfly-maze"
+  }
+},
+{
+  "type": "way",
+  "id": 1165406854,
+  "center": {
+    "lat": 1.4065524,
+    "lon": 103.7826069
+  },
+  "tags": {
+    "attraction": "animal",
+    "building": "yes",
+    "name": "Ocean Network Express Penguin Cove",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189242,
+  "center": {
+    "lat": 1.4060760,
+    "lon": 103.7820867
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Australia Outback",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189243,
+  "center": {
+    "lat": 1.4057622,
+    "lon": 103.7817595
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Mysterious Papua",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189244,
+  "center": {
+    "lat": 1.4067904,
+    "lon": 103.7808002
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Heart of Africa",
+    "name:zh": "非洲中心",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189245,
+  "center": {
+    "lat": 1.4059029,
+    "lon": 103.7804723
+  },
+  "tags": {
+    "alt_name": "Wings of Asia",
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Kuok Group Wings of Asia",
+    "name:zh": "郭氏集团亚洲之翼鸟舍",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189246,
+  "center": {
+    "lat": 1.4067926,
+    "lon": 103.7831048
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Winged Sanctuary",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189250,
+  "center": {
+    "lat": 1.4051768,
+    "lon": 103.7815580
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Lory Loft",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189251,
+  "center": {
+    "lat": 1.4046663,
+    "lon": 103.7813697
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Songs of the Forest",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189252,
+  "center": {
+    "lat": 1.4041566,
+    "lon": 103.7814348
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Amazonian Jewels",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1166189253,
+  "center": {
+    "lat": 1.4039223,
+    "lon": 103.7809570
+  },
+  "tags": {
+    "alt_name": "Crimson Wetlands",
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Hong Leong Foundation Crimson Wetlands",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1167538761,
+  "center": {
+    "lat": 1.2623780,
+    "lon": 103.8051123
+  },
+  "tags": {
+    "alt_name": "Berlayar Point Lighthouse",
+    "disused": "yes",
+    "height:range": "2.5-6",
+    "man_made": "lighthouse",
+    "name": "Berlayer Point Lighthouse",
+    "name:zh": "柏莱雅广场灯塔",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1169319427,
+  "center": {
+    "lat": 1.3351010,
+    "lon": 103.8210549
+  },
+  "tags": {
+    "access": "yes",
+    "barrier": "swing_gate",
+    "door": "yes",
+    "entrance": "gate",
+    "name": "Bukit Brown Cemetery gates",
+    "name:zh": "武吉布朗墓地大门",
+    "note": "Moved from original position 25 July 2016",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1173008767,
+  "center": {
+    "lat": 1.2824783,
+    "lon": 103.8302974
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "7",
+    "addr:street": "Yong Siak Street",
+    "building": "commercial",
+    "building:levels": "4",
+    "name": "Hatch Art Project",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036068,
+  "center": {
+    "lat": 1.4091844,
+    "lon": 103.7807458
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Entrance Gorge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036069,
+  "center": {
+    "lat": 1.4090109,
+    "lon": 103.7818683
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Watering Hole",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036076,
+  "center": {
+    "lat": 1.4085658,
+    "lon": 103.7817072
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "The Cavern",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036077,
+  "center": {
+    "lat": 1.4101856,
+    "lon": 103.7814894
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036078,
+  "center": {
+    "lat": 1.4101408,
+    "lon": 103.7824916
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "description": "Malayan Tiger",
+    "name": "Rock Cascade",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036079,
+  "center": {
+    "lat": 1.4102007,
+    "lon": 103.7835531
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "The Canopy",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036080,
+  "center": {
+    "lat": 1.4098411,
+    "lon": 103.7798567
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "The Karsts",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1364036081,
+  "center": {
+    "lat": 1.4099824,
+    "lon": 103.7808576
+  },
+  "tags": {
+    "area": "yes",
+    "attraction": "animal",
+    "name": "Forest Floor",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1391127348,
+  "center": {
+    "lat": 1.3260769,
+    "lon": 103.7754278
+  },
+  "tags": {
+    "area": "yes",
+    "layer": "-1",
+    "man_made": "tunnel",
+    "name": "Maju Camp Tunnel",
+    "name:zh": "马裕兵营隧道",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 1408555573,
+  "center": {
+    "lat": 1.3172628,
+    "lon": 103.8171626
+  },
+  "tags": {
+    "leisure": "garden",
+    "name": "Healing Garden",
+    "name:en": "Healing Garden",
+    "name:zh": "百草园",
+    "opening_hours": "We-Mo 05:00-19:30",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1467038016,
+  "center": {
+    "lat": 1.2831965,
+    "lon": 103.8618392
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housenumber": "18",
+    "addr:postcode": "018953",
+    "addr:street": "Marina Gardens Dr",
+    "building": "yes",
+    "changing_table": "yes",
+    "contact:facebook": "IMBATheatre",
+    "contact:instagram": "be.imba",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "IMBA_Guest",
+    "name": "IMBA Theatre",
+    "not:name": "IMBA Global",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "IMBA Global",
+    "payment:alipay": "yes",
+    "payment:american_express": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:discover_card": "yes",
+    "payment:google_pay": "yes",
+    "payment:mastercard": "yes",
+    "payment:nfc": "yes",
+    "payment:paynow": "yes",
+    "payment:prepaid_ticket": "yes",
+    "payment:shopeepay": "yes",
+    "payment:singtel_dash": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:wechat": "yes",
+    "start_date": "2026-02-12",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "tourism": "gallery",
+    "website": "https://imbaglobal.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1488601384,
+  "center": {
+    "lat": 1.3378343,
+    "lon": 103.7323652
+  },
+  "tags": {
+    "area": "yes",
+    "fixme": "check tags on purpose of area as a viewing platform",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "relation",
+  "id": 9574726,
+  "center": {
+    "lat": 1.2559228,
+    "lon": 103.8202644
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "8",
+    "addr:postcode": "098269",
+    "addr:street": "Sentosa Gateway",
+    "email": "enquiries@rwsentosa.com",
+    "landuse": "retail",
+    "leisure": "resort",
+    "name": "Resorts World Sentosa",
+    "name:en": "Resorts World Sentosa",
+    "name:zh": "圣淘沙名胜世界",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "https://www.rwsentosa.com/",
+    "wikidata": "Q5955134",
+    "wikipedia": "en:Resorts World Sentosa"
+  }
+},
+{
+  "type": "relation",
+  "id": 14314416,
+  "center": {
+    "lat": 1.2860633,
+    "lon": 103.8592603
+  },
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:country": "SG",
+    "addr:housenumber": "10",
+    "addr:postcode": "018956",
+    "addr:street": "Bayfront Avenue",
+    "building": "public",
+    "image": "https://images.mapillary.com/zjU7YdmVZYs4YayLDD-26g/thumb-2048.jpg",
+    "mapillary": "1161211990993763",
+    "name": "ArtScience Museum",
+    "name:en": "ArtScience Museum",
+    "name:it": "Museo di ArtScience",
+    "name:ko": "예술 과학 박물관",
+    "name:zh": "藝術科學博物館",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "tourism": "museum",
+    "type": "building",
+    "website": "https://www.marinabaysands.com/museum.html",
+    "wikidata": "Q2744014",
+    "wikipedia": "en:ArtScience Museum"
+  }
+},
+{
+  "type": "relation",
+  "id": 18007977,
+  "center": {
+    "lat": 1.2874768,
+    "lon": 103.8604428
+  },
+  "tags": {
+    "layer": "1",
+    "man_made": "bridge",
+    "name": "Helix Bridge",
+    "name:en": "The Helix Bridge",
+    "name:ms": "Jambatan Helix",
+    "name:zh": "雙螺旋橋",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wikidata": "Q2681107",
+    "wikipedia": "en:Helix Bridge"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,2616 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-01T09:32:29Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 260810847,
+  "lat": 25.2586577,
+  "lon": 55.3264496,
+  "tags": {
+    "alt_name": "Dubai Clocktower",
+    "alt_name_1": "Clock Tower",
+    "name": "Deira Clocktower",
+    "name:ar": "✈السورية برج الساعة",
+    "name:en": "Deira Clocktower",
+    "tourism": "attraction",
+    "wikidata": "Q4346630",
+    "wikimedia_commons": "Category:The clock tower (Dubai)",
+    "wikipedia": "en:Deira Clocktower"
+  }
+},
+{
+  "type": "node",
+  "id": 838298272,
+  "lat": 25.1952905,
+  "lon": 55.2794653,
+  "tags": {
+    "name": "The Waterfall",
+    "name:en": "The Waterfall",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1541940355,
+  "lat": 25.1387755,
+  "lon": 55.3599050,
+  "tags": {
+    "name": "Repton Museum",
+    "name:en": "Repton Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2098285011,
+  "lat": 25.2327667,
+  "lon": 55.3329714,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 2246365936,
+  "lat": 25.1176773,
+  "lon": 55.1981966,
+  "tags": {
+    "name": "Ski Hall",
+    "name:en": "Ski Hall",
+    "source": "+971 4 409 4000",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 2488004018,
+  "lat": 25.2648235,
+  "lon": 55.2968261,
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:street": "شارع علي بن أبي طالب",
+    "addr:street:ar": "شارع علي بن أبي طالب",
+    "amenity": "place_of_worship",
+    "name": "معبد هندوسي",
+    "name:ar": "معبد هندوسي",
+    "name:en": "Hindu Temple",
+    "name:ur": "ہندو مندر",
+    "religion": "hindu",
+    "tourism": "attraction",
+    "wheelchair": "limited",
+    "wikidata": "Q5766383",
+    "wikipedia": "ar:المعبد الهندوسي في دبي"
+  }
+},
+{
+  "type": "node",
+  "id": 3129080913,
+  "lat": 25.2698650,
+  "lon": 55.3027737,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sabka Bus Station",
+    "name:en": "Sabka Bus Station",
+    "name:ko": "사브카 버스 정류장",
+    "operator": "RTA",
+    "shelter": "yes",
+    "tourism": "viewpoint",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3214500910,
+  "lat": 25.2345164,
+  "lon": 55.2649087,
+  "tags": {
+    "amenity": "arts_centre",
+    "name": "ProArt Gallery",
+    "name:en": "ProArt Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 3717446089,
+  "lat": 25.2635211,
+  "lon": 55.2971826,
+  "tags": {
+    "addr:city": "دبي",
+    "addr:street": "شارع الفهيدي",
+    "fee": "yes",
+    "name": "متحف دبي",
+    "name:ar": "متحف دبي",
+    "name:de": "Dubai-Museum",
+    "name:en": "Dubai Museum",
+    "name:es": "Museo de Dubái",
+    "name:fa": "موزه دبی",
+    "name:he": "מוזיאון דובאי",
+    "name:ml": "ദുബായ് മ്യൂസിയം",
+    "name:ur": "دبئی میوزیم",
+    "name:zh": "迪拜博物馆",
+    "opening_hours": "Sa-Th 08:30-20:30, Fr 14:30-20:30; 2021 closed \"renpvations\"",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4106443490,
+  "lat": 25.2584446,
+  "lon": 55.3177316,
+  "tags": {
+    "name": "Sightseeing Cruise at Pier 1",
+    "name:en": "Sightseeing Cruise at Pier 1",
+    "opening_hours": "Mo-Su 10:30-16:00",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4212624789,
+  "lat": 25.2524207,
+  "lon": 55.3085025,
+  "tags": {
+    "name": "Ansar Gallery",
+    "name:en": "Ansar Gallery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4329018490,
+  "lat": 25.3142510,
+  "lon": 55.3531368,
+  "tags": {
+    "addr:street": "Memzar Slipway",
+    "name": "Beach Water Sports",
+    "name:en": "Beach Water Sports",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4384889930,
+  "lat": 25.1079058,
+  "lon": 55.3099546,
+  "tags": {
+    "name": "Crocodile Enclosures",
+    "name:en": "Crocodile Enclosures",
+    "source": "https://www.instagram.com/p/5y2jUIGu0o/?taken-by=capereed",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 4401270408,
+  "lat": 25.2700486,
+  "lon": 55.3164147,
+  "tags": {
+    "historic": "monument",
+    "name": "دوار السمك",
+    "name:ar": "دوار السمك",
+    "name:en": "Fish Roundabout",
+    "name:fa": "میدان ماهی",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4417703990,
+  "lat": 25.2514200,
+  "lon": 55.2826297,
+  "tags": {
+    "name": "New Gold souq",
+    "name:en": "New Gold souq",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4434443291,
+  "lat": 25.2768502,
+  "lon": 55.3129514,
+  "tags": {
+    "name": "Diplomat hotel",
+    "name:en": "Diplomat hotel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4466949490,
+  "lat": 25.2742720,
+  "lon": 55.3104789,
+  "tags": {
+    "name": "Traditional Souq",
+    "name:en": "Traditional Souq",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4466960289,
+  "lat": 25.2738747,
+  "lon": 55.3115421,
+  "tags": {
+    "name": "Al Falasi Building",
+    "name:en": "Al Falasi Building",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4521575789,
+  "lat": 25.0873850,
+  "lon": 55.3028448,
+  "tags": {
+    "name": "Delta",
+    "name:en": "Delta",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4521783461,
+  "lat": 25.1950306,
+  "lon": 55.2799890,
+  "tags": {
+    "brand": "KidZania",
+    "brand:wikidata": "Q866049",
+    "contact:instagram": "https://www.instagram.com/kidzaniaAE/",
+    "contact:youtube": "https://www.youtube.com/c/EmaarEntertainmentDXB",
+    "email": "EnquiriesDubai@kidzania.ae",
+    "fee": "yes",
+    "fee:conditional": "no @ (age<=1)",
+    "level": "2",
+    "name": "KidZania",
+    "name:en": "KidZania",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "800 38224 6255",
+    "phone:mnemonic": "800-DUBAI-MALL",
+    "tourism": "theme_park",
+    "website": "https://dubai.kidzania.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4527484391,
+  "lat": 25.1656029,
+  "lon": 55.3980861,
+  "tags": {
+    "name": "Prime Residency 1",
+    "name:en": "Prime Residency 1",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4529352694,
+  "lat": 25.2573555,
+  "lon": 55.3270778,
+  "tags": {
+    "name": "Entrepreneur Business Village Deira Dubai",
+    "name:en": "Entrepreneur Business Village Deira Dubai",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4547227989,
+  "lat": 25.3066479,
+  "lon": 55.3441840,
+  "tags": {
+    "name": "Alqasbah",
+    "name:en": "Alqasbah",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4550749396,
+  "lat": 25.2902376,
+  "lon": 55.3786586,
+  "tags": {
+    "name": "Al Salem tower",
+    "name:en": "Al Salem tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4550798296,
+  "lat": 25.2909457,
+  "lon": 55.3774684,
+  "tags": {
+    "name": "Amani Residence",
+    "name:en": "Amani Residence",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4587086378,
+  "lat": 25.2275747,
+  "lon": 55.2973220,
+  "tags": {
+    "fixme": "name, name:en mismatch.",
+    "image": "https://photos.app.goo.gl/pWKSf8tdbVVFatR36",
+    "name": "Dinosaur Park Dubai Zabeel",
+    "name:ar": "حديقة الديناصورات دبي زعبيل",
+    "name:en": "Dinosaur Park + Garden Glow",
+    "name:ru": "Парк динозавров",
+    "opening_hours": "Sa-Th 16:00-23:00; Fr 16:00-00:00",
+    "phone": "+971559188126",
+    "tourism": "theme_park",
+    "website": "https://www.dubaigardenglow.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4589620093,
+  "lat": 25.2906072,
+  "lon": 55.3781690,
+  "tags": {
+    "addr:street": "15 Street",
+    "name": "Al Sabah Tower",
+    "name:en": "Al Sabah Tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4656375730,
+  "lat": 25.2559916,
+  "lon": 55.3215437,
+  "tags": {
+    "email": "hello@dhowwharfage.com",
+    "facebook": "https://www.facebook.com/pages/Dhow-Wharfage/462377660491252",
+    "name": "Dhow Wharfage",
+    "name:en": "Dhow Wharfage",
+    "tourism": "attraction",
+    "website": "http://www.dhowwharfage.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4697407990,
+  "lat": 25.1429473,
+  "lon": 55.2251757,
+  "tags": {
+    "fee": "no",
+    "name": "MAD Gallery Dubai",
+    "name:en": "MAD Gallery Dubai",
+    "opening_hours": "Mo-Su 10:00-23:30",
+    "tourism": "gallery",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4714427890,
+  "lat": 25.1846531,
+  "lon": 55.2245308,
+  "tags": {
+    "name": "شاطئ جميرا تزلج بحر",
+    "name:ar": "شاطئ جميرا تزلج بحر",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4751797223,
+  "lat": 25.2723941,
+  "lon": 55.3045542,
+  "tags": {
+    "name": "محل شاحن متنقل ب 30 درهم دبي",
+    "name:ar": "محل شاحن متنقل ب 30 درهم دبي",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4753480623,
+  "lat": 25.2724102,
+  "lon": 55.3045594,
+  "tags": {
+    "name": "محل شاحن متنقل ب ٣٠ درهم دبي",
+    "name:ar": "محل شاحن متنقل ب ٣٠ درهم دبي",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4787925722,
+  "lat": 25.2385520,
+  "lon": 55.3151849,
+  "tags": {
+    "addr:street": "319-11 b",
+    "name": "Pakistan Association Dubai",
+    "name:en": "Pakistan Association Dubai",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4813684903,
+  "lat": 25.2718232,
+  "lon": 55.2987026,
+  "tags": {
+    "addr:street": "28 Street",
+    "email": "woman@womenmuseumuae.com",
+    "fax": "+971 4 234 2343",
+    "name": "Women's museum",
+    "name:en": "Women's museum",
+    "phone": "+971 4 234 2342",
+    "tourism": "museum",
+    "website": "http://www.womenmuseumuae.com/",
+    "wikidata": "Q122643730",
+    "wikimedia_commons": "Category:Women's Museum of Dubai"
+  }
+},
+{
+  "type": "node",
+  "id": 4833565689,
+  "lat": 25.2645647,
+  "lon": 55.2970498,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 4898274606,
+  "lat": 25.2443258,
+  "lon": 55.3115918,
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:street": "Umm Hurair Road",
+    "name": "International Art",
+    "name:en": "International Art",
+    "source": "Kaart Ground Survey 2017",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4904113022,
+  "lat": 25.1258357,
+  "lon": 55.2073595,
+  "tags": {
+    "name": "جاليري همدان",
+    "name:ar": "جاليري همدان",
+    "name:de": "Galerie Hamadan",
+    "name:en": "Galerie Hamadan",
+    "name:fr": "Galerie Hamadan",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4923296621,
+  "lat": 25.2706469,
+  "lon": 55.3910307,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5001313530,
+  "lat": 25.1283563,
+  "lon": 55.2431559,
+  "tags": {
+    "name": "AWRostamani Building Industries",
+    "name:en": "AWRostamani Building Industries",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5044621621,
+  "lat": 25.1180170,
+  "lon": 55.2323883,
+  "tags": {
+    "name": "Ozti Machines",
+    "name:en": "Ozti Machines",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5109269022,
+  "lat": 25.1916426,
+  "lon": 55.2285459,
+  "tags": {
+    "addr:city": "جميرا",
+    "name": "شاطئ جميرا",
+    "name:ar": "شاطئ جميرا",
+    "name:en": "Jumeirah Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5109606422,
+  "lat": 25.2641413,
+  "lon": 55.2962060,
+  "tags": {
+    "name": "سوق دبي للمنسوجات",
+    "name:ar": "سوق دبي للمنسوجات",
+    "name:en": "Dubai Textile Souk",
+    "tourism": "attraction",
+    "wikidata": "Q21523365",
+    "wikipedia": "en:Dubai Textile Souk"
+  }
+},
+{
+  "type": "node",
+  "id": 5109710124,
+  "lat": 25.1917984,
+  "lon": 55.3220824,
+  "tags": {
+    "construction": "yes",
+    "description": "Closed for major renovations. Expected to reopen at the end of 2026.",
+    "name": "محمية رأس الخور للحياة البرية",
+    "name:ar": "محمية رأس الخور للحياة البرية",
+    "name:en": "Ras al Khor Wildlife Sanctuary",
+    "name:fa": "پناهگاه حیات وحش راس الخور",
+    "note": "Closed for major renovations. Expected to reopen at the end of 2026.",
+    "opening_hours": "2025-01-01-2026-12-31 off",
+    "source:url": "https://www.dm.gov.ae/2025/06/30/aed650-million-contract-awarded-for-ras-al-khor-wildlife-sanctuary-development-project/",
+    "tourism": "attraction",
+    "wikidata": "Q3595657",
+    "wikipedia": "ar:محمية رأس الخور للحياة الفطرية"
+  }
+},
+{
+  "type": "node",
+  "id": 5110737490,
+  "lat": 25.2295035,
+  "lon": 55.2567134,
+  "tags": {
+    "name": "La Mer",
+    "name:en": "La Mer",
+    "name:ru": "Ля Мэр Пляж",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5154948426,
+  "lat": 25.2132548,
+  "lon": 55.2823830,
+  "tags": {
+    "name": "The Empty Quarter Gallery",
+    "name:en": "The Empty Quarter Gallery",
+    "tourism": "museum",
+    "website": "http://www.theemptyquarter.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5234651822,
+  "lat": 25.2840321,
+  "lon": 55.3807841,
+  "tags": {
+    "name": "ذبايح اذربيجان",
+    "name:ar": "ذبايح اذربيجان",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5274807122,
+  "lat": 25.2644078,
+  "lon": 55.2994226,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Al Hamriya Steet",
+    "name": "Mawaheb Art Studio",
+    "name:en": "Mawaheb Art Studio",
+    "name:fr": "Mawaheb Art Studio",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5274840822,
+  "lat": 25.1412303,
+  "lon": 55.2258743,
+  "tags": {
+    "addr:street": "Al Quoz 1, Street 8 Alserkal Avenue, Unit 27",
+    "fee": "no",
+    "name": "The National Gallery",
+    "name:en": "The National Gallery",
+    "name:fr": "La Galerie Nationale",
+    "opening_hours": "Mo-Su 10:00-23:30",
+    "tourism": "museum",
+    "website": "http://www.galerie-nationale.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5277942022,
+  "lat": 25.2789566,
+  "lon": 55.3103146,
+  "tags": {
+    "name": "Old Souq",
+    "name:cs": "Stará tržnice Sharjah",
+    "name:en": "Old Souq",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5300594334,
+  "lat": 25.1078893,
+  "lon": 55.1978942,
+  "tags": {
+    "name": "Al saya dubai",
+    "name:en": "Al saya dubai",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5332056385,
+  "lat": 25.2414327,
+  "lon": 55.2693310,
+  "tags": {
+    "charge": "10 AED",
+    "charge:conditional": "25 AED @ (age >= 25)",
+    "email": "Etihad.Museum@dubaiculture.ae",
+    "fee": "yes",
+    "fee:conditional": "no @ (age < 5)",
+    "museum_type": "national",
+    "name": "متحف الاتحاد",
+    "name:ar": "متحف الاتحاد",
+    "name:de": "Etihad-Museum",
+    "name:en": "Etihad Museum",
+    "name:fa": "موزه اتحاد",
+    "name:fr": "Musée Etihad",
+    "name:he": "מוזיאון אתיהאד",
+    "name:ta": "எதிஹாட் அருங்காட்சியகம்",
+    "name:ur": "اتحاد عجائب گھر",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "phone": "+971 4 515 5771",
+    "tourism": "museum",
+    "website": "https://etihadmuseum.dubaiculture.ae/",
+    "wikidata": "Q28736367",
+    "wikimedia_commons": "Category:Etihad Museum",
+    "wikipedia": "ar:متحف الاتحاد"
+  }
+},
+{
+  "type": "node",
+  "id": 5334433325,
+  "lat": 25.2637077,
+  "lon": 55.3000981,
+  "tags": {
+    "name": "Coffee Museum",
+    "name:en": "Coffee Museum",
+    "tourism": "museum",
+    "wikidata": "Q117599013",
+    "wikimedia_commons": "Category:Dubai Coffee Museum",
+    "wikipedia": "en:Dubai Coffee Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5358415727,
+  "lat": 25.0999090,
+  "lon": 55.3135156,
+  "tags": {
+    "name": "Body langeg rabari",
+    "name:en": "Body langeg rabari",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5400471722,
+  "lat": 25.2734591,
+  "lon": 55.2995914,
+  "tags": {
+    "contact:email": "info@aerosoftint.ae",
+    "contact:facebook": "https://facebook.com/sylvia_and_jangjoo",
+    "contact:instagram": "https://instagram.com/sylvia_jangjoo",
+    "contact:linkedin": "https://linkedin.com/company/aerosoft-footwear",
+    "contact:phone": "+971 4 226 5660;+971 56 702 7504;+971 56 984 2494",
+    "contact:website": "https://www.aerosoft.ae/",
+    "name": "Aerosoft by Sylvia & Jangjoo",
+    "name:en": "Aerosoft by Sylvia & Jangjoo",
+    "opening_hours": "Fr 14:30-24:00; Mo-Th,Sa-Su 09:00-24:00",
+    "operator": "Aerosoft by Sylvia & Jangjoo",
+    "shop": "shoes",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5400491721,
+  "lat": 25.2713559,
+  "lon": 55.2974461,
+  "tags": {
+    "name": "Gold centar",
+    "name:en": "Gold centar",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5414621021,
+  "lat": 25.1811350,
+  "lon": 55.2243428,
+  "tags": {
+    "name": "medwin medical jumera",
+    "name:en": "medwin medical jumera",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5414621221,
+  "lat": 25.1359990,
+  "lon": 55.1503317,
+  "tags": {
+    "name": "w astoria hotel",
+    "name:en": "w astoria hotel",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5422713721,
+  "lat": 25.1027144,
+  "lon": 55.2244914,
+  "tags": {
+    "name": "barsha 43 barsa 2",
+    "name:en": "barsha 43 barsa 2",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5422713922,
+  "lat": 25.1828309,
+  "lon": 55.2540152,
+  "tags": {
+    "name": "w hotel",
+    "name:en": "w hotel",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5448804122,
+  "lat": 25.2618750,
+  "lon": 55.2962464,
+  "tags": {
+    "name": "madhu suparmarke bur dubai",
+    "name:en": "madhu suparmarke bur dubai",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5456633222,
+  "lat": 25.1891522,
+  "lon": 55.2981417,
+  "tags": {
+    "addr:city": "دبي",
+    "name": "حي دبي للتصميم",
+    "name:ar": "حي دبي للتصميم",
+    "name:en": "Dubai Design District",
+    "name:ml": "ദുബായ് ഡിസൈൻ ഡിസ്ട്രിക്റ്റ്",
+    "name:ur": "دبئی ڈیزائن ڈسٹرکٹ",
+    "tourism": "attraction",
+    "wikidata": "Q20714334",
+    "wikipedia": "ar:حي دبي للتصميم"
+  }
+},
+{
+  "type": "node",
+  "id": 5488845521,
+  "lat": 25.1253587,
+  "lon": 55.2158061,
+  "tags": {
+    "name": "Porsche Service Centre",
+    "name:en": "Porsche Service Centre",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5494247222,
+  "lat": 25.1338409,
+  "lon": 55.1873379,
+  "tags": {
+    "fee": "yes",
+    "name": "Art Dubai",
+    "name:en": "Art Dubai",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5520156122,
+  "lat": 25.2263747,
+  "lon": 55.2597784,
+  "tags": {
+    "name": "mediclinic al bahr",
+    "name:en": "mediclinic al bahr",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5526247121,
+  "lat": 25.2452625,
+  "lon": 55.3095935,
+  "tags": {
+    "name": "Al Karama Medical Fitness Service Center",
+    "name:en": "Al Karama Medical Fitness Service Center",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5594456121,
+  "lat": 25.1927449,
+  "lon": 55.3123103,
+  "tags": {
+    "construction": "yes",
+    "description": "Closed for major renovations. Expected to reopen at the end of 2026.",
+    "disused": "yes",
+    "name": "Wildlife Sanctuary (Flamingo Lagoon)",
+    "name:en": "Wildlife Sanctuary (Flamingo Lagoon)",
+    "name:uk": "Фламінго (лагуна, пункт для спостереження)",
+    "note": "Closed for major renovations. Expected to reopen at the end of 2026.",
+    "opening_hours": "2025-01-01-2026-12-31 off",
+    "source:url": "https://www.dm.gov.ae/2025/06/30/aed650-million-contract-awarded-for-ras-al-khor-wildlife-sanctuary-development-project/",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5645108525,
+  "lat": 25.2727475,
+  "lon": 55.3448969,
+  "tags": {
+    "name": "al kayed garaj",
+    "name:en": "al kayed garaj",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5677944524,
+  "lat": 25.2646597,
+  "lon": 55.3186551,
+  "tags": {
+    "name": "lotus hotel",
+    "name:en": "lotus hotel",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5879089385,
+  "lat": 25.0829474,
+  "lon": 55.2521790,
+  "tags": {
+    "name": "kings barsa",
+    "name:en": "kings barsa",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5901889387,
+  "lat": 25.2683371,
+  "lon": 55.3030493,
+  "tags": {
+    "name": "bank saderat iran",
+    "name:en": "bank saderat iran",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5968504288,
+  "lat": 25.2544100,
+  "lon": 55.3317435,
+  "tags": {
+    "name": "majit al futem",
+    "name:en": "majit al futem",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5971795886,
+  "lat": 25.2485902,
+  "lon": 55.3022814,
+  "tags": {
+    "name": "bikanerwal karama",
+    "name:en": "bikanerwal karama",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5983186785,
+  "lat": 25.2642435,
+  "lon": 55.2999551,
+  "tags": {
+    "addr:housenumber": "17",
+    "name": "Akaas Visual Arts",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 5994830385,
+  "lat": 25.2428974,
+  "lon": 55.2757674,
+  "tags": {
+    "name": "mercore hotel mina road",
+    "name:en": "mercore hotel mina road",
+    "tourism": "attraction",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6001213914,
+  "lat": 25.1968879,
+  "lon": 55.2794138,
+  "tags": {
+    "name": "Diplodocus",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6147631785,
+  "lat": 25.2769634,
+  "lon": 55.3239627,
+  "tags": {
+    "name": "volleyball court al muteena",
+    "name:en": "volleyball court al muteena",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6193455617,
+  "lat": 25.2644555,
+  "lon": 55.3038559,
+  "tags": {
+    "fee": "yes",
+    "name": "متحف الغموض",
+    "name:ar": "متحف الغموض",
+    "name:en": "Museum of Illusions",
+    "name:fa": "موزه توهمات",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6254640408,
+  "lat": 25.2288371,
+  "lon": 55.2960201,
+  "tags": {
+    "name": "Dubai Garden Glow",
+    "name:en": "Dubai Garden Glow",
+    "tourism": "theme_park",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6292991943,
+  "lat": 25.2689455,
+  "lon": 55.3167937,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6342479589,
+  "lat": 25.2901308,
+  "lon": 55.3462361,
+  "tags": {
+    "name": "كارفور مول",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6355366885,
+  "lat": 25.2738434,
+  "lon": 55.3065884,
+  "tags": {
+    "name": "باص نايف",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6365152388,
+  "lat": 25.2432439,
+  "lon": 55.3339700,
+  "tags": {
+    "name:en": "seawings airplane counter",
+    "name:ja": "seawings 水上飛行機 搭乗受付",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6513218485,
+  "lat": 25.2676238,
+  "lon": 55.2988687,
+  "tags": {
+    "name": "Creek view from top of parking garage",
+    "name:en": "Creek view from top of parking garage",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6522845180,
+  "lat": 25.2031914,
+  "lon": 55.3405489,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6522845181,
+  "lat": 25.2039403,
+  "lon": 55.3407189,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6522845182,
+  "lat": 25.2044463,
+  "lon": 55.3424884,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6522845183,
+  "lat": 25.2049402,
+  "lon": 55.3431125,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6522845184,
+  "lat": 25.2059724,
+  "lon": 55.3431081,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6522977785,
+  "lat": 25.2064602,
+  "lon": 55.3424884,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 6562291986,
+  "lat": 25.1577438,
+  "lon": 55.2034201,
+  "tags": {
+    "addr:street": "11a Street",
+    "name:en": "Umm Suqeim Night Swimming Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6562292091,
+  "lat": 25.1070962,
+  "lon": 55.1984221,
+  "tags": {
+    "addr:street": "Al Barsha 1 Street",
+    "name:en": "Rasis Business Center (CLEMC)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6562292386,
+  "lat": 25.2847337,
+  "lon": 55.3249380,
+  "tags": {
+    "addr:street": "22a Street",
+    "name:en": "Dubai Women's Association",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6979143785,
+  "lat": 25.1736236,
+  "lon": 55.2160175,
+  "tags": {
+    "addr:street": "Fishing Harbor 2, Umm suqueim 1 Jumeirah 4 (al Sheif)",
+    "email": "contact@popeyejetski.com",
+    "name": "Popeye Jetski rental",
+    "name:en": "Popeye Jetski rental",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "phone": "917 55 285 1012",
+    "tourism": "attraction",
+    "website": "https://www.popeyejetski.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7150180585,
+  "lat": 25.1951243,
+  "lon": 55.2738427,
+  "tags": {
+    "direction": "90",
+    "name": "Fountain Watching Hill",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7171880585,
+  "lat": 25.2716774,
+  "lon": 55.2789344,
+  "tags": {
+    "name:en": "Cruise Piers Port Rashid Dubai",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7220965786,
+  "lat": 25.1953787,
+  "lon": 55.2772867,
+  "tags": {
+    "name:en": "Souk Al Bahar Bridge",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 7516655188,
+  "lat": 25.2709504,
+  "lon": 55.2981454,
+  "tags": {
+    "name": "سوق الذهب",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7516655189,
+  "lat": 25.2674081,
+  "lon": 55.2973510,
+  "tags": {
+    "name": "الخور",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7516655294,
+  "lat": 25.2703141,
+  "lon": 55.3217273,
+  "tags": {
+    "name": "رمادا",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8093766319,
+  "lat": 25.2606633,
+  "lon": 55.2916708,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8273988418,
+  "lat": 25.1855630,
+  "lon": 55.3599077,
+  "tags": {
+    "name:en": "Sharafu shop",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8775414328,
+  "lat": 25.1701358,
+  "lon": 55.2770583,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 9689612205,
+  "lat": 25.2014703,
+  "lon": 55.2706580,
+  "tags": {
+    "description": "This hotel building offers beautiful views toward Burj Khalifa from its 53rd floor. There is a 25m glass floor walk and a ride on a glass slide included. For another 714 AED a walk along the edge of this building floor can be booked.",
+    "email": "info@skyviewsdubai.com",
+    "image": "https://photos.app.goo.gl/FyeK6bqGuerwxrHC6",
+    "level": "53",
+    "name": "Sky Views Dubai",
+    "phone": "800 28843867",
+    "tourism": "viewpoint",
+    "website": "https://www.skyviewsdubai.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10692506305,
+  "lat": 25.1917092,
+  "lon": 55.2708558,
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:housenumber": "Shop 9",
+    "addr:street": "شارع الشيخ محمد بن راشد",
+    "description": "A one of kind digital art gallery",
+    "name": "Mondoir Art Gallery",
+    "opening_hours": "Mo-Sa 12:00-22:00",
+    "operator": "Mondoir",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 10754880805,
+  "lat": 25.1397724,
+  "lon": 55.1871116,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 10832097912,
+  "lat": 25.2216962,
+  "lon": 55.3475889,
+  "tags": {
+    "name": "DFC fireworks spot",
+    "tourism": "attraction",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11070690207,
+  "lat": 25.1987918,
+  "lon": 55.2791456,
+  "tags": {
+    "addr:street": "Wheelchair access",
+    "internet_access": "wlan",
+    "museum": "art",
+    "name": "متاجر NFT",
+    "name:en": "ftNFT",
+    "opening_hours": "Su-Th,Sa 10:00-00:00; Fr 10:00-01:00",
+    "phone": "+97142541177",
+    "tourism": "gallery",
+    "website": "https://www.ftnft.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11196006738,
+  "lat": 25.2382832,
+  "lon": 55.3290105,
+  "tags": {
+    "tourism": "viewpoint",
+    "website": "https://www.timeoutdubai.com/news/the-viewing-point-dubai-creek"
+  }
+},
+{
+  "type": "node",
+  "id": 11228022236,
+  "lat": 25.2424580,
+  "lon": 55.3071060,
+  "tags": {
+    "name": "4 seasons Ramesh Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11546599369,
+  "lat": 25.2678450,
+  "lon": 55.2966954,
+  "tags": {
+    "name:en": "Dubai Spice Souq",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11584108971,
+  "lat": 25.2292338,
+  "lon": 55.3187115,
+  "tags": {
+    "name": "AYA",
+    "tourism": "attraction",
+    "website": "http://www.aya-universe.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11601532960,
+  "lat": 25.2057091,
+  "lon": 55.3408966,
+  "tags": {
+    "name": "The Viewing Point",
+    "tourism": "viewpoint",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11748541361,
+  "lat": 25.2279140,
+  "lon": 55.3402453,
+  "tags": {
+    "name": "1 DUBAI TOURS",
+    "name:ar": "رحلات سياحية في دبي",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 11927748577,
+  "lat": 25.2664738,
+  "lon": 55.2889645,
+  "tags": {
+    "fee": "no",
+    "museum": "history",
+    "name": "Al Shindagha Museum",
+    "opening_hours": "Mo-Su,PH 10:00-20:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11927910263,
+  "lat": 25.2672974,
+  "lon": 55.2898116,
+  "tags": {
+    "fee": "yes",
+    "museum": "history",
+    "name": "Traditional Crafts Museum",
+    "opening_hours": "Mo-Su,PH 10:00-20:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11927910264,
+  "lat": 25.2673224,
+  "lon": 55.2900633,
+  "tags": {
+    "fee": "yes",
+    "museum": "history",
+    "name": "Perfume Museum",
+    "opening_hours": "Mo-Su,PH 10:00-20:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11928312466,
+  "lat": 25.2664268,
+  "lon": 55.2894519,
+  "tags": {
+    "fee": "yes",
+    "museum": "history",
+    "name": "Al Shindagha Museum",
+    "opening_hours": "Mo-Su,PH 10:00-20:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11966252092,
+  "lat": 25.1193529,
+  "lon": 55.3801274,
+  "tags": {
+    "name": "DSO Water Wall",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12309263972,
+  "lat": 25.1942947,
+  "lon": 55.2741814,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12309264081,
+  "lat": 25.1918824,
+  "lon": 55.2753597,
+  "tags": {
+    "direction": "340",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12418875701,
+  "lat": 25.2360735,
+  "lon": 55.2507086,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12468981303,
+  "lat": 25.1860420,
+  "lon": 55.3290215,
+  "tags": {
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 12485984535,
+  "lat": 25.2645847,
+  "lon": 55.2992910,
+  "tags": {
+    "fixme": "Exact location",
+    "name": "Mike Arnold Art",
+    "tourism": "gallery",
+    "website": "https://www.mikearnold.art/"
+  }
+},
+{
+  "type": "node",
+  "id": 12486010908,
+  "lat": 25.2645818,
+  "lon": 55.2997933,
+  "tags": {
+    "addr:housenumber": "7",
+    "name": "Coins Museum",
+    "tourism": "museum",
+    "wikidata": "Q120357129"
+  }
+},
+{
+  "type": "node",
+  "id": 12486010926,
+  "lat": 25.2642757,
+  "lon": 55.3008600,
+  "tags": {
+    "museum": "history",
+    "name": "Arabic Calligraphy House",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12486010942,
+  "lat": 25.2641217,
+  "lon": 55.3000042,
+  "tags": {
+    "name": "Traditional Emirati House",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 12717545501,
+  "lat": 25.1458811,
+  "lon": 55.2254861,
+  "tags": {
+    "contact:facebook": "woohooUAE",
+    "contact:instagram": "woohoouae",
+    "email": "hello@woo-hoo.ae",
+    "name": "وو-هوو!",
+    "name:ar": "وو-هوو!",
+    "name:en": "Woo-hoo!",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "phone": "800766466",
+    "tourism": "museum",
+    "website": "https://woo-hoo.ae/"
+  }
+},
+{
+  "type": "node",
+  "id": 12768532464,
+  "lat": 25.1206015,
+  "lon": 55.2204859,
+  "tags": {
+    "addr:city": "دبي",
+    "addr:housenumber": "11",
+    "addr:street": "21c شارع",
+    "name": "The Sima Collective",
+    "operator": "The Sima Collective",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 13042905107,
+  "lat": 25.2336133,
+  "lon": 55.4025410,
+  "tags": {
+    "name": "Welcome to Dubai",
+    "name:en": "Welcome to Dubai",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13123259321,
+  "lat": 25.1211165,
+  "lon": 55.2184785,
+  "tags": {
+    "addr:city": "Dubai",
+    "addr:housenumber": "#110",
+    "addr:street": "Goshi Warehouse City",
+    "email": "labellaarthub@gmail.com",
+    "name": "La Bella Art Gallery & Cultural Hub",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 13254135198,
+  "lat": 25.2157301,
+  "lon": 55.2792042,
+  "tags": {
+    "addr:city": "Dubai",
+    "addr:postcode": "00000",
+    "addr:street": "Maze Tower – Trade Centre",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMSmxzNX7ltn4YEQETketwDYxmS6uUikfumZPA=s680-w680-h510-rw",
+    "name": "Dubai Fine Arts",
+    "opening_hours": "Mo-Su 10:00-18:30",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 13324185970,
+  "lat": 25.2542042,
+  "lon": 55.3030041,
+  "tags": {
+    "name": "Take Off VR Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 13383845101,
+  "lat": 25.2633245,
+  "lon": 55.2955046,
+  "tags": {
+    "name": "The Souk Tower",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13383845401,
+  "lat": 25.2637333,
+  "lon": 55.3053156,
+  "tags": {
+    "name": "Souk Al Seef",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 13616299901,
+  "lat": 25.2552761,
+  "lon": 55.3018745,
+  "tags": {
+    "addr:postcode": "00000",
+    "addr:street": "26a شارع",
+    "name": "Geat design",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 13638343902,
+  "lat": 25.2419703,
+  "lon": 55.2952001,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 23978061,
+  "center": {
+    "lat": 25.2645258,
+    "lon": 55.3117283
+  },
+  "tags": {
+    "building": "yes",
+    "description": "municipality",
+    "image": "https://photos.app.goo.gl/aytJwHF5PKZjL2TV8",
+    "name": "بلدية دبي",
+    "name:ar": "بلدية دبي",
+    "name:en": "Dubai Municipality",
+    "name:fa": "شهرداری دبی",
+    "name:zh": "市政规划博物馆",
+    "office": "government",
+    "opening_hours": "24/7",
+    "phone": "800900",
+    "tourism": "attraction",
+    "wheelchair": "limited",
+    "wikidata": "Q20011908",
+    "wikipedia": "en:Dubai Municipality"
+  }
+},
+{
+  "type": "way",
+  "id": 24504053,
+  "center": {
+    "lat": 25.3218644,
+    "lon": 55.3496830
+  },
+  "tags": {
+    "addr:street": "Al Mamzar Beach Street",
+    "image": "https://photos.app.goo.gl/k4NzecYTeZL9nmx48",
+    "leisure": "park",
+    "name": "حديقة الممزر",
+    "name:ar": "حديقة الممزر",
+    "name:en": "Al Mamzar Park",
+    "tourism": "attraction",
+    "wikidata": "Q21737834"
+  }
+},
+{
+  "type": "way",
+  "id": 28702957,
+  "center": {
+    "lat": 25.2699905,
+    "lon": 55.2911482
+  },
+  "tags": {
+    "fee": "yes",
+    "name": "Heritage Village",
+    "name:en": "Heritage Village",
+    "opening_hours": "Mo-Su,PH 10:00-22:00",
+    "tourism": "museum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 93632515,
+  "center": {
+    "lat": 25.1173371,
+    "lon": 55.1986127
+  },
+  "tags": {
+    "building:part": "yes",
+    "image": "https://photos.app.goo.gl/eyCkDPE3AneBioqz8",
+    "level": "4",
+    "name": "سكي دبي",
+    "name:ar": "سكي دبي",
+    "name:en": "Ski Dubai",
+    "name:ko": "스키 두바이",
+    "name:zh": "酋长购物中心",
+    "sport": "skiing",
+    "tourism": "attraction",
+    "url": "https://youtu.be/g4FJNCFp13s",
+    "wheelchair": "no",
+    "wikidata": "Q1067672",
+    "wikimedia_commons": "Category:Ski Dubai",
+    "wikipedia": "en:Ski Dubai"
+  }
+},
+{
+  "type": "way",
+  "id": 110242016,
+  "center": {
+    "lat": 25.2631343,
+    "lon": 55.3052005
+  },
+  "tags": {
+    "highway": "footway",
+    "surface": "paving_stones",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 139639892,
+  "center": {
+    "lat": 25.2662979,
+    "lon": 55.3087326
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "height": "10",
+    "image": "https://photos.app.goo.gl/nV5ixUiYbwM4XrPu8",
+    "name": "Twin Tower",
+    "name:en": "Twin Tower",
+    "start_date": "1998",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 165185449,
+  "center": {
+    "lat": 25.2618451,
+    "lon": 55.2815138
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "building": "yes",
+    "fee": "no",
+    "image": "https://photos.app.goo.gl/3mrFF4V1sHZmzQ5ZA",
+    "name": "متحف الملكة إليزابيث 2",
+    "name:ar": "متحف الملكة إليزابيث 2",
+    "name:en": "Queen Elizabeth 2 Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 175192762,
+  "center": {
+    "lat": 25.2630695,
+    "lon": 55.2972432
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/Lt7Gtv5hhqTLfzh99",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 213204573,
+  "center": {
+    "lat": 25.2092804,
+    "lon": 55.3018039
+  },
+  "tags": {
+    "building": "yes",
+    "name": "قصر زعبيل",
+    "name:ar": "قصر زعبيل",
+    "name:en": "Zabeel Palace",
+    "tourism": "attraction",
+    "wikidata": "Q109046764"
+  }
+},
+{
+  "type": "way",
+  "id": 217936504,
+  "center": {
+    "lat": 25.2339344,
+    "lon": 55.2655318
+  },
+  "tags": {
+    "building": "mosque",
+    "image": "https://photos.app.goo.gl/NqFUHsHBjHZMARKD7",
+    "name": "Jumeirah Mosque",
+    "name:en": "Jumeirah Mosque",
+    "name:fa": "مسجد جمیره",
+    "opening_hours": "Sa-Th 09:00-16:00",
+    "phone": "+971 4 353 6666",
+    "religion": "muslim",
+    "tourism": "attraction",
+    "url": "https://youtu.be/6lgnaSkc1qI",
+    "website": "https://www.jumeirahmosque.ae/"
+  }
+},
+{
+  "type": "way",
+  "id": 360213180,
+  "center": {
+    "lat": 25.0813940,
+    "lon": 55.3183488
+  },
+  "tags": {
+    "addr:city": "Dubai",
+    "addr:housenumber": "IMG Worlds of Adventure",
+    "addr:postcode": "114444",
+    "addr:street": "City of Arabia",
+    "building": "yes",
+    "building:levels": "3",
+    "contact:facebook": "IMGworlds",
+    "contact:instagram": "imgworlds",
+    "contact:twitter": "imgworlds",
+    "email": "GuestRelations@imgworlds.com",
+    "height": "20",
+    "name": "آي إم جي عالم من المغامرات",
+    "name:ar": "آي إم جي عالم من المغامرات",
+    "name:en": "IMG Worlds of Adventure",
+    "opening_hours": "Su-Th 12:00-22:00; Fr-Sa 12:00-23:00",
+    "phone": "+971 4 403 8888",
+    "start_date": "2016-08-31",
+    "tourism": "theme_park",
+    "website": "https://imgworlds.com/tickets/buy-now",
+    "wikidata": "Q18206594",
+    "wikimedia_commons": "Category:IMG Worlds of Adventure",
+    "wikipedia": "en:IMG Worlds of Adventure"
+  }
+},
+{
+  "type": "way",
+  "id": 364191048,
+  "center": {
+    "lat": 25.1259496,
+    "lon": 55.3299085
+  },
+  "tags": {
+    "name": "مركز الشيخ حمدان للصقور",
+    "name:ar": "مركز الشيخ حمدان للصقور",
+    "name:en": "Sheikh Hamdan Falcon Center",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 364191056,
+  "center": {
+    "lat": 25.1267194,
+    "lon": 55.3292095
+  },
+  "tags": {
+    "barrier": "fence",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 364191057,
+  "center": {
+    "lat": 25.1259112,
+    "lon": 55.3294583
+  },
+  "tags": {
+    "barrier": "fence",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 364191063,
+  "center": {
+    "lat": 25.1255707,
+    "lon": 55.3287263
+  },
+  "tags": {
+    "barrier": "fence",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 386206274,
+  "center": {
+    "lat": 25.2358482,
+    "lon": 55.3284537
+  },
+  "tags": {
+    "building": "yes",
+    "contact:website": "https://childrencity.dm.gov.ae/",
+    "fee": "yes",
+    "image": "https://photos.app.goo.gl/vFTagKDmFLpcvxLm7",
+    "name": "مدينة الطفل",
+    "name:ar": "مدينة الطفل",
+    "name:en": "Children's City",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 386649647,
+  "center": {
+    "lat": 25.2354561,
+    "lon": 55.3003673
+  },
+  "tags": {
+    "addr:city": "Zabeel, Dubai",
+    "air_conditioning": "yes",
+    "building": "yes",
+    "building:colour": "#D4AF37",
+    "fee": "yes",
+    "height": "150",
+    "image": "https://photos.app.goo.gl/CQeFBB81QdCpnBuz5",
+    "museum": "art",
+    "name": "برواز دبي",
+    "name:ar": "برواز دبي",
+    "name:en": "Dubai Frame",
+    "name:fa": "قاب دبی",
+    "name:he": "מסגרת דובאי",
+    "old_name": "Al Berwaz Tower",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "roof:colour": "#D4AF37",
+    "start_date": "2018-01-01",
+    "toilets": "yes",
+    "tourism": "museum",
+    "tourism_1": "viewpoint",
+    "website": "https://www.thedubaiframe.com/",
+    "wikidata": "Q20386392",
+    "wikimedia_commons": "Category:Dubai Frame",
+    "wikipedia": "en:Dubai Frame"
+  }
+},
+{
+  "type": "way",
+  "id": 389370906,
+  "center": {
+    "lat": 25.2319705,
+    "lon": 55.3297302
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "contact:website": "https://www.wonderlanduae.com/",
+    "name": "وندرلاند دبي حديقة الألعاب العجيبة",
+    "name:ar": "وندرلاند دبي حديقة الألعاب العجيبة",
+    "name:en": "Wonderland Theme & Water Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 418520759,
+  "center": {
+    "lat": 25.2289468,
+    "lon": 55.2961672
+  },
+  "tags": {
+    "charge": "78.75 AED",
+    "contact:facebook": "https://www.facebook.com/DubaiGardenGlow/",
+    "contact:youtube": "https://www.youtube.com/channel/UCENOAsQtn9kpAlTq8jggGjA",
+    "fee": "yes",
+    "leisure": "park",
+    "name": "دبي جاردن جلو",
+    "name:ar": "دبي جاردن جلو",
+    "name:en": "Dubai Garden Glow",
+    "phone": "+971 55 918 8126",
+    "tourism": "attraction",
+    "website": "https://www.dubaigardenglow.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 437617706,
+  "center": {
+    "lat": 25.2678973,
+    "lon": 55.2978346
+  },
+  "tags": {
+    "addr:street": "Old Baladiya Street",
+    "building": "yes",
+    "building:levels": "2",
+    "fee": "yes",
+    "name": "Dubai Municipality Museum",
+    "name:en": "Dubai Municipality Museum",
+    "opening_hours": "Su-Th 09:00-15:00; Fr-Sa off",
+    "operator": "Dubai Municipality",
+    "tourism": "museum",
+    "wheelchair": "limited",
+    "wikidata": "Q125496568"
+  }
+},
+{
+  "type": "way",
+  "id": 446646206,
+  "center": {
+    "lat": 25.1970352,
+    "lon": 55.2742132
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:housenumber": "1",
+    "addr:street": "شارع الشيخ محمد بن راشد",
+    "alt_name:hu": "Kalifa-torony",
+    "alt_old_name:hu": "Dubaj-torony",
+    "area": "yes",
+    "building": "yes",
+    "building:levels": "163",
+    "building:levels:source": "burj-khalifa.dubai-tickets.co",
+    "building:material": "glass",
+    "check_date": "2025-12-09",
+    "email": "Info@atthetop.ae",
+    "image": "https://photos.app.goo.gl/1j9z8iSqA6hyPJYXA",
+    "landmark": "1",
+    "layer": "1",
+    "maxheight": "828",
+    "name": "برج خليفة",
+    "name:af": "Burj Khalifa",
+    "name:an": "Burch Khalifa",
+    "name:ar": "برج خليفة",
+    "name:ast": "Burj Khalifa",
+    "name:ba": "Бурдж-Хәлифә",
+    "name:be": "Бурдж-Халіфа",
+    "name:bg": "Бурдж Халифа",
+    "name:br": "Burj Khalifa",
+    "name:bs": "Burj Khalifa",
+    "name:ca": "Burj Khalifa",
+    "name:ckb": "بورجی خەلیفە",
+    "name:cs": "Burdž Chalífa",
+    "name:cu": "Боурджь Халифа",
+    "name:cy": "Burj Khalifa",
+    "name:da": "Burj Khalifa",
+    "name:de": "Burj Khalifa",
+    "name:el": "Μπουρτζ Χαλίφα",
+    "name:en": "Burj Khalifa",
+    "name:es": "Burj Khalifa",
+    "name:et": "Burj Khalīfah",
+    "name:eu": "Burj Khalifa",
+    "name:fa": "برج خلیفه",
+    "name:fi": "Burj Khalifa",
+    "name:fo": "Burj Khalifa",
+    "name:fr": "Burj Khalifa",
+    "name:fy": "Burj Khalifa",
+    "name:gl": "Burj Khalifa",
+    "name:gn": "Burj Khalifa",
+    "name:ha": "Burj Khalifa",
+    "name:he": "בורג' ח'ליפה",
+    "name:hi": "बुर्ज खलीफा",
+    "name:hu": "Burdzs Kalifa",
+    "name:id": "Burj Khalifa",
+    "name:is": "Burj Khalifa",
+    "name:it": "Burj Khalifa",
+    "name:ja": "ブルジュ・ハリファ",
+    "name:jv": "Burj Khalifa",
+    "name:kk": "Бурж Халифа",
+    "name:ko": "부르즈 할리파",
+    "name:ku": "Birca Xelîfe",
+    "name:kw": "Burj Khalifa",
+    "name:la": "Turris Khalifa",
+    "name:lt": "Burdž Chalifa",
+    "name:lv": "Burj Khalīfah",
+    "name:mk": "Бурџ Халифа",
+    "name:ml": "ബുർജ് ഖലീഫ",
+    "name:mn": "Бурж Халифа",
+    "name:ms": "Burj Khalifa",
+    "name:nl": "Burj Khalifa",
+    "name:nn": "Burj Khalifa",
+    "name:no": "Burj Khalifa",
+    "name:oc": "Burj Khalifa",
+    "name:pl": "Burdż Chalifa",
+    "name:pt": "Burj Khalifa",
+    "name:ro": "Burj Khalifa",
+    "name:ru": "Бурдж-Халифа",
+    "name:sco": "Burj Khalifa",
+    "name:sh": "Burj Khalifa",
+    "name:sk": "Burdž Khalífa",
+    "name:sl": "Burj Kalifa",
+    "name:so": "Burj Khalifa",
+    "name:sq": "Burxh Khalifa",
+    "name:sr": "Burdž Kalifa",
+    "name:sv": "Burj Khalifa",
+    "name:sw": "Burj Khalifa",
+    "name:th": "บุรจญ์เคาะลีฟะฮ์",
+    "name:tl": "Burj Khalifa",
+    "name:tr": "Burç Halife",
+    "name:tt": "Burc Xälifä",
+    "name:uk": "Бурдж Халіфа",
+    "name:uz": "Burj Xalifa",
+    "name:vi": "Burj Khalifa",
+    "name:war": "Burj Khalifa",
+    "name:yue": "哈利法塔",
+    "name:zh": "哈利法塔",
+    "note:height": "Building attributes (e.g., address, name, overall height, operator, etc.) must be tagged on the building outline. https://wiki.openstreetmap.org/wiki/Simple_3D_buildings#Building_outlines",
+    "old_name": "Burj Dubai",
+    "old_name:hu": "Burdzs Dubaj",
+    "old_name:zh-Hans": "迪拜塔",
+    "operator": "Emaar Properties",
+    "roof:material": "concrete",
+    "roof:shape": "flat",
+    "start_date": "2010-01-04",
+    "tourism": "attraction",
+    "url": "https://youtu.be/QmQykkr4hC0",
+    "url:0": "https://youtu.be/aCxbknkUCg4",
+    "website": "https://www.burjkhalifa.ae/",
+    "wheelchair": "limited",
+    "wikidata": "Q12495",
+    "wikipedia": "en:Burj Khalifa"
+  }
+},
+{
+  "type": "way",
+  "id": 475268464,
+  "center": {
+    "lat": 25.2290154,
+    "lon": 55.3408469
+  },
+  "tags": {
+    "name": "Jameel Arts Centre",
+    "tourism": "museum",
+    "wikidata": "Q124452109"
+  }
+},
+{
+  "type": "way",
+  "id": 488337185,
+  "center": {
+    "lat": 25.1222088,
+    "lon": 55.2218515
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:street": "Street 17b",
+    "building": "yes",
+    "name": "Nobel",
+    "name:en": "Nobel",
+    "source": "Kaart Ground Survey 2017",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 490722537,
+  "center": {
+    "lat": 25.1866763,
+    "lon": 55.2308013
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "Majlis Ghorfat Umm Al Sheif",
+    "name:en": "Majlis Ghorfat Umm Al Sheif",
+    "tourism": "museum",
+    "wikidata": "Q16979318",
+    "wikimedia_commons": "Category:Majlis Ghorfat Umm Al Sheif",
+    "wikipedia": "en:Majlis Ghorfat Umm Al Sheif"
+  }
+},
+{
+  "type": "way",
+  "id": 495448048,
+  "center": {
+    "lat": 25.2061998,
+    "lon": 55.2605148
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "4",
+    "charge": "155.00 AED",
+    "fee": "yes",
+    "height": "16",
+    "name": "The Green Planet",
+    "name:ar": "ذا جرين بلانيت",
+    "name:en": "The Green Planet",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+971 800 7699",
+    "tourism": "zoo",
+    "website": "https://www.thegreenplanetdubai.com/",
+    "wheelchair": "limited",
+    "wikidata": "Q115047510",
+    "wikimedia_commons": "Category:The Green Planet, Dubai",
+    "wikipedia": "en:The Green Planet, Dubai"
+  }
+},
+{
+  "type": "way",
+  "id": 508546013,
+  "center": {
+    "lat": 25.1091197,
+    "lon": 55.3099522
+  },
+  "tags": {
+    "construction": "yes",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 509577639,
+  "center": {
+    "lat": 25.2475089,
+    "lon": 55.2555365
+  },
+  "tags": {
+    "access": "private",
+    "name": "Nikki Beach",
+    "natural": "beach",
+    "surface": "sand",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 542042595,
+  "center": {
+    "lat": 25.2641820,
+    "lon": 55.3002047
+  },
+  "tags": {
+    "alt_name:en": "Al Bastakiya",
+    "historic": "neighborhood",
+    "image": "https://photos.app.goo.gl/X9d24rAqBVbHwWfV7",
+    "landuse": "commercial",
+    "name": "حي الفهيدي التاريخي",
+    "name:ar": "حي الفهيدي التاريخي",
+    "name:en": "Al Fahidi Historical Neighbourhood",
+    "name:fa": "محله تاریخی فهیدی",
+    "tourism": "attraction",
+    "url": "https://youtu.be/5fzALTzKwu4",
+    "wikidata": "Q2094764",
+    "wikimedia_commons": "Category:Al Bastakiya",
+    "wikipedia": "en:Al Bastakiya"
+  }
+},
+{
+  "type": "way",
+  "id": 542042596,
+  "center": {
+    "lat": 25.2645866,
+    "lon": 55.2945435
+  },
+  "tags": {
+    "alt_name": "السوق القديم",
+    "alt_name:ar": "السوق القديم",
+    "alt_name:en": "Old Souk",
+    "alt_name:ur": "سوق قدیم",
+    "amenity": "marketplace",
+    "image": "https://photos.app.goo.gl/oSxrz6dFh6QzZA3w6",
+    "name": "سوق التوابل",
+    "name:ar": "سوق التوابل",
+    "name:en": "Spice Souk",
+    "name:fr": "Souk aux épices",
+    "name:he": "שוק תבלינים דובאי שוק עתיק",
+    "name:ml": "സ്പൈസ് സൂക്ക്",
+    "name:ur": "مصالحہ سوق",
+    "old_name:fr": "Vieux Souk",
+    "tourism": "attraction",
+    "wikidata": "Q5310610",
+    "wikimedia_commons": "Category:Dubai Spice Souq",
+    "wikipedia": "ar:سوق التوابل (دبي)"
+  }
+},
+{
+  "type": "way",
+  "id": 585358310,
+  "center": {
+    "lat": 25.2622562,
+    "lon": 55.2809394
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:district": "Mina Rashid",
+    "addr:place": "Mina Rashid",
+    "addr:postcode": "P.O. Box 6769",
+    "building": "retail",
+    "building:levels": "10",
+    "contact:email": "info@qe2.com",
+    "contact:phone": "00971 4 526 8888",
+    "image": "https://photos.app.goo.gl/qsSyLTF875zvR3uK6",
+    "name": "الملكة إليزابيث 2",
+    "name:ar": "الملكة إليزابيث 2",
+    "name:en": "Queen Elizabeth 2",
+    "tourism": "attraction",
+    "url": "https://youtu.be/8mjSZJuGWfU",
+    "url:0": "https://youtu.be/wFgDsWP_lAo",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 610906314,
+  "center": {
+    "lat": 25.2728595,
+    "lon": 55.3435700
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:housenumber": "2b",
+    "addr:postcode": "90997",
+    "addr:street": "2b شارع",
+    "description": "MTN is a leading luxury and sports car rental or hire company boasting Dubai’s newest and most extensive range of Luxury, Sport Cars, SUV, Vans, and a lot of Rental option in Dubai with Door to Door services. Rent your car in Dubai with MTN rent a car.",
+    "email": "info@mtn-rentacar.com",
+    "landuse": "commercial",
+    "name": "MTN rent a car for Luxury and sport cars in Dubai",
+    "operator": "MTN rent a car for Luxury and sport car in Dubai",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:cheque": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+97142217100",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 671677250,
+  "center": {
+    "lat": 25.2608800,
+    "lon": 55.3070012
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "Al Seef Dubai",
+    "tourism": "attraction",
+    "website": "https://alseef.ae/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 1054289435,
+  "center": {
+    "lat": 25.2191064,
+    "lon": 55.2818004
+  },
+  "tags": {
+    "building": "yes",
+    "building:part": "yes",
+    "description": "Branded as a technology museum many visitors considered it more to be an expensive art museum in a beautiful building.",
+    "email": "info@museumofthefuture.ae",
+    "height": "77",
+    "image": "https://photos.app.goo.gl/kwoF8E1nEoHJt3Ma6",
+    "museum": "technology",
+    "name": "متحف المستقبل",
+    "name:ar": "متحف المستقبل",
+    "name:cs": "Muzeum budoucnosti",
+    "name:en": "Museum Of The Future",
+    "name:fa": "موزه آینده",
+    "name:he": "מוזיאון העתיד",
+    "name:hi": "भविष्य का संग्रहालय",
+    "name:ml": "ഭാവിയുടെ മ്യൂസിയം",
+    "name:ru": "Музей будущего",
+    "name:ur": "مستقبل کا میوزیم",
+    "opening_hours": "Mo-Su 10:00-21:30",
+    "phone": "+9718002071",
+    "start_date": "2022-02-22",
+    "tourism": "museum",
+    "url": "https://youtu.be/DN9O1Kbuigk",
+    "website": "https://museumofthefuture.ae/",
+    "wikidata": "Q22948398",
+    "wikimedia_commons": "Category:Museum of the Future",
+    "wikipedia": "en:Museum of the Future"
+  }
+},
+{
+  "type": "way",
+  "id": 1349719808,
+  "center": {
+    "lat": 25.2589287,
+    "lon": 55.3106418
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "name": "Al Seef Promenade",
+    "surface": "paving_stones",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "relation",
+  "id": 5467412,
+  "center": {
+    "lat": 25.2685771,
+    "lon": 55.2905365
+  },
+  "tags": {
+    "alt_name": "Bayt ash Shaykh Ubayd Bin Thānī",
+    "building": "house",
+    "building:levels": "1",
+    "name": "Sheikh Obaid bin Thani House",
+    "name:en": "Sheikh Obaid bin Thani House",
+    "phone": "+971 4 39 33 240",
+    "roof:levels": "0",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "website": "https://www.al-siraaj.com/",
+    "wikidata": "Q7492956",
+    "wikipedia": "en:Sheikh Obaid bin Thani House"
+  }
+},
+{
+  "type": "relation",
+  "id": 5755009,
+  "center": {
+    "lat": 25.2679406,
+    "lon": 55.2900682
+  },
+  "tags": {
+    "addr:city": "Dubai",
+    "addr:housenumber": "14/1",
+    "addr:street": "Al Khaleej street",
+    "alt_name": "Bayt ash Shaykh Sa‘īd Āl Maktūm",
+    "building": "yes",
+    "name": "Saeed Al Maktoum House",
+    "name:en": "Saeed Al Maktoum House",
+    "opening_hours": "Sa-Th 8:00-20:30, Fr 15:30-21:30, Sa-Th 09:00-17:00 \"Ramadan\", Fr 14:00-17:00 \"Ramadan\"",
+    "phone": "04 393 7139",
+    "tourism": "museum",
+    "type": "multipolygon",
+    "wikidata": "Q4272517",
+    "wikipedia": "en:Saeed Al Maktoum House"
+  }
+},
+{
+  "type": "relation",
+  "id": 15670582,
+  "center": {
+    "lat": 25.1953050,
+    "lon": 55.2756983
+  },
+  "tags": {
+    "amenity": "fountain",
+    "contact:email": "info@thedubaimall.com",
+    "image": "https://photos.app.goo.gl/9yBJenaCqMcDZ9L79",
+    "layer": "1",
+    "lit": "yes",
+    "name": "نافورة دبي",
+    "name:ar": "نافورة دبي",
+    "name:en": "Dubai Fountain",
+    "name:ml": "ദുബായ് ജലധാര",
+    "name:ru": "Фонтаны Дубай",
+    "name:uk": "Дубай фонтан",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "url": "https://youtu.be/Rvadm_wyRAk",
+    "url:0": "https://youtu.be/irg87IGE7Pc",
+    "wheelchair": "yes",
+    "wikidata": "Q2384491"
+  }
+},
+{
+  "type": "relation",
+  "id": 16842105,
+  "center": {
+    "lat": 25.2700478,
+    "lon": 55.2980805
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Deira Gold Souk",
+    "name:en": "Deira Gold Souk",
+    "name:ko": "두바이 골드 수크",
+    "name:ml": "ദെയ്‌റ ഗോൾഡ് സൂക്ക്",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "wheelchair": "yes",
+    "wikidata": "Q5310547",
+    "wikimedia_commons": "Category:Dubai Gold Souq",
+    "wikipedia": "en:Dubai Gold Souk"
+  }
+},
+{
+  "type": "relation",
+  "id": 18195959,
+  "center": {
+    "lat": 25.1970073,
+    "lon": 55.2785741
+  },
+  "tags": {
+    "addr:city": "دبي",
+    "addr:city:ar": "دبي",
+    "addr:city:en": "Dubai",
+    "addr:city:ur": "دبئی",
+    "addr:street": "شارع الدوحة",
+    "building": "retail",
+    "building:levels": "3",
+    "changing_table": "yes",
+    "email": "enguiry@thedubaimall.com",
+    "height": "20",
+    "image": "https://photos.app.goo.gl/XXDWiMmprpHJVgtEA",
+    "internet_access": "wlan",
+    "layer": "1",
+    "name": "دبي مول",
+    "name:ar": "دبي مول",
+    "name:de": "Dubai Mall",
+    "name:en": "The Dubai Mall",
+    "name:fa": "دبی مال",
+    "name:he": "קניון דובאי",
+    "name:hi": "दुबई मॉल",
+    "name:ko": "두바이 몰",
+    "name:ml": "ദുബായ് മാൾ",
+    "name:zh": "迪拜购物中心",
+    "opening_hours": "Mo-Su 10:00-2:00",
+    "operator": "Emaar Malls",
+    "phone": "800 38224 6255",
+    "shop": "mall",
+    "toilets": "yes",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "https://www.thedubaimall.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q1133309",
+    "wikimedia_commons": "Category:The Dubai Mall",
+    "wikipedia": "en:The Dubai Mall"
+  }
+}
+
+  ]
+}
