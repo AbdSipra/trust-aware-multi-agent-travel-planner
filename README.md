@@ -42,6 +42,8 @@ python project_code/run_experiment.py --task-split dev_tasks --system-variant si
 
 ## Notes
 
+- The project now auto-loads a local `.env` file from the repo root. Shell
+  environment variables still override `.env` values when both are set.
 - The repository is initialized locally with Git. Create a GitHub remote from
   your own account when you are ready to publish the repo.
 - The paper must be written manually. LLMs are used only inside the system.

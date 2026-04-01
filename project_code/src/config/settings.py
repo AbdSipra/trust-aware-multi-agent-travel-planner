@@ -9,6 +9,28 @@ def _root_dir() -> Path:
     return Path(__file__).resolve().parents[3]
 
 
+def _strip_wrapping_quotes(value: str) -> str:
+    if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
+        return value[1:-1]
+    return value
+
+
+def _load_local_env(root_dir: Path) -> None:
+    env_path = root_dir / ".env"
+    if not env_path.exists():
+        return
+
+    for raw_line in env_path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        if not key:
+            continue
+        os.environ.setdefault(key, _strip_wrapping_quotes(value.strip()))
+
+
 @dataclass(frozen=True)
 class Settings:
     root_dir: Path
@@ -44,6 +66,7 @@ class Settings:
 
 def load_settings() -> Settings:
     root_dir = _root_dir()
+    _load_local_env(root_dir)
     return Settings(
         root_dir=root_dir,
         provider=os.getenv("AGENTIC_MODEL_PROVIDER", "ollama").strip().lower(),
