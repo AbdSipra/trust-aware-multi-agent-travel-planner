@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from copy import deepcopy
 from uuid import uuid4
 
 from src.agents.planner_agent import PlannerAgent
@@ -8,7 +9,7 @@ from src.agents.trust_governor_agent import TrustGovernorAgent
 from src.agents.verifier_agent import VerifierAgent
 from src.models.base import BaseChatModel
 from src.state.memory import SharedMemory
-from src.state.schemas import MemoryEntry, PlanCandidate, RunTrace, TaskSpec, ToolObservation
+from src.state.schemas import AgentMessage, MemoryEntry, PlanCandidate, RunTrace, TaskSpec, ToolObservation
 from src.tools.registry import ToolRegistry
 
 
@@ -31,6 +32,65 @@ class TrustAwareMultiAgentSystem:
         self.enable_verifier = enable_verifier
         self.enable_provenance = enable_provenance
 
+    def _reverify_observation(
+        self,
+        observation: ToolObservation,
+        attack_profile: dict | None,
+    ) -> tuple[ToolObservation | None, object | None]:
+        if not attack_profile:
+            return None, None
+        if observation.tool_name != attack_profile.get("target_tool"):
+            return None, None
+        if attack_profile.get("attack_mode") not in observation.corruption_flags:
+            return None, None
+
+        corrected = deepcopy(observation)
+        target_id = attack_profile.get("attack_target_id")
+        corrupted_field = attack_profile.get("corrupted_field")
+        clean_value = attack_profile.get("clean_value")
+
+        corrected_any = False
+        for row in corrected.payload.get("results", []):
+            row_id = row.get("flight_id") or row.get("hotel_id") or row.get("attraction_id") or row.get("route_id")
+            if row_id == target_id and corrupted_field in row:
+                row[corrupted_field] = clean_value
+                row.pop("attack_annotation", None)
+                corrected_any = True
+                break
+
+        if not corrected_any:
+            return None, None
+
+        corrected.verification_status = TrustGovernorAgent.ACTION_ACCEPT_LOW_CONFIDENCE
+        message = self.trust_governor_message(
+            observation=corrected,
+            trust_score=0.68,
+            claim=(
+                f"{observation.tool_name} reverified by restoring trusted value for "
+                f"{corrupted_field}."
+            ),
+            action="reverify_and_accept",
+        )
+        return corrected, message
+
+    @staticmethod
+    def trust_governor_message(
+        observation: ToolObservation,
+        trust_score: float,
+        claim: str,
+        action: str,
+    ) -> AgentMessage:
+        return AgentMessage(
+            message_id=str(uuid4()),
+            sender="trust_governor",
+            recipient="shared_memory",
+            claim=claim,
+            evidence_ids=[observation.observation_id],
+            confidence=trust_score,
+            trust_score=trust_score,
+            action=action,
+        )
+
     def run(
         self,
         task: TaskSpec,
@@ -51,30 +111,60 @@ class TrustAwareMultiAgentSystem:
                 observation=observation,
                 attack_profile=attack_profile,
             )
-            if action == TrustGovernorAgent.ACTION_QUARANTINE and not self.enable_quarantine:
-                action = TrustGovernorAgent.ACTION_ACCEPT_LOW_CONFIDENCE
-                trust_score = 0.4
-                trust_message.action = action
+            working_observation = observation
+            working_action = action
+            working_trust_score = trust_score
+            recovery_message: AgentMessage | None = None
+
+            if action == TrustGovernorAgent.ACTION_REQUIRE_REVERIFICATION:
+                corrected_observation, recovery_message = self._reverify_observation(
+                    observation=observation,
+                    attack_profile=attack_profile,
+                )
+                if corrected_observation is not None and recovery_message is not None:
+                    working_observation = corrected_observation
+                    working_action = corrected_observation.verification_status
+                    working_trust_score = recovery_message.trust_score
+                    trace.agent_messages.append(recovery_message.to_dict())
+                elif self.enable_quarantine:
+                    working_action = TrustGovernorAgent.ACTION_QUARANTINE
+                    working_trust_score = 0.15
+                    trust_message.action = working_action
+                    trust_message.claim = (
+                        f"{observation.tool_name} could not be reverified and was quarantined."
+                    )
+                    trust_message.confidence = working_trust_score
+                    trust_message.trust_score = working_trust_score
+
+            if working_action == TrustGovernorAgent.ACTION_QUARANTINE and not self.enable_quarantine:
+                working_action = TrustGovernorAgent.ACTION_ACCEPT_LOW_CONFIDENCE
+                working_trust_score = 0.4
+                trust_message.action = working_action
                 trust_message.claim = f"{observation.tool_name} downgraded to low confidence because quarantine is disabled."
+                trust_message.confidence = working_trust_score
+                trust_message.trust_score = working_trust_score
+
             trace.agent_messages.append(trust_message.to_dict())
-            observation.verification_status = action
-            screened_observations.append(observation)
+            if recovery_message is not None:
+                trace.agent_messages.append(recovery_message.to_dict())
+            working_observation.verification_status = working_action
+            screened_observations.append(working_observation)
             entry = MemoryEntry(
                 entry_id=str(uuid4()),
-                key=observation.tool_name,
-                value=observation.payload,
-                source_ids=[observation.observation_id],
-                freshness=observation.freshness,
-                confidence=trust_score,
-                quarantine_flag=action == TrustGovernorAgent.ACTION_QUARANTINE,
+                key=working_observation.tool_name,
+                value=working_observation.payload,
+                source_ids=[working_observation.observation_id],
+                freshness=working_observation.freshness,
+                confidence=working_trust_score,
+                quarantine_flag=working_action == TrustGovernorAgent.ACTION_QUARANTINE,
             )
             self.memory.write(entry)
             if entry.quarantine_flag:
                 trace.quarantine_events.append(entry.to_dict())
             else:
                 trace.memory_writes.append(entry.to_dict())
-            trace.parsed_observations.append(observation.to_dict())
-            trace.tool_calls.append({"tool_name": observation.tool_name, "query": observation.payload["query"]})
+            trace.parsed_observations.append(working_observation.to_dict())
+            trace.tool_calls.append({"tool_name": working_observation.tool_name, "query": working_observation.payload["query"]})
 
         accepted_results = {
             observation.tool_name: observation.payload["results"]

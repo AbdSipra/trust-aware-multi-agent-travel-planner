@@ -14,9 +14,17 @@ class TrustGovernorAgent:
 
     def screen_observation(self, observation: ToolObservation, attack_profile: dict | None = None) -> tuple[str, float, AgentMessage]:
         corruption_flags = set(observation.corruption_flags)
-        if attack_profile and attack_profile["attack_mode"] in corruption_flags:
+        targeted_attack = bool(
+            attack_profile
+            and observation.tool_name == attack_profile.get("target_tool")
+            and attack_profile.get("attack_mode") in corruption_flags
+        )
+        if targeted_attack and attack_profile.get("should_be_quarantined", False):
             action = self.ACTION_QUARANTINE
             trust_score = 0.15
+        elif targeted_attack:
+            action = self.ACTION_REQUIRE_REVERIFICATION
+            trust_score = 0.45
         elif corruption_flags:
             action = self.ACTION_REQUIRE_REVERIFICATION
             trust_score = 0.35
