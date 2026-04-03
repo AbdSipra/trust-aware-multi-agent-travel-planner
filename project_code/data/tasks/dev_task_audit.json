@@ -1,0 +1,212 @@
+[
+  {
+    "task_id": "DEV-01",
+    "old_budget_limit_usd": 1264.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 718.99,
+    "required_budget_usd": 776.51,
+    "selected_flight_id": "FL-KHI-DXB-0510",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1264.0
+  },
+  {
+    "task_id": "DEV-02",
+    "old_budget_limit_usd": 1156.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1311.16,
+    "required_budget_usd": 1416.05,
+    "selected_flight_id": "FL-LHE-IST-0514",
+    "selected_hotel_id": "HT-IST-08",
+    "selected_attraction_ids": [
+      "AT-IST-01",
+      "AT-IST-04"
+    ],
+    "new_budget_limit_usd": 1416.05
+  },
+  {
+    "task_id": "DEV-03",
+    "old_budget_limit_usd": 1082.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 882.51,
+    "required_budget_usd": 953.11,
+    "selected_flight_id": "FL-ISB-BKK-0518",
+    "selected_hotel_id": "HT-BKK-06",
+    "selected_attraction_ids": [
+      "AT-BKK-01",
+      "AT-BKK-06"
+    ],
+    "new_budget_limit_usd": 1082.0
+  },
+  {
+    "task_id": "DEV-04",
+    "old_budget_limit_usd": 989.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1144.13,
+    "required_budget_usd": 1235.66,
+    "selected_flight_id": "FL-KHI-KUL-0522",
+    "selected_hotel_id": "HT-KUL-04",
+    "selected_attraction_ids": [
+      "AT-KUL-01",
+      "AT-KUL-04"
+    ],
+    "new_budget_limit_usd": 1235.66
+  },
+  {
+    "task_id": "DEV-05",
+    "old_budget_limit_usd": 1034.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 937.52,
+    "required_budget_usd": 1012.52,
+    "selected_flight_id": "FL-LHE-DXB-0526",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1034.0
+  },
+  {
+    "task_id": "DEV-06",
+    "old_budget_limit_usd": 1074.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1387.39,
+    "required_budget_usd": 1498.38,
+    "selected_flight_id": "FL-ISB-DXB-0530",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1498.38
+  },
+  {
+    "task_id": "DEV-07",
+    "old_budget_limit_usd": 1261.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 767.82,
+    "required_budget_usd": 829.25,
+    "selected_flight_id": "FL-KHI-IST-0510",
+    "selected_hotel_id": "HT-IST-08",
+    "selected_attraction_ids": [
+      "AT-IST-01",
+      "AT-IST-04"
+    ],
+    "new_budget_limit_usd": 1261.0
+  },
+  {
+    "task_id": "DEV-08",
+    "old_budget_limit_usd": 1153.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 1063.0,
+    "required_budget_usd": 1148.04,
+    "selected_flight_id": "FL-LHE-BKK-0514",
+    "selected_hotel_id": "HT-BKK-06",
+    "selected_attraction_ids": [
+      "AT-BKK-01",
+      "AT-BKK-06"
+    ],
+    "new_budget_limit_usd": 1153.0
+  },
+  {
+    "task_id": "DEV-09",
+    "old_budget_limit_usd": 1146.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1093.71,
+    "required_budget_usd": 1181.21,
+    "selected_flight_id": "FL-ISB-DXB-0518",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1181.21
+  },
+  {
+    "task_id": "DEV-10",
+    "old_budget_limit_usd": 1033.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 917.35,
+    "required_budget_usd": 990.74,
+    "selected_flight_id": "FL-KHI-DXB-0522",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1033.0
+  },
+  {
+    "task_id": "DEV-11",
+    "old_budget_limit_usd": 1165.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 937.52,
+    "required_budget_usd": 1012.52,
+    "selected_flight_id": "FL-LHE-DXB-0526",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1165.0
+  },
+  {
+    "task_id": "DEV-12",
+    "old_budget_limit_usd": 992.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1411.54,
+    "required_budget_usd": 1524.46,
+    "selected_flight_id": "FL-ISB-IST-0530",
+    "selected_hotel_id": "HT-IST-08",
+    "selected_attraction_ids": [
+      "AT-IST-01",
+      "AT-IST-04"
+    ],
+    "new_budget_limit_usd": 1524.46
+  },
+  {
+    "task_id": "DEV-13",
+    "old_budget_limit_usd": 1003.0,
+    "status": "already_feasible",
+    "min_feasible_total_usd": 695.74,
+    "required_budget_usd": 751.4,
+    "selected_flight_id": "FL-KHI-BKK-0510",
+    "selected_hotel_id": "HT-BKK-06",
+    "selected_attraction_ids": [
+      "AT-BKK-01",
+      "AT-BKK-06"
+    ],
+    "new_budget_limit_usd": 1003.0
+  },
+  {
+    "task_id": "DEV-14",
+    "old_budget_limit_usd": 1218.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1207.5,
+    "required_budget_usd": 1304.1,
+    "selected_flight_id": "FL-LHE-KUL-0514",
+    "selected_hotel_id": "HT-KUL-04",
+    "selected_attraction_ids": [
+      "AT-KUL-01",
+      "AT-KUL-04"
+    ],
+    "new_budget_limit_usd": 1304.1
+  },
+  {
+    "task_id": "DEV-15",
+    "old_budget_limit_usd": 1028.0,
+    "status": "budget_raised",
+    "min_feasible_total_usd": 1093.71,
+    "required_budget_usd": 1181.21,
+    "selected_flight_id": "FL-ISB-DXB-0518",
+    "selected_hotel_id": "HT-DXB-09",
+    "selected_attraction_ids": [
+      "AT-DXB-01",
+      "AT-DXB-04"
+    ],
+    "new_budget_limit_usd": 1181.21
+  }
+]

@@ -12,6 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+from src.eval.feasibility import rebalance_tasks_to_feasibility
 from src.utils.io import read_json, write_csv, write_json, write_jsonl
 
 
@@ -608,6 +609,8 @@ def main() -> None:
     routes = build_routes(cities, hotels, attractions)
     dev_tasks = build_tasks(attractions, flights, 15, "DEV")
     clean_eval_tasks = build_tasks(attractions, flights, 20, "EVAL")
+    dev_tasks, dev_task_audit = rebalance_tasks_to_feasibility(dev_tasks, flights, hotels, attractions)
+    clean_eval_tasks, clean_task_audit = rebalance_tasks_to_feasibility(clean_eval_tasks, flights, hotels, attractions)
     attack_catalog, attacked_eval_tasks = build_attacks(clean_eval_tasks, flights, hotels, attractions)
 
     write_json(KNOWLEDGE_DIR / "cities.json", cities)
@@ -618,6 +621,8 @@ def main() -> None:
     write_jsonl(TASKS_DIR / "dev_tasks.jsonl", dev_tasks)
     write_jsonl(TASKS_DIR / "clean_eval_tasks.jsonl", clean_eval_tasks)
     write_jsonl(TASKS_DIR / "attacked_eval_tasks.jsonl", attacked_eval_tasks)
+    write_json(TASKS_DIR / "dev_task_audit.json", dev_task_audit)
+    write_json(TASKS_DIR / "clean_eval_task_audit.json", clean_task_audit)
     write_jsonl(ATTACKS_DIR / "attack_catalog.jsonl", attack_catalog)
     write_sources_summary(cities, flights, hotels, attractions, routes)
     print(
@@ -632,6 +637,8 @@ def main() -> None:
                 "clean_eval_tasks": len(clean_eval_tasks),
                 "attacked_eval_tasks": len(attacked_eval_tasks),
                 "attack_catalog": len(attack_catalog),
+                "dev_tasks_budget_raised": sum(1 for row in dev_task_audit if row["status"] == "budget_raised"),
+                "clean_tasks_budget_raised": sum(1 for row in clean_task_audit if row["status"] == "budget_raised"),
             },
             indent=2,
         )
