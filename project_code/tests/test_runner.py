@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import subprocess
 import sys
 import unittest
@@ -22,6 +23,15 @@ class RunnerTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         ensure_seed_data()
+        cls._original_provider = os.environ.get("AGENTIC_MODEL_PROVIDER")
+        os.environ["AGENTIC_MODEL_PROVIDER"] = "none"
+
+    @classmethod
+    def tearDownClass(cls) -> None:
+        if cls._original_provider is None:
+            os.environ.pop("AGENTIC_MODEL_PROVIDER", None)
+        else:
+            os.environ["AGENTIC_MODEL_PROVIDER"] = cls._original_provider
 
     def test_single_agent_dev_split_runs(self) -> None:
         metrics, traces = run_experiment(

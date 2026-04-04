@@ -113,7 +113,7 @@ def run_experiment(
             _restore_patched_tools(system, originals)
 
         trace.latency_ms = int((time.perf_counter() - start) * 1000)
-        compute_run_metrics(trace)
+        compute_run_metrics(trace, task=task, attack_profile=attack_profile)
         traces.append(trace)
         output_path = settings.runs_dir / f"{trace.run_id}.json"
         output_path.write_text(json.dumps(trace.to_dict(), indent=2), encoding="utf-8")

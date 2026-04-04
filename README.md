@@ -40,6 +40,12 @@ python project_code/scripts/generate_seed_data.py
 python project_code/run_experiment.py --task-split dev_tasks --system-variant single_agent_tool_use
 ```
 
+6. Export publication-ready summaries from saved traces:
+
+```powershell
+python project_code/scripts/export_experiment_summary.py --model-provider groq
+```
+
 ## Notes
 
 - The project now auto-loads a local `.env` file from the repo root. Shell
@@ -49,3 +55,5 @@ python project_code/run_experiment.py --task-split dev_tasks --system-variant si
 - The paper must be written manually. LLMs are used only inside the system.
 - Source-grounded raw files are stored in `project_code/data/source_grounded/`.
 - Saved experiment traces are written under `project_code/data/runs/`.
+- Exported summary tables are written under `project_code/results/` and are
+  intentionally ignored by Git.
