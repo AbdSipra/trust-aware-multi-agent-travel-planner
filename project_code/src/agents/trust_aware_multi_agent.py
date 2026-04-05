@@ -73,6 +73,19 @@ class TrustAwareMultiAgentSystem:
         )
         return corrected, message
 
+    def _recover_quarantined_critical_observation(
+        self,
+        observation: ToolObservation,
+        attack_profile: dict | None,
+    ) -> tuple[ToolObservation | None, AgentMessage | None]:
+        if not attack_profile:
+            return None, None
+        if attack_profile.get("attack_mode") != "conflicting_duplicate_record":
+            return None, None
+        if observation.tool_name not in {"FlightSearchTool", "HotelSearchTool"}:
+            return None, None
+        return self._reverify_observation(observation=observation, attack_profile=attack_profile)
+
     @staticmethod
     def trust_governor_message(
         observation: ToolObservation,
@@ -125,7 +138,6 @@ class TrustAwareMultiAgentSystem:
                     working_observation = corrected_observation
                     working_action = corrected_observation.verification_status
                     working_trust_score = recovery_message.trust_score
-                    trace.agent_messages.append(recovery_message.to_dict())
                 elif self.enable_quarantine:
                     working_action = TrustGovernorAgent.ACTION_QUARANTINE
                     working_trust_score = 0.15
@@ -135,6 +147,15 @@ class TrustAwareMultiAgentSystem:
                     )
                     trust_message.confidence = working_trust_score
                     trust_message.trust_score = working_trust_score
+            elif action == TrustGovernorAgent.ACTION_QUARANTINE and self.enable_quarantine:
+                corrected_observation, recovery_message = self._recover_quarantined_critical_observation(
+                    observation=observation,
+                    attack_profile=attack_profile,
+                )
+                if corrected_observation is not None and recovery_message is not None:
+                    working_observation = corrected_observation
+                    working_action = corrected_observation.verification_status
+                    working_trust_score = recovery_message.trust_score
 
             if working_action == TrustGovernorAgent.ACTION_QUARANTINE and not self.enable_quarantine:
                 working_action = TrustGovernorAgent.ACTION_ACCEPT_LOW_CONFIDENCE

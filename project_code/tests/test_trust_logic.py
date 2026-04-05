@@ -7,9 +7,15 @@ from pathlib import Path
 PROJECT_CODE_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_CODE_DIR))
 
+from src.agents.trust_aware_multi_agent import TrustAwareMultiAgentSystem
+from src.config.settings import load_settings
+from src.eval.attacks import apply_attack_to_observation
 from src.agents.trust_governor_agent import TrustGovernorAgent
 from src.eval.metrics import compute_run_metrics
+from src.tools.knowledge_store import KnowledgeStore
+from src.tools.registry import ToolRegistry
 from src.state.schemas import RunTrace, TaskSpec, ToolObservation
+from src.utils.io import read_jsonl
 
 
 def _sample_task(**overrides) -> TaskSpec:
@@ -170,6 +176,50 @@ class TrustLogicTests(unittest.TestCase):
         self.assertEqual(metrics["contamination_spread"], 0)
         self.assertEqual(metrics["recovery_rate"], 1)
         self.assertEqual(metrics["corrected_attack_target"], 1)
+
+    def test_conflicting_duplicate_record_recovers_critical_flight(self) -> None:
+        settings = load_settings()
+        task_record = next(
+            record
+            for record in read_jsonl(settings.tasks_dir / "attacked_eval_tasks.jsonl")
+            if record["task_id"] == "ATT-07"
+        )
+        attack_profile = next(
+            record
+            for record in read_jsonl(settings.attacks_dir / "attack_catalog.jsonl")
+            if record["attack_id"] == task_record["attack_id"]
+        )
+        tools = ToolRegistry.from_store(KnowledgeStore.from_settings(settings))
+        system = TrustAwareMultiAgentSystem(tools=tools, chat_model=None)
+
+        original_run = system.tools.flight_search.run
+
+        def attacked_run(**kwargs):
+            return apply_attack_to_observation(original_run(**kwargs), attack_profile)
+
+        system.tools.flight_search.run = attacked_run
+        try:
+            task = TaskSpec(**task_record)
+            trace = RunTrace(
+                run_id="run-att-07",
+                task_id=task.task_id,
+                model_provider="none",
+                model_name="none",
+                system_variant="trust_aware_multi_agent",
+                attack_profile=attack_profile["attack_mode"],
+            )
+            candidate, trace = system.run(task, trace, attack_profile=attack_profile)
+        finally:
+            system.tools.flight_search.run = original_run
+
+        self.assertIsNotNone(candidate)
+        self.assertIsNone(trace.failure_reason)
+        self.assertEqual(candidate.itinerary_steps[0]["selection"]["flight_id"], attack_profile["attack_target_id"])
+        self.assertEqual(candidate.itinerary_steps[0]["selection"]["stops"], attack_profile["clean_value"])
+        self.assertEqual(len(trace.quarantine_events), 0)
+        self.assertTrue(
+            any(message.get("action") == "reverify_and_accept" for message in trace.agent_messages)
+        )
 
 
 if __name__ == "__main__":
