@@ -21,7 +21,7 @@ def _load_module():
 
 
 class PaperTablesTests(unittest.TestCase):
-    def test_export_paper_tables_writes_markdown_and_latex_outputs(self) -> None:
+    def test_export_paper_tables_writes_text_and_image_outputs(self) -> None:
         module = _load_module()
         temp_dir = PROJECT_ROOT / f".tmp_paper_tables_{uuid.uuid4().hex}"
         temp_dir.mkdir(parents=True, exist_ok=True)
@@ -138,11 +138,15 @@ class PaperTablesTests(unittest.TestCase):
             main_md = Path(written["table_1_main_results.md"]).read_text(encoding="utf-8")
             success_md = Path(written["table_2_attack_mode_success.md"]).read_text(encoding="utf-8")
             main_tex = Path(written["table_1_main_results.tex"]).read_text(encoding="utf-8")
+            main_png = Path(written["table_1_main_results.png"])
+            main_svg = Path(written["table_1_main_results.svg"])
 
             self.assertIn("Trust-Aware", main_md)
             self.assertIn("100.0%", main_md)
             self.assertIn("Stale Price", success_md)
             self.assertIn(r"\caption{Main benchmark comparison on clean and attacked tasks.}", main_tex)
+            self.assertTrue(main_png.exists())
+            self.assertTrue(main_svg.exists())
         finally:
             shutil.rmtree(temp_dir, ignore_errors=True)
 
