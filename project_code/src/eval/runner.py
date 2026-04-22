@@ -2,8 +2,10 @@ from __future__ import annotations
 
 import json
 import time
+from pathlib import Path
 from uuid import uuid4
 
+from src.agents.langgraph_runtime import execute_with_langgraph, langgraph_available
 from src.agents.naive_multi_agent import NaiveMultiAgentSharedMemorySystem
 from src.agents.single_agent import SingleAgentToolUseSystem
 from src.agents.trust_aware_multi_agent import TrustAwareMultiAgentSystem
@@ -11,7 +13,7 @@ from src.config.settings import Settings, load_settings
 from src.eval.attacks import apply_attack_to_observation, select_attack_for_task
 from src.eval.metrics import compute_run_metrics, summarize_metrics
 from src.models.factory import build_chat_model
-from src.state.schemas import RunTrace, TaskSpec, ToolObservation
+from src.state.schemas import RunTrace, TaskSpec
 from src.tools.knowledge_store import KnowledgeStore
 from src.tools.registry import ToolRegistry
 from src.utils.io import read_jsonl
@@ -70,6 +72,29 @@ def _restore_patched_tools(system, originals: dict) -> None:
         getattr(system.tools, name).run = original
 
 
+def _execute_system(
+    system_variant: str,
+    system,
+    task: TaskSpec,
+    trace: RunTrace,
+    attack_profile: dict | None,
+    use_langgraph: bool,
+):
+    if use_langgraph and langgraph_available():
+        return execute_with_langgraph(
+            system_variant=system_variant,
+            system=system,
+            task=task,
+            trace=trace,
+            attack_profile=attack_profile,
+        )
+    if system_variant == "single_agent_tool_use":
+        return system.run(task, trace)
+    if system_variant == "naive_multi_agent_shared_memory":
+        return system.run(task, trace)
+    return system.run(task, trace, attack_profile=attack_profile)
+
+
 def run_experiment(
     task_split: str,
     system_variant: str,
@@ -77,9 +102,14 @@ def run_experiment(
     seed: int | None = None,
     task_limit: int | None = None,
     settings: Settings | None = None,
+    persist_traces: bool = True,
+    runs_dir: Path | None = None,
+    use_langgraph: bool = False,
 ) -> tuple[dict, list[RunTrace]]:
     settings = settings or load_settings()
-    settings.runs_dir.mkdir(parents=True, exist_ok=True)
+    effective_runs_dir = runs_dir.resolve() if runs_dir is not None else settings.runs_dir
+    if persist_traces:
+        effective_runs_dir.mkdir(parents=True, exist_ok=True)
     tasks = _load_tasks(settings, task_split)
     if task_limit is not None:
         tasks = tasks[:task_limit]
@@ -103,19 +133,22 @@ def run_experiment(
 
         originals = _patch_tools_with_attack(system, attack_profile)
         try:
-            if system_variant == "single_agent_tool_use":
-                candidate, trace = system.run(task, trace)
-            elif system_variant == "naive_multi_agent_shared_memory":
-                candidate, trace = system.run(task, trace)
-            else:
-                candidate, trace = system.run(task, trace, attack_profile=attack_profile)
+            candidate, trace = _execute_system(
+                system_variant=system_variant,
+                system=system,
+                task=task,
+                trace=trace,
+                attack_profile=attack_profile,
+                use_langgraph=use_langgraph,
+            )
         finally:
             _restore_patched_tools(system, originals)
 
         trace.latency_ms = int((time.perf_counter() - start) * 1000)
         compute_run_metrics(trace, task=task, attack_profile=attack_profile)
         traces.append(trace)
-        output_path = settings.runs_dir / f"{trace.run_id}.json"
-        output_path.write_text(json.dumps(trace.to_dict(), indent=2), encoding="utf-8")
+        if persist_traces:
+            output_path = effective_runs_dir / f"{trace.run_id}.json"
+            output_path.write_text(json.dumps(trace.to_dict(), indent=2), encoding="utf-8")
 
     return summarize_metrics(traces), traces

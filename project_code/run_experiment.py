@@ -28,6 +28,8 @@ def main() -> None:
     parser.add_argument("--attack-mode", default=None)
     parser.add_argument("--seed", type=int, default=None)
     parser.add_argument("--task-limit", type=int, default=None)
+    parser.add_argument("--use-langgraph", action="store_true")
+    parser.add_argument("--no-save-traces", action="store_true")
     args = parser.parse_args()
 
     metrics, traces = run_experiment(
@@ -36,6 +38,8 @@ def main() -> None:
         attack_mode=args.attack_mode,
         seed=args.seed,
         task_limit=args.task_limit,
+        persist_traces=not args.no_save_traces,
+        use_langgraph=args.use_langgraph,
     )
     print(json.dumps({"metrics": metrics, "run_count": len(traces)}, indent=2))
 

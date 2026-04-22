@@ -38,6 +38,7 @@ class RunnerTests(unittest.TestCase):
             task_split="dev_tasks",
             system_variant="single_agent_tool_use",
             task_limit=3,
+            persist_traces=False,
         )
         self.assertEqual(len(traces), 3)
         self.assertIn("task_success", metrics)
@@ -47,9 +48,21 @@ class RunnerTests(unittest.TestCase):
             task_split="attacked_eval_tasks",
             system_variant="trust_aware_multi_agent",
             task_limit=3,
+            persist_traces=False,
         )
         self.assertEqual(len(traces), 3)
         self.assertIn("contamination_spread", metrics)
+
+    def test_trust_aware_attacked_split_runs_with_langgraph(self) -> None:
+        metrics, traces = run_experiment(
+            task_split="attacked_eval_tasks",
+            system_variant="trust_aware_multi_agent",
+            task_limit=2,
+            persist_traces=False,
+            use_langgraph=True,
+        )
+        self.assertEqual(len(traces), 2)
+        self.assertIn("recovery_rate", metrics)
 
 
 if __name__ == "__main__":

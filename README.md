@@ -40,7 +40,19 @@ python project_code/scripts/generate_seed_data.py
 python project_code/run_experiment.py --task-split dev_tasks --system-variant single_agent_tool_use
 ```
 
-6. Export publication-ready summaries from saved traces:
+6. Optionally execute through the LangGraph wrapper runtime:
+
+```powershell
+python project_code/run_experiment.py --task-split attacked_eval_tasks --system-variant trust_aware_multi_agent --use-langgraph
+```
+
+7. Launch the Streamlit demo:
+
+```powershell
+streamlit run project_code/demo_app.py
+```
+
+8. Export publication-ready summaries from saved traces:
 
 ```powershell
 python project_code/scripts/export_experiment_summary.py --model-provider groq
@@ -57,3 +69,5 @@ python project_code/scripts/export_experiment_summary.py --model-provider groq
 - Saved experiment traces are written under `project_code/data/runs/`.
 - Exported summary tables are written under `project_code/results/` and are
   intentionally ignored by Git.
+- The Streamlit demo reads the frozen benchmark artifacts from
+  `project_code/results/groq_full_summary/` when they are available.

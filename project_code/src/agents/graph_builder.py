@@ -11,6 +11,7 @@ from src.state.schemas import RunTrace, TaskSpec
 class PlannerGraphState(TypedDict):
     task: TaskSpec
     trace: RunTrace
+    attack_profile: dict | None
     result: dict
 
 
@@ -25,12 +26,13 @@ def build_graph(system_variant: str, system):
     def execute(state: PlannerGraphState) -> PlannerGraphState:
         task = state["task"]
         trace = state["trace"]
+        attack_profile = state.get("attack_profile")
         if isinstance(system, SingleAgentToolUseSystem):
             candidate, trace = system.run(task, trace)
         elif isinstance(system, NaiveMultiAgentSharedMemorySystem):
             candidate, trace = system.run(task, trace)
         elif isinstance(system, TrustAwareMultiAgentSystem):
-            candidate, trace = system.run(task, trace, attack_profile=None)
+            candidate, trace = system.run(task, trace, attack_profile=attack_profile)
         else:  # pragma: no cover
             raise ValueError(f"Unsupported system for graph execution: {system_variant}")
         state["trace"] = trace

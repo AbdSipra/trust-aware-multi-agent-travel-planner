@@ -93,7 +93,15 @@ def _save_figure(fig: plt.Figure, path: Path) -> Path:
     return path
 
 
-def _add_box(ax: plt.Axes, xy: tuple[float, float], width: float, height: float, label: str, fill: str, text_color: str) -> None:
+def _add_box(
+    ax: plt.Axes,
+    xy: tuple[float, float],
+    width: float,
+    height: float,
+    label: str,
+    fill: str,
+    text_color: str,
+) -> None:
     x, y = xy
     patch = FancyBboxPatch(
         (x, y),
@@ -101,15 +109,36 @@ def _add_box(ax: plt.Axes, xy: tuple[float, float], width: float, height: float,
         height,
         boxstyle="round,pad=0.015,rounding_size=0.02",
         linewidth=1.8,
-        edgecolor=fill if fill not in {PALETTE["panel"], "#eef6f8", "#fff2eb"} else PALETTE["grid"],
+        edgecolor=(
+            fill
+            if fill not in {PALETTE["panel"], "#eef6f8", "#fff2eb"}
+            else PALETTE["grid"]
+        ),
         facecolor=fill,
     )
     ax.add_patch(patch)
-    ax.text(x + width / 2, y + height / 2, label, ha="center", va="center", fontsize=12, fontweight="bold", color=text_color)
+    ax.text(
+        x + width / 2,
+        y + height / 2,
+        label,
+        ha="center",
+        va="center",
+        fontsize=12,
+        fontweight="bold",
+        color=text_color,
+    )
 
 
-def _add_arrow(ax: plt.Axes, start: tuple[float, float], end: tuple[float, float], color: str, style: str = "->") -> None:
-    arrow = FancyArrowPatch(start, end, arrowstyle=style, mutation_scale=16, linewidth=1.8, color=color)
+def _add_arrow(
+    ax: plt.Axes,
+    start: tuple[float, float],
+    end: tuple[float, float],
+    color: str,
+    style: str = "->",
+) -> None:
+    arrow = FancyArrowPatch(
+        start, end, arrowstyle=style, mutation_scale=16, linewidth=1.8, color=color
+    )
     ax.add_patch(arrow)
 
 
@@ -120,20 +149,77 @@ def build_architecture_figure(output_dir: Path) -> Path:
     ax.set_ylim(0, 1)
     ax.axis("off")
 
-    fig.text(0.05, 0.94, "Trust-Aware Multi-Agent Travel Planner", fontsize=22, fontweight="bold", color=PALETTE["ink"])
-    fig.text(0.05, 0.905, "Execution flow used in the final Groq benchmark", fontsize=11, color=PALETTE["muted"])
+    fig.text(
+        0.05,
+        0.94,
+        "Trust-Aware Multi-Agent Travel Planner",
+        fontsize=22,
+        fontweight="bold",
+        color=PALETTE["ink"],
+    )
+    fig.text(
+        0.05,
+        0.905,
+        "Execution flow used in the final Groq benchmark",
+        fontsize=11,
+        color=PALETTE["muted"],
+    )
 
-    _add_box(ax, (0.05, 0.68), 0.16, 0.10, "User Task /\nTaskSpec", PALETTE["navy"], PALETTE["white"])
-    _add_box(ax, (0.30, 0.72), 0.18, 0.09, "Planner Agent", PALETTE["teal"], PALETTE["white"])
-    _add_box(ax, (0.30, 0.57), 0.18, 0.09, "Tool Agent", PALETTE["teal"], PALETTE["white"])
-    _add_box(ax, (0.30, 0.42), 0.18, 0.09, "Trust Governor", PALETTE["gold"], PALETTE["ink"])
-    _add_box(ax, (0.30, 0.27), 0.18, 0.09, "Verifier", PALETTE["green"], PALETTE["white"])
-    _add_box(ax, (0.30, 0.10), 0.18, 0.09, "Final Itinerary", PALETTE["navy"], PALETTE["white"])
+    _add_box(
+        ax,
+        (0.05, 0.68),
+        0.16,
+        0.10,
+        "User Task /\nTaskSpec",
+        PALETTE["navy"],
+        PALETTE["white"],
+    )
+    _add_box(
+        ax, (0.30, 0.72), 0.18, 0.09, "Planner Agent", PALETTE["teal"], PALETTE["white"]
+    )
+    _add_box(
+        ax, (0.30, 0.57), 0.18, 0.09, "Tool Agent", PALETTE["teal"], PALETTE["white"]
+    )
+    _add_box(
+        ax, (0.30, 0.42), 0.18, 0.09, "Trust Governor", PALETTE["gold"], PALETTE["ink"]
+    )
+    _add_box(
+        ax, (0.30, 0.27), 0.18, 0.09, "Verifier", PALETTE["green"], PALETTE["white"]
+    )
+    _add_box(
+        ax,
+        (0.30, 0.10),
+        0.18,
+        0.09,
+        "Final Itinerary",
+        PALETTE["navy"],
+        PALETTE["white"],
+    )
 
-    _add_box(ax, (0.60, 0.56), 0.18, 0.14, "Structured Tools\nFlight / Hotel /\nAttraction Search", PALETTE["panel"], PALETTE["ink"])
-    _add_box(ax, (0.60, 0.39), 0.18, 0.09, "Shared Memory", PALETTE["panel"], PALETTE["ink"])
-    _add_box(ax, (0.83, 0.39), 0.14, 0.09, "Quarantine\nQueue", "#fff2eb", PALETTE["ink"])
-    _add_box(ax, (0.83, 0.57), 0.14, 0.11, "Reverification /\nTrusted Restore", "#eef6f8", PALETTE["ink"])
+    _add_box(
+        ax,
+        (0.60, 0.56),
+        0.18,
+        0.14,
+        "Structured Tools\nFlight / Hotel /\nAttraction Search",
+        PALETTE["panel"],
+        PALETTE["ink"],
+    )
+    _add_box(
+        ax, (0.60, 0.39), 0.18, 0.09, "Shared Memory", PALETTE["panel"], PALETTE["ink"]
+    )
+    _add_box(
+        ax, (0.83, 0.39), 0.14, 0.09, "Quarantine\nQueue", "#fff2eb", PALETTE["ink"]
+    )
+    _add_box(
+        ax,
+        (0.83, 0.57),
+        0.14,
+        0.11,
+        "Reverification /\nTrusted Restore",
+        "#eef6f8",
+        PALETTE["ink"],
+    )
 
     _add_arrow(ax, (0.21, 0.73), (0.30, 0.76), PALETTE["ink"])
     _add_arrow(ax, (0.39, 0.72), (0.39, 0.66), PALETTE["ink"])
@@ -161,7 +247,9 @@ def build_architecture_figure(output_dir: Path) -> Path:
 
 def build_attacked_overview_figure(summary_df: pd.DataFrame, output_dir: Path) -> Path:
     attacked = summary_df[summary_df["task_split"] == "attacked_eval_tasks"].copy()
-    attacked["variant_label"] = pd.Categorical(attacked["system_variant"], VARIANT_ORDER, ordered=True)
+    attacked["variant_label"] = pd.Categorical(
+        attacked["system_variant"], VARIANT_ORDER, ordered=True
+    )
     attacked = attacked.sort_values("variant_label")
 
     fig, ax = plt.subplots(figsize=(13, 7))
@@ -178,14 +266,44 @@ def build_attacked_overview_figure(summary_df: pd.DataFrame, output_dir: Path) -
 
     for idx, (metric, color, label) in enumerate(metrics):
         offsets = x + (idx - 1) * width
-        bars = ax.bar(offsets, attacked[metric].astype(float), width=width, label=label, color=color)
+        bars = ax.bar(
+            offsets,
+            attacked[metric].astype(float),
+            width=width,
+            label=label,
+            color=color,
+        )
         for bar, value in zip(bars, attacked[metric].astype(float), strict=False):
-            ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.02, f"{value:.2f}", ha="center", va="bottom", fontsize=9)
+            ax.text(
+                bar.get_x() + bar.get_width() / 2,
+                bar.get_height() + 0.02,
+                f"{value:.2f}",
+                ha="center",
+                va="bottom",
+                fontsize=9,
+            )
 
-    ax.set_title("Figure 2. Attacked-Task Overview", loc="left", fontsize=18, fontweight="bold", color=PALETTE["ink"])
-    ax.text(0.0, 1.03, "Groq full benchmark: success, contamination, and recovery across attacked tasks", transform=ax.transAxes, fontsize=10, color=PALETTE["muted"])
+    ax.set_title(
+        "Figure 2. Attacked-Task Overview",
+        loc="left",
+        fontsize=18,
+        fontweight="bold",
+        color=PALETTE["ink"],
+    )
+    ax.text(
+        0.0,
+        1.03,
+        "Groq full benchmark: success, contamination, and recovery across attacked tasks",
+        transform=ax.transAxes,
+        fontsize=10,
+        color=PALETTE["muted"],
+    )
     ax.set_xticks(x)
-    ax.set_xticklabels([_variant_label(variant) for variant in attacked["system_variant"]], rotation=20, ha="right")
+    ax.set_xticklabels(
+        [_variant_label(variant) for variant in attacked["system_variant"]],
+        rotation=20,
+        ha="right",
+    )
     ax.set_ylim(0, 1.15)
     ax.set_ylabel("Metric value")
     ax.grid(axis="y", color=PALETTE["grid"], linewidth=1)
@@ -203,7 +321,9 @@ def build_clean_vs_attacked_figure(summary_df: pd.DataFrame, output_dir: Path) -
     ]
     filtered = summary_df[summary_df["system_variant"].isin(focus_variants)].copy()
     pivot = (
-        filtered.pivot(index="system_variant", columns="task_split", values="task_success")
+        filtered.pivot(
+            index="system_variant", columns="task_split", values="task_success"
+        )
         .reindex(focus_variants)
         .fillna(0.0)
     )
@@ -214,16 +334,48 @@ def build_clean_vs_attacked_figure(summary_df: pd.DataFrame, output_dir: Path) -
 
     x = np.arange(len(pivot))
     width = 0.28
-    clean_bars = ax.bar(x - width / 2, pivot["clean_eval_tasks"], width=width, color=PALETTE["navy"], label="Clean tasks")
-    attacked_bars = ax.bar(x + width / 2, pivot["attacked_eval_tasks"], width=width, color=PALETTE["gold"], label="Attacked tasks")
+    clean_bars = ax.bar(
+        x - width / 2,
+        pivot["clean_eval_tasks"],
+        width=width,
+        color=PALETTE["navy"],
+        label="Clean tasks",
+    )
+    attacked_bars = ax.bar(
+        x + width / 2,
+        pivot["attacked_eval_tasks"],
+        width=width,
+        color=PALETTE["gold"],
+        label="Attacked tasks",
+    )
 
     for bars in (clean_bars, attacked_bars):
         for bar in bars:
             height = bar.get_height()
-            ax.text(bar.get_x() + bar.get_width() / 2, height + 0.02, f"{height:.2f}", ha="center", va="bottom", fontsize=9)
+            ax.text(
+                bar.get_x() + bar.get_width() / 2,
+                height + 0.02,
+                f"{height:.2f}",
+                ha="center",
+                va="bottom",
+                fontsize=9,
+            )
 
-    ax.set_title("Figure 3. Clean vs Attacked Success", loc="left", fontsize=18, fontweight="bold", color=PALETTE["ink"])
-    ax.text(0.0, 1.03, "Clean performance remains intact while trust-aware screening closes the attacked-task gap", transform=ax.transAxes, fontsize=10, color=PALETTE["muted"])
+    ax.set_title(
+        "Figure 3. Clean vs Attacked Success",
+        loc="left",
+        fontsize=18,
+        fontweight="bold",
+        color=PALETTE["ink"],
+    )
+    ax.text(
+        0.0,
+        1.03,
+        "Clean performance remains intact while trust-aware screening closes the attacked-task gap",
+        transform=ax.transAxes,
+        fontsize=10,
+        color=PALETTE["muted"],
+    )
     ax.set_xticks(x)
     ax.set_xticklabels([_variant_label(variant) for variant in pivot.index])
     ax.set_ylim(0, 1.15)
@@ -243,13 +395,17 @@ def _heatmap_cmap(metric: str) -> LinearSegmentedColormap:
     return LinearSegmentedColormap.from_list(f"{metric}_cmap", colors)
 
 
-def build_attack_heatmaps(attack_df: pd.DataFrame, output_dir: Path) -> tuple[Path, Path]:
+def build_attack_heatmaps(
+    attack_df: pd.DataFrame, output_dir: Path
+) -> tuple[Path, Path]:
     variants = VARIANT_ORDER
     attack_modes = ATTACK_ORDER
 
     def render(metric: str, title: str, subtitle: str, filename: str) -> Path:
         pivot = (
-            attack_df.pivot(index="attack_mode", columns="system_variant", values=metric)
+            attack_df.pivot(
+                index="attack_mode", columns="system_variant", values=metric
+            )
             .reindex(index=attack_modes, columns=variants)
             .astype(float)
             .fillna(0.0)
@@ -258,20 +414,46 @@ def build_attack_heatmaps(attack_df: pd.DataFrame, output_dir: Path) -> tuple[Pa
         fig, ax = plt.subplots(figsize=(13.5, 7.2))
         fig.patch.set_facecolor("white")
         ax.set_facecolor(PALETTE["panel"])
-        im = ax.imshow(pivot.values, cmap=_heatmap_cmap(metric), vmin=0.0, vmax=1.0, aspect="auto")
+        im = ax.imshow(
+            pivot.values, cmap=_heatmap_cmap(metric), vmin=0.0, vmax=1.0, aspect="auto"
+        )
 
-        ax.set_title(title, loc="left", fontsize=18, fontweight="bold", color=PALETTE["ink"])
-        ax.text(0.0, 1.03, subtitle, transform=ax.transAxes, fontsize=10, color=PALETTE["muted"])
+        ax.set_title(
+            title, loc="left", fontsize=18, fontweight="bold", color=PALETTE["ink"]
+        )
+        ax.text(
+            0.0,
+            1.03,
+            subtitle,
+            transform=ax.transAxes,
+            fontsize=10,
+            color=PALETTE["muted"],
+        )
         ax.set_xticks(np.arange(len(variants)))
-        ax.set_xticklabels([_variant_label(variant) for variant in variants], rotation=20, ha="right")
+        ax.set_xticklabels(
+            [_variant_label(variant) for variant in variants], rotation=20, ha="right"
+        )
         ax.set_yticks(np.arange(len(attack_modes)))
         ax.set_yticklabels([_attack_label(mode) for mode in attack_modes])
 
         for row_idx in range(pivot.shape[0]):
             for col_idx in range(pivot.shape[1]):
                 value = pivot.iloc[row_idx, col_idx]
-                text_color = PALETTE["white"] if value <= 0.25 or value >= 0.75 else PALETTE["ink"]
-                ax.text(col_idx, row_idx, f"{value:.2f}", ha="center", va="center", color=text_color, fontsize=10, fontweight="bold")
+                text_color = (
+                    PALETTE["white"]
+                    if value <= 0.25 or value >= 0.75
+                    else PALETTE["ink"]
+                )
+                ax.text(
+                    col_idx,
+                    row_idx,
+                    f"{value:.2f}",
+                    ha="center",
+                    va="center",
+                    color=text_color,
+                    fontsize=10,
+                    fontweight="bold",
+                )
 
         colorbar = fig.colorbar(im, ax=ax, shrink=0.88)
         colorbar.set_label("Metric value")
@@ -345,7 +527,9 @@ def export_paper_visualizations(summary_dir: Path) -> dict[str, str]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Create publication-ready matplotlib visualizations from experiment summary CSVs.")
+    parser = argparse.ArgumentParser(
+        description="Create publication-ready matplotlib visualizations from experiment summary CSVs."
+    )
     parser.add_argument(
         "--summary-dir",
         default="project_code/results/groq_full_summary",
